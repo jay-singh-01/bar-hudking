@@ -60,6 +60,8 @@ export default function PlaceCard({ place, distanceKm }: PlaceCardProps) {
           <img
             src={place.image_url}
             alt=""
+            loading="lazy"
+            decoding="async"
             className="h-16 w-16 shrink-0 rounded-lg object-cover"
           />
         )}
