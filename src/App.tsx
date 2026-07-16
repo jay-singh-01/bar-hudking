@@ -26,11 +26,13 @@ export default function App() {
 
   return (
     <div className="min-h-screen pb-16">
-      <Routes>
-        <Route path="/" element={<Explore />} />
-        <Route path="/favorites" element={<Favorites />} />
-        <Route path="/visited" element={<Visited />} />
-      </Routes>
+      <div className="mx-auto max-w-md">
+        <Routes>
+          <Route path="/" element={<Explore />} />
+          <Route path="/favorites" element={<Favorites />} />
+          <Route path="/visited" element={<Visited />} />
+        </Routes>
+      </div>
       <NavBar />
     </div>
   );

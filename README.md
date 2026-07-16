@@ -34,22 +34,63 @@ backend.
 
 ## Database setup
 
-Run `supabase/migrations/0001_init.sql` in the Supabase SQL editor (creates
-`places`, `user_favorites`, `user_visited`, indexes, and RLS policies). Then
-enable **Authentication -> Sign In / Providers -> Anonymous Sign-Ins** — the
-app signs users in anonymously on first load so there's no login screen, and
-persists the session so favorites/visited survive a refresh.
+Run these in the Supabase SQL editor, in order:
+
+1. `supabase/migrations/0001_init.sql` — creates `places`, `user_favorites`,
+   `user_visited`, indexes, and RLS policies.
+2. `supabase/migrations/0002_add_image_url.sql` — adds the `image_url`
+   column places will use once you re-seed.
+
+Then enable **Authentication -> Sign In / Providers -> Anonymous Sign-Ins**
+— the app signs users in anonymously on first load so there's no login
+screen, and persists the session so favorites/visited survive a refresh.
 
 ## Seeding places (manual, one-off)
 
 `scripts/seed-places.ts` pulls Bangalore places from SearchApi.io and upserts
-them into `places`. It's a manual script with a hard 10-API-call budget — see
-`scripts/README.md` before running it:
+them into `places`. It's a manual script with a hard call budget you control
+(`MAX_QUERIES` in the file) — see `scripts/README.md` for the full strategy
+(area-targeted queries, why, and how to retarget) before running it:
 
 ```bash
-npm run seed -- --test   # 1 call, no writes — sanity-check field mapping
-npm run seed              # 10 calls, upserts into `places`
+npm run seed -- --test    # 1 call, no writes — sanity-check field mapping
+npm run seed               # MAX_QUERIES calls, upserts into `places`
+npm run backfill-area      # free (no API calls) — derives area from address for existing rows missing it
 ```
+
+**Check your actual remaining SearchApi quota before running a full seed**
+— the script has no way to know your balance.
+
+## Features
+
+- **Explore**: card list of places with filters for location, place type,
+  cuisine, and vibe, plus a distance filter and a "Super Suggest" button
+  (places within 10km of your current location, 12km of Rajarajeshwari
+  Nagar, and 10km of HSR Layout — edit `SUPER_SUGGEST_RADII_KM` in
+  `src/lib/constants.ts` to change).
+- **Favorites / Visited**: heart and checkmark toggles on every card,
+  optimistic updates, a skippable rating/cost-for-two prompt the first time
+  you mark a place visited.
+- Tapping a card opens it in Google Maps.
+- Cost-for-two and photos are shown when available — mined from real data
+  (Google review text and photos the seed API already returns for free),
+  never estimated or hardcoded. Coverage is partial by nature.
+
+## Deploying
+
+Static build, no server needed. Either platform's free tier works:
+
+**Vercel**: import the repo, framework preset "Vite", no config needed
+beyond the included `vercel.json` (handles SPA routing so refreshing
+`/favorites` etc. doesn't 404). Set the `VITE_SUPABASE_URL` and
+`VITE_SUPABASE_ANON_KEY` env vars in the project settings.
+
+**Netlify**: import the repo — `netlify.toml` already sets the build
+command (`npm run build`), publish directory (`dist`), and SPA redirect.
+Set the same two env vars in Site settings -> Environment variables.
+
+Either way: `npm run build` locally first to confirm it builds clean before
+pushing.
 
 ## Project status
 
@@ -57,9 +98,14 @@ npm run seed              # 10 calls, upserts into `places`
   routing shell.
 - **Phase 2:** Supabase schema + RLS migration, anonymous auth wiring
   (`src/lib/AuthProvider.tsx`) with persisted sessions.
-- **Phase 3 (this commit):** manual seed script (`scripts/seed-places.ts`).
-- Phase 4+: Explore UI with filters, favorites/visited UI, deploy config —
-  added incrementally.
+- **Phase 3:** seed script (`scripts/seed-places.ts`), area-tagging via
+  address matching, area-targeted query strategy for API efficiency.
+- **Phase 4:** Explore UI — cards, filters (location/type/cuisine/vibe),
+  distance filter, Super Suggest, empty states.
+- **Phase 5:** Favorites/Visited — toggles, optimistic updates, visit
+  rating/cost prompt, shared state via `UserPlacesProvider`.
+- **Phase 6:** error boundary, responsive layout, deploy config
+  (`vercel.json` / `netlify.toml`).
 
 ## Placeholder icons
 
