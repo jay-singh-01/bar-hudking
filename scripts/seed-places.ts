@@ -64,51 +64,71 @@ interface QueryConfig {
   ll?: string;
 }
 
+const CATEGORY_DEFS = {
+  restaurant: { keyword: "restaurants", place_type: "restaurant" },
+  bar: { keyword: "bars", place_type: "bar" },
+  cafe: { keyword: "cafes", place_type: "cafe" },
+} as const;
+
+type CategoryKey = keyof typeof CATEGORY_DEFS;
+
 /**
- * Areas targeted for the next run, ordered ascending by how many places
- * we've already seeded there (least-covered first) — if you lower
- * MAX_QUERIES to fit a smaller budget, the highest-value queries still run
- * first. Coordinates are the average lat/lng of already-seeded places in
- * that area (grounded in real data), except Rajarajeshwari Nagar, which
- * has no seeded places yet and uses a general locality-center estimate.
+ * Full-city re-seed (2026-07-16): 27 areas spanning Central, East, South,
+ * North, Northeast, and Southwest Bangalore, tiered by expected
+ * bar/restaurant density — 16 core (high-density nightlife/dining hubs)
+ * get all 3 categories, 11 outer (more residential) areas get 2
+ * (restaurants + cafes, since dedicated bars are sparser there). Exactly
+ * 70 queries total, matching the confirmed API budget at the time this
+ * was written — recompute this comment if you change the list.
  *
- * Why area-targeted at all: the original 10 queries ("bars in Bangalore",
- * etc.) all searched around the same city-wide center, and Google ranks by
- * popularity — so different category text kept surfacing the same central,
- * high-review places (24 of 145 seeded places landed in one neighborhood,
- * Ashok Nagar, versus zero in Rajarajeshwari Nagar). A tighter `ll` bias
- * per area, at zoom 14 instead of 12, should surface a different, more
+ * Why area-targeted at all: city-wide queries ("bars in Bangalore") all
+ * search around the same center, and Google ranks by popularity — so
+ * different category text keeps surfacing the same central, high-review
+ * places. A tight `ll` bias per area (zoom 14) surfaces a different, more
  * local result set per call instead of re-fetching the same popular spots.
  */
-const TARGET_AREAS: { area: string; ll: string }[] = [
-  { area: "Rajarajeshwari Nagar", ll: "@12.9250,77.5121,14z" }, // 0 seeded — general estimate
-  { area: "Electronic City", ll: "@12.8323,77.6479,14z" }, // 1 seeded
-  { area: "Cunningham Road", ll: "@12.9861,77.5954,14z" }, // 1 seeded
-  { area: "Kammanahalli", ll: "@13.0239,77.6362,14z" }, // 1 seeded
-  { area: "Bellandur", ll: "@12.9299,77.6834,14z" }, // 1 seeded
-  { area: "Halasuru", ll: "@12.9743,77.6213,14z" }, // 2 seeded
-  { area: "Whitefield", ll: "@12.9859,77.7113,14z" }, // 3 seeded
-  { area: "Malleshwaram", ll: "@13.0077,77.5594,14z" }, // 4 seeded
-  { area: "HSR Layout", ll: "@12.9157,77.6481,14z" }, // 4 seeded
+const TARGET_AREAS: { area: string; ll: string; categories: CategoryKey[] }[] = [
+  // --- Core (16 areas x 3 categories = 48 calls) ---
+  { area: "Indiranagar", ll: "@12.9716,77.6412,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Koramangala", ll: "@12.9352,77.6146,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "MG Road/Brigade Road", ll: "@12.9752,77.6065,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Cunningham Road/Vasanth Nagar", ll: "@12.9861,77.5954,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "HSR Layout", ll: "@12.9121,77.6446,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Domlur/Old Airport Road", ll: "@12.9611,77.6387,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Marathahalli", ll: "@12.9591,77.6974,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Whitefield", ll: "@12.9698,77.7500,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Jayanagar", ll: "@12.9293,77.5852,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "J. P. Nagar", ll: "@12.9060,77.5836,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "BTM Layout", ll: "@12.9166,77.6101,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Electronic City", ll: "@12.8323,77.6479,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Bellandur", ll: "@12.9299,77.6834,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Malleshwaram", ll: "@13.0077,77.5594,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Rajajinagar", ll: "@12.9911,77.5554,14z", categories: ["restaurant", "bar", "cafe"] },
+  { area: "Kammanahalli/Banaswadi", ll: "@13.0198,77.6394,14z", categories: ["restaurant", "bar", "cafe"] },
+
+  // --- Outer (11 areas x 2 categories = 22 calls) ---
+  { area: "Basavanagudi", ll: "@12.9422,77.5760,14z", categories: ["restaurant", "cafe"] },
+  { area: "Banashankari", ll: "@12.9250,77.5667,14z", categories: ["restaurant", "cafe"] },
+  { area: "Bannerghatta Road", ll: "@12.8894,77.5972,14z", categories: ["restaurant", "cafe"] },
+  { area: "Sarjapur Road", ll: "@12.9010,77.6870,14z", categories: ["restaurant", "cafe"] },
+  { area: "KR Puram", ll: "@13.0088,77.6958,14z", categories: ["restaurant", "cafe"] },
+  { area: "Hennur/Kalyan Nagar", ll: "@13.0234,77.6408,14z", categories: ["restaurant", "cafe"] },
+  { area: "Vijayanagar", ll: "@12.9719,77.5352,14z", categories: ["restaurant", "cafe"] },
+  { area: "Yeshwanthpur", ll: "@13.0284,77.5540,14z", categories: ["restaurant", "cafe"] },
+  { area: "Hebbal/RT Nagar", ll: "@13.0358,77.5970,14z", categories: ["restaurant", "cafe"] },
+  { area: "Yelahanka", ll: "@13.1007,77.5963,14z", categories: ["restaurant", "cafe"] },
+  { area: "Rajarajeshwari Nagar", ll: "@12.9250,77.5121,14z", categories: ["restaurant", "cafe"] },
 ];
 
-const CATEGORIES: { keyword: string; place_type: string }[] = [
-  { keyword: "restaurants", place_type: "restaurant" },
-  { keyword: "bars", place_type: "bar" },
-  { keyword: "cafes", place_type: "cafe" },
-];
-
-// Hard ceiling on API calls for a full run: exactly MAX_QUERIES, taken from
-// the front of the prioritized list below. Lower this to match your actual
+// Hard ceiling on API calls for a full run. Lower this to match your actual
 // remaining SearchApi balance before running.
-const MAX_QUERIES = 27;
+const MAX_QUERIES = 70;
 
-const QUERIES: QueryConfig[] = TARGET_AREAS.flatMap(({ area, ll }) =>
-  CATEGORIES.map(({ keyword, place_type }) => ({
-    q: `${keyword} in ${area} Bangalore`,
-    place_type,
-    ll,
-  })),
+const QUERIES: QueryConfig[] = TARGET_AREAS.flatMap(({ area, ll, categories }) =>
+  categories.map((cat) => {
+    const { keyword, place_type } = CATEGORY_DEFS[cat];
+    return { q: `${keyword} in ${area} Bangalore`, place_type, ll };
+  }),
 ).slice(0, MAX_QUERIES);
 
 type RawResult = Record<string, unknown>;
