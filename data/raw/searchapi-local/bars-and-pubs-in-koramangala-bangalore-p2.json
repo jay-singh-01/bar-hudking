@@ -1,0 +1,333 @@
+{
+ "q": "bars and pubs in Koramangala Bangalore",
+ "ll": "@12.9352,77.6146,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:29:30.798Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "CHIN LUNG RESTO-BAR, KORAMANGALA",
+   "place_id": "ChIJ9y_jaj0VrjsRyrE6NXuYsCY",
+   "data_id": "0x3bae153d6ae32ff7:0x26b0987b353ab1ca",
+   "rating": 4.2,
+   "reviews": 7300,
+   "type": "Grill",
+   "address": "769, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.931857,
+    "longitude": 77.63204
+   },
+   "comment": "Stylish hub for cocktails & comfort food"
+  },
+  {
+   "position": 2,
+   "title": "Plan B x Hangover XL Koramangala",
+   "place_id": "ChIJd6V8ZMYVrjsRn3nRZ_QbDEQ",
+   "data_id": "0x3bae15c6647ca577:0x440c1bf467d1799f",
+   "rating": 4,
+   "reviews": 3800,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.934866,
+    "longitude": 77.61389
+   },
+   "comment": "Hip bar for global cuisine & cocktails"
+  },
+  {
+   "position": 3,
+   "title": "HOD - House Of Dopamine Brewery LLP",
+   "place_id": "ChIJDdRyNpIVrjsRzNi5Q2S-YOA",
+   "data_id": "0x3bae15923672d40d:0xe060be6443b9d8cc",
+   "rating": 4.6,
+   "reviews": 3100,
+   "type": "Pub",
+   "address": "36, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.933648,
+    "longitude": 77.61488
+   }
+  },
+  {
+   "position": 4,
+   "title": "Don't Tell Mama - Indigo",
+   "place_id": "ChIJMwAAAF8UrjsR-5sfcDAv5hw",
+   "data_id": "0x3bae145f00000033:0x1ce62f30701f9bfb",
+   "rating": 3.9,
+   "reviews": 2400,
+   "type": "Restaurant",
+   "address": "6th Block, WJM7+6WG, 71-72, Jyoti Nivas College Rd",
+   "gps_coordinates": {
+    "latitude": 12.932864,
+    "longitude": 77.61394
+   }
+  },
+  {
+   "position": 5,
+   "title": "Koramangala SOCIAL",
+   "place_id": "ChIJOd-aDU4UrjsRou9qp3ZJBsg",
+   "data_id": "0x3bae144e0d9adf39:0xc8064976a76aefa2",
+   "rating": 4.2,
+   "reviews": 26000,
+   "type": "Pub",
+   "address": "Plot 118, Seventh Block, 80 Feet Rd, above Bodyworks Spa",
+   "gps_coordinates": {
+    "latitude": 12.935563,
+    "longitude": 77.61418
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Drava Pub",
+   "place_id": "ChIJo8aLY0cVrjsRP4hl3sVVFbk",
+   "data_id": "0x3bae1547638bc6a3:0xb91555c5de65883f",
+   "rating": 4,
+   "reviews": 3300,
+   "type": "Pub",
+   "address": "3rd Floor, 104, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.934705,
+    "longitude": 77.61589
+   }
+  },
+  {
+   "position": 7,
+   "title": "Avon Bar And Kitchen",
+   "place_id": "ChIJyXvqME0UrjsRCgedViv72Y0",
+   "data_id": "0x3bae144d30ea7bc9:0x8dd9fb2b569d070a",
+   "rating": 4,
+   "reviews": 3400,
+   "type": "Bar",
+   "address": "5 2, Hosur Main Road",
+   "gps_coordinates": {
+    "latitude": 12.935865,
+    "longitude": 77.6084
+   }
+  },
+  {
+   "position": 8,
+   "title": "The Local",
+   "place_id": "ChIJPZ3hqEYUrjsREMsdvSw4zTQ",
+   "data_id": "0x3bae1446a8e19d3d:0x34cd382cbd1dcb10",
+   "rating": 4.2,
+   "reviews": 4300,
+   "type": "Pub",
+   "address": "Terrace Floor, No. 467, 80 Feet Rd, above Jimi's",
+   "gps_coordinates": {
+    "latitude": 12.940676,
+    "longitude": 77.62439
+   },
+   "comment": "Chill pub with classic fare & a terrace"
+  },
+  {
+   "position": 9,
+   "title": "Gypsy Tower",
+   "place_id": "ChIJ33EWkmkVrjsRwZPH9U5psOc",
+   "data_id": "0x3bae1569921671df:0xe7b0694ef5c793c1",
+   "rating": 4.4,
+   "reviews": 1100,
+   "type": "Pub",
+   "address": "Hornbill’s kitchen, 45, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934166,
+    "longitude": 77.61597
+   },
+   "extensions": [
+    "Closes soon",
+    "12:45 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "The Gypsy Pub & Kitchen",
+   "place_id": "ChIJUelA6aoVrjsRMX125JeMQrQ",
+   "data_id": "0x3bae15aae940e951:0xb4428c97e4767d31",
+   "rating": 4,
+   "reviews": 922,
+   "type": "Pub",
+   "address": "44, 4th B Cross, Koramangala Industrial Layout",
+   "gps_coordinates": {
+    "latitude": 12.93407,
+    "longitude": 77.61571
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Hungry Hippie",
+   "place_id": "ChIJqc7cKE4UrjsR7KM6JUZtjtk",
+   "data_id": "0x3bae144e28dccea9:0xd98e6d46253aa3ec",
+   "rating": 4.1,
+   "reviews": 5300,
+   "type": "Pub",
+   "address": "Vijay Jatti Building, 104, near EMPIRE RESTAURANT",
+   "gps_coordinates": {
+    "latitude": 12.934628,
+    "longitude": 77.61573
+   }
+  },
+  {
+   "position": 12,
+   "title": "Brau Galie Micro Brewery & Pub",
+   "place_id": "ChIJK-BeIhMVrjsRicb2OIniTCY",
+   "data_id": "0x3bae1513225ee02b:0x264ce28938f6c689",
+   "rating": 4.5,
+   "reviews": 1100,
+   "type": "Brewpub",
+   "address": "25, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.933042,
+    "longitude": 77.613594
+   }
+  },
+  {
+   "position": 13,
+   "title": "Brooks and Bonds Brewery",
+   "place_id": "ChIJHSRVNlsUrjsRe-wZJirXY88",
+   "data_id": "0x3bae145b3655241d:0xcf63d72a2619ec7b",
+   "rating": 4.1,
+   "reviews": 12000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "4, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.934155,
+    "longitude": 77.62339
+   }
+  },
+  {
+   "position": 14,
+   "title": "Silly Bar",
+   "place_id": "ChIJS44wErUVrjsRH3_YBq9oaE0",
+   "data_id": "0x3bae15b512308e4b:0x4d6868af06d87f1f",
+   "rating": 4,
+   "reviews": 457,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Grill",
+   "address": "4th, Gillys redefined, Block 413, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.933371,
+    "longitude": 77.62357
+   }
+  },
+  {
+   "position": 15,
+   "title": "Gilly’s 104 Bar",
+   "place_id": "ChIJDRTh6lEUrjsRJhhn5I6lIQ4",
+   "data_id": "0x3bae1451eae1140d:0xe21a58ee4671826",
+   "rating": 4.1,
+   "reviews": 15000,
+   "type": "Pub",
+   "address": "413, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.933344,
+    "longitude": 77.62365
+   },
+   "comment": "Lively bar & lounge with a dance floor",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Nebula Pub",
+   "place_id": "ChIJA63RzvkVrjsRt2v1cGVlUyw",
+   "data_id": "0x3bae15f9ced1ad03:0x2c53656570f56bb7",
+   "rating": 4.5,
+   "reviews": 263,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "coastal waves building, 2nd Main Rd, opp. domino's pizza, above hotel royal flora",
+   "gps_coordinates": {
+    "latitude": 12.935602,
+    "longitude": 77.6087
+   }
+  },
+  {
+   "position": 17,
+   "title": "Gowild Bar & Lounge",
+   "place_id": "ChIJaX8PYWoVrjsRcnEeoBSGO24",
+   "data_id": "0x3bae156a610f7f69:0x6e3b8614a01e7172",
+   "rating": 4.2,
+   "reviews": 196,
+   "type": "Pub",
+   "address": "3rd Floor, Plot 99, 4th B Cross Road, KHB Colony Industrial Layout",
+   "gps_coordinates": {
+    "latitude": 12.934277,
+    "longitude": 77.61559
+   }
+  },
+  {
+   "position": 18,
+   "title": "Jolly Johnny's Bar",
+   "place_id": "ChIJL2O2xbwVrjsRHTty5q1aF2k",
+   "data_id": "0x3bae15bcc5b6632f:0x69175aade6723b1d",
+   "rating": 4.6,
+   "reviews": 261,
+   "type": "Restaurant",
+   "address": "897/b NGV main road, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.940038,
+    "longitude": 77.62546
+   }
+  },
+  {
+   "position": 19,
+   "title": "Tapori The Resto Bar",
+   "place_id": "ChIJNVLTHJ0VrjsRLdoin3MRnFk",
+   "data_id": "0x3bae159d1cd35235:0x599c11739f22da2d",
+   "rating": 4.2,
+   "reviews": 372,
+   "type": "Bar",
+   "address": "8th block, Padmavati Complex, Tapori - The Resto Bar, 2, 80 Feet Rd, opposite to Koramangala Indoor Stadium",
+   "gps_coordinates": {
+    "latitude": 12.943389,
+    "longitude": 77.621315
+   }
+  },
+  {
+   "position": 20,
+   "title": "Ganbeii Microbrewery",
+   "place_id": "ChIJXT-02aAVrjsRrnSVC-VnchA",
+   "data_id": "0x3bae15a0d9b43f5d:0x107267e50b9574ae",
+   "rating": 4.7,
+   "reviews": 3000,
+   "type": "Brewpub",
+   "address": "No. 91, near Jyoti Nivas College Road",
+   "gps_coordinates": {
+    "latitude": 12.933013,
+    "longitude": 77.61472
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  }
+ ]
+}

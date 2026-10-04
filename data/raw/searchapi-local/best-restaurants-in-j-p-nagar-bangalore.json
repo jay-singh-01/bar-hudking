@@ -1,0 +1,328 @@
+{
+ "q": "best restaurants in J. P. Nagar Bangalore",
+ "ll": "@12.906,77.5836,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:42:04.889Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Pump House",
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "rating": 4.5,
+   "reviews": 31000,
+   "type": "Brewpub",
+   "address": "607, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.582085
+   },
+   "comment": "Hip modern interiors & craft brews"
+  },
+  {
+   "position": 2,
+   "title": "Yuki - Pan Asian Kitchen and Bar | JP Nagar",
+   "place_id": "ChIJCX6MvmwVrjsRYJRBPVVJeyk",
+   "data_id": "0x3bae156cbe8c7e09:0x297b49553d419460",
+   "rating": 4.5,
+   "reviews": 3100,
+   "type": "Pan Asian",
+   "address": "No. 3, First Floor, 15th Cross Road, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906127,
+    "longitude": 77.58976
+   }
+  },
+  {
+   "position": 3,
+   "title": "Indian Biere House",
+   "place_id": "ChIJt4WvsRYVrjsRYQIrHDAlJnQ",
+   "data_id": "0x3bae1516b1af85b7:0x742625301c2b0261",
+   "rating": 4.7,
+   "reviews": 7000,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Brewpub",
+   "address": "4&5, 15th Cross, 100 Feet Ring Rd, opposite SBI Bank",
+   "gps_coordinates": {
+    "latitude": 12.906133,
+    "longitude": 77.58955
+   }
+  },
+  {
+   "position": 4,
+   "title": "The Scene - Craft Kitchen & Bar",
+   "place_id": "ChIJT0wEXXMVrjsRMdt4ISU-Ug0",
+   "data_id": "0x3bae15735d044c4f:0xd523e252178db31",
+   "rating": 4.4,
+   "reviews": 3800,
+   "type": "Fine Dining",
+   "address": "773, Outer Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906842,
+    "longitude": 77.58018
+   }
+  },
+  {
+   "position": 5,
+   "title": "Terrace Bar & Kitchen",
+   "place_id": "ChIJZXvOXFwVrjsRk-jaxpxk-II",
+   "data_id": "0x3bae155c5cce7b65:0x82f8649cc6dae893",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Eclectic",
+   "address": "No 1, (old 141/37), Rooftop, 24th main, Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.914251,
+    "longitude": 77.58596
+   }
+  },
+  {
+   "position": 6,
+   "title": "Hakuna Matata",
+   "place_id": "ChIJAWNPNz8VrjsRmm4btDLh1Sw",
+   "data_id": "0x3bae153f374f6301:0x2cd5e132b41b6e9a",
+   "rating": 4.3,
+   "reviews": 18000,
+   "type": "North Indian",
+   "address": "1231/35/2, Brigade Millenium Rd, opposite Brigade Palmsprings",
+   "gps_coordinates": {
+    "latitude": 12.893941,
+    "longitude": 77.58658
+   },
+   "comment": "African-themed multi-cuisine rooftop bar"
+  },
+  {
+   "position": 7,
+   "title": "Khmer kitchen",
+   "place_id": "ChIJzUsPmo0VrjsRCdxqEglYxDE",
+   "data_id": "0x3bae158d9a0f4bcd:0x31c45809126adc09",
+   "rating": 4.5,
+   "reviews": 4500,
+   "type": "South East Asian",
+   "address": "697, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906538,
+    "longitude": 77.58662
+   }
+  },
+  {
+   "position": 8,
+   "title": "Bramble Kitchen & Bar",
+   "place_id": "ChIJRdL0JVgVrjsRl7jCDzYHopw",
+   "data_id": "0x3bae155825f4d245:0x9ca207360fc2b897",
+   "rating": 4.5,
+   "reviews": 3300,
+   "type": "Continental restaurant",
+   "address": "Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.9170065,
+    "longitude": 77.57933
+   }
+  },
+  {
+   "position": 9,
+   "title": "The Palms Brew and Kitchen",
+   "place_id": "ChIJ32_EIXgVrjsRZAlzjzlGYXE",
+   "data_id": "0x3bae157821c46fdf:0x716146398f730964",
+   "rating": 4.7,
+   "reviews": 7000,
+   "type": "Brewery",
+   "address": "No. - 4/A2, Kothanur Main Road",
+   "gps_coordinates": {
+    "latitude": 12.896707,
+    "longitude": 77.581825
+   }
+  },
+  {
+   "position": 10,
+   "title": "MARBELLA MULTICUISINE ROOFTOP",
+   "place_id": "ChIJO89RSo8VrjsRaJh1NVkz09E",
+   "data_id": "0x3bae158f4a51cf3b:0xd1d3335935759868",
+   "rating": 4.6,
+   "reviews": 3700,
+   "type": "Eclectic",
+   "address": "17, 24th Main Rd, opp. HDFC BANK",
+   "gps_coordinates": {
+    "latitude": 12.90105,
+    "longitude": 77.585785
+   }
+  },
+  {
+   "position": 11,
+   "title": "Neemsi Restaurant | JP Nagar",
+   "place_id": "ChIJjVuXSxoVrjsRS3HXyKoKbAg",
+   "data_id": "0x3bae151a4b975b8d:0x86c0aaac8d7714b",
+   "rating": 4.8,
+   "reviews": 16000,
+   "type": "Vegetarian",
+   "address": "Ground Floor, Sai Panorama, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906209,
+    "longitude": 77.58256
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Jewel Sizzle - Luxury Dining | Cocktail Lounge",
+   "place_id": "ChIJJ-5jt-cVrjsR1a8z_EBHybc",
+   "data_id": "0x3bae15e7b763ee27:0xb7c94740fc33afd5",
+   "rating": 4.6,
+   "reviews": 3300,
+   "type": "Modern Indian restaurant",
+   "address": "1st Floor, No. 17, 24th Main Rd, opposite to HDFC Bank",
+   "gps_coordinates": {
+    "latitude": 12.900976,
+    "longitude": 77.58578
+   }
+  },
+  {
+   "position": 13,
+   "title": "Ambedo Restaurant & Cocktail Bar",
+   "place_id": "ChIJtZKuDc0VrjsRGeBGCYzYdhc",
+   "data_id": "0x3bae15cd0dae92b5:0x1776d88c0946e019",
+   "rating": 4.5,
+   "reviews": 728,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Continental restaurant",
+   "address": "554, Ground Floor, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.910332,
+    "longitude": 77.59805
+   }
+  },
+  {
+   "position": 14,
+   "title": "Coast at JP Nagar",
+   "place_id": "ChIJ8Y9b2wIVrjsRcGITX3kuHxc",
+   "data_id": "0x3bae1502db5b8ff1:0x171f2e795f136270",
+   "rating": 4.5,
+   "reviews": 2500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Seafood",
+   "address": "35/4",
+   "gps_coordinates": {
+    "latitude": 12.893211,
+    "longitude": 77.58622
+   }
+  },
+  {
+   "position": 15,
+   "title": "House of Commons",
+   "place_id": "ChIJ50afDbsVrjsR_oHqHPMIQW4",
+   "data_id": "0x3bae15bb0d9f46e7:0x6e4108f31cea81fe",
+   "rating": 4.4,
+   "reviews": 5700,
+   "type": "Restaurant",
+   "address": "No 1, ( old 141/37 ) 24th main 2nd phase JP Nagar Marenahalli main road Bangalore 560078",
+   "gps_coordinates": {
+    "latitude": 12.914248,
+    "longitude": 77.586044
+   }
+  },
+  {
+   "position": 16,
+   "title": "Zaitoon Restaurant , JP Nagar",
+   "place_id": "ChIJ9aEJxxQVrjsRc3mHMsXeLak",
+   "data_id": "0x3bae1514c709a1f5:0xa92ddec532877973",
+   "rating": 4.3,
+   "reviews": 18000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Middle Eastern",
+   "address": "21, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.902951,
+    "longitude": 77.58562
+   }
+  },
+  {
+   "position": 17,
+   "title": "Mahesh Lunch Home J P Nagar",
+   "place_id": "ChIJTSRZhYwVrjsR6An-a8gxByY",
+   "data_id": "0x3bae158c8559244d:0x260731c86bfe09e8",
+   "rating": 4.2,
+   "reviews": 796,
+   "type": "Seafood",
+   "address": "Sri Krishna Arcade, 47/1, 9th Cross, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.910718,
+    "longitude": 77.5992
+   }
+  },
+  {
+   "position": 18,
+   "title": "Iris Café & Kitchen, JP Nagar",
+   "place_id": "ChIJ_1emfJ8VrjsRlA1C2tIHeDg",
+   "data_id": "0x3bae159f7ca657ff:0x387807d2da420d94",
+   "rating": 4.5,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "735, 16th Cross, 29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905674,
+    "longitude": 77.58318
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Mykos Craft Kitchen & Bar",
+   "place_id": "ChIJq9vDfwAVrjsRmI7oo0vLnJc",
+   "data_id": "0x3bae15007fc3dbab:0x979ccb4ba3e88e98",
+   "rating": 4.5,
+   "reviews": 6500,
+   "type": "Continental restaurant",
+   "address": "SRK Towers, 448/338, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.897574,
+    "longitude": 77.599686
+   }
+  },
+  {
+   "position": 20,
+   "title": "Thelagram",
+   "place_id": "ChIJCy1UwGoVrjsRIayqUd2gHVM",
+   "data_id": "0x3bae156ac0542d0b:0x531da0dd51aaac21",
+   "rating": 4.4,
+   "reviews": 1000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "North Indian",
+   "address": "Maratt Estate, Bannerghatta Rd, opposite Shell Petrol Pump",
+   "gps_coordinates": {
+    "latitude": 12.905791,
+    "longitude": 77.60142
+   }
+  }
+ ]
+}

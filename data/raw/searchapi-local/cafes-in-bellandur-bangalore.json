@@ -1,0 +1,430 @@
+{
+ "q": "cafes in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:28:16.253Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Kind Roastery and Brew Room, Bellandur",
+   "place_id": "ChIJYacZcJ8TrjsRwZ-rIcV2ts0",
+   "data_id": "0x3bae139f7019a761:0xcdb676c521ab9fc1",
+   "rating": 4.7,
+   "reviews": 1100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "RMZ ECOWORLD, The Bay",
+   "gps_coordinates": {
+    "latitude": 12.919904,
+    "longitude": 77.68476
+   }
+  },
+  {
+   "position": 2,
+   "title": "Coffee Brewery - Bellandur",
+   "place_id": "ChIJecRqGSUTrjsRcrFZe24eQCw",
+   "data_id": "0x3bae1325196ac479:0x2c401e6e7b59b172",
+   "rating": 4.2,
+   "reviews": 799,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "220, Palm Ave",
+   "gps_coordinates": {
+    "latitude": 12.9258795,
+    "longitude": 77.669655
+   }
+  },
+  {
+   "position": 3,
+   "title": "BREW AXIS Café",
+   "place_id": "ChIJHe_ynN4TrjsR-21d9OyLqtk",
+   "data_id": "0x3bae13de9cf2ef1d:0xd9aa8becf45d6dfb",
+   "rating": 4.8,
+   "reviews": 143,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, A Block, Mana Callista, G1, Bellandur Main Rd, opposite to Village Super Market",
+   "gps_coordinates": {
+    "latitude": 12.923047,
+    "longitude": 77.672745
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJi77l89wTrjsRCqrwDY9XoEM",
+   "data_id": "0x3bae13dcf3e5be8b:0x43a0578f0df0aa0a",
+   "rating": 4.4,
+   "reviews": 2100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "NO 6, Indiqube Edge, Ground Floor NO 571/630/6/4, SY, 4, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.922247,
+    "longitude": 77.66939
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Paper & Pie",
+   "place_id": "ChIJT4iwHIYTrjsRzCvhGohaF7k",
+   "data_id": "0x3bae13861cb0884f:0xb9175a881ae12bcc",
+   "rating": 4.7,
+   "reviews": 382,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "G Floor, RMZ ECOWORLD, Campus 31",
+   "gps_coordinates": {
+    "latitude": 12.920647,
+    "longitude": 77.687386
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Lavonne Café",
+   "place_id": "ChIJTwSi6RwTrjsRz-mOroh9Dto",
+   "data_id": "0x3bae131ce9a2044f:0xda0e7d88ae8ee9cf",
+   "rating": 4.3,
+   "reviews": 448,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "Shop No.18, First Floor, RMZ Ecoworld 30 Bhoganahalli Village Varthur Hobli, Taluk",
+   "gps_coordinates": {
+    "latitude": 12.920414,
+    "longitude": 77.68672
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Cafe Taruchi",
+   "place_id": "ChIJ40E_oD8TrjsRhFBBRt6eghc",
+   "data_id": "0x3bae133fa03f41e3:0x17829ede46415084",
+   "rating": 4.6,
+   "reviews": 119,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, Sy No 79/4, Outer Ring Rd, opposite to Cloud Nine",
+   "gps_coordinates": {
+    "latitude": 12.924014,
+    "longitude": 77.67295
+   }
+  },
+  {
+   "position": 8,
+   "title": "Casa Fresco, HSR: All-Day Dining & Café",
+   "place_id": "ChIJO9TiHSoVrjsRpCHSXSDGHbQ",
+   "data_id": "0x3bae152a1de2d43b:0xb41dc6205dd221a4",
+   "rating": 4.2,
+   "reviews": 3400,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "73, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9207535,
+    "longitude": 77.65051
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Hoot Craftworks 2.0",
+   "place_id": "ChIJp-P_fzwTrjsR3Ctu6DxKWAk",
+   "data_id": "0x3bae133c7fffe3a7:0x9584a3ce86e2bdc",
+   "rating": 4.2,
+   "reviews": 23000,
+   "type": "Brewery",
+   "address": "Block 2, Village, Varthur, BBMP, 2034/69, Ambalipura - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.914086,
+    "longitude": 77.67859
+   },
+   "comment": "Hip indoor-outdoor brewpub with dancing",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Café Amudham Restaurant Sarjapur",
+   "place_id": "ChIJu_RYDl0TrjsRcyXHHBKBzH4",
+   "data_id": "0x3bae135d0e58f4bb:0x7ecc81121cc72573",
+   "rating": 3.9,
+   "reviews": 528,
+   "price": "₹1–400",
+   "extracted_price": {
+    "min": 1,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "1-2, Suncity Apartments Ln",
+   "gps_coordinates": {
+    "latitude": 12.921994,
+    "longitude": 77.66506
+   }
+  },
+  {
+   "position": 11,
+   "title": "Red rose cafe",
+   "place_id": "ChIJFZpULwATrjsRyFDtLBDNikk",
+   "data_id": "0x3bae13002f549a15:0x498acd102ced50c8",
+   "rating": 5,
+   "reviews": 23,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Babu reddy Building, 6, Outer Ring Rd, near velvet hotel",
+   "gps_coordinates": {
+    "latitude": 12.92582,
+    "longitude": 77.676834
+   },
+   "extensions": [
+    "Closed",
+    "Opens 4 am Mon"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Biergarten Bellandur",
+   "place_id": "ChIJ4Vg9UwATrjsR9XMVx-RLoIY",
+   "data_id": "0x3bae1300533d58e1:0x86a04be4c71573f5",
+   "rating": 4.6,
+   "reviews": 11000,
+   "type": "Brewpub",
+   "address": "57/2/10, Bellandur - Doddakannelli Rd",
+   "gps_coordinates": {
+    "latitude": 12.92975,
+    "longitude": 77.68548
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Dome Cafe - HSR Layout",
+   "place_id": "ChIJ2a3bnVcVrjsRaESTIVZS5Kg",
+   "data_id": "0x3bae15579ddbadd9:0xa8e4525621934468",
+   "rating": 4.1,
+   "reviews": 1800,
+   "type": "Eclectic",
+   "address": "5th floor, #16, 9th main, 17th Cross Rd, above Lenskart",
+   "gps_coordinates": {
+    "latitude": 12.912226,
+    "longitude": 77.63595
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Radio Bar Bangalore",
+   "place_id": "ChIJP1VvHAATrjsRMPXQQozKKy0",
+   "data_id": "0x3bae13001c6f553f:0x2d2bca8c42d0f530",
+   "rating": 4.3,
+   "reviews": 718,
+   "type": "Bar",
+   "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay",
+   "gps_coordinates": {
+    "latitude": 12.920866,
+    "longitude": 77.68592
+   },
+   "extensions": [
+    "On the menu: cafes"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Skylit Rooftop Dining",
+   "place_id": "ChIJ06ruxHUTrjsRkgu6WMUrOP4",
+   "data_id": "0x3bae1375c4eeaad3:0xfe382bc558ba0b92",
+   "rating": 4.1,
+   "reviews": 939,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Buffet",
+   "address": "Survey No 80/2, Citrus Hotels, Sharjapur Outer Ring Road Near Bellandur Central Mall",
+   "gps_coordinates": {
+    "latitude": 12.923375,
+    "longitude": 77.671684
+   },
+   "comment": "Modern choice with chic rooftop dining"
+  },
+  {
+   "position": 16,
+   "title": "Gopal Jee Cafe",
+   "place_id": "ChIJ7QessnUTrjsRUxOI-Ldi7KU",
+   "data_id": "0x3bae1375b2ac07ed:0xa5ec62b7f8881353",
+   "rating": 4,
+   "reviews": 2200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "Ground Floor, Behind ARB Complex Opp Akme Harmony Back Gate Ambalipura, Gate, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.921679,
+    "longitude": 77.67185
+   },
+   "comment": "Curries & samosas in a low-key space",
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Edaneram Cafe",
+   "place_id": "ChIJi4q5gGATrjsRRzGFov7CzWA",
+   "data_id": "0x3bae136080b98a8b:0x60cdc2fea2853147",
+   "rating": 4.7,
+   "reviews": 140,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "16, Gear school road Bellandur, Bellandur - Doddakannelli Rd",
+   "gps_coordinates": {
+    "latitude": 12.916873,
+    "longitude": 77.69876
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am Mon"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "The Pet People Cafe",
+   "place_id": "ChIJLx3B02cVrjsRoik-WW8W0Lk",
+   "data_id": "0x3bae1567d3c11d2f:0xb9d0166f593e29a2",
+   "rating": 4.7,
+   "reviews": 1500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912486,
+    "longitude": 77.64442
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Cafe Bistro",
+   "place_id": "ChIJtRVk9ZUTrjsR1m70suR3aJA",
+   "data_id": "0x3bae1395f56415b5:0x906877e4b2f46ed6",
+   "rating": 4.1,
+   "reviews": 51,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.92397,
+    "longitude": 77.67415
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Coffee Mechanics",
+   "place_id": "ChIJwadvJfoTrjsRL75jpzP-Pq0",
+   "data_id": "0x3bae13fa256fa7c1:0xad3efe33a763be2f",
+   "rating": 4.1,
+   "reviews": 471,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Coffee shop",
+   "address": "77/6, near Bellandur",
+   "gps_coordinates": {
+    "latitude": 12.935833,
+    "longitude": 77.697525
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am Mon"
+   ]
+  }
+ ]
+}

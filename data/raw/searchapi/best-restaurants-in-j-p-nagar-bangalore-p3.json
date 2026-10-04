@@ -1,0 +1,1179 @@
+{
+ "q": "best restaurants in J. P. Nagar Bangalore",
+ "ll": "@12.906,77.5836,14z",
+ "page": 3,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:40:54.820Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJD-6Yul8VrjsRRtmayR9vZyY",
+   "data_id": "0x3bae155fba98ee0f:0x26676f1fc99ad946",
+   "title": "Klayworkz Barista-KlayBar Art Cafe",
+   "address": "39, 15th Cross, 100 Feet Ring Rd, 4th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070191 15511",
+   "rating": 4.7,
+   "reviews": 2785,
+   "website": "http://www.klaybar.net/",
+   "domain": "klaybar.net",
+   "gps_coordinates": {
+    "latitude": 12.9068266,
+    "longitude": 77.5995537
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee shop",
+    "Family restaurant",
+    "Fusion restaurant",
+    "Painting studio",
+    "Pizza restaurant",
+    "Pottery Class",
+    "Art cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "http://www.klaybar.net/",
+    "source": "klaybar.net"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TA7PhRRbTptX9yoW2koLI34mHdPpSI7UG8pMtdMRoz0xPsr1fC3RwxUzVG3oekkZAZjjF1Ku70tZBIiP5NLdMw4qqX_g4-sNQUx151BbNDbsxThDB-FAfh1GTvHQ7mBCXO65lM=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ_1emfJ8VrjsRlA1C2tIHeDg",
+   "data_id": "0x3bae159f7ca657ff:0x387807d2da420d94",
+   "title": "Iris Café & Kitchen, JP Nagar",
+   "address": "735, 16th Cross, 29th Main Rd, 6th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "093533 46502",
+   "rating": 4.5,
+   "reviews": 3366,
+   "website": "http://www.iriscafe.in/",
+   "domain": "iriscafe.in",
+   "gps_coordinates": {
+    "latitude": 12.9056741,
+    "longitude": 77.58318659999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop",
+    "Dessert restaurant",
+    "Pasta shop",
+    "Pizza restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–11 pm",
+    "tuesday": "9 am–11 pm",
+    "wednesday": "9 am–11 pm",
+    "thursday": "9 am–11 pm",
+    "friday": "9 am–11 pm",
+    "saturday": "9 am–11 pm",
+    "sunday": "9 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/iris-cafe-kitchen-1-jp-nagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iJlSOe36Jk4qUHEg5KggE3e3reixr9SWQ3EriOLgr5j6o_jwVH0kekbKG4Ya_pLlaV4p4fvsB7HaX91Ac_tIJtdXDfuyvB95MDEBO4gvZYWqEQ5qM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SHbhyaKiYD1lqQxevVPA_sZlhQ9v5S3itFLeUuH3jfvaScKPcDsTfuXTniQxShpaLpP_qd4maiO-2cPb5uEzHJqXWWlRvk-qygd5Fi4Tq1w8pQ2igifENmuNuwU4_9qt38zbb4=w137-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJp9VDOEQVrjsR3K1tJSASYNM",
+   "data_id": "0x3bae15443843d5a7:0xd3601220256daddc",
+   "title": "Fat Owl - Gastropub",
+   "address": "No 610, 100ft Ring Road, 15th Cross Rd, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073492 26777",
+   "rating": 4.1,
+   "reviews": 4217,
+   "website": "https://fatowl.in/",
+   "domain": "fatowl.in",
+   "gps_coordinates": {
+    "latitude": 12.9065527,
+    "longitude": 77.5813153
+   },
+   "type": "Gastropub",
+   "types": [
+    "Gastropub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/fat-owl-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iKHY2rkQJ6y4oytTwY4XSrcS2f6Jdtxv5A5vaADpwZc9bYvCqqkJliQzZVP8VSLtxd18LWdwp1OAAMa-hEmVEhDVmbYeSJej5E4cyfXvKEGpD6TfA%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf6OrwJDjvhTXaVG1u-t_IEAUE63YnpvtV0Ozh-SbPEVDAMZQ2QLa0YA34-Eh9HekOqwrWjh-KWobRvVNTFyNxMhb1HWS96A_TPO4VM5d5VWQoWO56oZ_9xS1lTJd4QY2kFg=w138-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJo2rJI35rrjsRx2I_Nqo8y_k",
+   "data_id": "0x3bae6b7e23c96aa3:0xf9cb3caa363f62c7",
+   "title": "The Silky Elephant",
+   "address": "No 83 and No 86, JP Nagar, Kothanur Main Rd, 8th Phase, Uttarahalli, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.7,
+   "reviews": 892,
+   "gps_coordinates": {
+    "latitude": 12.8730007,
+    "longitude": 77.5835149
+   },
+   "type": "Fine dining restaurant",
+   "types": [
+    "Fine dining restaurant",
+    "Modern Indian restaurant",
+    "Restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–4 pm, 7–11 pm",
+    "tuesday": "12–4 pm, 7–11 pm",
+    "wednesday": "12–4 pm, 7–11 pm",
+    "thursday": "12–4 pm, 7–11 pm",
+    "friday": "12–4 pm, 7–11 pm",
+    "saturday": "12–4 pm, 7–11 pm",
+    "sunday": "12–4 pm, 7–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-silky-restaurant-uttarahalli-south-bengaluru-719299",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ReVi1EnTzXYZco5vMBuwB9Wp4rQVe9wQc4vz8jB2O7OkmfQ39hOEuDVqeNKdh3gopdEnFpFct26KU8RhskdQobGCYHy0qgNTTr7L6tPBx3mmdRrlztgAeS4cx4JXDoGUGuJ3zoJ_X39ii6=w163-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJwYmGDBoVrjsRj8ADSu3ctpY",
+   "data_id": "0x3bae151a0c8689c1:0x96b6dced4a03c08f",
+   "title": "Barbeque Nation - JP Nagar",
+   "address": "3rd Floor, 67, 6th B Main Rd, Dollar Layout, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6405 8001",
+   "rating": 4.2,
+   "reviews": 20288,
+   "website": "https://www.barbequenation.com/restaurants/bangalore/j-p-nagar?utm_source=GMB&utm_medium=JPnagar&utm_campaign=GMB_JPnagar",
+   "domain": "barbequenation.com",
+   "gps_coordinates": {
+    "latitude": 12.9064711,
+    "longitude": 77.5968338
+   },
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Buffet restaurant",
+    "Family restaurant",
+    "Indian restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3:45 pm, 6:30–10:45 pm",
+    "tuesday": "12–3:45 pm, 6:30–10:45 pm",
+    "wednesday": "12–3:45 pm, 6:30–10:45 pm",
+    "thursday": "12–3:45 pm, 6:30–10:45 pm",
+    "friday": "12–3:45 pm, 6:30–10:45 pm",
+    "saturday": "12–3:45 pm, 6:30–10:45 pm",
+    "sunday": "12–3:45 pm, 6:30–10:45 pm"
+   },
+   "reservation": {
+    "link": "https://www.barbequenation.com/restaurants/bangalore/j-p-nagar",
+    "source": "barbequenation.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8Gsuu1fT4QX5D1WRBhWqvUKJ040NnHT_PzK77y-b_NPD0xiZcpxGBV7Cynwakgsbw8OvGm6cEwbFEPPfxAZ1xOXix3sO0qfrHTlvHMhvveTkcgYMrTGOBoIKmdU7VUIaPhHQ=w160-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJl0f2-mkVrjsRJsQNgJcyFE4",
+   "data_id": "0x3bae1569faf64797:0x4e143297800dc426",
+   "title": "The Rameshwaram Cafe @ JP Nagar",
+   "address": "52, Outer Ring Rd, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4228 0661",
+   "rating": 4.1,
+   "reviews": 23834,
+   "gps_coordinates": {
+    "latitude": 12.9065068,
+    "longitude": 77.5905475
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 5 am",
+   "open_hours": {
+    "sunday": "5 am–1 am",
+    "monday": "5 am–1 am",
+    "tuesday": "5 am–1 am",
+    "wednesday": "5 am–1 am",
+    "thursday": "5 am–1 am",
+    "friday": "5 am–1 am",
+    "saturday": "5 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-rameshwaram-cafe-2nd-phase-jayanagar-bangalore-685759/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMcNYxWSA8q7DFDwWb9OrWl66j9EErcZSHbjs2HUDSdiIoOrR2ccGscVNjgC37iIFAe7T6T_FKlDLL4tA9Mo_rSQzY7N1DuSPV_ky-6H3ZmWLfjK87iS2GrAu8LsgtS_EFzUVB=w175-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJLW3Tx1QVrjsRMZQ7OnX7Gac",
+   "data_id": "0x3bae1554c7d36d2d:0xa719fb753a3b9431",
+   "title": "The Kind Roastery and Brew Room, J.P Nagar",
+   "address": "18 B Main Rd, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088618 52547",
+   "rating": 4.4,
+   "reviews": 2577,
+   "website": "http://thekindindia.com/",
+   "domain": "thekindindia.com",
+   "gps_coordinates": {
+    "latitude": 12.9105701,
+    "longitude": 77.58958969999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Cafe",
+    "Coffee shop",
+    "Vegetarian cafe and deli"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-kind-roastery-brew-room-jp-nagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_glkKN3hpp9i_Sc3QWr2gDXAp_gLc0diiDUJ0XdB8lH25dG5stv8NoqIG1FngoZ4psfYbF14D2RVUOlOMWNdHA9403XVjXyllNgqIOjyJAjhx-xCqM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TFu848XCBJQ_M_rwx_MGqIwIr97WFuoUjcqTwfTEao_QWbYQCCb8PweZqlkoZJh3XVjnbncUt8VLsU1vRZAW7n2kHXEGW0Q9xvBUzk1y0mrTF9Zuuf31D02XWiqFuPxBJ6R4Iv9w=w138-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJ_VCVJ5YVrjsRZgYrogPKBYM",
+   "data_id": "0x3bae1596279550fd:0x8305ca03a22b0666",
+   "title": "Levels Pub & Kitchen",
+   "description": "Hip hangout for global eats & cocktails. International comfort food & cocktails served in a spacious, trendy brewpub with DJ sets.",
+   "address": "14, Outer Ring Rd, JP Nagar 4th Phase, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098458 81144",
+   "rating": 4.3,
+   "reviews": 9681,
+   "website": "http://www.thelevelspub.com/",
+   "domain": "thelevelspub.com",
+   "gps_coordinates": {
+    "latitude": 12.9059939,
+    "longitude": 77.59407089999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/levels-pub-kitchen-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gFLn1NOPo1ifW7jotUhbMY9_w6Wunqmwf-T9njA7ON-xgO_E3mfScf-jof-24z7kVEehfN4C9lPKODwidODVoZI8FVATQX2K6RQ_vzWQBaks6zCVo%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QqCt_wZ7C5fAxKPqFZwBh-oGqV-Y9TOTEko1eDWKO5SsEWekClnijc2UWWuvp2lJw8_nHRvlY9sP8ZHRx0LoPU5aDxZjGLhiVsXkSAlMWBU7rLQbyf2IMVn8qmgW2TjviXOa4=w138-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJgxVxQ5IVrjsRJCAs2BV0RZc",
+   "data_id": "0x3bae159243711583:0x97457415d82c2024",
+   "title": "Chulha Chauki da Dhaba | Jayanagar",
+   "address": "5th Floor, Jodh Tower. 40, 27th Cross, 5th Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090081 62086",
+   "rating": 4.3,
+   "reviews": 20467,
+   "website": "http://www.chulhachaukidadhaba.com/",
+   "domain": "chulhachaukidadhaba.com",
+   "gps_coordinates": {
+    "latitude": 12.9307296,
+    "longitude": 77.58080269999999
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Dhaba",
+    "Family restaurant",
+    "Punjabi restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3:30 pm, 6:30–10:30 pm",
+    "tuesday": "12–3:30 pm, 6:30–10:30 pm",
+    "wednesday": "12–3:30 pm, 7–10:30 pm",
+    "thursday": "12–3:30 pm, 6:30–10:30 pm",
+    "friday": "12–3:30 pm, 6:30–10:30 pm",
+    "saturday": "12–3:30 pm, 6:30–10:30 pm",
+    "sunday": "12–3:30 pm, 6:30–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T-eYmHlzxlxk00WSttSwpFDC3RTlC4ZjmMadklA110_XWPlTku_SQRfCROEKt4YKdllVGRIOMPzTVFSfqKOHMNrvgvvVn06mnMAGCQH2YXxpUvnWtZSzozp3HJ6LVA6AJaHWc=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJ32_EIXgVrjsRZAlzjzlGYXE",
+   "data_id": "0x3bae157821c46fdf:0x716146398f730964",
+   "title": "The Palms Brew and Kitchen",
+   "address": "No. - 4/A2, Kothanur Main Road, Puttenahalli, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096069 75694",
+   "rating": 4.7,
+   "reviews": 7010,
+   "gps_coordinates": {
+    "latitude": 12.8967068,
+    "longitude": 77.5818262
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-palms-brew-kitchen-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jKo80OlTt25FmPPNCbLhd8dGKhV-nbT-2HngfWTwNjf4pFE9JkLOlHc6DazU3QIY1prjey0IArgr2DNUhQDb3Jxu8vO8soVQrtx5rE96fADuYElRY%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qd_1s2SYFBnep7E5ArNNoY_82PSaZWHuTgQPPg-YcQhy6iJnNiPrR_kfOTBR1Ouw5tpygD1ZQCsv8pw07Ll7kdN-BCzXhd-tb3iDYx_vemrR3am9ZYDsTE-B7GckgQtxg8fobsuwma9EPk=w80-h99-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJQ-D5jS4VrjsRyg6TV4jNfmo",
+   "data_id": "0x3bae152e8df9e043:0x6a7ecd8857930eca",
+   "title": "Continuum",
+   "address": "1st floor, No.788, 15th Cross Rd, Nagarjun Enclave, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "076250 58522",
+   "rating": 4.6,
+   "reviews": 668,
+   "website": "https://continuumdining.in/",
+   "domain": "continuumdining.in",
+   "gps_coordinates": {
+    "latitude": 12.9067839,
+    "longitude": 77.57664249999999
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Fine dining restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–4:30 pm, 6:30–11 pm",
+    "tuesday": "12–4:30 pm, 6:30–11 pm",
+    "wednesday": "12–4:30 pm, 6:30–11 pm",
+    "thursday": "12–4:30 pm, 6:30–11 pm",
+    "friday": "12–4:30 pm, 6:30–11 pm",
+    "saturday": "12–4:30 pm, 6:30–11 pm",
+    "sunday": "12–4:30 pm, 6:30–11 pm"
+   },
+   "reservation": {
+    "link": "https://tinyurl.com/7832r6ps",
+    "source": "tinyurl.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RLQmbPH_XBQh5yrVC7fOx0bmCx6SWSZN9d3XmtlWlrW6qNrQIei02Pf_IyFdpURNd689iivtTHKaPp4CyU1g0Qv4drosqyNOPHvr4p-qh8Ma0JGVfag5_IgXA4rnQAVL8ubbnbsihIglN0=w138-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJe0mTyxEVrjsRzoJQa9nzPSI",
+   "data_id": "0x3bae1511cb93497b:0x223df3d96b5082ce",
+   "title": "Spice Up (2nd Phase) Jp Nagar",
+   "address": "9th Main Rd, behind VEP College, KSRTC Layout, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "092428 63242",
+   "rating": 4.3,
+   "reviews": 998,
+   "website": "http://spiceup.w4u.in/",
+   "domain": "spiceup.w4u.in",
+   "gps_coordinates": {
+    "latitude": 12.9095229,
+    "longitude": 77.59319789999999
+   },
+   "type": "Chinese restaurant",
+   "types": [
+    "Chinese restaurant",
+    "Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3:30 pm, 6:30–11 pm",
+    "tuesday": "12–3:30 pm, 6:30–11 pm",
+    "wednesday": "12–3:30 pm, 6:30–11 pm",
+    "thursday": "12–3:30 pm, 6:30–11 pm",
+    "friday": "12–3:30 pm, 6:30–11 pm",
+    "saturday": "12–3:30 pm, 6:30–11 pm",
+    "sunday": "12–3:30 pm, 6:30–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SpRMHtsE2UaG4NLWlr0jI1w9CrkBqA75JPg75msHgJk6zsDiidTEfJVswuCaFzpU3Pl5Qq2BqLniJFl1x7kII6ejuBjIQJZpqPqsZ5EBrl1JpXbTTUuhfqUrvK8U7s1xtHwyrp=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJMYCl3eAVrjsR_1UAPrCvs5Y",
+   "data_id": "0x3bae15e0dda58031:0x96b3afb03e0055ff",
+   "title": "154 Breakfast Club - JP Nagar",
+   "address": "688, 2nd Floor, 100 Feet Ring Rd, Jeevan Griha, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2991 2593",
+   "rating": 4.4,
+   "reviews": 4116,
+   "gps_coordinates": {
+    "latitude": 12.9065333,
+    "longitude": 77.5924955
+   },
+   "type": "Breakfast restaurant",
+   "types": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Pancake restaurant",
+    "Steak house"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–9 pm",
+    "tuesday": "8 am–9 pm",
+    "wednesday": "8 am–9 pm",
+    "thursday": "8 am–9 pm",
+    "friday": "8 am–9 pm",
+    "saturday": "8 am–9 pm",
+    "sunday": "8 am–9 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/154-breakfast-club-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gEhhqlpKsCtw-NObQVm9yxOba9JTdifN7Emw9vZBAt628sqD7x0p-wd_HFxq_61EbW3Tpu6vFkXy8mWmX0cZoLRmhNLuCYIHgEXytfmsUo3akGK-0%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TmuXWNaKvsRZYErnZSb6C4kqtXzgIb2o0_uF_qzPTaNuWNgikNdbGHchbSxqYLXEXQhVE4o0FKW4trSBfdzAmk5IY8raK_tc-c5zgPBCcutV9noPFAeFU1_d1Iy0BSLiNrNBWN=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJw-OChYoVrjsRVHwVs4-DO2E",
+   "data_id": "0x3bae158a8582e3c3:0x613b838fb3157c54",
+   "title": "Gaia - Global Vegetarian",
+   "address": "Outer Ring Rd, KR Layout, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070225 98649",
+   "rating": 4.3,
+   "reviews": 1514,
+   "website": "https://www.instagram.com/gaia.blr",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9060999,
+    "longitude": 77.5864568
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Asian restaurant",
+    "Indian restaurant",
+    "Modern Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–3:30 pm, 6:30–11:30 pm",
+    "tuesday": "11:30 am–3:30 pm, 6:30–11:30 pm",
+    "wednesday": "11:30 am–3:30 pm, 6:30–11:30 pm",
+    "thursday": "11:30 am–3:30 pm, 6:30–11:30 pm",
+    "friday": "11:30 am–3:30 pm, 6:30–11:30 pm",
+    "saturday": "11:30 am–4:30 pm, 6:30–11:30 pm",
+    "sunday": "11:30 am–4:30 pm, 6:30–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/gaia-global-vegetarian-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TST1F0FPUKxrbJwsMYCzgemUVx_MB-Oo3X05TPCZuY4ZVTKEmsEb3EVdei-0x-9MgJ1BLyd3NThxQV4FvTugvtEH87EE0AV7dXwmYRGjRYo7QHSDXVIJQvfFmEVQ6Ul79PTo0l8u7PpteP=w80-h106-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJIcwpSBMVrjsRik0fEQkc-vg",
+   "data_id": "0x3bae15134829cc21:0xf8fa1c09111f4d8a",
+   "title": "Casa Piccosa",
+   "description": "Cocktail bar with live entertainment. This stylish bar offers freshly prepared cocktails, international dining & live music.",
+   "address": "745/AB, 24th Main, 15th Cross Rd, 6th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096111 61911",
+   "rating": 4,
+   "reviews": 5316,
+   "website": "https://casa-piccosa.grexa.site/",
+   "domain": "casa-piccosa.grexa.site",
+   "gps_coordinates": {
+    "latitude": 12.9060969,
+    "longitude": 77.5854465
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Bar",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/casa-piccosa-jp-nagar/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jF1IWWOiOv93VFXIVb9D2VYwbGbBeYM2hf48ctD_R78YON8SFp4s60vGw83WUOzrZHLpL3Tuu-zBlWoPttZc2B20b57xsfCD7hPQvO29KaWGLLquM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SaV0HreXaKIsVazZr8ZJKB5VBWeGv8QwgPYLlZdCugZMvt3Eka7qP84J9pasBxOOJfdxtDmPeZHZ0yBc2Js3ioIqTzq3e3l7D5S_fkSxU6EfziF8Mab4px4_TD90g36ipAFA=w138-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJH5zGKAAVrjsR9Qe2qGj1b8o",
+   "data_id": "0x3bae150028c69c1f:0xca6ff568a8b607f5",
+   "title": "Amaravathi Palace",
+   "address": "Sarakki Industrial Layout, Dollar Layout, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073377 91777",
+   "rating": 4.5,
+   "reviews": 529,
+   "gps_coordinates": {
+    "latitude": 12.9076875,
+    "longitude": 77.5994375
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10:30 am",
+   "open_hours": {
+    "monday": "10:30 am–12 am",
+    "tuesday": "10:30 am–12 am",
+    "wednesday": "10:30 am–12 am",
+    "thursday": "10:30 am–12 am",
+    "friday": "10:30 am–12 am",
+    "saturday": "10:30 am–12 am",
+    "sunday": "10:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/amaravathi-palace-jp-nagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iVX0qjxE5lx6kJeMq4EpHK-RoDU8RqAYhDhjRhG5yiCz4OcxCM-J7XMnW4DaA0aaRTSeJlv9xA_TmnnRHBuyPNnztLqex-lraflkDYZiXVmraASyk%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlsTzo_O9Wt6EmqPjZC9AdBJxVlgOAYCLpxh4FoKSVkfTqV29lXxjwk_LWvuAVLzE0UC_IW3v4Jkz8MWUWDimeucyciTVNGnKoQAjFaI2nBOYhT9hdc5LA-Q2SGC0I1jKLoD_yFGesNHc=w80-h106-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJZ8oPuAwVrjsRJOe5JDuri5s",
+   "data_id": "0x3bae150cb80fca67:0x9b8bab3b24b9e724",
+   "title": "Nandhana Palace - Andhra Style Restaurant - JP Nagar",
+   "address": "147, 24th Main Rd, R.K Colony, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560041",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4613 1111",
+   "rating": 4.2,
+   "reviews": 7624,
+   "website": "http://www.nandhanarestaurants.com/",
+   "domain": "nandhanarestaurants.com",
+   "gps_coordinates": {
+    "latitude": 12.9145985,
+    "longitude": 77.58558169999999
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant",
+    "Biryani restaurant",
+    "Non Vegetarian Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tg-DSF9QNQGaE1tdG9WOwHmWiXls9F2g71dYYrV2JR_vT5JqfWIngDES7oeUjWQ2EU373hgamhL2aQ1lhGLIJ7tSwCFaZaA3ruD_HKICg_7Rs5YxL4l04UKENPSpaPWvFlQeA=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJRX2gXgAVrjsRSXMNAmjfjbY",
+   "data_id": "0x3bae15005ea07d45:0xb68ddf68020d7349",
+   "title": "Tuk Tuk - J P Nagar | 100% Veg Pan Asian Fine Dine Restaurant. Asian Food | Thai Curry| Sushi | Pad Thai | Bao",
+   "address": "Second Floor, Sai Panorama, 15th Cross Rd, KR Layout, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "079753 04345",
+   "rating": 4.5,
+   "reviews": 531,
+   "website": "http://tuktukthai.in/",
+   "domain": "tuktukthai.in",
+   "gps_coordinates": {
+    "latitude": 12.9060637,
+    "longitude": 77.5825574
+   },
+   "type": "Pan-Asian restaurant",
+   "types": [
+    "Pan-Asian restaurant",
+    "Asian fusion restaurant",
+    "Dim sum restaurant",
+    "Health food restaurant",
+    "Sushi restaurant",
+    "Thai restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.tuktukthai.in/reservations?reservationLocationId=70e253a2-104f-4bf4-9043-c830a43036a2&utm_source=google&utm_medium=reserve_button&rwg_token=AE37R_i-Vv3jX20YddSd1fty8ojBaO43yqcwbNmJkgR9pjZPEXyOT7zPZzsJCircSI4b5dJoKGbjUpelwp8C0bjSl7EKxlgZnqgc5GKUAaQKxDn3_u2rhqs%3D",
+    "source": "tuktukthai.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qq4dW6GDUrdXpm3ej2QZC-Fj0pbO9uYjDQP6Sh7tsefsw2zoB5DAQkfT0NY1h9HIx_0IXFlrdFJmjNtUu8h0M6z2HlVT9_cTA2O2QLdlREs5HqG24-B7DnilgXdC_HKY65aCoX8Kpt-WHX=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJPxbW27gVrjsRkbttEwznla4",
+   "data_id": "0x3bae15b8dbd6163f:0xae95e70c136dbb91",
+   "title": "Cafe Petriqor",
+   "address": "602, 15th Cross Rd, Jeewan Sathi Colony, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063665 60050",
+   "rating": 4.2,
+   "reviews": 1065,
+   "website": "https://cafepetriqor.com/",
+   "domain": "cafepetriqor.com",
+   "gps_coordinates": {
+    "latitude": 12.9066134,
+    "longitude": 77.5851029
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Pizza restaurant",
+    "Cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–10:30 pm",
+    "tuesday": "10 am–10:30 pm",
+    "wednesday": "10 am–10:30 pm",
+    "thursday": "10 am–10:30 pm",
+    "friday": "10 am–10:30 pm",
+    "saturday": "8:30 am–10:30 pm",
+    "sunday": "8:30 am–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/cafe-petriqor-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gtXiWdFCvrW170AiN0soZn7cij5VWKJta3tUHCxhGdrc0FL50QHtvfoDwc1937d9SrVrlwgXtioiNaajByX6ET35R85ltEN_urEYd6QraYTxDkuHg%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI1KdPvBy6Gfpc3-4arTV8A6p73Rsm1I7nflmUugY1_lDCVjFX-fkBtxRkmuX6J7-JjpvN8GNrCSHMKDIUbfL108MUAHIW4-CHChdiQxBtNTiHK4LralK41kJsu8BSJ354VfWs=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJTwTDbLQVrjsR-073Xx7syAE",
+   "data_id": "0x3bae15b46cc3044f:0x1c8ec1e5ff74efb",
+   "title": "The Indian Rasoi",
+   "description": "Low-key restaurant for standard dishes. Unfussy eatery dishing up biryani, curries & parathas, plus thali meals & other classic fare.",
+   "address": "60, Kothnur, Royal Lakefront Residency Phase 3, 8th Phase, J. P. Nagar, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090194 36518",
+   "rating": 4,
+   "reviews": 1218,
+   "website": "https://www.zomato.com/bangalore/the-indian-rasoi-jp-nagar-bangalore",
+   "domain": "zomato.com",
+   "gps_coordinates": {
+    "latitude": 12.8705391,
+    "longitude": 77.5761917
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm Tue",
+   "open_hours": {
+    "monday": "Closed",
+    "tuesday": "12–10:30 pm",
+    "wednesday": "12–10:30 pm",
+    "thursday": "12–10:30 pm",
+    "friday": "12–10:30 pm",
+    "saturday": "12–10:30 pm",
+    "sunday": "12–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/the-indian-rasoi-jp-nagar-bangalore?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SoXTqWGlb8iIsk_WiaRXQJahIguXN8pIbz-9r7QlP7yBaIzX6MCnIX3s0nthXbacJvSw3UQHKJX5bIax63V0Crv76qcj6aRsgdnaRxRViavrfQB5zQfGoqEsS9IH-tv9lXfVBb=w122-h92-k-no"
+  }
+ ]
+}

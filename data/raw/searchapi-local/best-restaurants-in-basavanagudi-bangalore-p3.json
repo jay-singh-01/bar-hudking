@@ -1,0 +1,468 @@
+{
+ "q": "best restaurants in Basavanagudi Bangalore",
+ "ll": "@12.9422,77.576,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:40:42.529Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Sri Venkateshwara Jolada Roti Mane",
+   "place_id": "ChIJlRlzPo0VrjsRFZbZlCEC3Zg",
+   "data_id": "0x3bae158d3e731995:0x98dd022194d99615",
+   "rating": 4.3,
+   "reviews": 3800,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "Venkatappa Complex, 26, 8th Cross Rd,DVG, 13, Police Station Rd, opposite to maharashtra bank",
+   "gps_coordinates": {
+    "latitude": 12.942313,
+    "longitude": 77.571754
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm",
+    "On the menu: best restaurants"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Brewing Untold Stories",
+   "place_id": "ChIJjTTlYwAVrjsRsEe-VzTh2qA",
+   "data_id": "0x3bae150063e5348d:0xa0dae13457be47b0",
+   "rating": 4.4,
+   "reviews": 416,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 74, S End Rd",
+   "gps_coordinates": {
+    "latitude": 12.937047,
+    "longitude": 77.57326
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "OTP - Oven Tawa Pan",
+   "place_id": "ChIJIbPaarIVrjsRdieHjHH74uo",
+   "data_id": "0x3bae15b26adab321:0xeae2fb718c872776",
+   "rating": 4.2,
+   "reviews": 428,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Vegetarian",
+   "address": "KP, 8/2, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.957145,
+    "longitude": 77.57078
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Street La La La",
+   "place_id": "ChIJG1xPOiMVrjsRYBLWoXsMJ5o",
+   "data_id": "0x3bae15233a4f5c1b:0x9a270c7ba1d61260",
+   "rating": 4.6,
+   "reviews": 138,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Food court",
+   "address": "172, Kavi Lakshmisha Rd",
+   "gps_coordinates": {
+    "latitude": 12.949114,
+    "longitude": 77.57418
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Upahara Darshini",
+   "place_id": "ChIJfYwpLIwVrjsRGNDHysIdZsY",
+   "data_id": "0x3bae158c2c298c7d:0xc6661dc2cac7d018",
+   "rating": 4.2,
+   "reviews": 5500,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.939313,
+    "longitude": 77.5714
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Adyar Ananda Bhavan - A2B",
+   "place_id": "ChIJ2RnT_FcVrjsRIDPQ0iCaDbU",
+   "data_id": "0x3bae1557fcd319d9:0xb50d9a20d2d03320",
+   "rating": 4.2,
+   "reviews": 4700,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "200, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944449,
+    "longitude": 77.573
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Kabab Magic",
+   "place_id": "ChIJ8SECdY4VrjsRmeUh8m7o2W8",
+   "data_id": "0x3bae158e750221f1:0x6fd9e86ef221e599",
+   "rating": 4.1,
+   "reviews": 13000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Chicken",
+   "address": "31, Rashtriya Vidyalaya Rd, opp. Vijaya College",
+   "gps_coordinates": {
+    "latitude": 12.940097,
+    "longitude": 77.57998
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "G P cafe Basavanagudi Vibes",
+   "place_id": "ChIJ_2Wh254VrjsRKSs_q-uqEqQ",
+   "data_id": "0x3bae159edba165ff:0xa412aaebab3f2b29",
+   "rating": 4.2,
+   "reviews": 165,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "APS College Canteen",
+   "gps_coordinates": {
+    "latitude": 12.939538,
+    "longitude": 77.56775
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Basaveshwar Khanavali",
+   "place_id": "ChIJwT5FDnsVrjsRpkJPA5NAHOg",
+   "data_id": "0x3bae157b0e453ec1:0xe81c4093034f42a6",
+   "rating": 4.2,
+   "reviews": 5200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Indian",
+   "address": "228/15, 1st floor, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93278,
+    "longitude": 77.584145
+   },
+   "comment": "Basic hub for North Karnataka-style food",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Prabhu Tiffin Room",
+   "place_id": "ChIJk6H9B5QVrjsRiY-pyTaPc9E",
+   "data_id": "0x3bae159407fda193:0xd1738f36c9a98f89",
+   "rating": 4.4,
+   "reviews": 394,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Tiffin center",
+   "address": "WHQH+GMG, Khazi St",
+   "gps_coordinates": {
+    "latitude": 12.938823,
+    "longitude": 77.57921
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Cafe 72",
+   "place_id": "ChIJQW6YRD4VrjsR6oWpwE4Idac",
+   "data_id": "0x3bae153e44986e41:0xa775084ec0a985ea",
+   "rating": 4.2,
+   "reviews": 198,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "23/1, Pattalamma Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.937624,
+    "longitude": 77.57944
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Cool Corner",
+   "place_id": "ChIJf05ccZIVrjsR7Kq5DvpWH2o",
+   "data_id": "0x3bae1592715c4e7f:0x6a1f56fa0eb9aaec",
+   "rating": 4.2,
+   "reviews": 9200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Fast Food",
+   "address": "Krishna Rajendra Rd",
+   "gps_coordinates": {
+    "latitude": 12.947461,
+    "longitude": 77.57393
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Kollapuri's cloud kitchen",
+   "place_id": "ChIJT0hAqN0VrjsR6ab26gjp3x8",
+   "data_id": "0x3bae15dda840484f:0x1fdfe908eaf6a6e9",
+   "rating": 4.4,
+   "reviews": 55,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Maharashtrian Restaurant",
+   "address": "43/1, Surveyor St",
+   "gps_coordinates": {
+    "latitude": 12.9474,
+    "longitude": 77.57275
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Gufha Restaurant, Jayanagar",
+   "place_id": "ChIJtWPujJcVrjsRQCh66TorJPU",
+   "data_id": "0x3bae15978cee63b5:0xf5242b3ae97a2840",
+   "rating": 4.1,
+   "reviews": 9200,
+   "type": "Indian",
+   "address": "79/8, Diagonal Rd",
+   "gps_coordinates": {
+    "latitude": 12.933236,
+    "longitude": 77.5833
+   },
+   "comment": "Grotto-themed hotel restaurant & bar",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Shivalli Restaurant",
+   "place_id": "ChIJMdD8k1AVrjsRNWx53vj-6Aw",
+   "data_id": "0x3bae155093fcd031:0xce8fef8de796c35",
+   "rating": 4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "462, near, Ashoka Pillar Rd",
+   "gps_coordinates": {
+    "latitude": 12.943546,
+    "longitude": 77.58401
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Sri Guru Kottureshwara Davangere Benne Dose",
+   "place_id": "ChIJcQXJwY0VrjsReVUrsScdHP4",
+   "data_id": "0x3bae158dc1c90571:0xfe1c1d27b12b5579",
+   "rating": 4.1,
+   "reviews": 5000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Tiffin center",
+   "address": "Subbarama Chetty Rd",
+   "gps_coordinates": {
+    "latitude": 12.938918,
+    "longitude": 77.5708
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Upahara Darshini, Kims Canteen",
+   "place_id": "ChIJKSGBFOUVrjsR0ibMgu40qZs",
+   "data_id": "0x3bae15e514812129:0x9ba934ee82cc26d2",
+   "rating": 4.1,
+   "reviews": 1400,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Indian",
+   "address": "Bangalore Institute Of Technology Kims Hospital And Research Centre, 143, 2nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.95656,
+    "longitude": 77.57523
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "New Prashanth Hotel",
+   "place_id": "ChIJPXa5wPIVrjsRTzR-1njUTcU",
+   "data_id": "0x3bae15f2c0b9763d:0xc54dd478d67e344f",
+   "rating": 4,
+   "reviews": 1300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "No 13, Mallesh Complex, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944742,
+    "longitude": 77.57198
+   },
+   "comment": "Low-key Indian eatery in a hotel",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Amba Bhavani non vag cataters & mess",
+   "place_id": "ChIJF01Yku0VrjsRdxckg1XoTlo",
+   "data_id": "0x3bae15ed92584d17:0x5a4ee85583241777",
+   "rating": 4.1,
+   "reviews": 1400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "50/2/1, Surveyor St, behind Cool Corner Hotel",
+   "gps_coordinates": {
+    "latitude": 12.947748,
+    "longitude": 77.57428
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Upahara Darshini (Barjari Oota) & UD Residency",
+   "place_id": "ChIJ8UM5opEVrjsRBzThxh5ZcSQ",
+   "data_id": "0x3bae1591a23943f1:0x2471591ec6e13407",
+   "rating": 4.3,
+   "reviews": 3200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "South End Circle, 19/2, S End Rd, near Surana College, behind canara bank",
+   "gps_coordinates": {
+    "latitude": 12.936358,
+    "longitude": 77.576866
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1125 @@
+{
+ "q": "best restaurants in Hebbal/Manyata Bangalore",
+ "ll": "@13.0358,77.6105,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T16:42:58.846Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJI8t8NgAXrjsR-X2qaT922F4",
+   "data_id": "0x3bae1700367ccb23:0x5ed8763f69aa7df9",
+   "title": "Bombay Brasserie- Manyata Tech Park",
+   "address": "HD017, WeWork, Manyata NXT Tower Embassy, Manyata Business Park, 1, Outer Ring Rd, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091487 77527",
+   "rating": 4.7,
+   "reviews": 784,
+   "website": "https://bombaybrasserie.in/",
+   "domain": "bombaybrasserie.in",
+   "gps_coordinates": {
+    "latitude": 13.0416119,
+    "longitude": 77.619694
+   },
+   "type": "Modern Indian restaurant",
+   "types": [
+    "Modern Indian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveBrands/64b8d1846fb5aed64bab6d82?source=9&city=Bangalore&cityselector=fixed",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMHcKi6bl5mw4NobRdEfYu_qSsvIGjlRfQlZC0E7MLRc3cORPd9wZBVBx5UaEF34ZybfsKa-djkhUWbhcb7tzhk39p7seWPpNFjDBA-otjle6GLgRG-ef1rM7mrIsMVTXTyQxDOKr7oacpc=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ_e7014cXrjsRSyAX-DVtM8o",
+   "data_id": "0x3bae1787d7f4eefd:0xca336d35f817204b",
+   "title": "Attarinti Vantakaalu | Authentic Andhra Restaurant",
+   "address": "4A-4B, Baghini Building Outer ring road opposite manyata tech park kanaka nagar veerannapalya nagawara, Hebbal, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091875 71531",
+   "rating": 4.6,
+   "reviews": 501,
+   "gps_coordinates": {
+    "latitude": 13.042125,
+    "longitude": 77.61292449999999
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant",
+    "Chinese restaurant",
+    "Continental restaurant",
+    "Indian restaurant",
+    "South Indian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/attarinti-vantakaalu-authentic-andhra-restaurant-hebbal-north-bengaluru-718940",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP3USeXEFqAXHXbrK67yWHQcVTBZn-gpjuPhXyxhTUC8HuCzQeUmsl9B7KJZwFeoN6WhFs3zuSaYGYdkVYQjD34gaFmy7G359TSFOAP5QypGgPUoWskI1KKoakSfHlmBZGDBquth7_1QoI=w163-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJPyMqTAgXrjsRxT-f_FeYiyc",
+   "data_id": "0x3bae17084c2a233f:0x278b9857fc9f3fc5",
+   "title": "Nasi and Mee - Manyata Tech Park",
+   "address": "Unit 10, Ground Floor, NXT Tower 2 Building Embassy Manyata Business Park, Hebbal, Outer Ring Rd, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089718 02864",
+   "rating": 4.7,
+   "reviews": 1147,
+   "website": "https://nasiandmee.co.in/",
+   "domain": "nasiandmee.co.in",
+   "gps_coordinates": {
+    "latitude": 13.0419611,
+    "longitude": 77.6195062
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Japanese restaurant",
+    "Malaysian restaurant",
+    "Pan-Asian restaurant",
+    "Ramen restaurant",
+    "Singaporean restaurant",
+    "Sushi restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–11 pm",
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/nasi-and-mee-1-nagawara-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNF_M5MrJkmh7keWbQiMe3hpXbhUt-Nml7eLvbnxhM7CdN_C1F1zzoyo4gzNlg4obmQ95KuUoqyN-Y2PvAEX_YGOWh9NlDc2OD-K89A2-sAB2etX08Sae7ojpfsMM1CL3KpwIp7rA=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJa77CBj8XrjsRoO8IwSHxY-E",
+   "data_id": "0x3bae173f06c2be6b:0xe163f121c108efa0",
+   "title": "The Hebbal Café",
+   "description": "Sprawling quick-service mixed-fare cafe. Spacious & brightly lit cafe serving mixed cuisine in a space with a lively atmosphere.",
+   "address": "No. 2, The Hebbal Cafe, Level- 1, Courtyard by Marriott Bengaluru Hebbal, 55, Outer Ring Rd, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096064 82968",
+   "rating": 4.2,
+   "reviews": 1173,
+   "website": "https://www.marriott.com/en-us/hotels/blrhb-courtyard-bengaluru-hebbal/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+   "domain": "marriott.com",
+   "gps_coordinates": {
+    "latitude": 13.0425622,
+    "longitude": 77.6095026
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Buffet restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "http://www.sevenrooms.com/reservations/thehebbalcafe",
+    "source": "sevenrooms.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMb8rQwjVu62HLXkUosKI_u-WPUNRCydidaaLgcld8U9KdFXRjgRc2R-TMV8IQ64XahM5tns-w3cQXRGmwvaQVI--sOsnrmqGR7Rm6FSyM59hgO4NkuSv6F9PWIg7eNOoJZ6_U=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJfTv6zHEXrjsR68eLj-bsaik",
+   "data_id": "0x3bae1771ccfa3b7d:0x296aece68f8bc7eb",
+   "title": "Yoichi",
+   "address": "1st floor, MS, MANYATA TECH PARK-1, Block U, MS Ramaiah North City, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099001 85300",
+   "rating": 4.7,
+   "reviews": 845,
+   "website": "https://yoichi.in/",
+   "domain": "yoichi.in",
+   "gps_coordinates": {
+    "latitude": 13.0423151,
+    "longitude": 77.61994109999999
+   },
+   "type": "Pan-Asian restaurant",
+   "types": [
+    "Pan-Asian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/yoichi-nagawara-koramangala-bangalore-1266716/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNOQIAi0Lz83jW-cmAHqKY3UEU5_bakibzeMXB_LEUCu9zVLZcof1yQSFBg7cNknvWnR_P7M1yuoXjq-UEdIG8DyXkWLh-l5tRb2pcrtNbTxbcGveNNdlkgctDCUx02w_MQIv1DVbpF_N_y=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJhx_7fwAXrjsRuE7NZazrbeo",
+   "data_id": "0x3bae17007ffb1f87:0xea6debac65cd4eb8",
+   "title": "Lola's All Day Casual Dining + Bar",
+   "address": "Ground Floor, Embassy Manyata Business Park, D3, Redwood Building, Outer Ring Rd, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "078994 44099",
+   "rating": 4.6,
+   "reviews": 313,
+   "website": "https://lolasblr.com/",
+   "domain": "lolasblr.com",
+   "gps_coordinates": {
+    "latitude": 13.0487907,
+    "longitude": 77.6198833
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/lolas-all-day-casual-dining-bar-nagawara-north-bengaluru-710483",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMik6S8HKzBJ-6yfFz0zp0VPOVSh8Hi5_tJhedTmW91_m7cck8IlyD1tqPQUu5QEAb7-k3nHRriQK40xjiYpvdq53fWc1IYRjViBDgycCGYHueCmfcKLvI8iTF-hGB6BvnOBLfdokU63qTV=w138-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJraaMRKUXrjsRapwjDWj5Zmg",
+   "data_id": "0x3bae17a5448ca6ad:0x6866f9680d239c6a",
+   "title": "F5 - Eat • Drink • Refresh",
+   "address": "Block A, Hotel Building, Hilton Garden Inn, Embassy Manyata Business Park, Hebbal, 2, Outer Ring Rd, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6901 2345",
+   "rating": 4.3,
+   "reviews": 548,
+   "website": "https://hiltonsatmanyatabengaluru.com/",
+   "domain": "hiltonsatmanyatabengaluru.com",
+   "gps_coordinates": {
+    "latitude": 13.0417909,
+    "longitude": 77.6200574
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Indian restaurant",
+    "North Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "6:30 am–11:30 pm",
+    "monday": "6:30 am–11:30 pm",
+    "tuesday": "6:30 am–11:30 pm",
+    "wednesday": "6:30 am–11:30 pm",
+    "thursday": "6:30 am–11:30 pm",
+    "friday": "6:30 am–11:30 pm",
+    "saturday": "6:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/f5-hilton-garden-inn-bengaluru-embassy-manyata-business-park-bengaluru-683300",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM_CA8oKYNpv40ccmq-GOHhst7avCNva75i8QZj4ebPHs5ZSAfTvvqSWQ_prsyDxw7gieWoxJ2miqsVt2WwYB6ffthVkhC0Nma6PMufcCwqx9Wb7lSabc8UdhnmMCiYeyjEimDyBA=w163-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJ8biIVHEXrjsRgN5HRGvabx4",
+   "data_id": "0x3bae17715488b8f1:0x1e6fda6b4447de80",
+   "title": "Peepai Brewery & Kitchen",
+   "address": "102/1 & 102/2, Ground Floor, GM Arcade Service Road - Bellary Road, Hebbal, North, Taluk, Bengaluru, Karnataka 560092",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096327 06699",
+   "rating": 4.5,
+   "reviews": 5494,
+   "gps_coordinates": {
+    "latitude": 13.055678,
+    "longitude": 77.5931348
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Bar",
+    "Brewery",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/peepai-3-hebbal-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iK4W27xlknjDEBXSiKdPbKYfMJT1D2Hyl0odFWKW0oohhkvp9I3Qd7ueFl2TSKHbJLMemdBpPf-2bS7OrB4gZDzhFWwms5LfZ0fo1LxGUObpllcj0%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOyPxoUoyzzvmcDcEqrxRKMYcbOBgdQQX5x_GBYcRQCTZj-gkuXdZcDsZ3HHPtwTEaCfMY0SFNFBeHoMmpdriBCsmplSYPDaGedfPxLonGWDWbMBRLCn-eqPZVK6NqCvJPURwz-JmC5r8Ya=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJpeLr6f0ZrjsRedczGnm3AaY",
+   "data_id": "0x3bae19fde9ebe2a5:0xa601b7791a33d779",
+   "title": "Tangelo Restaurant Manyata",
+   "address": "Site no. 262,263, SY -102, 264, Rachenahalli Main Rd, Thanisandra, Bengaluru, Karnataka 560077",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063669 73247",
+   "rating": 4.7,
+   "reviews": 160,
+   "website": "http://www.orangetigerhotels.com/",
+   "domain": "orangetigerhotels.com",
+   "gps_coordinates": {
+    "latitude": 13.0619842,
+    "longitude": 77.62763369999999
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 7:30 am Mon",
+   "open_hours": {
+    "sunday": "7:30 am–10:30 pm",
+    "monday": "7:30 am–10:30 pm",
+    "tuesday": "7:30 am–10:30 pm",
+    "wednesday": "7:30 am–10:30 pm",
+    "thursday": "7:30 am–10:30 pm",
+    "friday": "7:30 am–10:30 pm",
+    "saturday": "7:30 am–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/tangelo-geddalahalli-bangalore-1313482/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP3aS7oWuyR1e9efPHjRFELWJiult94I7tRqy1wNW8u3b-EF1E-0EhgTh6ZyukjaEWCm_3BLJuQgCup19jt2ZWzc0S-gw_kH0VMMYAiFkCrMCYkvNH0apj59hIWv2mUilvMmUmO0pDCqmCs=w163-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJz3-2tdUXrjsRNUolTzubxlE",
+   "data_id": "0x3bae17d5b5b67fcf:0x51c69b3b4f254a35",
+   "title": "Paakashala @ Nagavara | Restaurants Near Manyata Tech Park",
+   "address": "310/73/85, opposite MANYATA EMBASSY BUSINESS PARK, near Sky walk exit, Chalukaya Layout, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096069 92893",
+   "rating": 4.3,
+   "reviews": 549,
+   "website": "https://paakashala.com/restaurants-near-manyata-techpark-nagavara/",
+   "domain": "paakashala.com",
+   "gps_coordinates": {
+    "latitude": 13.0408501,
+    "longitude": 77.61975919999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 6:30 am Mon",
+   "open_hours": {
+    "sunday": "6:30 am–11 pm",
+    "monday": "6:30 am–11 pm",
+    "tuesday": "6:30 am–11 pm",
+    "wednesday": "6:30 am–11 pm",
+    "thursday": "6:30 am–11 pm",
+    "friday": "6:30 am–11 pm",
+    "saturday": "6:30 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNjP_eq4xDJFt1LNVaoyCYGma2EsHTXetA5ihLGe-M9YoIVQRUN7zizGfmDgJtkjAJkcGgbm-UKJenUsAYRJ4zCW-Rm2fT-rtF3lST_9lACBcbYAvHsZs7oFgdg7hSQ0h4_9no83Q=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJPT72TR8ZrjsRGWW_VnVQPgo",
+   "data_id": "0x3bae191f4df63e3d:0xa3e507556bf6519",
+   "title": "B55 Restaurant",
+   "address": "14/1, 14/1, Kodigehalli Main Rd, near Twin Tower, CQAL Layout, Sahakar Nagar, Hebbal, Bengaluru, Karnataka 560092",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096208 22201",
+   "rating": 4.8,
+   "reviews": 89,
+   "gps_coordinates": {
+    "latitude": 13.0587643,
+    "longitude": 77.5859632
+   },
+   "type": "Family restaurant",
+   "types": [
+    "Family restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–4 pm",
+    "monday": "12–4 pm",
+    "tuesday": "12–4 pm",
+    "wednesday": "12–4 pm",
+    "thursday": "12–4 pm",
+    "friday": "12–4 pm",
+    "saturday": "12–4 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMeS7tHfiXduGkXwrd97outV8lHOi52lM6A4FBXXcjqdrS3Cq8d_KwiFlmmihTX_P7bz9ccFCeRJg4Gv_72LWZEPQ7Hoi8mtHrMRaTUJu4jBRa1hsILolkJ7xuwIwCCOqX_yFCkHmSGIKA=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJMZl5emwXrjsRxJScoNB1yKc",
+   "data_id": "0x3bae176c7a799931:0xa7c875d0a09c94c4",
+   "title": "Hebbal SOCIAL",
+   "address": "Azure, Ground floor, Bellary Rd, next to Godrej Apartments, Hebbal Kempapura, Bengaluru, Karnataka 560024",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "092280 35641",
+   "rating": 4.1,
+   "reviews": 1434,
+   "website": "https://socialoffline.in/restaurant/hebbal-social/",
+   "domain": "socialoffline.in",
+   "gps_coordinates": {
+    "latitude": 13.0554987,
+    "longitude": 77.5940471
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Chinese restaurant",
+    "North Indian restaurant",
+    "Pizza restaurant",
+    "Pub",
+    "Ramen restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "9 am–12:30 am",
+    "monday": "9 am–12:30 am",
+    "tuesday": "9 am–12:30 am",
+    "wednesday": "9 am–12:30 am",
+    "thursday": "9 am–12:30 am",
+    "friday": "9 am–12:30 am",
+    "saturday": "9 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveOutlets/64c4881afeb22296eea2fd1a?source=6",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMVFtbKgCML_cOud6tRVOxOwlNM_8DtuNNYN-9HvxTtCu3vZ7S19E8GLr6_Mn5r99LXYVMuJq14Azw2VkZ9nN3k08rkL3NdL9sjRWRwD_5f7dYa7BGRKg5kvu19ZP8aP4XzWhBfUw=w131-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJT1575s4XrjsR7PLQ4B4QtH0",
+   "data_id": "0x3bae17cee67b5e4f:0x7db4101ee0d0f2ec",
+   "title": "Neo Kitchen By Hilton",
+   "address": "Embassy, Manyata Business Park, Neo Kitchen, Hilton Bengaluru Embassy, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 680,
+   "website": "https://www.hilton.com/en/hotels/blrgshi-hilton-bengaluru-embassy-manyata-business-park/dining/",
+   "domain": "hilton.com",
+   "gps_coordinates": {
+    "latitude": 13.0423926,
+    "longitude": 77.6207617
+   },
+   "type": "Western restaurant",
+   "types": [
+    "Western restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open 24 hours",
+   "open_hours": {
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours"
+   },
+   "reservation": {
+    "link": "https://www.tablecheck.com/hilton-bengaluru-neo-kitchen/reserve?utm_source=google&rwg_token=AE37R_jgD3is6FXH1uxrlbILI0nMUdRswwCuzt3FtUMzAgvvklmrat4rS6dO2FrhOQd4HVUwZLjliHqH-gzhM78GwoX03-6f9TN8PZK7rFXgbWP3wpD9ooI%3D",
+    "source": "tablecheck.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNnq-2KuAILjuSAWz5FIG3CxBkt_c6ZmNX0Uha5CykgMOrUGktXaS_iRMBbKxuGcJO36HqOaGHa0dn-b5NJcaeq3lxaZw6YLaV6ZMBUHlBotOHXDzjkU_y3pwXruLf-GUDAVjnLag=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJU5bAlF8ZrjsRaQHdfYymxSY",
+   "data_id": "0x3bae195f94c09653:0x26c5a68c7ddd0169",
+   "title": "TECHila",
+   "address": "1st Cross, P&T Layout, Main Road, opposite NR Green Woods, near Manyata Tech Park - Back gate 5, Rachenahalli, Thanisandra, Bengaluru, Karnataka 560077",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098443 05005",
+   "rating": 4.4,
+   "reviews": 1124,
+   "website": "https://techila.club/",
+   "domain": "techila.club",
+   "gps_coordinates": {
+    "latitude": 13.0591608,
+    "longitude": 77.6269762
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Buffet restaurant",
+    "Night club"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/techila-nagawara-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jdr5s90lpAOVIMWSHECWyhHioGis-0Zq35g1C5BHxYG9jIzRw_vQ5XSrmSjvkEkQouYHCam9-7E0aK3_Bgvx1Vq-qU4IoqByyAEnj5TTABeUufqbE%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMHHtEAGno5G6D84k9z8fsM0ybVGy3K0nwWBom1MMdCteBMI7XTs2uSM39SbjVyYIBf9cyKfAlFNDwTzjyzd6yJOKTdYfIN7u8STgNOE4ofkcRL4kWYv9MmJfh_ht67klvyFw=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJNz-AbAAXrjsR78wo4nmR3MM",
+   "data_id": "0x3bae17006c803f37:0xc3dc9179e228ccef",
+   "title": "Sriracha - Embassy Manyata Tech Park",
+   "address": "BLOCK-U, MANYATA TECH PARK-1, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096060 71430",
+   "rating": 4.4,
+   "reviews": 72,
+   "website": "https://widget.reservego.co/reserveOutlets/66377675892a5f513ebf3b8f?source=6",
+   "domain": "widget.reservego.co",
+   "gps_coordinates": {
+    "latitude": 13.0419911,
+    "longitude": 77.61978049999999
+   },
+   "type": "Asian restaurant",
+   "types": [
+    "Asian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–10:30 pm",
+    "monday": "12–10:30 pm",
+    "tuesday": "12–10:30 pm",
+    "wednesday": "12–10:30 pm",
+    "thursday": "12–10:30 pm",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/sriracha-nagawara-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hch6fcd2PBQ5ZInTuvPk9BULMYokMs2qaw_CvWmL36pzxu3jlB1Cz15383KzbzoVODgiDvR38d6HumiypVOrXh0dp1W_EBhKBHjGJvBBuDL1tjhzg%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNmFrtmvVnfKG2SjFVGYSlilgeBw-Prxz7xan331wLADBCGEQ43pqEfs0RdFTN5sO-BBwdeQt2UkQ8c0wgQL66qQljMFK127pWVf-j9c5oS7J1xPQsYF-ogCVC1Q56OvpxaKD4_FbxsEd8=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJtRCu3w4XrjsROwflR3e8_ww",
+   "data_id": "0x3bae170edfae10b5:0xcffbc7747e5073b",
+   "title": "Grand Andhra Spicy Restaurant",
+   "address": "2JQC+X49, Philomena Hospital Rd, opposite Manyata Tech Park Road, Chanukya Layout, Vyalikaval HBCS Layout, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089517 32615",
+   "rating": 4.5,
+   "reviews": 136,
+   "gps_coordinates": {
+    "latitude": 13.0398618,
+    "longitude": 77.62032169999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Andhra restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeranRibnh7BUlV6nbCe1iyBH3u1vAUKBF3L7VDbnHhwzYHdm56v-3LuPKFPsvCvrJ-oZQxXGoZfuxXWeTNTB6n5Hjw7kD8QqGWq9e0mPFha16m620HXL9J-RjaKLvEppK1a9rl1Q=w163-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJQYk0G5wXrjsRbCieD4Jk-XI",
+   "data_id": "0x3bae179c1b348941:0x72f964820f9e286c",
+   "title": "Bombay Curry House",
+   "address": "No. 12, NXT Tower Location & Hours, B.B, Ground Floor, Embassy Manyata Tech Park, Outer Ring Rd, M.P. North, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091139 82902",
+   "rating": 4.3,
+   "reviews": 883,
+   "website": "https://www.bombaycurryhouse.com/",
+   "domain": "bombaycurryhouse.com",
+   "gps_coordinates": {
+    "latitude": 13.0419088,
+    "longitude": 77.6197376
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–11 pm",
+    "monday": "8 am–11 pm",
+    "tuesday": "8 am–11 pm",
+    "wednesday": "8 am–11 pm",
+    "thursday": "8 am–11 pm",
+    "friday": "8 am–11 pm",
+    "saturday": "8 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOAVZTnAzY36oWpYko-sHYG-aN5fgfvQeqcxXnn6czxF6B3q8T80WLrhzAzZHCIuoYi_G5MQQeT_teFuRuH2zTKfcrYyF0fWivJNJCNrNbFH0DtjvP6vSSDE35L3LHq-4VyJNBZ9A=w163-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJcYIxPwcXrjsR_eW4xJbGmyM",
+   "data_id": "0x3bae17073f318271:0x239bc696c4b8e5fd",
+   "title": "Nagavara SOCIAL",
+   "address": "Manyata Business Park, Outer Ring Rd Unit 25, First floor, Hilton Garden Inn retail unit, NXT Plaza Embassy, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "092280 35641",
+   "rating": 4.2,
+   "reviews": 2025,
+   "website": "https://socialoffline.in/restaurant/nagavara-social/",
+   "domain": "socialoffline.in",
+   "gps_coordinates": {
+    "latitude": 13.041627,
+    "longitude": 77.619725
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Chinese restaurant",
+    "North Indian restaurant",
+    "Pizza restaurant",
+    "Pub",
+    "Ramen restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "9 am–12:30 am",
+    "monday": "9 am–12:30 am",
+    "tuesday": "9 am–12:30 am",
+    "wednesday": "9 am–12:30 am",
+    "thursday": "9 am–12:30 am",
+    "friday": "9 am–12:30 am",
+    "saturday": "9 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveOutlets/64c4881afeb22296eea2fd1d?source=6",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMTixlCVy078fdID_nnJ0wvSfEUhVKdTtZ3N7pYgkslwVsC1bI5c7dGwjev0LJ1FEIDihKGCDAxM-YEP4Z6PHquAS2FcDNk0dKiJKr7Y_f5t35pMX1koMB_h-ldpc-bZdMAiQPcbLJ6SEWv=w138-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJ77hxZYUXrjsRSiitpCSOlJ0",
+   "data_id": "0x3bae17856571b8ef:0x9d948e24a4ad284a",
+   "title": "Toscano",
+   "address": "Embassy Manyata Business Park, HD017, WeWork, Manyata NXT Tower, 2, Outer Ring Rd, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6902 8795",
+   "rating": 4.3,
+   "reviews": 347,
+   "website": "https://www.toscano.co.in/restaurants/bangalore/manyata-tech-park?utm_source=google&utm_medium=organic&utm_campaign=gmb-profile&utm_content=manyata-tech-park",
+   "domain": "toscano.co.in",
+   "gps_coordinates": {
+    "latitude": 13.041677,
+    "longitude": 77.6201499
+   },
+   "type": "Italian restaurant",
+   "types": [
+    "Italian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNvlVbWEFk3PZVV0Rn-RXlAjimFRwrrIqG1PPM2HLUxWueFvOfMUoTWCQbadEY9DKXl0M07HUkaiQYOmzNaiRlqDlmq5FEXj4Cjer8Z6Z2_9tSTzN_KgbEqWhJw93WnkFLCzCCniH_A3w3J=w138-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJJ94qfqEZrjsRxskvcmSkq_o",
+   "data_id": "0x3bae19a17e2ade27:0xfaaba464722fc9c6",
+   "title": "Lakehouse Garden Restaurant (Petfriendly)",
+   "address": "Dr. Puneet Rajkumar Road, Dasarahalli Village, next to Rachenahalli, Hebbal, Lake, Bengaluru, Karnataka 560024",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099865 42046",
+   "rating": 4.1,
+   "reviews": 583,
+   "website": "http://www.lakehousecafe.in/",
+   "domain": "lakehousecafe.in",
+   "gps_coordinates": {
+    "latitude": 13.0622604,
+    "longitude": 77.6107731
+   },
+   "type": "Fine dining restaurant",
+   "types": [
+    "Fine dining restaurant",
+    "Continental restaurant",
+    "Event venue",
+    "Fusion restaurant",
+    "Mediterranean restaurant",
+    "Mexican restaurant",
+    "Pan-Asian restaurant",
+    "Wine bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 12 pm Tue",
+   "open_hours": {
+    "sunday": "12–11 pm",
+    "monday": "Closed",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "http://www.lakehousebangalore.com/",
+    "source": "lakehousebangalore.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN6LiHvjIZXZwRsHUi5zovVfi_VXntRX7bC5TV0fcyx_GHT0pvf9S38GpKSfcKL4qNs9Xf41jDmDvqlImLRP210dmcxPM6akAAgNDWQLCKYuFj-2B7QW3VVZTfK3e21npXjrh35Cg=w122-h92-k-no"
+  }
+ ]
+}

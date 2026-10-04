@@ -1,0 +1,452 @@
+{
+ "q": "best restaurants in Basavanagudi Bangalore",
+ "ll": "@12.9422,77.576,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:08:30.066Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Neemsi Restaurant | Basavanagudi",
+   "place_id": "ChIJ6cAydQAVrjsR-2v0juxp2J4",
+   "data_id": "0x3bae15007532c0e9:0x9ed869ec8ef46bfb",
+   "rating": 4.8,
+   "reviews": 12000,
+   "type": "Vegetarian",
+   "address": "2, Krishna Rajendra Rd",
+   "gps_coordinates": {
+    "latitude": 12.939654,
+    "longitude": 77.57375
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Atithyaa (Since 1986)",
+   "place_id": "ChIJGQAElvMVrjsR3jk85-1pnnE",
+   "data_id": "0x3bae15f396040019:0x719e69ede73c39de",
+   "rating": 4.4,
+   "reviews": 1700,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "South Indian",
+   "address": "93, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.947241,
+    "longitude": 77.56907
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Chapaak A Splash of Flavours",
+   "place_id": "ChIJDzC1Y8oVrjsRreDfEO6dxfc",
+   "data_id": "0x3bae15ca63b5300f:0xf7c59dee10dfe0ad",
+   "rating": 4.6,
+   "reviews": 2300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Family-friendly",
+   "address": "5th floor, Manandi Samvraddhi, 102, Rashtriya Vidyalaya Rd",
+   "gps_coordinates": {
+    "latitude": 12.949446,
+    "longitude": 77.57985
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "LEMAIRE PATISSERIE & COFFEE BREW",
+   "place_id": "ChIJJ1gyewAVrjsRkYsaMCMBOec",
+   "data_id": "0x3bae15007b325827:0xe7390123301a8b91",
+   "rating": 4.8,
+   "reviews": 3300,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "Ground Floor, 31/2, Bull Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.945477,
+    "longitude": 77.568
+   }
+  },
+  {
+   "position": 5,
+   "title": "Jalandhar Street",
+   "place_id": "ChIJhV1OVwAVrjsRjFZr8AojzW0",
+   "data_id": "0x3bae1500574e5d85:0x6dcd230af06b568c",
+   "rating": 4.6,
+   "reviews": 4600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Buffet",
+   "address": "6/1, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944354,
+    "longitude": 77.57242
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Moonstone Italian Restaurant (Pure veg)",
+   "place_id": "ChIJ0fxK7kQVrjsRMx-55uefdpM",
+   "data_id": "0x3bae1544ee4afcd1:0x93769fe7e6b91f33",
+   "rating": 4.8,
+   "reviews": 224,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Italian",
+   "address": "23, Kanakapura Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9453335,
+    "longitude": 77.576935
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Bengaluru Cafe Basvangudi",
+   "place_id": "ChIJu77DdgAVrjsRKvrUbAugbGg",
+   "data_id": "0x3bae150076c3bebb:0x686ca00b6cd4fa2a",
+   "rating": 4.2,
+   "reviews": 457,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "3/3-1, Dewan Madhava Rao Rd",
+   "gps_coordinates": {
+    "latitude": 12.939805,
+    "longitude": 77.57555
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Baisakhi",
+   "place_id": "ChIJtRgsB_MVrjsRP5zTbJyw_pk",
+   "data_id": "0x3bae15f3072c18b5:0x99feb09c6cd39c3f",
+   "rating": 4.3,
+   "reviews": 5200,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "112, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.946394,
+    "longitude": 77.57033
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Vidyarthi Bhavan",
+   "place_id": "ChIJNdCK6PIVrjsR3I4feeftf-0",
+   "data_id": "0x3bae15f2e88ad035:0xed7fede7791f8edc",
+   "rating": 4.2,
+   "reviews": 59000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "32, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.945046,
+    "longitude": 77.57138
+   },
+   "comment": "Low-key vegetarian south Indian eatery",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am Mon"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Café Amudham Restaurant Basavanagudi",
+   "place_id": "ChIJ3xLGpUEVrjsRw4-DP0uV2rs",
+   "data_id": "0x3bae1541a5c612df:0xbbda954b3f838fc3",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, No. 31, Rashtriya Vidyalaya Rd, opp. Vijaya College",
+   "gps_coordinates": {
+    "latitude": 12.940201,
+    "longitude": 77.57992
+   }
+  },
+  {
+   "position": 11,
+   "title": "PHURR | Jayanagar",
+   "place_id": "ChIJ05c7FwAVrjsR6MdIv_EE_E4",
+   "data_id": "0x3bae1500173b97d3:0x4efc04f1bf48c7e8",
+   "rating": 4.7,
+   "reviews": 20000,
+   "type": "Fine Dining",
+   "address": "40, 22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.932811,
+    "longitude": 77.58301
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Shiv Sagar Signature",
+   "place_id": "ChIJ5buBh7IVrjsRQmPUshmSmjk",
+   "data_id": "0x3bae15b28781bbe5:0x399a9219b2d46342",
+   "rating": 4.1,
+   "reviews": 1400,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Indian",
+   "address": "86, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.947644,
+    "longitude": 77.56846
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "SLV CORNER VEG RESTAURANT",
+   "place_id": "ChIJSz229u0VrjsRUetokbXcZ1A",
+   "data_id": "0x3bae15edf6b63d4b:0x5067dcb59168eb51",
+   "rating": 4.2,
+   "reviews": 16000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "No. 42, Ramakrishna Ashram Circle, Vanvilas Road, Basavanagudi, Vanivilas Road",
+   "gps_coordinates": {
+    "latitude": 12.948349,
+    "longitude": 77.568665
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Maha Lakshmi Tiffin Room",
+   "place_id": "ChIJbzNR2vIVrjsRLP9V_dvPfNQ",
+   "data_id": "0x3bae15f2da51336f:0xd47ccfdbfd55ff2c",
+   "rating": 4.2,
+   "reviews": 6100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.947018,
+    "longitude": 77.5715
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Hotel Dwarka",
+   "place_id": "ChIJRR0bAIwVrjsROej9jRoJH0w",
+   "data_id": "0x3bae158c001b1d45:0x4c1f091a8dfde839",
+   "rating": 4.3,
+   "reviews": 10000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "7th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.937666,
+    "longitude": 77.56767
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Udupi Sri Krishna Bhavan",
+   "place_id": "ChIJBaBV_PIVrjsRw8M-LXOs4Yo",
+   "data_id": "0x3bae15f2fc55a005:0x8ae1ac732d3ec3c3",
+   "rating": 4.2,
+   "reviews": 6800,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "No.115, WHWC+C7J, 116, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.94612,
+    "longitude": 77.570625
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "U D ROTIGHAR (BHARJARI OOTA & PARTY HALL)",
+   "place_id": "ChIJL9oe6vIVrjsR5Y5-CWNUTOc",
+   "data_id": "0x3bae15f2ea1eda2f:0xe74c5463097e8ee5",
+   "rating": 4.1,
+   "reviews": 19000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Indian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.944896,
+    "longitude": 77.5718
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "The Rogue Elephant",
+   "place_id": "ChIJYbwCEJMVrjsRStpDfF8cTOY",
+   "data_id": "0x3bae15931002bc61:0xe64c1c5f7c43da4a",
+   "rating": 4.1,
+   "reviews": 4200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Mediterranean",
+   "address": "33, Rashtriya Vidyalaya Rd",
+   "gps_coordinates": {
+    "latitude": 12.940388,
+    "longitude": 77.57992
+   },
+   "comment": "Garden cafe with Continental fare",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Nisarga Garden Restaurant",
+   "place_id": "ChIJGwGq0fIVrjsR7VAJCGWM7gQ",
+   "data_id": "0x3bae15f2d1aa011b:0x4ee8c65080950ed",
+   "rating": 4,
+   "reviews": 4500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "26, DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.941512,
+    "longitude": 77.57116
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "CUBBONPETE TIFFIN ROOM",
+   "place_id": "ChIJgwuR-SkVrjsRP0dxlBTlql0",
+   "data_id": "0x3bae1529f9910b83:0x5daae5149471473f",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "9/46, W Anjaneya Temple St",
+   "gps_coordinates": {
+    "latitude": 12.945944,
+    "longitude": 77.5686
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  }
+ ]
+}

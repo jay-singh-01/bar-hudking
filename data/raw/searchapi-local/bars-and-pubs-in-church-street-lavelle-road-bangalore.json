@@ -1,0 +1,360 @@
+{
+ "q": "bars and pubs in Church Street/Lavelle Road Bangalore",
+ "ll": "@12.9718,77.5985,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:38:51.527Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Bar Spirit Forward",
+   "place_id": "ChIJk1UT0hoXrjsRnVPEieFPPfQ",
+   "data_id": "0x3bae171ad2135593:0xf43d4fe189c4539d",
+   "rating": 4.4,
+   "reviews": 377,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "Ground Floor, Hotel Southern Star, 40/2, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974637,
+    "longitude": 77.59935
+   }
+  },
+  {
+   "position": 2,
+   "title": "LIT Gastropub Church Street",
+   "place_id": "ChIJYX6pwO8XrjsRR8TKgEDnrg8",
+   "data_id": "0x3bae17efc0a97e61:0xfaee74080cac447",
+   "rating": 4.2,
+   "reviews": 1300,
+   "type": "Pub",
+   "address": "29, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975066,
+    "longitude": 77.60401
+   }
+  },
+  {
+   "position": 3,
+   "title": "Monkey Bar",
+   "place_id": "ChIJzWN9rSoUrjsRiR5_FDQyN5k",
+   "data_id": "0x3bae142aad7d63cd:0x99373234147f1e89",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "First Floor, The Museum, No.1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975082,
+    "longitude": 77.60288
+   }
+  },
+  {
+   "position": 4,
+   "title": "The Biere Club | Lavelle Road",
+   "place_id": "ChIJMYFexnkWrjsRMszkT3qrDa0",
+   "data_id": "0x3bae1679c65e8131:0xad0dab7a4fe4cc32",
+   "rating": 4.2,
+   "reviews": 17000,
+   "type": "Pub",
+   "address": "20/2, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.970886,
+    "longitude": 77.59759
+   },
+   "comment": "Menu highlighted by Mangalorean cuisine"
+  },
+  {
+   "position": 5,
+   "title": "Scottish Pub",
+   "place_id": "ChIJQTliQXkWrjsR2rEq2Hv2yWI",
+   "data_id": "0x3bae167941623941:0x62c9f67bd82ab1da",
+   "rating": 4.1,
+   "reviews": 858,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Bar",
+   "address": "Vasavi Complex, 17/21, St Mark's Rd, opposite to SBI Branch Church Street Bengaluru",
+   "gps_coordinates": {
+    "latitude": 12.971919,
+    "longitude": 77.60096
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Pegs N Bottles - The Standing bar",
+   "place_id": "ChIJj0BBcPsXrjsR104D_bZoARU",
+   "data_id": "0x3bae17fb7041408f:0x150168b6fd034ed7",
+   "rating": 4.3,
+   "reviews": 1800,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "30, Church St, opposite to SBI",
+   "gps_coordinates": {
+    "latitude": 12.975158,
+    "longitude": 77.60371
+   }
+  },
+  {
+   "position": 7,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   }
+  },
+  {
+   "position": 8,
+   "title": "Skyye",
+   "place_id": "ChIJjfOyQ3cWrjsRz_TvsEoOQ0A",
+   "data_id": "0x3bae167743b2f38d:0x40430e4ab0eff4cf",
+   "rating": 4.3,
+   "reviews": 9700,
+   "type": "Lounge bar",
+   "address": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971427,
+    "longitude": 77.596504
+   },
+   "comment": "Sleek rooftop lounge with global cuisine"
+  },
+  {
+   "position": 9,
+   "title": "FLO Church Street",
+   "place_id": "ChIJP6ib09YXrjsRiRI8IaBtsmc",
+   "data_id": "0x3bae17d6d39ba83f:0x67b26da0213c1289",
+   "rating": 4,
+   "reviews": 3600,
+   "type": "Bar",
+   "address": "MSR Building, FLO, #3, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974338,
+    "longitude": 77.60682
+   }
+  },
+  {
+   "position": 10,
+   "title": "Coco’s Bar/Kitchen",
+   "place_id": "ChIJrUsfBnUXrjsRY1xciuI_Wfc",
+   "data_id": "0x3bae1775061f4bad:0xf7593fe28a5c5c63",
+   "rating": 3.6,
+   "reviews": 987,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "XJG3+4Q2, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975257,
+    "longitude": 77.60439
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Easy Tiger",
+   "place_id": "ChIJ_wUFx30WrjsRol7OhCVyRXM",
+   "data_id": "0x3bae167dc70505ff:0x7345722584ce5ea2",
+   "rating": 4.1,
+   "reviews": 6000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "1/A, Church St, opposite Starbucks Café",
+   "gps_coordinates": {
+    "latitude": 12.974352,
+    "longitude": 77.60714
+   }
+  },
+  {
+   "position": 12,
+   "title": "Chins Bar & Kitchen by Chin Lung",
+   "place_id": "ChIJJRryBvQXrjsRQcMWmxjNZX4",
+   "data_id": "0x3bae17f406f21a25:0x7e65cd189b16c341",
+   "rating": 4.6,
+   "reviews": 22,
+   "price": "₹1,200–1,400",
+   "extracted_price": {
+    "min": 1200,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "Plot Number 25, 4, Lavelle Road, opposite Harley Davidson Showroom",
+   "gps_coordinates": {
+    "latitude": 12.97068,
+    "longitude": 77.59753
+   }
+  },
+  {
+   "position": 13,
+   "title": "Howl’n Pub",
+   "place_id": "ChIJtzmr3yIXrjsRSImJFqs_7Zg",
+   "data_id": "0x3bae1722dfab39b7:0x98ed3fab16898948",
+   "rating": 4,
+   "reviews": 336,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "2nd Floor, 53-55, Church St, above starbucks",
+   "gps_coordinates": {
+    "latitude": 12.974508,
+    "longitude": 77.60742
+   }
+  },
+  {
+   "position": 14,
+   "title": "Talli Terrace Church Street",
+   "place_id": "ChIJzcYhRJkXrjsR-DtiiAVW6Lw",
+   "data_id": "0x3bae17994421c6cd:0xbce8560588623bf8",
+   "rating": 4,
+   "reviews": 651,
+   "type": "Grill",
+   "address": "29, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975066,
+    "longitude": 77.60396
+   }
+  },
+  {
+   "position": 15,
+   "title": "Amoeba Sports Bar- Church Street",
+   "place_id": "ChIJjZsmvE0XrjsRnCNWj3DDioc",
+   "data_id": "0x3bae174dbc269b8d:0x878ac3708f56239c",
+   "rating": 4.6,
+   "reviews": 203,
+   "type": "Sports bar",
+   "address": "Amoeba complex, 22, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974678,
+    "longitude": 77.604904
+   }
+  },
+  {
+   "position": 16,
+   "title": "Church Street SOCIAL",
+   "place_id": "ChIJa96pe3wWrjsR0GMgr64hzXw",
+   "data_id": "0x3bae167c7ba9de6b:0x7ccd21aeaf2063d0",
+   "rating": 4.2,
+   "reviews": 17000,
+   "type": "Bar",
+   "address": "Cobalt, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975645,
+    "longitude": 77.60268
+   },
+   "comment": "Hip global cafe, meeting place & bar",
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Una Hacienda",
+   "place_id": "ChIJnzGrjksXrjsR4rSWqZdeGbo",
+   "data_id": "0x3bae174b8eab319f:0xba195e97a996b4e2",
+   "rating": 4.2,
+   "reviews": 91,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "Fifth Floor, Hotel Southern Star, 40/2, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.97469,
+    "longitude": 77.59949
+   }
+  },
+  {
+   "position": 18,
+   "title": "Over Coffee",
+   "place_id": "ChIJJWmX2SAXrjsRT9QGJFeKEKQ",
+   "data_id": "0x3bae1720d9976925:0xa4108a572406d44f",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "European",
+   "address": "Ground Floor, Chowriappa Complex, 41, B\" wing, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974978,
+    "longitude": 77.59952
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Highgarten Pub",
+   "place_id": "ChIJc-ysbm8XrjsRByAhLTcXFQ8",
+   "data_id": "0x3bae176f6eacec73:0xf1517372d212007",
+   "rating": 4.5,
+   "reviews": 405,
+   "type": "Restaurant",
+   "address": "3rd floor, 53, Church St, above Starbucks",
+   "gps_coordinates": {
+    "latitude": 12.974516,
+    "longitude": 77.60742
+   }
+  },
+  {
+   "position": 20,
+   "title": "Socials 2.0",
+   "place_id": "ChIJO4hNYXwWrjsRcQlW5Ph2a_Y",
+   "data_id": "0x3bae167c614d883b:0xf66b76f8e4560971",
+   "rating": 3.7,
+   "reviews": 89,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "XJG3+73F, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975686,
+    "longitude": 77.602684
+   }
+  }
+ ]
+}

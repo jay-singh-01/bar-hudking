@@ -1,0 +1,1185 @@
+{
+ "q": "microbreweries in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:43:55.299Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJtcHnw3g9rjsROTzAoEmcyQw",
+   "data_id": "0x3bae3d78c3e7c1b5:0xcc99c49a0c03c39",
+   "title": "District 6 - Best German Microbrewery in Bangalore | Pub Rajajinagar",
+   "description": "Rustic-chic German eatery & brewpub. German dishes & beers featured in a European-style microbrewery with woodsy-chic, golden-hued decor.",
+   "address": "G-03, G-04, G-05 26/1, Dr Rajkumar Road, Malleshwaram, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072599 06666",
+   "rating": 4.4,
+   "reviews": 12621,
+   "website": "https://www.district6.in/",
+   "domain": "district6.in",
+   "gps_coordinates": {
+    "latitude": 13.0124183,
+    "longitude": 77.55475679999999
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Bar",
+    "Beer garden",
+    "Beer hall",
+    "Brewery",
+    "Pub",
+    "European restaurant",
+    "German restaurant",
+    "Live music bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/district-6-pub-brewery-and-kitchen-malleshwaram-331921",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmz1rwfqu0TTun1MPklHzqbjsLJaAU7Zu8DK6t3sh_6EWNOlJHg12nclCF8RFIcrXZJlQAzyppm2oFlOk6E6upn_ek1R-Pz-e6gd8TduyeUTpI8ylKXt8s2tS_Y6jjmmiv61sKEXw=w213-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ6VlNkBETrjsRTQamSEJHQiI",
+   "data_id": "0x3bae1311904d59e9:0x2242474248a6064d",
+   "title": "Byg Brewski Brewing Company",
+   "description": "Chic brewpub with an Asian menu. Sleek, modern microbrewery with outdoor tables beside a koi pond, plus a menu of Asian light bites.",
+   "address": "10/62/2A/2 & 3, Sarjapur Main Rd, behind MK Retail, near WIpro Corporate Office, Kaikondrahalli, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4716 6245",
+   "rating": 4.3,
+   "reviews": 46051,
+   "website": "http://www.bygbrewski.com/",
+   "domain": "bygbrewski.com",
+   "gps_coordinates": {
+    "latitude": 12.913142,
+    "longitude": 77.6830757
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/byg-brewski-brewing-company-sarjapur-sarjapur-road-south-bengaluru-330210",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R4zqICTtqvGNrOf2mAJypYxjq2R2HgfSshaY9jGDpXle97l0MPRaMgwj0NTxgN0XmIal9xUsWyE7e0GAQNO5N-qqHvb2pLXmle5lVV8ZfS4cgX0mMC9qKuTQwQ1uALwnmwzU4cEA=w122-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJK-BeIhMVrjsRicb2OIniTCY",
+   "data_id": "0x3bae1513225ee02b:0x264ce28938f6c689",
+   "title": "Brau Galie Micro Brewery & Pub",
+   "address": "25, 4th B Cross Rd, Industrial Area, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098008 29900",
+   "rating": 4.5,
+   "reviews": 1053,
+   "website": "http://braugalie.com/",
+   "domain": "braugalie.com",
+   "gps_coordinates": {
+    "latitude": 12.9330419,
+    "longitude": 77.6135932
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 10 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–1 am",
+    "tuesday": "10 am–1 am",
+    "wednesday": "10 am–1 am",
+    "thursday": "10 am–1 am",
+    "friday": "10 am–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/brau-galie-microbrewery-1-koramangala-5th-block-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iRBIuNxgFlfshOtngDb67pOZp_Z4ncesupD2arOu1KinCtqcBOkqsKIZ13MfS75ltMETiC_3Y2P19rt0HifU2RGnK8lrRMGdFuDP3RLagEjGqR934%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkOODXRU7LvgahAmFV8iSO4oNb93nL4kyGQRZJ2TQYEWmkzs6OoaShHA6_h_1pbVwgit90xDgFWSU6_dJ8hctdvNhUpPx4wANwnpj5zOc7mnymVUKwwouO-tdXY1dkQV80R1wt-N7MnYME=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJPR-ZhNQTrjsRL5ghswxh8qs",
+   "data_id": "0x3bae13d484991f3d:0xabf2610cb321982f",
+   "title": "The Golden Circle Brewery",
+   "address": "Sy. No. 41/9, BBMP No. 154/41/9, Doddakanneli, Sarjapur Main Rd, Carmelram, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090352 94949",
+   "rating": 4.5,
+   "reviews": 3821,
+   "website": "https://thegoldencirclebrewery.com/",
+   "domain": "thegoldencirclebrewery.com",
+   "gps_coordinates": {
+    "latitude": 12.9084602,
+    "longitude": 77.6902314
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-golden-circle-brewery-sarjapur-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hvQLGkTU-NJXsHk6TuVsh-l-fa5H9W3n2joPupE6PG90VCNvLu5NtkGQhd2pd_fka-y5SZCzledRO4UPfJlAdgMRD0MFnMoj2ZFhZ5eFtDqsljTtA%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnV19hSFw-ndyqLb-2b-7MLdsjqH4q7PV0RBNLjGN92MoEQ3yJrbqWaOvXbO7myJ4Xf7Rs-TmRy7J2IFeXLyG1LfCMQKFq_mA-yBhAZUdEmruSb0gU0OuTeAfK0Ib802oMtoL4qktGBpbVm=w80-h106-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJFWKvqmwTrjsRgu5YOEqOaRg",
+   "data_id": "0x3bae136caaaf6215:0x18698e4a3858ee82",
+   "title": "La Casa Brewery + Kitchen",
+   "description": "Homely continental restaurant & takeaway. Rustic and simple continental restaurant with a leafy rooftop seating area.",
+   "address": "Amrutha Engineering collage, NO 877/1/2&895/19/20, 1st Cross Rd, near ICICI BANK, opp. KFC, Kasavanahalli, Eastwood Twp, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4217 2469",
+   "rating": 4.2,
+   "reviews": 10161,
+   "gps_coordinates": {
+    "latitude": 12.9042614,
+    "longitude": 77.675845
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Gastropub",
+    "Restaurant",
+    "Valet parking service"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "http://reservex.explorex.co.in/r/2c135754-86f4-4d55-a9cd-b435ccae0efb",
+    "source": "explorex.co.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSI6y-tvg-hMaLgJjtxF2HkfHE2NFnoGOxxGEP8emsIdZniwT1SwrjIbB9ISw3tdjelNlbxNbxlwok0AhIby7RTW9TWgPn4I8cLvNPRl7rEMyJ1xHwYvAL8RttoneZxztmRmZg4A=w80-h106-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJnytVQY0TrjsR_Cs1pYPdg1Y",
+   "data_id": "0x3bae138d41552b9f:0x5683dd83a5352bfc",
+   "title": "Tropika Brewing Co",
+   "address": "37/1, Outer Ring Rd, next to Shell Petrol Bunk, Panathur, Marathahalli Between Royal Oak and Shell Petrol Bunk, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6591 2627",
+   "rating": 4.5,
+   "reviews": 5783,
+   "website": "https://tropikabrewing.com/",
+   "domain": "tropikabrewing.com",
+   "gps_coordinates": {
+    "latitude": 12.9424367,
+    "longitude": 77.697508
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/tropika-brewing-co-marathahalli-koramangala-bangalore-1279345/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAkolBKOFARzYSLdTWbUkZfZ59uo-QwvuTn0Nx9e2RTBsq6JLa6ceG1Kit6yl5-AYw_C80jXZ7hin26DsUtjq9KAqT5SpEKBVEeXpf-UBzfIVLv1Dc2AsyZIP_zb8Krh2hFO8aRuOLhGYY=w163-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJgc-Hzj8ZrjsRZ_ECWaqHTWU",
+   "data_id": "0x3bae193fce87cf81:0x654d87aa5902f167",
+   "title": "Geist Brewing Co. Hennur",
+   "address": "04 & 05, UG - Upper Ground Floor, Bhartiya Mall Of Bengaluru, Kannuru, Bengaluru, Karnataka 560064",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088677 07102",
+   "rating": 4.4,
+   "reviews": 2536,
+   "website": "http://www.geist.in/",
+   "domain": "geist.in",
+   "gps_coordinates": {
+    "latitude": 13.0838244,
+    "longitude": 77.64447
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:15 am",
+   "open_hours": {
+    "monday": "11:15 am–11:30 pm",
+    "tuesday": "11:15 am–11:30 pm",
+    "wednesday": "11:15 am–11:30 pm",
+    "thursday": "11:15 am–11:30 pm",
+    "friday": "11:15 am–11:30 pm",
+    "saturday": "11:15 am–11:30 pm",
+    "sunday": "11:15 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/geist-brewing-co-jakkur-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_ixVcqvxbDjaIXvtN124orBjFfC_Zup1Q-N-xPEfCMpssfQRqi-WoeBk4d__bEgFjJEg6uVgxUNQUeNUJOzFNbWL5IU8zibLXPzDJvaMFnlKay-aVw%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmANmS1NB3iAt426O5f45ah91JDXaDRiVBa5a7ZEeWkoXLX-__yuD7Sj4aOO2dsZFWRGAT0udINMiifz839_7MBbV6E4bLnQSAH2xhzhgiKmQqQH8vTPf9r9OMwpz_erLcb8LQsBWgHHMfZ=w80-h106-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJu-m8mBEUrjsREFVZh0GU3Q0",
+   "data_id": "0x3bae141198bce9bb:0xddd944187595510",
+   "title": "Murphy's Brewhouse",
+   "description": "Irish-style pub for microbrews & bites. This wood-paneled Irish bar serves house-brewed beers alongside Indian & global pub grub.",
+   "address": "The Paul, 139/28, 5th floor, off Intermediate Ring Road, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4047 7777",
+   "rating": 4.3,
+   "reviews": 4368,
+   "website": "https://www.thepaulbangalore.in/restaurants/murphys-brewhouse.html",
+   "domain": "thepaulbangalore.in",
+   "gps_coordinates": {
+    "latitude": 12.9537792,
+    "longitude": 77.63968129999999
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Pizza restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/murphys-brewhouse-the-paul-bangalore-domlur-indiranagar-bangalore-688059/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkB6g0vtWwTzFJErzlPR47luv3fouy0ILb8mVSUvUv0ynNha1LVesWB6Zuz_BHR-o8BfrOi6ufeOthL-2poHFBDYhj5sm3nLQqIuP7kbCuAsaRnJLQsLLNroAvdsV8WZ7Fv25k=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJV8UTm9sXrjsRGCp8kZTutYc",
+   "data_id": "0x3bae17db9b13c557:0x87b5ee94917c2a18",
+   "title": "ICB INDIAN CRAFT BREWERY",
+   "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6520 9999",
+   "rating": 4.8,
+   "reviews": 8994,
+   "website": "http://icb.beer/",
+   "domain": "icb.beer",
+   "gps_coordinates": {
+    "latitude": 13.0418817,
+    "longitude": 77.61604249999999
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/icb-indian-craft-brewery-nagawara-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_guxEmlGUh0ps8n7XuISJwxgoEEINizHwg2dFDSKhVL21jqJ2DQV0SuQ4krlh_4ks_ooqZvf4MKYRsCEwQeSrPT8UE0FnpaTrZR5WYRVjR2w58d6fI%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2p0KCz156fdS0nSy_9NOnwe2E7fBo9NbLz2-hLS4BJqWpUCGSt3mpnyJCtLbhkNBMkei6JusjI_zA2mIzPd-yirVF0DBrwvs_Ohohr94-zR9uNyHll8ahDUE4ZYTm_AfUwtBeQw=w163-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJOVrqGt9rrjsRk8ByPz0r9Mc",
+   "data_id": "0x3bae6bdf1aea5a39:0xc7f42b3d3f72c093",
+   "title": "BLR Brewing Co - Electronic City",
+   "description": "Hip brewpub with global menu & beer. International meals & beer in a trendy, sizable brewpub with outdoor seats & happy-hour specials.",
+   "address": "4th Floor, 84/4, Neeladri Rd, opposite to Wipro Gate, Karuna Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4710 8277",
+   "rating": 4.4,
+   "reviews": 5049,
+   "website": "http://www.blrbrewing.com/",
+   "domain": "blrbrewing.com",
+   "gps_coordinates": {
+    "latitude": 12.8402997,
+    "longitude": 77.6533977
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Beer garden",
+    "Brewpub",
+    "Pub",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/blr-brewing-co-electronic-city-bangalore-314969/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsmEn4LQfRe7uOG8JA4LPr0N-Te3NQx-TyrYCXzfLKioszs4Ufm-RAgTRHkemkVW_3QuC5zm0M1d4K_fbWqB4-h3AGD6m13SVNZUmhemaZVB_jswKOCK9r2418t4-L6rz0wpfX=w167-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJr_DcfT4RrjsRmWLGwnMRz3M",
+   "data_id": "0x3bae113e7ddcf0af:0x73cf1173c2c66299",
+   "title": "Biere Kraft Brew & Kitchen",
+   "address": "4th floor, Samikha Icon, 62/02, Outer Ring Rd, Doddanekkundi, Mahadevapura, Bengaluru, Karnataka 560037",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "076250 27064",
+   "rating": 4.8,
+   "reviews": 1311,
+   "website": "https://www.bierekraft.in/",
+   "domain": "bierekraft.in",
+   "gps_coordinates": {
+    "latitude": 12.9820112,
+    "longitude": 77.6927827
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Cocktail bar",
+    "Fine dining restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://bierekraft.in/",
+    "source": "bierekraft.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlW5_2-FcaXldYhAGGyLkGi7E4Bl5Yepjyz33hpjKeH9K6kUZFErhJFBkDuuOWszzFXt4_lvIAfxd9f4HlADkXBZDYX-8kYwLr_1gnEm5IvwI_fvjFuxhCvmYpMpeShWJorMW8cQC1UCgkA=w80-h119-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJ8biIVHEXrjsRgN5HRGvabx4",
+   "data_id": "0x3bae17715488b8f1:0x1e6fda6b4447de80",
+   "title": "Peepai Brewery & Kitchen",
+   "address": "102/1 & 102/2, Ground Floor, GM Arcade Service Road - Bellary Road, Hebbal, North, Taluk, Bengaluru, Karnataka 560092",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096327 06699",
+   "rating": 4.5,
+   "reviews": 5496,
+   "gps_coordinates": {
+    "latitude": 13.055678,
+    "longitude": 77.5931348
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Bar",
+    "Brewery",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/peepai-3-hebbal-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gLLYZCnpnX8V3WkhIM10gO7MvuHJ6mzisBgFTLtMs7Afc6lwuJLxSO4heJLlYILcmrkvWaBrcst2c59TpVYpbsXZTzZrAyPtJ4SNJQaV1MuE2sM08%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SGZ6cBS5izhT2er8gO8zET1WxCG-ekqqrwF3TeUTL4xja9WiXl1V1amDx5gJy-yDLM0rUfLVJZIIssdy4KEQwmz6youWZ7JsmHITgwOeSZTInbqxM9awx7VkOW1XgkJA1sEiQI=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJLx0ZKUcXrjsRn3ic9Xnlowo",
+   "data_id": "0x3bae174729191d2f:0xaa3e579f59c789f",
+   "title": "7 Rivers Brewing Company",
+   "address": "No. 41/3, Taj MG Road, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080666 04333",
+   "rating": 4.3,
+   "reviews": 2531,
+   "website": "https://www.tajhotels.com/en-in/hotels/taj-mg-road-bangalore/restaurants/7rivers-brewing-co",
+   "domain": "tajhotels.com",
+   "gps_coordinates": {
+    "latitude": 12.9734548,
+    "longitude": 77.6198703
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/seven-rivers-brewing-co-taj-mg-road-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iEmcuBQ7uS-4zAAzm8EowdS88SVzwOV74zq7irxDabYHz0E02l_jN2BCmwnx9gF_xJu9THuA9rFC7oINy6dbKgo1vYKCRCT3rAVCSeGSk-UN4WwAY%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZLFHoHjOyK1Ud3IneXTnNOhZd2085w-UxGYsIZVZVYjDoghcfkyeLUWwiC3MOT4Dhl7yX4I8CfRztE804-1tvxNniL77WsIXIZOmB0NOtMneRjUqbVvXGNrK_S9Vy9jU3v_zvvg=w80-h106-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJLRPU0XdBrjsRPBcMTRN2ViI",
+   "data_id": "0x3bae4177d1d4132d:0x225676134d0c173c",
+   "title": "BLR Brewing Co - Kanakapura Road",
+   "address": "Vajarahalli, Paramount Gardens, Jyotipuram, Bengaluru, Karnataka 560109",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4716 2222",
+   "rating": 4.6,
+   "reviews": 12500,
+   "website": "http://www.blrbrewing.com/",
+   "domain": "blrbrewing.com",
+   "gps_coordinates": {
+    "latitude": 12.8680922,
+    "longitude": 77.543297
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Pizza delivery",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/blr-brewing-co-1-kanakapura-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gXZtQspaSdbyxS8lEhm1qfahKIuHMR6kHTtiOSoH8kG1-i-m-GSqBI4cjb82I6kWHne4FuCHqQPBs9MkNohOBp4k1TvASHfntyGVWq0G4Kf9iZ4cc%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxe3LYXuyjD4ERDVCh8Yz1y1PR4gR041V3bptfaC5qKtjB87eysIDF6eNMIJqeVUEXhRW02c8shBMdMeJABzMGLITI9jY00adQunJGFF_TZ99Mk2EW3aQEO1mVYgQcV0vllXKJwe_0HQU=w163-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJVTKP8W8XrjsRnbA6ElWJqaQ",
+   "data_id": "0x3bae176ff18f3255:0xa4a98955123ab09d",
+   "title": "Biergarten Brewery & Kitchen (Manyata)",
+   "address": "BLOCK-U, MANYATA TECH PARK-1, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6951 3335",
+   "rating": 4.7,
+   "reviews": 1567,
+   "website": "https://widget.reservego.co/reserveBrands/64abaf92c0fd5976db51863e?source=6",
+   "domain": "widget.reservego.co",
+   "gps_coordinates": {
+    "latitude": 13.0421682,
+    "longitude": 77.6198606
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/biergarten-manyata-tech-park-nagawara-704195",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfJFOXFQvW2aSZnRkl6_TD-mM9V5R6aD2t11VtIUsMDoTxWF4jt65RIz5dvWzGWcmZRXc4vQfffn3FDS-rjbtL9mP2EtDWL0cSAzW2HYpLpGUtRDRvaYQ0YpqoppfwXSlt-vzy=w80-h106-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJd5CMLo0RrjsRboHwm9XNEzg",
+   "data_id": "0x3bae118d2e8c9077:0x3813cdd59bf0816e",
+   "title": "Windmills Craftworks [Whitefield]",
+   "description": "Arty brewery, jazz venue & Indian eatery. Microbrewery & Indian restaurant with house beers, an arty book collection & a lineup of live jazz.",
+   "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "078997 40309",
+   "rating": 4.4,
+   "reviews": 21578,
+   "website": "https://windmills-india.com/",
+   "domain": "windmills-india.com",
+   "gps_coordinates": {
+    "latitude": 12.9825325,
+    "longitude": 77.7217732
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Brewery",
+    "Jazz club"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/windmills-craftworks-whitefield-east-bengaluru-715949",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_NSZdSA9rL7zGmTa_05-YMMt4IyPIyauozEVuMOHx-PIBmfwaG6vRAyffAdCB-9T0YmPYDG67xXMgBMMdQjhABV7_G1jSL3-aok-wPQy_rAEFKaiLTpCaqFgDbRQGf-tjpClyjQ=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJrbu4nJcprjsR5FiVHEvHxkE",
+   "data_id": "0x3bae29979cb8bbad:0x41c6c74b1c9558e4",
+   "title": "Toit Mahadevapura",
+   "address": "59/2, Bagmane Constellation Business Park, 59/1, Ferns City, Doddanekundi Village, KR Puram, Bengaluru, Karnataka 560048",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097315 73593",
+   "rating": 4.6,
+   "reviews": 1942,
+   "website": "https://toit.in/",
+   "domain": "toit.in",
+   "gps_coordinates": {
+    "latitude": 12.9810898,
+    "longitude": 77.69686829999999
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "Closed",
+    "saturday": "12 pm–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RI2NBWnADMmeysliRSsa9KigUTniHw_mkYV05bmRJZMlXsHpp556D3gSjfuX2u2R70MZNtt1krS8NqH7nk-8j_fKX8LituBw64ZAmcbpHilpMIs0wXp6lShQxw2bOMAdsHYzCjbw=w80-h106-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJXT-02aAVrjsRrnSVC-VnchA",
+   "data_id": "0x3bae15a0d9b43f5d:0x107267e50b9574ae",
+   "title": "Ganbeii Microbrewery",
+   "address": "No. 91, near Jyoti Nivas College Road, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095133 37333",
+   "rating": 4.7,
+   "reviews": 3015,
+   "website": "https://widget.reservego.co/reserveOutlets/674f3230abfd02e7e63a6120?source=4&fbclid=PAb21jcANEV2pleHRuA2FlbQIxMQABp3obULCURXzhITJAteSirNWGeVgcjivGr0AFDEDR-0VnFArZWiCRHZ6SL58M_aem_b1VGYvK0HDU7A91yT-IAqw",
+   "domain": "widget.reservego.co",
+   "gps_coordinates": {
+    "latitude": 12.9330126,
+    "longitude": 77.6147269
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–1 am",
+    "tuesday": "7:30 am–1 am",
+    "wednesday": "7:30 am–1 am",
+    "thursday": "7:30 am–1 am",
+    "friday": "Closed",
+    "saturday": "7:30 am–12 am",
+    "sunday": "7:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/widget/outlet/674f3230abfd02e7e63a6120?source=9",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk0YjqUgoSpyhabIVkAoV8HLJKytRlMBldqGyMhFvnF8Cpe9IkjsskglXHeMAIcFC0ukNoQiTcQVAbVMJ0ubKVwsCLMcVHFDRwF24jefWIs0jcpZqJt4nS05tm6MUuV3W-tU33x3Q=w137-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJHSRVNlsUrjsRe-wZJirXY88",
+   "data_id": "0x3bae145b3655241d:0xcf63d72a2619ec7b",
+   "title": "Brooks and Bonds Brewery",
+   "address": "4, 100 Feet Rd, KHB Block Koramangala, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097395 55576",
+   "rating": 4.1,
+   "reviews": 12016,
+   "gps_coordinates": {
+    "latitude": 12.9341554,
+    "longitude": 77.6233871
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/brooks-and-bonds-brewery-koramangala-bangalore-191390/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2QyVoXi71PyRQG8bFOYcwOTd_4NGJl_haCsmJm1L2qrvq4NhPb5eXlM6NMxF7pOzNk4FvYF89I5Tk34qb0aLN3-qW7tJUMrcgPHWKCOlXe4rCGdcWwPGdtAKbiAa0awqiFqQHxg=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ9U4P4j49rjsRtI-gNgfLpV4",
+   "data_id": "0x3bae3d3ee20f4ef5:0x5ea5cb0736a08fb4",
+   "title": "Geist Brewing Co. Rajajinagar",
+   "address": "UG - 09 C, Upper Ground Floor, Orion Mall, Brigade Gateway 26 / 1 Dr Rajkumar Road, Malleswaram, West, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088677 07102",
+   "rating": 4.3,
+   "reviews": 673,
+   "website": "http://geist.in/",
+   "domain": "geist.in",
+   "gps_coordinates": {
+    "latitude": 13.0115187,
+    "longitude": 77.5553778
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Brewery",
+    "Cocktail bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/geist-brewing-co-malleshwaram-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gJxqOVaY8oYZT_k20jWPCOsbIzPftvKj-AbvPS8cEJyFOMGAxsDzIePmGlUMkfc2vnKW-r5QghBQD__46sfbzTZOBZ7JBmESvMBqFXysxCwQDhZFI%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQEuJPlC82c6A_UltMOZRgv6E1zghbCYjfM5YUHs1udn895wz1V1nMZxDVcivggMujbmc1CiHYn4iwVrMlR7Hx5XK5V1AT1iCs20kqVQEoC8pwkmrjP_atChznS_BKH5Sd_Kr8=w80-h106-k-no"
+  }
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "q": "bars and pubs in MG Road/Brigade Road Bangalore",
+ "ll": "@12.9752,77.6065,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:30:09.124Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Club 01",
+   "place_id": "ChIJWXsTK7wXrjsR0DbdwgHcHKY",
+   "data_id": "0x3bae17bc2b137b59:0xa61cdc01c2dd36d0",
+   "rating": 4.2,
+   "reviews": 40,
+   "type": "Bar",
+   "address": "Blue moon complex no 64 1st floor, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975153,
+    "longitude": 77.60737
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "JB Arena (Just BLR)",
+   "place_id": "ChIJt70MDSsXrjsRSeny0Uoc9oc",
+   "data_id": "0x3bae172b0d0cbdb7:0x87f61c4ad1f2e949",
+   "rating": 4.9,
+   "reviews": 3400,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Night club",
+   "address": "Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973214,
+    "longitude": 77.60731
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "VINTAGE ADDA RESTOBAR",
+   "place_id": "ChIJcQInu0IXrjsR_0LcIFqpz2s",
+   "data_id": "0x3bae1742bb270271:0x6bcfa95a20dc42ff",
+   "rating": 4.9,
+   "reviews": 969,
+   "type": "Grill",
+   "address": "6/2, Brigade Road, 1st floor, Geetha mall building, Rest House Rd",
+   "gps_coordinates": {
+    "latitude": 12.973766,
+    "longitude": 77.60668
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Howl’n Pub",
+   "place_id": "ChIJtzmr3yIXrjsRSImJFqs_7Zg",
+   "data_id": "0x3bae1722dfab39b7:0x98ed3fab16898948",
+   "rating": 4,
+   "reviews": 336,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "2nd Floor, 53-55, Church St, above starbucks",
+   "gps_coordinates": {
+    "latitude": 12.974508,
+    "longitude": 77.60742
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Paradox Pub",
+   "place_id": "ChIJlaE_rAAXrjsR2AI6ecqITic",
+   "data_id": "0x3bae1700ac3fa195:0x274e88ca793a02d8",
+   "rating": 3.7,
+   "reviews": 33,
+   "price": "₹1,000–2,000",
+   "extracted_price": {
+    "min": 1000,
+    "max": 2000
+   },
+   "type": "Bar",
+   "address": "&55/1, RR No 55, Church St, above Starbucks",
+   "gps_coordinates": {
+    "latitude": 12.974597,
+    "longitude": 77.60743
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "CBD Central Bar District",
+   "place_id": "ChIJ1ehFcaoXrjsRSPDSwPZ3t2E",
+   "data_id": "0x3bae17aa7145e8d5:0x61b777f6c0d2f048",
+   "rating": 4.2,
+   "reviews": 873,
+   "type": "Grill",
+   "address": "3, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974446,
+    "longitude": 77.6069
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Amoeba Sports Bar- Church Street",
+   "place_id": "ChIJjZsmvE0XrjsRnCNWj3DDioc",
+   "data_id": "0x3bae174dbc269b8d:0x878ac3708f56239c",
+   "rating": 4.6,
+   "reviews": 203,
+   "type": "Sports bar",
+   "address": "Amoeba complex, 22, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974678,
+    "longitude": 77.604904
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Highgarten Pub",
+   "place_id": "ChIJc-ysbm8XrjsRByAhLTcXFQ8",
+   "data_id": "0x3bae176f6eacec73:0xf1517372d212007",
+   "rating": 4.5,
+   "reviews": 405,
+   "type": "Restaurant",
+   "address": "3rd floor, 53, Church St, above Starbucks",
+   "gps_coordinates": {
+    "latitude": 12.974516,
+    "longitude": 77.60742
+   },
+   "extensions": [
+    "Closes soon",
+    "12:45 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Monkey Bar",
+   "place_id": "ChIJzWN9rSoUrjsRiR5_FDQyN5k",
+   "data_id": "0x3bae142aad7d63cd:0x99373234147f1e89",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "First Floor, The Museum, No.1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975082,
+    "longitude": 77.60288
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Sanctam pub",
+   "place_id": "ChIJUzES3LsXrjsRUF2gDijltxc",
+   "data_id": "0x3bae17bbdc123153:0x17b7e5280ea05d50",
+   "rating": 5,
+   "reviews": 7,
+   "price": "₹1–1,000",
+   "extracted_price": {
+    "min": 1,
+    "max": 1000
+   },
+   "type": "Pub",
+   "address": "XJC4+CP3, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.971023,
+    "longitude": 77.60679
+   }
+  },
+  {
+   "position": 11,
+   "title": "Wasabi Lounge",
+   "place_id": "ChIJGZiy964XrjsR9SJ1CMIpaIg",
+   "data_id": "0x3bae17aef7b29819:0x886829c2087522f5",
+   "rating": 3.6,
+   "reviews": 61,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "No: 27, Rest House Rd, off Brigade Road",
+   "gps_coordinates": {
+    "latitude": 12.973902,
+    "longitude": 77.606606
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Brigade Blues",
+   "place_id": "ChIJB3Qc_X0WrjsR23Oe8ER-RGU",
+   "data_id": "0x3bae167dfd1c7407:0x65447e44f09e73db",
+   "rating": 3.5,
+   "reviews": 105,
+   "type": "Bar",
+   "address": "No. 3, Swadeshi Towers, 2nd Floor, Rest House Rd",
+   "gps_coordinates": {
+    "latitude": 12.973608,
+    "longitude": 77.60717
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Golden Bar & Restaurant - The Best Resto Bar In Brigade Road",
+   "place_id": "ChIJ_3UoASkXrjsRdz-pdH2Ih3Y",
+   "data_id": "0x3bae1729012875ff:0x7687887d74a93f77",
+   "rating": 3.8,
+   "reviews": 24,
+   "type": "Restaurant",
+   "address": "Resthouse Road, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973707,
+    "longitude": 77.607346
+   }
+  },
+  {
+   "position": 14,
+   "title": "Cahoots Bangalore",
+   "place_id": "ChIJFYVV3yQXrjsRqi1mVonAZAc",
+   "data_id": "0x3bae1724df558515:0x764c08956662daa",
+   "rating": 4.7,
+   "reviews": 648,
+   "type": "Restaurant",
+   "address": "Ground Floor, No 48/1, Brigade Rd, near McDonald's",
+   "gps_coordinates": {
+    "latitude": 12.973239,
+    "longitude": 77.60748
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Chin Lung Resto Bar RESIDENCY ROAD",
+   "place_id": "ChIJ8RR0DfwTrjsR4c8XsUaKMWI",
+   "data_id": "0x3bae13fc0d7414f1:0x62318a46b117cfe1",
+   "rating": 4,
+   "reviews": 9100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "30, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.971847,
+    "longitude": 77.60664
+   },
+   "comment": "Casual stop for Indian cooking",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "BAYWATCH BAR AND RESTAURANT",
+   "place_id": "ChIJrRLpn4AWrjsRFTE5d-ZCYxE",
+   "data_id": "0x3bae16809fe912ad:0x116342e677393115",
+   "rating": 3.9,
+   "reviews": 116,
+   "type": "Bar",
+   "address": "Residency Rd, opposite to Samsung Opera House",
+   "gps_coordinates": {
+    "latitude": 12.972113,
+    "longitude": 77.607864
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Coco’s Bar/Kitchen",
+   "place_id": "ChIJrUsfBnUXrjsRY1xciuI_Wfc",
+   "data_id": "0x3bae1775061f4bad:0xf7593fe28a5c5c63",
+   "rating": 3.6,
+   "reviews": 987,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "XJG3+4Q2, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975257,
+    "longitude": 77.60439
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "RCB Bar and Cafe",
+   "place_id": "ChIJMYZlS40XrjsRB_M-a_xVlfw",
+   "data_id": "0x3bae178d4b658631:0xfc9555fc6b3ef307",
+   "rating": 4.3,
+   "reviews": 3500,
+   "type": "Sports bar",
+   "address": "5th & 6 th Floor, Garuda Mall, Magrath Rd",
+   "gps_coordinates": {
+    "latitude": 12.970054,
+    "longitude": 77.60961
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Bon Sante",
+   "place_id": "ChIJGVhi4X0WrjsR56H-AIECV08",
+   "data_id": "0x3bae167de1625819:0x4f57028100fea1e7",
+   "rating": 4.1,
+   "reviews": 257,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Pub",
+   "address": "6, Rest House Rd",
+   "gps_coordinates": {
+    "latitude": 12.9736595,
+    "longitude": 77.60676
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Night Owl Sky Lounge",
+   "place_id": "ChIJl1xq87YXrjsRQu7DoQL_TmQ",
+   "data_id": "0x3bae17b6f36a5c97:0x644eff02a1c3ee42",
+   "rating": 4.5,
+   "reviews": 1200,
+   "type": "Bar",
+   "address": "opp. Hotel Cunrad",
+   "gps_coordinates": {
+    "latitude": 12.9751,
+    "longitude": 77.61997
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1001 @@
+{
+ "q": "cafes in BTM Layout Bangalore",
+ "ll": "@12.9166,77.6101,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:43:33.838Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJTXf4zPQVrjsR1ByzpbQiQwY",
+   "data_id": "0x3bae15f4ccf8774d:0x64322b4a5b31cd4",
+   "title": "Olive Street Food Cafe - Btm Layout",
+   "address": "17th Main Rd, BTM 2nd Stage, MCHS Colony, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "087144 40921",
+   "rating": 4.6,
+   "reviews": 11602,
+   "gps_coordinates": {
+    "latitude": 12.9139165,
+    "longitude": 77.6104632
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm",
+    "sunday": "11 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TgRdGXNas-GU4YYqA9FZaXvg5bRp2hvfymmqRU-N9cwoaY1YY9EeWCFMfV0y35gcFYLkBFN-4DHdJGQmTsAkMJEU5nfwXn3STkxPlUIyYLz0xjxoLwh2iCGHecAfJzvBLFt-g=w123-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ9xhs6xUVrjsReNZ3z2G7nrM",
+   "data_id": "0x3bae1515eb6c18f7:0xb39ebb61cf77d678",
+   "title": "Selenophile Cafe ( Takeaway only)",
+   "address": "1, 5th main road, abbayappa Layout, NS Palya, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063630 71840",
+   "rating": 4.7,
+   "reviews": 335,
+   "gps_coordinates": {
+    "latitude": 12.9088419,
+    "longitude": 77.60348909999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Chinese restaurant",
+    "Continental restaurant",
+    "Dessert restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 4 am · Reopens 4 pm",
+   "open_hours": {
+    "sunday": "4 pm–4 am",
+    "monday": "4 pm–4 am",
+    "tuesday": "4 pm–4 am",
+    "wednesday": "4 pm–4 am",
+    "thursday": "4 pm–4 am",
+    "friday": "4 pm–4 am",
+    "saturday": "4 pm–4 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/selenophile-cafe-btm-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iH_OhSe9_eenIVbBwznfZe2GB0HWbPSZkMPVFuieLeA8wmUP6cE_pt4vmcXPiopkKHLH6tzzTRmepeGM4wIw2T70skvdU6kBnpiOQQ2FjjQcGMZ0g%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPorZWlB1DwuAfym7imW6K7jH6TRRqkTz4jv1LxCBMYMGrMU0d0JN8_mDveJjE47wQC4-JJOEGP-877vdEoFWpjOkbzdEQ92fOYbA2-GKSMrbVcjUCP0w9yZbB1doYtfwkPKcN=w80-h106-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJYyZzBOoVrjsRdlz9-h7eoRM",
+   "data_id": "0x3bae15ea04732663:0x13a1de1efafd5c76",
+   "title": "Peep in Cafe",
+   "address": "10th main, 7th Cross Rd, Mico Layout, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.6,
+   "reviews": 733,
+   "gps_coordinates": {
+    "latitude": 12.9134723,
+    "longitude": 77.6078945
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm",
+    "sunday": "11:30 am–11:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpH4TfmIWHt7doiMIWbH7phmvNubCZiWL0c9Zyhk1vNT1sq_Z0wl5SeOsU4gLKO03uglUc6HUPEEUCVPFEequIKKC35pSjBJs7hFM879Cc-RWQPQWUWYaKXPiHcYa3qyXNAo25Jg=w138-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJ8aa7ySIVrjsR1LLHeJULOek",
+   "data_id": "0x3bae1522c9bba6f1:0xe9390b9578c7b2d4",
+   "title": "Downtown Café BTM Layout",
+   "address": "urban vibes, 20th A Main Rd, Old Madiwala, Chikka Madivala, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088847 44255",
+   "rating": 4.5,
+   "reviews": 119,
+   "website": "http://www.chattybao.com/Downtown-Cafe-Btm-Layout",
+   "domain": "chattybao.com",
+   "gps_coordinates": {
+    "latitude": 12.9200838,
+    "longitude": 77.6131394
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Animal cafe",
+    "Art cafe",
+    "Cat cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open 24 hours",
+   "open_hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assisted listening devices",
+       "value": "Offers assisted listening devices"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QXDga_xA1HsVuZsqqsn3wbE8wifRoA1dJuaiaLm-cdU-djKwu-pjMWA-fG_K7FBCLjLNAtAaDgyFLILPwBYXdjQTVbLEEtoBtTQ3erX64RLyr1LzzRivdoDyxmT6y-mwFSXUC1H72giz9y=w80-h106-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJR4ADSoAVrjsReLZl1csRouE",
+   "data_id": "0x3bae15804a038047:0xe1a211cbd565b678",
+   "title": "Third Wave Coffee",
+   "address": "Shop No 248, 7th Cross, South, Micro Layout, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099866 52904",
+   "rating": 4.4,
+   "reviews": 1000,
+   "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-btm-layout-bengaluru/",
+   "domain": "thirdwavecoffeeroasters.com",
+   "gps_coordinates": {
+    "latitude": 12.9136923,
+    "longitude": 77.6052371
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee roastery",
+    "Coffee shop",
+    "Coffee store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–12 am",
+    "tuesday": "8 am–12 am",
+    "wednesday": "8 am–12 am",
+    "thursday": "8 am–12 am",
+    "friday": "8 am–12 am",
+    "saturday": "8 am–12 am",
+    "sunday": "8 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/third-wave-coffee-1-btm-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hpsEpxbAEbqaTfvxJr-TRU0_mhUv3UbPV1hhxdD5Mj2-FFdyidzdHia6EVT_uuWypHcfNQnopB-ZrymniddhMPYT78wcuDU_sdeOa5k917NcFtBbw%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Spwk32jej3K5PQ2X7SCBUECxDQ98Ci1v3gxfndvJhFIk-XvsTcXXGfEXs8yjnHB4_fVhz0fK5gq4E4A1f-7rX60WmjgRG8r42Y-ArU8XM8Jz6hVj97s8-0t2QN4dO1GLKEf74x=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJ7Sr0AekVrjsRXHkaH1Q4Y7Y",
+   "data_id": "0x3bae15e901f42aed:0xb66338541f1a795c",
+   "title": "The BTM Cafe",
+   "address": "ground floor, 357, 29th Main Rd, MCHS Colony, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070193 75810",
+   "rating": 4.8,
+   "reviews": 37,
+   "gps_coordinates": {
+    "latitude": 12.9091563,
+    "longitude": 77.6139601
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6 am",
+   "open_hours": {
+    "monday": "6 am–11:30 pm",
+    "tuesday": "6 am–11:30 pm",
+    "wednesday": "6 am–11:30 pm",
+    "thursday": "6 am–11:30 pm",
+    "friday": "6 am–11:30 pm",
+    "saturday": "6 am–11:30 pm",
+    "sunday": "6 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-btm-cafe-mchs-colony-koramangala-bangalore-1319465/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T5L5wEr5aQi3-J9MYjL2iMzxMEFsmz6isylSMIT4M97OMailGnJ3VW9XynK2aR3E0tk5yGjJImJpp1eBemdTlVjyqAdSPtUS5oF8zhtj7kUERbhpODbwES0mx6fhVW61QB1Q0mqWCKJSGv=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJjfA13gYVrjsR5CU_PN7t88s",
+   "data_id": "0x3bae1506de35f08d:0xcbf3edde3c3f25e4",
+   "title": "Coco Barista",
+   "address": "18th Main Rd, opposite CANARA BANK - BENGALURU BTM LAYOUT, BTM 2nd Stage, Kuvempu Nagar, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081054 90969",
+   "rating": 4.2,
+   "reviews": 236,
+   "gps_coordinates": {
+    "latitude": 12.9140946,
+    "longitude": 77.61082119999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Bistro",
+    "Breakfast restaurant",
+    "Coffee store",
+    "Ice cream shop",
+    "Juice shop",
+    "Sandwich shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–11 pm",
+    "tuesday": "7 am–11 pm",
+    "wednesday": "7 am–11 pm",
+    "thursday": "7 am–11 pm",
+    "friday": "7 am–11 pm",
+    "saturday": "7 am–11 pm",
+    "sunday": "7 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TLXVsxo03j5r5JEsenhvqSiUDXxXOVffCqxrME5JPaP-HaFlPg7A0jci3DQYXZmwhdBhdY077cKEeN0I1BcaFLjhcM9kgJnp4-1GYwTHrnsJUTtOJBVEbWai6dqDUEHeqjPtfTHg=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJy6UfUwAVrjsRn-uoVoKDi9A",
+   "data_id": "0x3bae1500531fa5cb:0xd08b838256a8eb9f",
+   "title": "Cafe Leo",
+   "address": "805/A, Mico employees, 7th Cross Rd, btm 2nd stage, nirmana sangha layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.7,
+   "reviews": 346,
+   "gps_coordinates": {
+    "latitude": 12.9139895,
+    "longitude": 77.6089011
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Chinese restaurant",
+    "Coffee shop",
+    "Continental restaurant",
+    "Indian restaurant",
+    "Steak house"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 1 pm",
+   "open_hours": {
+    "monday": "1 pm–12 am",
+    "tuesday": "1 pm–12 am",
+    "wednesday": "1 pm–12 am",
+    "thursday": "1 pm–12 am",
+    "friday": "1 pm–12 am",
+    "saturday": "1 pm–12 am",
+    "sunday": "12:30 pm–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXBxlGSzmr1E-28bkBFKyxIXv_a3c8K9ZXPCHBonbCAZ5iBnHfY8GvyrmlyzkQezjVn2B7dZeC8ek1dZeSZz06oo5rftDJMOxc4dxEbRFHQeph1BTDoO4zTZsCzm_FUkXjreuX=w163-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "title": "STORIES BREWERY & KITCHEN",
+   "description": "Beer & quick bites in a hip, stylish bar. Trendy destination with a glassed-in patio & garden seating, offering cocktails & shared-plates.",
+   "address": "29th Main Rd, BTM 2nd Stage, Mahadeshwara Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4680 9326",
+   "rating": 4.4,
+   "reviews": 8967,
+   "website": "http://www.storiesbrewery.com/",
+   "domain": "storiesbrewery.com",
+   "gps_coordinates": {
+    "latitude": 12.9056972,
+    "longitude": 77.6085236
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "Closed",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/stories-brewery-kitchen-btm-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hEwB_d3cxiIajGlAKsA6KlHaozkDRdcnxBn-PTSsh1TaoreZHGbO7rK2wAg7F-_eSXsZCZCgFxA9eDYFKXLw8w0NHWEOqRUx25alGzgYwLY-a0WCk%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRM33qRgJeg6RCO2c--LbxWU-n2pcfGyS3Wp55LbZX8JR3tO4IM0rOqfxUSn5pfo8cxBZLSMvgX85yRUCCUnSFWgZ8TTydpaVZRjXJpgPAsn70mB4LeWZgZumHhVAzfzOeDZ3JUw=w138-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJ85L3IfsUrjsR8_FXLZ41FH0",
+   "data_id": "0x3bae14fb21f792f3:0x7d14359e2d57f1f3",
+   "title": "Speedbreaker - The Desi Cafe",
+   "address": "3rd A Cross Road, #8, Tank Shore Rd, BTM 2nd Stage, EWS Colony, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 2949,
+   "gps_coordinates": {
+    "latitude": 12.9130938,
+    "longitude": 77.615991
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–11:30 pm",
+    "tuesday": "7 am–11:30 pm",
+    "wednesday": "7 am–11:30 pm",
+    "thursday": "7 am–11:30 pm",
+    "friday": "7 am–11:30 pm",
+    "saturday": "7 am–11:30 pm",
+    "sunday": "7 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SOn60cMbhN0dgGBLbczA-_Mh1NOo5RdLRcGU7D8QZTIjiZ1Es-mNGPKDRXNBK9yHIkAiAt21rW6KM2yNb0jPcCs88NHTujMW9m0I2gfUptnsRZqsqgRJPcm90yMLheKztbc71Atw=w194-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJ40GKNgAVrjsRePIkNFzm5n8",
+   "data_id": "0x3bae1500368a41e3:0x7fe6e65c3424f278",
+   "title": "GULHEERA(Coffee + Kitchen)",
+   "address": "289, 7th Main Rd, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088677 84416",
+   "rating": 4.2,
+   "reviews": 263,
+   "website": "https://www.instagram.com/gulheeracoffee/",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9145636,
+    "longitude": 77.6060456
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop",
+    "Italian restaurant",
+    "Sandwich shop",
+    "Wi-Fi spot"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–12 am",
+    "tuesday": "10 am–12 am",
+    "wednesday": "10 am–12 am",
+    "thursday": "10 am–12 am",
+    "friday": "10 am–12 am",
+    "saturday": "10 am–12 am",
+    "sunday": "10 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/gulheera-coffee-1-btm-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_ghBbnL9mfnigpUTfR2u1V6gODsCQQvw03t8gxLISqG5GTk6kk9hJMiX3Ra37YqRY8Ti-ITW9YLmYiBbIXQCNz2MMGeJHtnqXlgKo1W867gZd8n47o%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tg-4qE9qq58pVemJDK_2HFkZw0DX0NopThUaXAKcLcYH_fqmrK2e_qXmUJJII7H5t3fOOrLVH-OMMdWYfCesoyRv-S-RvjPMyx7CauBWglOVesUi3MOi3yVs1pJLQinQzUe_4Fl_O4mls=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJ-9yTcgAVrjsRJF59YHVqDW8",
+   "data_id": "0x3bae15007293dcfb:0x6f0d6a75607d5e24",
+   "title": "Slurrp Cafe",
+   "address": "7th Cross Rd, 439, 6th Main Rd, next to Peter England, Mico Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.8,
+   "reviews": 112,
+   "website": "http://slurrpcafebtm.netlify.app/",
+   "domain": "slurrpcafebtm.netlify.app",
+   "gps_coordinates": {
+    "latitude": 12.913477,
+    "longitude": 77.6058754
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Health food restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8:30 am",
+   "open_hours": {
+    "monday": "8:30 am–10 pm",
+    "tuesday": "8:30 am–10 pm",
+    "wednesday": "8:30 am–10 pm",
+    "thursday": "8:30 am–10 pm",
+    "friday": "8:30 am–10 pm",
+    "saturday": "8:30 am–10 pm",
+    "sunday": "8:30 am–10 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-aflzcKBkzbixzkSksNb6DKNLh9ETbXA1N7OhNWuVKajlbSuFIjw-4GfjH68ESD-V8v2WqGtEZcMOcqjoPPtJCW4g_AM47y-DwMT6YUa-XyDw8_MTQw-7H2lcKwlQLOGlqKmXYWvE_8Y=w80-h106-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJsTqHz2gVrjsRKUxbzuJV7oA",
+   "data_id": "0x3bae1568cf873ab1:0x80ee55e2ce5b4c29",
+   "title": "N Cafe",
+   "address": "689, 29th Main Rd, BTM 2nd Stage, Kuvempu Nagar, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082472 05251",
+   "rating": 5,
+   "reviews": 10,
+   "gps_coordinates": {
+    "latitude": 12.9152685,
+    "longitude": 77.61537539999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Juice shop",
+    "Snack bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QFIP1IoqjqYoLA_oDSkExLc4OB7dvaPE5jPhS7f1F9lus6nov5vObZuPD_-UKXyBv7C7l1kTqSqQK3IlhFFotlfm8ATmX5fugWYd-p48QIImZxkdaiuefvFXOHZjRcECqROYnBT1v3kYD5=w200-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJLSIJ2wMVrjsR5Sg_C-MuMvo",
+   "data_id": "0x3bae1503db09222d:0xfa322ee30b3f28e5",
+   "title": "Brewz Coffee",
+   "description": "Sunny coffee shop serving casual bites. Bright, relaxed haunt for coffee, smoothies & shakes as well as burgers, sandwiches & desserts.",
+   "address": "315, 7th Main, 4th Cross Rd, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4120 0232",
+   "rating": 4.1,
+   "reviews": 523,
+   "website": "http://brewzcoffee.in/",
+   "domain": "brewzcoffee.in",
+   "gps_coordinates": {
+    "latitude": 12.9147284,
+    "longitude": 77.606284
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10:30 am",
+   "open_hours": {
+    "monday": "10:30 am–10:30 pm",
+    "tuesday": "10:30 am–10:30 pm",
+    "wednesday": "10:30 am–10:30 pm",
+    "thursday": "10:30 am–10:30 pm",
+    "friday": "10:30 am–10:30 pm",
+    "saturday": "10:30 am–10:30 pm",
+    "sunday": "10:30 am–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/brewz-coffee-layout-btm-bangalore-59485/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPxmJ7OYaPG8etKfsnzB5FZWqlENtkvA9ZUYzSo9ra16zV3zK5BflxDSgpuKDTuMC0Np_RU_---Lw1pft6nuq7gu-rX7votZ19b-uQWWE9PZ3nfx0N4jpomSo20Vxgnr7ZD2PXuA=w163-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJBeCLrXYVrjsR6GhwigwOlhY",
+   "data_id": "0x3bae1576ad8be005:0x16960e0c8a7068e8",
+   "title": "Brahmagiri Cafe",
+   "address": "7th Main Rd, Mahadeshwara Nagar, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 56,
+   "website": "https://www.brahmagiricafe.in/",
+   "domain": "brahmagiricafe.in",
+   "gps_coordinates": {
+    "latitude": 12.9134993,
+    "longitude": 77.6079134
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Hotel"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TfGu6vPUuFCqdTzQlAkYECcdiRCGS1Htym75brLOVre9CkvzHUkQNngC8WUU2G3k8R4NN0sn5d0HC6huoYvGTqs-q4ND1zMcw6aSOULP5oAkoI5uHhFSSYR_p9z31mJA-rvWfdQswA96kx=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJJwrBl1AVrjsRORNid3VVKS0",
+   "data_id": "0x3bae155097c10a27:0x2d29557577621339",
+   "title": "Blooming Tales | Restaurant & Café",
+   "address": "64, 7th Main Rd, Mahadeshwara Nagar, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080156 82825",
+   "rating": 4.3,
+   "reviews": 242,
+   "gps_coordinates": {
+    "latitude": 12.9111856,
+    "longitude": 77.6065254
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–10:45 pm",
+    "tuesday": "8 am–10:45 pm",
+    "wednesday": "8 am–10:45 pm",
+    "thursday": "8 am–10:45 pm",
+    "friday": "8 am–10:45 pm",
+    "saturday": "8 am–10:45 pm",
+    "sunday": "8 am–10:45 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8bhIQ-Ln8Jym7ZlVivvNiLuqYfEtYVm_87qMVsCTKvydWWP64_96HDjfy4NzfxVabVen8APk9N4_M1WX7KRIhRdmzJ3tIWp18r5iz4fPbBSxv1rUu7OvE1WvbWqIXiGxYcSHIyTmmmhU=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJHQwn0OIUrjsR94c6x_sd6to",
+   "data_id": "0x3bae14e2d0270c1d:0xdaea1dfbc73a87f7",
+   "title": "Whats up cafe",
+   "address": "6, 16th main, near post office, Mahadeshwara Nagar, btm 2satge, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073377 77774",
+   "rating": 4.2,
+   "reviews": 658,
+   "gps_coordinates": {
+    "latitude": 12.9109218,
+    "longitude": 77.60973349999999
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–11:30 pm",
+    "tuesday": "8 am–11:30 pm",
+    "wednesday": "8 am–11:30 pm",
+    "thursday": "8 am–11:30 pm",
+    "friday": "8 am–11:30 pm",
+    "saturday": "8 am–11:30 pm",
+    "sunday": "8 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R0GktzoZXLaVYTL0cMPgcZX_5l6kJ5ojJwEi449dWjLDLgNbd2ETmaP6xL36O9ELoJ_F5DxUt3gUnrSVKFS1vZLlKvpaWY6mKypk9fnv9Ct1-EvD8fRp4rts43NiJ5OwoJIkXuyA=w163-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJ0RpXw50VrjsRggy1zbSOrcQ",
+   "data_id": "0x3bae159dc3571ad1:0xc4ad8eb4cdb50c82",
+   "title": "Chai Days BTM Layout",
+   "address": "Royal Arcade, 902-934, 16th Main Rd, BTM 2nd Stage, Kuvempu Nagar, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099800 84666",
+   "rating": 4.3,
+   "reviews": 1150,
+   "is_unclaimed_listing": true,
+   "website": "http://chaidays.in/",
+   "domain": "chaidays.in",
+   "gps_coordinates": {
+    "latitude": 12.9157098,
+    "longitude": 77.6102263
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/chai-days-layout-btm-bangalore-208896/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_67Qcqei2gWVGzCUoqwlanZAw7r3EfzD3gEHmoN8uzsN5Tf_TZgKcErP5mBoDjxJHUNoOuIkpNV94J_7QlOqfWP0TLb_mwMqz69EklW4Bdb7sTWnZLMg5CdKCTyH9e4AZlwH-5g=w184-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJdTgnCqIVrjsRZrGdJ0pdtXY",
+   "data_id": "0x3bae15a20a273875:0x76b55d4a279db166",
+   "title": "Tealogy Cafe Bangalore",
+   "address": "No. 93, Vysya Bank Colony, BTM 1st Stage, Bengaluru, Karnataka 560029",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089043 64516",
+   "rating": 4.9,
+   "reviews": 40,
+   "gps_coordinates": {
+    "latitude": 12.9167235,
+    "longitude": 77.6038706
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "10 am–11:30 pm",
+    "sunday": "10 am–11:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tz5li4HjU72a51lUMQCdnGldztjUVb7oA0JxnkCOWUJaIklGBtGWAIqlDMOxOh6iw2-HXVOpDYnLrZZGsNMgasEaZBL63ZG36PFRfkPdUc0a2en6gTpfJ_4i6Kqr1nXCPXrXOMkeICo_Y=w80-h106-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ0wZzI_0UrjsRg25BLyQlU-I",
+   "data_id": "0x3bae14fd237306d3:0xe25325242f416e83",
+   "title": "Kullad Cafe",
+   "address": "1210, 16th Main Rd, MCHS Colony, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088615 70148",
+   "rating": 3.8,
+   "reviews": 3339,
+   "gps_coordinates": {
+    "latitude": 12.9126052,
+    "longitude": 77.6099464
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Restaurant",
+    "Sake brewery",
+    "Tea house",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6:30 am",
+   "open_hours": {
+    "monday": "6:30 am–1 am",
+    "tuesday": "6:30 am–1 am",
+    "wednesday": "6:30 am–1 am",
+    "thursday": "6:30 am–1 am",
+    "friday": "6:30 am–1 am",
+    "saturday": "6:30 am–1 am",
+    "sunday": "6:30 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SoekkKX4PwD5ZT4zDrF3pQxPKCblFvz_mMfplQJYoijnQsMTU_2XZ_2ijXQekobPYuTtUfLPCorxbD_sZqMJuqmE_eVqwyGmMMbBvDAEPFFhkGVpnK4DtgNeR2fwxyvvtPD6kd=w80-h106-k-no"
+  }
+ ]
+}

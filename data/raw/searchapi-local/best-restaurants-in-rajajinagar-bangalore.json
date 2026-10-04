@@ -1,0 +1,413 @@
+{
+ "q": "best restaurants in Rajajinagar Bangalore",
+ "ll": "@12.9911,77.5554,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:42:35.541Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Kake Di Hatti Rajajinagar – Pure Veg North Indian Restaurant",
+   "place_id": "ChIJ-dBZUxo9rjsR7pMykwz48Vc",
+   "data_id": "0x3bae3d1a5359d0f9:0x57f1f80c933293ee",
+   "rating": 4.2,
+   "reviews": 2700,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "3rd Floor, 37, 20th Main Rd, above Unacademy Centre",
+   "gps_coordinates": {
+    "latitude": 13.0030575,
+    "longitude": 77.54961
+   }
+  },
+  {
+   "position": 2,
+   "title": "Narmada Restaurant Rajaji Nagar",
+   "place_id": "ChIJPzvaJTM9rjsROmK-rW3gTTM",
+   "data_id": "0x3bae3d3325da3b3f:0x334de06dadbe623a",
+   "rating": 4.5,
+   "reviews": 2100,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Andhra",
+   "address": "706, 1st Floor, WCR 2nd Stage, 9th Cross, Modi Hospital Rd",
+   "gps_coordinates": {
+    "latitude": 12.997616,
+    "longitude": 77.5474
+   }
+  },
+  {
+   "position": 3,
+   "title": "Chulha Chauki da Dhaba | Rajajinagar",
+   "place_id": "ChIJD14-qzM9rjsR7996OC9QvcY",
+   "data_id": "0x3bae3d33ab3e5e0f:0xc6bd502f387adfef",
+   "rating": 4.7,
+   "reviews": 7300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "1st Floor, Industrial Sub Urb, No.3, Joddh Tower, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.01219,
+    "longitude": 77.55419
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Pari",
+   "place_id": "ChIJZzuJfzE9rjsRTD3UiwxOMSI",
+   "data_id": "0x3bae3d317f893b67:0x22314e0c8bd43d4c",
+   "rating": 4.7,
+   "reviews": 4300,
+   "type": "Vegetarian",
+   "address": "75/5, Chord Rd, next to Iskcon Temple, Rajajinagar",
+   "gps_coordinates": {
+    "latitude": 13.010955,
+    "longitude": 77.550606
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Kakal Kai Ruchi @ Rajajinagar",
+   "place_id": "ChIJCawS47U9rjsRNO_wnS6VCXY",
+   "data_id": "0x3bae3db5e312ac09:0x7609952e9df0ef34",
+   "rating": 4.4,
+   "reviews": 4600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "129, 1st Main Road, Dr, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.000873,
+    "longitude": 77.55282
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Chowman (Rajajinagar)",
+   "place_id": "ChIJr6pr9bM9rjsRXRU5AHafQ-4",
+   "data_id": "0x3bae3db3f56baaaf:0xee439f760039155d",
+   "rating": 4.7,
+   "reviews": 624,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Chinese",
+   "address": "first n block, GROUND FLOOR, SITE N 69, Dr Rajkumar Rd, beside SUBRAMANYA NAGAR",
+   "gps_coordinates": {
+    "latitude": 13.003002,
+    "longitude": 77.5533
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "RAATA Multicuisine Restaurant",
+   "place_id": "ChIJd_2l9gA9rjsRXinWCLCiMdw",
+   "data_id": "0x3bae3d00f6a5fd77:0xdc31a2b008d6295e",
+   "rating": 4.5,
+   "reviews": 2900,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Biryani",
+   "address": "869, Modi Hospital Rd",
+   "gps_coordinates": {
+    "latitude": 12.997522,
+    "longitude": 77.54452
+   }
+  },
+  {
+   "position": 8,
+   "title": "Stories Bar & Kitchen - Rajajinagar",
+   "place_id": "ChIJuxfxieE9rjsRdZMmxqUeJG8",
+   "data_id": "0x3bae3de189f117bb:0x6f241ea5c6269375",
+   "rating": 4.1,
+   "reviews": 10000,
+   "type": "Restaurant",
+   "address": "4th Floor, 1st Block, 77, Chord Rd",
+   "gps_coordinates": {
+    "latitude": 13.008554,
+    "longitude": 77.5491
+   },
+   "comment": "Modern, indoor/outdoor cocktail bar"
+  },
+  {
+   "position": 9,
+   "title": "The Persian Terrace",
+   "place_id": "ChIJ5xrlwng9rjsRxHEVifI7ViQ",
+   "data_id": "0x3bae3d78c2e51ae7:0x24563bf2891571c4",
+   "rating": 4.4,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Persian",
+   "address": "4th Floor, 26/1, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.012495,
+    "longitude": 77.55522
+   },
+   "comment": "Rooftop space for Middle Eastern cuisine"
+  },
+  {
+   "position": 10,
+   "title": "Sadda Punjabi Dhaba-Rajajinagar",
+   "place_id": "ChIJmQvSbgA9rjsRRaP89zXjP20",
+   "data_id": "0x3bae3d006ed20b99:0x6d3fe335f7fca345",
+   "rating": 4.3,
+   "reviews": 1500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Vegetarian",
+   "address": "3rd Floor, 706, Chord Rd, near Kadamba Veg Hotel",
+   "gps_coordinates": {
+    "latitude": 12.997622,
+    "longitude": 77.54739
+   }
+  },
+  {
+   "position": 11,
+   "title": "5C Resto Pub & Kitchen",
+   "place_id": "ChIJVS8uVHU9rjsRb77rItbSNJ8",
+   "data_id": "0x3bae3d75542e2f55:0x9f34d2d622ebbe6f",
+   "rating": 4.5,
+   "reviews": 816,
+   "type": "Grill",
+   "address": "No 37/1, West of Chord road, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.988325,
+    "longitude": 77.54898
+   }
+  },
+  {
+   "position": 12,
+   "title": "Barley Broo",
+   "place_id": "ChIJ9dWHqs89rjsR2nwptg6EY1Q",
+   "data_id": "0x3bae3dcfaa87d5f5:0x5463840eb6297cda",
+   "rating": 4.4,
+   "reviews": 655,
+   "type": "Restaurant",
+   "address": "Terrace Floor, 2/9, Dr Rajkumar Rd, above Abhimani vasathi Hotel",
+   "gps_coordinates": {
+    "latitude": 12.98704,
+    "longitude": 77.56019
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Sattva Pure Veg Restaurant",
+   "place_id": "ChIJy0gzUXsXrjsRFPHhnmXtCjQ",
+   "data_id": "0x3bae177b513348cb:0x340aed659ee1f114",
+   "rating": 4.8,
+   "reviews": 4400,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "South Indian",
+   "address": "ground floor, Minerva Mills Compound, No. 19/6, Magadi Main Rd, next to Mysore Sugandh Dhoop Factory",
+   "gps_coordinates": {
+    "latitude": 12.978875,
+    "longitude": 77.56425
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Sai Sogadu",
+   "place_id": "ChIJbzXWOtQ9rjsRtPxvY9D0uj0",
+   "data_id": "0x3bae3dd43ad6356f:0x3dbaf4d0636ffcb4",
+   "rating": 4.4,
+   "reviews": 6000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Metro Station, 419/58,14th Cross,20th Main, Landmark:, below Rajaji Nagar",
+   "gps_coordinates": {
+    "latitude": 13.000218,
+    "longitude": 77.55003
+   },
+   "extensions": [
+    "Closes soon",
+    "10:45 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Devaras Restaurant",
+   "place_id": "ChIJW8oLreA9rjsRG8tUUEluzQg",
+   "data_id": "0x3bae3de0ad0bca5b:0x8cd6e495054cb1b",
+   "rating": 4.3,
+   "reviews": 767,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, Police Station, 25, Dr Rajkumar Rd, beside Subramanya Nagar",
+   "gps_coordinates": {
+    "latitude": 13.003098,
+    "longitude": 77.5536
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Swagat Restaurant",
+   "place_id": "ChIJAWdNvCg9rjsRGtTJ-H1zaMg",
+   "data_id": "0x3bae3d28bc4d6701:0xc868737df8c9d41a",
+   "rating": 4.3,
+   "reviews": 817,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "#747, 12th Main Road, 42nd Cross Rd, near Terapanth Bhavan",
+   "gps_coordinates": {
+    "latitude": 12.989409,
+    "longitude": 77.554054
+   },
+   "comment": "Informal choice for local & Chinese fare",
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Bombay Brasserie - Orion Mall - Rajajinagar",
+   "place_id": "ChIJuzxdAgA9rjsRSN1yZ0zPlJw",
+   "data_id": "0x3bae3d00025d3cbb:0x9c94cf4c6772dd48",
+   "rating": 4.7,
+   "reviews": 1700,
+   "type": "Modern Indian restaurant",
+   "address": "Unit UG-24, Orion Mall, Brigade Gateway, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.010736,
+    "longitude": 77.555374
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Nandhana Palace -Andhra Style Restaurant - Rajajinagar",
+   "place_id": "ChIJUUSLnpI9rjsRGQuAAkCJSdY",
+   "data_id": "0x3bae3d929e8b4451:0xd649894002800b19",
+   "rating": 4,
+   "reviews": 9900,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Andhra",
+   "address": "No 15, 5th Main, Shivanagar, Opposite-Power House, WOC, 3rd Block, Rajaji Nagar",
+   "gps_coordinates": {
+    "latitude": 12.989184,
+    "longitude": 77.55012
+   }
+  },
+  {
+   "position": 19,
+   "title": "Sicilia Point (Italian restaurant). Pure Veg",
+   "place_id": "ChIJiaW92co9rjsRd9w1SYpuYYM",
+   "data_id": "0x3bae3dcad9bda589:0x83616e8a4935dc77",
+   "rating": 4.5,
+   "reviews": 1100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Italian",
+   "address": "816/1, 17th F Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.985771,
+    "longitude": 77.55195
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Saffron By Sanmanaa - Pure Veg Restaurant",
+   "place_id": "ChIJmVIgq2Q9rjsRcX2vudGQ138",
+   "data_id": "0x3bae3d64ab205299:0x7fd790d1b9af7d71",
+   "rating": 4.5,
+   "reviews": 916,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Vegetarian",
+   "address": "10 old no 104/b 1 st Main Road, Dr Rajkumar Rd, beside Saptagiri Suzuki Showroom",
+   "gps_coordinates": {
+    "latitude": 12.985003,
+    "longitude": 77.56001
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  }
+ ]
+}

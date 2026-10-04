@@ -1,0 +1,419 @@
+{
+ "q": "best restaurants in Koramangala Bangalore",
+ "ll": "@12.9352,77.6146,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:29:26.515Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "CHIN LUNG RESTO-BAR, KORAMANGALA",
+   "place_id": "ChIJ9y_jaj0VrjsRyrE6NXuYsCY",
+   "data_id": "0x3bae153d6ae32ff7:0x26b0987b353ab1ca",
+   "rating": 4.2,
+   "reviews": 7300,
+   "type": "Grill",
+   "address": "769, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.931857,
+    "longitude": 77.63204
+   }
+  },
+  {
+   "position": 2,
+   "title": "Empire Restaurant Koramangala",
+   "place_id": "ChIJ6esDJU4UrjsRFo0qDlJZOxY",
+   "data_id": "0x3bae144e2503ebe9:0x163b59520e2a8d16",
+   "rating": 4.2,
+   "reviews": 34000,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "Plot No, 103, 1st A cross Rd, near Jyoti Nivas College Road",
+   "gps_coordinates": {
+    "latitude": 12.934761,
+    "longitude": 77.61587
+   },
+   "comment": "Spacious contemporary Indian dining room"
+  },
+  {
+   "position": 3,
+   "title": "Moplah's",
+   "place_id": "ChIJy7XSpygVrjsRB4GErHhBTBo",
+   "data_id": "0x3bae1528a7d2b5cb:0x1a4c4178ac848107",
+   "rating": 4.6,
+   "reviews": 2900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Keralan",
+   "address": "06, 1st Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.933543,
+    "longitude": 77.621086
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Gramin | Veg Restaurant",
+   "place_id": "ChIJdQAA0E0UrjsRHtoB5yuQoIg",
+   "data_id": "0x3bae144dd0000075:0x88a0902be701da1e",
+   "rating": 4.3,
+   "reviews": 12000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Vegetarian",
+   "address": "140, Ground, Raheja Arcade, 139, Ganapathi Temple Rd, near The Forum (Nexus) Mall",
+   "gps_coordinates": {
+    "latitude": 12.934462,
+    "longitude": 77.61343
+   },
+   "comment": "Indian cuisine & decor in casual eatery",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "The Hole In The Wall Cafe",
+   "place_id": "ChIJy9Ry9GcUrjsRlAT3TuW94lE",
+   "data_id": "0x3bae1467f472d4cb:0x51e2bde54ef70494",
+   "rating": 4.3,
+   "reviews": 21000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "3, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93474,
+    "longitude": 77.62547
+   },
+   "comment": "Laid-back cafe serving hearty breakfasts",
+   "extensions": [
+    "Closed",
+    "Opens 8 am Tue"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Skygarden Bar & Kitchen Koramangala",
+   "place_id": "ChIJf_tTLwAVrjsRSWJoNaPJv5g",
+   "data_id": "0x3bae15002f53fb7f:0x98bfc9a335686249",
+   "rating": 4.3,
+   "reviews": 2500,
+   "type": "Bar",
+   "address": "14, 1st Cross, 17th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93368,
+    "longitude": 77.62216
+   }
+  },
+  {
+   "position": 7,
+   "title": "Marcopolo Cafe Koramangala",
+   "place_id": "ChIJOxavssMVrjsRXrhREKFlC0I",
+   "data_id": "0x3bae15c3b2af163b:0x420b65a11051b85e",
+   "rating": 4.6,
+   "reviews": 2100,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Continental restaurant",
+   "address": "43, 4th B Cross Rd, beside Tipsy Bull",
+   "gps_coordinates": {
+    "latitude": 12.933918,
+    "longitude": 77.61556
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am Mon"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "House of Commons",
+   "place_id": "ChIJLypMilEUrjsRKVoVbaJeSn0",
+   "data_id": "0x3bae14518a4c2a2f:0x7d4a5ea26d155a29",
+   "rating": 4.3,
+   "reviews": 14000,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "122/B, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.934853,
+    "longitude": 77.61612
+   },
+   "comment": "Cool locale for cocktails & pub fare"
+  },
+  {
+   "position": 9,
+   "title": "Koramangala Food Street",
+   "place_id": "ChIJf3KwBZQVrjsRuZ98eIYZolI",
+   "data_id": "0x3bae159405b0727f:0x52a21986787c9fb9",
+   "rating": 4,
+   "reviews": 689,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "121-17, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.935201,
+    "longitude": 77.61564
+   }
+  },
+  {
+   "position": 10,
+   "title": "CHAMPAK - Champaran | The best North Indian restaurant in Bangalore",
+   "place_id": "ChIJwyLnQwcVrjsRMv0UiS1Cgos",
+   "data_id": "0x3bae150743e722c3:0x8b82422d8914fd32",
+   "rating": 4.6,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "112, 6th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936959,
+    "longitude": 77.624596
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Meghana Foods - Koramangala",
+   "place_id": "ChIJCa2FK04UrjsRmBiq9ethY9s",
+   "data_id": "0x3bae144e2b85ad09:0xdb6361ebf5aa1898",
+   "rating": 4.3,
+   "reviews": 22000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "124, 1st A cross Rd, near Jyoti Nivas College Road",
+   "gps_coordinates": {
+    "latitude": 12.934656,
+    "longitude": 77.616356
+   },
+   "comment": "Basic biryanis, curries & tandooris"
+  },
+  {
+   "position": 12,
+   "title": "Malgudi Mylari Mane",
+   "place_id": "ChIJT_24X_kVrjsRtqZhKQncQK0",
+   "data_id": "0x3bae15f95fb8fd4f:0xad40dc092961a6b6",
+   "rating": 4.4,
+   "reviews": 2100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Family-friendly",
+   "address": "Ground Floor, SRS Tower, 21, near Mangala Kalyana Mantapa",
+   "gps_coordinates": {
+    "latitude": 12.937456,
+    "longitude": 77.61762
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Pasta Street Koramangala",
+   "place_id": "ChIJEfXy3cIVrjsRFKH0ilntLN4",
+   "data_id": "0x3bae15c2ddf2f511:0xde2ced598af4a114",
+   "rating": 4.4,
+   "reviews": 4600,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Italian",
+   "address": "Ground floor, 751, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.932819,
+    "longitude": 77.63104
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Narmada Chain Of Restaurant [Koramangala]",
+   "place_id": "ChIJVxlbHwsVrjsRxPPTIzrmEtE",
+   "data_id": "0x3bae150b1f5b1957:0xd112e63a23d3f3c4",
+   "rating": 4.5,
+   "reviews": 3300,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "60 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.9338255,
+    "longitude": 77.61774
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am",
+    "On the menu: best restaurants"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Kappa Chakka Kandhari",
+   "place_id": "ChIJT09e8tsVrjsR1ccONbviKeo",
+   "data_id": "0x3bae15dbf25e4f4f:0xea29e2bb350ec7d5",
+   "rating": 4.2,
+   "reviews": 4600,
+   "type": "South Indian",
+   "address": "438, 18th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.940517,
+    "longitude": 77.62352
+   },
+   "comment": "Breezy eatery for elevated Kerala fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Kebapci",
+   "place_id": "ChIJCXpbSCIVrjsR-VuVzN1kIt8",
+   "data_id": "0x3bae1522485b7a09:0xdf2264ddcc955bf9",
+   "rating": 4.3,
+   "reviews": 5600,
+   "type": "Turkish",
+   "address": "74, 17th E Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936127,
+    "longitude": 77.622536
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Bombay Adda",
+   "place_id": "ChIJ6XPL1GQVrjsR9Tg5HPVORaY",
+   "data_id": "0x3bae1564d4cb73e9:0xa6454ef51c3938f5",
+   "rating": 4.1,
+   "reviews": 8500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "Bldg 5th floor, Z1 Construction, 6, 20th Main Rd, next to Sapna Book House",
+   "gps_coordinates": {
+    "latitude": 12.936452,
+    "longitude": 77.61636
+   },
+   "comment": "Upbeat gastropub with modern Indian food"
+  },
+  {
+   "position": 18,
+   "title": "\"THAR\" The Taste of Rajasthan",
+   "place_id": "ChIJY3tmM2gVrjsR0IApD8Q5H68",
+   "data_id": "0x3bae156833667b63:0xaf1f39c40f2980d0",
+   "rating": 4.3,
+   "reviews": 1900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "jyothi niwas, 10, 2nd floor 17th main road, collage road, opposite 315 work avenue",
+   "gps_coordinates": {
+    "latitude": 12.93348,
+    "longitude": 77.621666
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Saki - Pan Asian Kitchen",
+   "place_id": "ChIJjeXtAwAVrjsRcGGAHQUqHqc",
+   "data_id": "0x3bae150003ede58d:0xa71e2a051d806170",
+   "rating": 4.3,
+   "reviews": 108,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Asian",
+   "address": "750, 10th Main road80, Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.933162,
+    "longitude": 77.63077
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Hungry Hippie",
+   "place_id": "ChIJqc7cKE4UrjsR7KM6JUZtjtk",
+   "data_id": "0x3bae144e28dccea9:0xd98e6d46253aa3ec",
+   "rating": 4.1,
+   "reviews": 5300,
+   "type": "Restaurant",
+   "address": "Vijay Jatti Building, 104, near EMPIRE RESTAURANT",
+   "gps_coordinates": {
+    "latitude": 12.934628,
+    "longitude": 77.61573
+   }
+  }
+ ]
+}

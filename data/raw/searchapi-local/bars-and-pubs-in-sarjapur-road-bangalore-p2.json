@@ -1,0 +1,406 @@
+{
+ "q": "bars and pubs in Sarjapur Road Bangalore",
+ "ll": "@12.901,77.687,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:32:08.525Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Animal Bar",
+   "place_id": "ChIJ36i77x8VrjsR1HiJu0mJvaQ",
+   "data_id": "0x3bae151fefbba8df:0xa4bd8949bb8978d4",
+   "rating": 3.9,
+   "reviews": 6500,
+   "type": "Bar",
+   "address": "SY NO 38, 38/5, Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.923983,
+    "longitude": 77.64034
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Lucky Bastard Brewhouse and Kitchen",
+   "place_id": "ChIJT7oyY9xzrjsRD99ECYO1h5c",
+   "data_id": "0x3bae73dc6332ba4f:0x9787b5830944df0f",
+   "rating": 3.9,
+   "reviews": 14,
+   "type": "Grill",
+   "address": "Bangalore, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.8615465,
+    "longitude": 77.777534
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Pub Hi-Life",
+   "place_id": "ChIJW7W2VQATrjsRGy9ZCFKuonM",
+   "data_id": "0x3bae130055b6b55b:0x73a2ae5208592f1b",
+   "rating": 5,
+   "reviews": 16,
+   "type": "Night club",
+   "address": "Prima, HILIFE, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.909733,
+    "longitude": 77.688156
+   }
+  },
+  {
+   "position": 4,
+   "title": "Radio Bar Bangalore",
+   "place_id": "ChIJP1VvHAATrjsRMPXQQozKKy0",
+   "data_id": "0x3bae13001c6f553f:0x2d2bca8c42d0f530",
+   "rating": 4.3,
+   "reviews": 718,
+   "type": "Bar",
+   "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay",
+   "gps_coordinates": {
+    "latitude": 12.920866,
+    "longitude": 77.68592
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "HIDDEN BUNKER PUB",
+   "place_id": "ChIJS5ZMLqcTrjsRvUX3NZz-ImA",
+   "data_id": "0x3bae13a72e4c964b:0x6022fe9c35f745bd",
+   "rating": 4.1,
+   "reviews": 190,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "36/1, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.941771,
+    "longitude": 77.697044
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Spot 360 - Open Air Poolside Bar & Kitchen",
+   "place_id": "ChIJN8C3wmkTrjsRFWEMoMtzaPc",
+   "data_id": "0x3bae1369c2b7c037:0xf76873cba00c6115",
+   "rating": 4.3,
+   "reviews": 392,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "Mantri Flora Service Apartment's, MANTRI FLORA, Iblur Gate, Outer Ring Road Marathahalli-Bellandur-Sarjapur Outer Ring Road, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.919311,
+    "longitude": 77.66517
+   },
+   "comment": "Cool open-air bar for drinks & nibbles",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "BLR Brewing Co. - Eco World",
+   "place_id": "ChIJHwudLAATrjsRS3A-XkqdJ10",
+   "data_id": "0x3bae13002c9d0b1f:0x5d279d4a5e3e704b",
+   "rating": 4.2,
+   "reviews": 381,
+   "type": "Brewery",
+   "address": "RMZ ECOWORLD, UNIT NO R5, GROUND FLOOR, THE BAY, BUILDING, B.B, Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.920164,
+    "longitude": 77.68493
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Deck of Brews- Brewery & Kitchen",
+   "place_id": "ChIJPduVcHETrjsRS0EL_cMmaFE",
+   "data_id": "0x3bae13717095db3d:0x516826c3fd0b414b",
+   "rating": 4.2,
+   "reviews": 4000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "Gear School Rd",
+   "gps_coordinates": {
+    "latitude": 12.932716,
+    "longitude": 77.69659
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "TBC Sky Lounge - Kadubisanahalli- Marathahalli Outer Ring Road | Fabulous Terrace Lounge- Rooftop Restaurant & Bar",
+   "place_id": "ChIJMaqAe7ETrjsRNIPc6ouBw4Y",
+   "data_id": "0x3bae13b17b80aa31:0x86c3818beadc8334",
+   "rating": 4.3,
+   "reviews": 9500,
+   "type": "Lounge bar",
+   "address": "5th Floor, Berry's Hotel, 36/1, Marathahalli - Sarjapur Outer Ring Rd, opposite JP Morgan",
+   "gps_coordinates": {
+    "latitude": 12.941811,
+    "longitude": 77.697105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Tipsy Bull- The Bar Exchange",
+   "place_id": "ChIJTSGow3UTrjsRlMlNbphrG9s",
+   "data_id": "0x3bae1375c3a8214d:0xdb1b6b986e4dc994",
+   "rating": 4,
+   "reviews": 9500,
+   "type": "Pub",
+   "address": "4th Floor, 74, above ICICI Bank",
+   "gps_coordinates": {
+    "latitude": 12.92408,
+    "longitude": 77.67163
+   },
+   "comment": "Colorful & eclectic international venue",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Ashva Resto Hangouts - Resto Bar",
+   "place_id": "ChIJ-dHrHgANrjsR_LQdZ_ncQP0",
+   "data_id": "0x3bae0d001eebd1f9:0xfd40dcf9671db4fc",
+   "rating": 4.7,
+   "reviews": 601,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Pub",
+   "address": "Chikkavaderapura, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.899825,
+    "longitude": 77.74775
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The Buzz House Restaurant & Pub",
+   "place_id": "ChIJpX-WKExtrjsRQn8NlMSTneo",
+   "data_id": "0x3bae6d4c28967fa5:0xea9d93c4940d7f42",
+   "rating": 4.6,
+   "reviews": 520,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Anekal Taluk, No. 603, Sarjapura hobli, next to ever shine apartment",
+   "gps_coordinates": {
+    "latitude": 12.868238,
+    "longitude": 77.693726
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Panacea lounge and cocktail restobar",
+   "place_id": "ChIJ20p7ZQATrjsROgGt9avgpzA",
+   "data_id": "0x3bae1300657b4adb:0x30a7e0abf5ad013a",
+   "rating": 4.7,
+   "reviews": 114,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Lounge bar",
+   "address": "2ND FLOOR, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan",
+   "gps_coordinates": {
+    "latitude": 12.9414015,
+    "longitude": 77.6967
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "WHISKY N WONDERS BY BHAGINI",
+   "place_id": "ChIJcW8wSAATrjsR6j16Fkq0S9c",
+   "data_id": "0x3bae130048306f71:0xd74bb44a167a3dea",
+   "rating": 4.8,
+   "reviews": 21,
+   "type": "Bar",
+   "address": "WMGG+595, Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.925377,
+    "longitude": 77.67597
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Vishnu Garden Bar and Restaurants",
+   "place_id": "ChIJzf5VrmoTrjsRwBKucIO-GEw",
+   "data_id": "0x3bae136aae55fecd:0x4c18be8370ae12c0",
+   "rating": 4,
+   "reviews": 4700,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Bar",
+   "address": "166, Hosa Rd",
+   "gps_coordinates": {
+    "latitude": 12.904634,
+    "longitude": 77.67591
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "BG's Poolside Bar & Grill",
+   "place_id": "ChIJYf66NqcTrjsRLkpnS7b6ptg",
+   "data_id": "0x3bae13a736bafe61:0xd8a6fab64b674a2e",
+   "rating": 4.2,
+   "reviews": 454,
+   "type": "Grill",
+   "address": "Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.927933,
+    "longitude": 77.682625
+   },
+   "comment": "Multi-cuisine restaurant & bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Reboot The Pub",
+   "place_id": "ChIJzbyn-BQTrjsRx5l9t_JuHrI",
+   "data_id": "0x3bae1314f8a7bccd:0xb21e6ef2b77d99c7",
+   "rating": 4.6,
+   "reviews": 3600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "No. 90/2, and 90/3, Above Titan World Marathahalli Outer Ring Road, Service Rd, opposite Iron Hill",
+   "gps_coordinates": {
+    "latitude": 12.9509325,
+    "longitude": 77.700035
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Ironhill Bengaluru",
+   "place_id": "ChIJt62F1qwTrjsRzahuMZAxxYM",
+   "data_id": "0x3bae13acd685adb7:0x83c53190316ea8cd",
+   "rating": 4.7,
+   "reviews": 44000,
+   "type": "Brewery",
+   "address": "Sy no 90, 7 & 90/8, Outer Ring Rd, beside Radisson Blu 8",
+   "gps_coordinates": {
+    "latitude": 12.950891,
+    "longitude": 77.69873
+   },
+   "extensions": [
+    "Closes soon",
+    "12:45 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Roxie",
+   "place_id": "ChIJL4iI0HwTrjsRvs6L6BiUBcs",
+   "data_id": "0x3bae137cd088882f:0xcb059418e88bcebe",
+   "rating": 4.3,
+   "reviews": 9100,
+   "type": "Fine Dining",
+   "address": "26, Haralur Main Rd, near HP Petrol Station",
+   "gps_coordinates": {
+    "latitude": 12.91524,
+    "longitude": 77.66586
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Therpup Cafe & Resort, Sarjapur",
+   "place_id": "ChIJg9db_G1trjsRdsf-FrTt-jQ",
+   "data_id": "0x3bae6d6dfc5bd783:0x34faedb416fec776",
+   "rating": 4.6,
+   "reviews": 681,
+   "type": "Bar",
+   "address": "Sy No 163/2, Kommasandra Village, Sarjapur Hobli, Anekal Taluk, beside Bethany High School",
+   "gps_coordinates": {
+    "latitude": 12.864374,
+    "longitude": 77.73341
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  }
+ ]
+}

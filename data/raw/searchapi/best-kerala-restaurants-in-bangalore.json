@@ -1,0 +1,5025 @@
+{
+ "q": "best kerala restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:38:55.613Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJB9cynhEUrjsRXZYozJ3GBww",
+   "data_id": "0x3bae14119e32d707:0xc07c69dcc28965d",
+   "title": "Vembanad",
+   "description": "Colonial-style eatery for Kerala fare. Hotel's colonial-style restaurant with a wood-carved ceiling plating traditional Kerala cuisine.",
+   "address": "138/28, Off, Intermediate Ring Rd, opposite Embassy Golf Links, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4047 7777",
+   "rating": 4.6,
+   "reviews": 1941,
+   "website": "https://thepaulbangalore.in/restaurants/vembanad.html",
+   "domain": "thepaulbangalore.in",
+   "gps_coordinates": {
+    "latitude": 12.9537976,
+    "longitude": 77.6397047
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Fine dining restaurant",
+    "South Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3:30 pm, 7–11 pm",
+    "tuesday": "12–3:30 pm, 7–11 pm",
+    "wednesday": "12–3:30 pm, 7–11 pm",
+    "thursday": "12–3:30 pm, 7–11 pm",
+    "friday": "12–3:30 pm, 7–11 pm",
+    "saturday": "12–3:30 pm, 7–11 pm",
+    "sunday": "12–3:30 pm, 7–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/vembanad-the-paul-bangalore-domlur-indiranagar-bangalore-687332/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Bar on site",
+       "value": "Has bar on site"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Lunch reservations recommended",
+       "value": "Lunch reservations recommended"
+      },
+      {
+       "title": "Dinner reservations recommended",
+       "value": "Dinner reservations recommended"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_zwf5bLR4XQuvGTi3udhhn3YIp4-PqCH-Dzm_gkx2H3TgcAaXaripzgEmFHFIKy_YgyvK8r3N6nL_V23650TFQTGamD8z9d2vZjntN8G28F8OyKwM_2Pp11OFEgxsKiSRx_2wFg=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJy7XSpygVrjsRB4GErHhBTBo",
+   "data_id": "0x3bae1528a7d2b5cb:0x1a4c4178ac848107",
+   "title": "Moplah's",
+   "address": "06, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088679 19837",
+   "rating": 4.6,
+   "reviews": 2854,
+   "website": "https://hot-spot-food-and-beverages.myshopify.com/",
+   "domain": "hot-spot-food-and-beverages.myshopify.com",
+   "gps_coordinates": {
+    "latitude": 12.9335434,
+    "longitude": 77.6210887
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Fine dining restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3:30 pm, 6:30–10:30 pm",
+    "tuesday": "12–3:30 pm, 6:30–10:30 pm",
+    "wednesday": "12–3:30 pm, 6:30–10:30 pm",
+    "thursday": "12–3:30 pm, 6:30–10:30 pm",
+    "friday": "12–3:30 pm, 6:30–11 pm",
+    "saturday": "12–3:30 pm, 6:30–11 pm",
+    "sunday": "12–3:30 pm, 6:30–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/moplahs-koramangala-5th-block-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great coffee",
+       "value": "Serves great coffee"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Private dining room",
+       "value": "Has private dining room"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Vegan options",
+       "value": "Serves vegan dishes"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "Tourists",
+       "value": "Popular with tourists"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Lunch reservations recommended",
+       "value": "Lunch reservations recommended"
+      },
+      {
+       "title": "Dinner reservations recommended",
+       "value": "Dinner reservations recommended"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      },
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    },
+    {
+     "title": "Pets",
+     "items": [
+      {
+       "title": "Dogs allowed outside",
+       "value": "Dogs allowed outside"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqujRInqzgnHgsimkZo2i80FFIaCusFLkVNCRaMdUiBBe6ann1d6lBwJLnHnq5QhvRQp3u1Ty4WwVzQ6fwBoDz9dpXFsQFiqtyrTY740JzNpCDEUwgW9_SdwQJ4hpGP8I3_67OlQ=w92-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJhZ6zYM0XrjsREghEFHbNTyA",
+   "data_id": "0x3bae17cd60b39e85:0x204fcd7614440812",
+   "title": "Kerala Pavilion Restaurant",
+   "address": "373, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097383 19216",
+   "rating": 4.1,
+   "reviews": 2831,
+   "gps_coordinates": {
+    "latitude": 12.9722489,
+    "longitude": 77.6413267
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Breakfast restaurant",
+    "Seafood restaurant",
+    "Tea store"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–11:30 pm",
+    "tuesday": "7:30 am–11:30 pm",
+    "wednesday": "7:30 am–11:30 pm",
+    "thursday": "7:30 am–11:30 pm",
+    "friday": "7:30 am–11:30 pm",
+    "saturday": "7:30 am–11:30 pm",
+    "sunday": "7:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/kerala-pavilion-indiranagar-indiranagar-bangalore-631741/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great coffee",
+       "value": "Serves great coffee"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Organic dishes",
+       "value": "Serves organic dishes"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSGCJ2PqUMfQjmRcR8PrbTUQeaXiTCorgu2PJWzw58TQKI8UfBNYoCDvVwft2MKII_6TYPWrWFGgCzoety8dlb314h-8BQK3liSy__SuSBVNQg4Dbem_f-CBsk45J1hAwF5RdgX8ySkEFH=w80-h106-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJpdT2e6cWrjsRMW5Qr_DpVMM",
+   "data_id": "0x3bae16a77bf6d4a5:0xc354e9f0af506e31",
+   "title": "Salt Mango Tree",
+   "description": "Casual eatery for Kerala cuisine. Traditional, home-style Keralite fare served on banana leaves in a simple, whitewashed ambiance.",
+   "address": "954, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096863 65602",
+   "rating": 4.1,
+   "reviews": 4042,
+   "website": "http://www.saltmangotree.co.in/",
+   "domain": "saltmangotree.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9702396,
+    "longitude": 77.6398971
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Biryani restaurant",
+    "Indian restaurant",
+    "Seafood restaurant",
+    "South Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11:45 pm",
+    "tuesday": "12–11:45 pm",
+    "wednesday": "12–11:45 pm",
+    "thursday": "12–11:45 pm",
+    "friday": "12–11:45 pm",
+    "saturday": "12–11:45 pm",
+    "sunday": "12–11:45 pm"
+   },
+   "reservation": {
+    "link": "https://www.saltmangotree.co.in/events",
+    "source": "saltmangotree.co.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Late-night food",
+       "value": "Serves late-night food"
+      },
+      {
+       "title": "Private dining room",
+       "value": "Has private dining room"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Gender-neutral toilets",
+       "value": "Has gender-neutral toilets"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      },
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6Tv6zuJHW8jvvtb9ntB1oGFxORwTST1vBZAZzT6SuRpCrSctSbYRB52uWslwSbkuQKU2ZzckbTEiaFmpyMf3YTxVf2JQI7nr8A0uJQEq1gjYfuVqcSyDuqfiNuQzlAth6-uK4zw=w138-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJK2D5WtwVrjsRbkWnOb1JW-c",
+   "data_id": "0x3bae15dc5af9602b:0xe75b49bd39a7456e",
+   "title": "Kottayam The Restaurant (Kerala | Coastal | Seafood)",
+   "address": "1st Floor, above Drops), No 23, opposite BDA Complex, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099865 77544",
+   "rating": 4,
+   "reviews": 4753,
+   "website": "https://www.instagram.com/kottayam.restaurant/",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9142486,
+    "longitude": 77.638318
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Chinese restaurant",
+    "North Indian restaurant",
+    "Seafood restaurant",
+    "South Indian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–12 am",
+    "tuesday": "9 am–12 am",
+    "wednesday": "9 am–12 am",
+    "thursday": "9 am–12 am",
+    "friday": "9 am–12 am",
+    "saturday": "9 am–12 am",
+    "sunday": "9 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/kottayam-the-restaurant-hsr-layout-indiranagar-bangalore-687381/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "From the business",
+     "items": [
+      {
+       "title": "Identifies as women-owned",
+       "value": "Identifies as women-owned"
+      }
+     ]
+    },
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Kerbside pickup",
+       "value": "Offers kerbside pickup"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Late-night food",
+       "value": "Serves late-night food"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    },
+    {
+     "title": "Pets",
+     "items": [
+      {
+       "title": "Dogs allowed inside",
+       "value": "Dogs allowed inside"
+      },
+      {
+       "title": "Dogs allowed outside",
+       "value": "Dogs allowed outside"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnX91ftDjhXbCJxeJPC8dvhRr6l5musU5duC8C55WDrV6DzdnwPH59Bt7FmGHcbtEiyISp55jF-coEvxNhGZvpRtaRHaI6DrLE7Ni-tt3niAhp3ZAudMdBYkXtvRap1J3nQ0jo4w=w163-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJv-al5tQVrjsRkb54PoX6MSI",
+   "data_id": "0x3bae15d4e6a5e6bf:0x2231fa853e78be91",
+   "title": "Kerala Kairuchi Restaurant",
+   "address": "2/2,25 1st cross road, Bannerghatta Rd, beside IIMB COMPOUND, Bilekahalli, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.9,
+   "reviews": 47,
+   "gps_coordinates": {
+    "latitude": 12.8992486,
+    "longitude": 77.6027182
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Food manufacturer",
+    "Hotel"
+   ],
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Late-night food",
+       "value": "Serves late-night food"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-KRrOI2kqgUBHlz5DcgjhVue_kkJLitfCHOTmFUxxf-BYZXHzVQvl1ACfX9zRa_SB5ubUx5Dlo2VULdYRE8HpQ0q2-977AHEA9XzODpkIq54-6tpj6qWQgUgpEPLOf7bo5l86yk2H_nVo=w174-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJq09jfwATrjsRZOHWqiaUAmU",
+   "data_id": "0x3bae13007f634fab:0x65029426aad6e164",
+   "title": "Ruchi Kitchen - Traditional Kerala Cuisine",
+   "address": "1st Floor, 606, AECS Layout Main Rd, AECS Layout - C Block, AECS Layout, Brookefield, Bengaluru, Karnataka 560037",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070228 47788",
+   "rating": 4.6,
+   "reviews": 507,
+   "gps_coordinates": {
+    "latitude": 12.9647254,
+    "longitude": 77.7166625
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–11:30 pm",
+    "tuesday": "9 am–11:30 pm",
+    "wednesday": "9 am–11:30 pm",
+    "thursday": "9 am–11:30 pm",
+    "friday": "9 am–11:30 pm",
+    "saturday": "9 am–11:30 pm",
+    "sunday": "9 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Private dining room",
+       "value": "Has private dining room"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW33ia6uoKtBzrXzsa7HgAOi-01bh7np6h_MMYCHcAAXv5sMsErFhgfBBMxHXaSJ1oVJuOC0l3QfEcN4sYVnDSKSJqkGQjNzSbqatukpfkm5xjlBCBqi4qHi_YKM7tVGEy7tGX1wG7QfCgKdlkfD1GzvkGRpozqAfJt3w08EVCXKSZKVhcrE1vQ3fA=w92-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJr5JVmuQXrjsRfdEm-YhuONk",
+   "data_id": "0x3bae17e49a5592af:0xd9386e88f926d17d",
+   "title": "Kerala Pavilion Restaurant, MG Road",
+   "address": "Ramanashree Arcade, &, Mahatma Gandhi Rd, opp. The Oberoi Bengaluru, behind Starbucks, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072593 10399",
+   "rating": 4.1,
+   "reviews": 716,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9723371,
+    "longitude": 77.61838879999999
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–10:30 pm",
+    "tuesday": "7:30 am–10:30 pm",
+    "wednesday": "7:30 am–10:30 pm",
+    "thursday": "7:30 am–10:30 pm",
+    "friday": "7:30 am–10:30 pm",
+    "saturday": "7:30 am–10:30 pm",
+    "sunday": "7:30 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great coffee",
+       "value": "Serves great coffee"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz1RM63NQoUTq2WvTE5uepGv2wV6FCA54yl25qGJyGUc5kuDJyu8SOfefTqvV5AeVx86-yErE0aYe8o9AximKSQHyjPiqGwnr8xR3L9BAU-j3DZAqWclgbz2a7fzPQOZS714JAvmXNCJ8=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJRSApKlMUrjsRZj6oQW0TNKU",
+   "data_id": "0x3bae14532a292045:0xa534136d41a83e66",
+   "title": "Jose Mess - S.G Palya",
+   "address": "18, Vignan Arcade, 1st Main, 1st Cross, DRC Post, S.G. Palya, Bengaluru, Karnataka 560029",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4525 8871",
+   "rating": 4.2,
+   "reviews": 7204,
+   "website": "https://www.swiggy.com/restaurants/jose-mess-btm-bangalore-300804",
+   "domain": "swiggy.com",
+   "gps_coordinates": {
+    "latitude": 12.9310468,
+    "longitude": 77.6081796
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–10:30 pm",
+    "tuesday": "7 am–10:30 pm",
+    "wednesday": "7 am–10:30 pm",
+    "thursday": "7 am–10:30 pm",
+    "friday": "7 am–10:30 pm",
+    "saturday": "7 am–10:30 pm",
+    "sunday": "7:15 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Does not accept reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc40HuBMGw3TPQV_j9gpHzTIyEUEW27p4aFM24LjzvGoTpdFYgLr56hikmAOugWsYy7WmEH3xBvHAYfnBSgk1ui8voGFSYqXjWDmEirf-BxYh_ECx11V19p_xtEWk1ZA2XMd3HW=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJQyXTawAZrjsRZ6pSMDm6Qbs",
+   "data_id": "0x3bae19006bd32543:0xbb41ba393052aa67",
+   "title": "Kadathuvallam Kerala Restaurant",
+   "address": "near, Bridge, cross, near Shams school, Markandhaiha Nagar, Agrahara Layout, Bellahalli, Bengaluru, Karnataka 560064",
+   "city": "Bellahalli, Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074114 04005",
+   "rating": 4.6,
+   "reviews": 521,
+   "website": "https://www.instagram.com/kadathuvallam",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 13.101791,
+    "longitude": 77.6337557
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Indian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am Tue",
+   "open_hours": {
+    "monday": "Closed",
+    "tuesday": "11:30 am–4:30 pm, 6:30–11:30 pm",
+    "wednesday": "11:30 am–4:30 pm, 6:30–11:30 pm",
+    "thursday": "11:30 am–4:30 pm, 6:30–11:30 pm",
+    "friday": "11:30 am–4:30 pm, 6:30–11:30 pm",
+    "saturday": "11:30 am–4:30 pm, 6:30–11:30 pm",
+    "sunday": "11:30 am–4:30 pm, 6:30–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "From the business",
+     "items": [
+      {
+       "title": "Identifies as women-owned",
+       "value": "Identifies as women-owned"
+      }
+     ]
+    },
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great coffee",
+       "value": "Serves great coffee"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Late-night food",
+       "value": "Serves late-night food"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Gender-neutral toilets",
+       "value": "Has gender-neutral toilets"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMCa-Z0Dwl-XKtHu8njiEwwZ_f9octW60sTBlKWyGThrN_Rlh3VKxhPs0AKnlNSvdbvoZykPGV8YJXJgzL0L-PFzSw7zGPLjK202e7vKDVn8V8jAWNDj_tm_bPkK8FvP_t9y7Em9E1HGNQ-=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJLdfOHwAVrjsRsqxO05snw6Y",
+   "data_id": "0x3bae15001fced72d:0xa6c3279bd34eacb2",
+   "title": "SDKN KERALA HOTEL",
+   "address": "1st, 5th Cross Rd, behind oxford dental, Hongasandra, collegeBengaluru, Bengaluru, Karnataka 560068",
+   "city": "collegeBengaluru, Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088483 50349",
+   "rating": 4.8,
+   "reviews": 53,
+   "review_text": "\"Good kerala food and good service\"",
+   "gps_coordinates": {
+    "latitude": 12.8992027,
+    "longitude": 77.6297154
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–10:30 pm",
+    "tuesday": "8 am–10:30 pm",
+    "wednesday": "8 am–10:30 pm",
+    "thursday": "8 am–10:30 pm",
+    "friday": "8 am–10:30 pm",
+    "saturday": "8 am–10:30 pm",
+    "sunday": "5–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN6VYVU94sbQvqq7UBlDi66ThE1c9PbI8b83euvLfmF-zl0vUuz4zZcCFLSNSa4amrWiSsyMtX0vljX2C-qq6lFV0X8yZFt9exh0OdJxC_Xtgwc4Z5f5I6ZNA1Qy4M0BSzJGmGcRBaaTKjU=w80-h106-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJz3KluUsXrjsRIq69kFQsWKQ",
+   "data_id": "0x3bae174bb9a572cf:0xa4582c5490bdae22",
+   "title": "Keralites Restaurant",
+   "address": "52, Markham Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096630 19669",
+   "rating": 4.6,
+   "reviews": 51,
+   "review_text": "\"A must visit place for the best kerala food on MG Road.\"",
+   "gps_coordinates": {
+    "latitude": 12.9693599,
+    "longitude": 77.6082229
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "9 am–5 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "9 am–5 pm",
+    "sunday": "Closed"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      },
+      {
+       "title": "Delivery",
+       "value": "No delivery"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrZp8FwVEWfhyWDhGZRu1GUy8mjfvAfNZ8t9OX8Zd0-BaDQKzyoW4HjpFNaFXMaTEUG0_jEzUT4AUXk_HQT6VY9kR9x1_ACHk_3OznjsXdUI7yt6fq_F8VpbnEVkAJae0s24IH049aH31y=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJ4UyTzKgXrjsRa608o15f12E",
+   "data_id": "0x3bae17a8cc934ce1:0x61d75f5ea33cad6b",
+   "title": "Kaippunnyam Kerala Restaurant",
+   "address": "2nd Floor, St. Patrick's complex, Brigade Rd, above Kanti Sweets, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097398 67212",
+   "rating": 4.1,
+   "reviews": 1299,
+   "review_text": "\"Great ambience and great kerala food.\"",
+   "gps_coordinates": {
+    "latitude": 12.9707052,
+    "longitude": 77.60661689999999
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–10:30 pm",
+    "tuesday": "9 am–10:30 pm",
+    "wednesday": "9 am–10:30 pm",
+    "thursday": "9 am–10:30 pm",
+    "friday": "9 am–10:30 pm",
+    "saturday": "9 am–10:30 pm",
+    "sunday": "9 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "From the business",
+     "items": [
+      {
+       "title": "Identifies as women-owned",
+       "value": "Identifies as women-owned"
+      }
+     ]
+    },
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Drive-through",
+       "value": "Has drive-through"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      }
+     ]
+    },
+    {
+     "title": "Pets",
+     "items": [
+      {
+       "title": "Dogs allowed inside",
+       "value": "Dogs allowed inside"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsA_dPoJOwLV_9Jac7Te-dX70IigqZr_-dv15yprARW3Q58RrMh1TEL5d7pV19b8JcqH6UdB0gw2J0KBUDlqxqwOVVBpvm6BTJhG2zS9WUIeAe9_pNeMv8dvPGR9wqzmDnF0DC=w116-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJQeOXvVMPrjsR8TXTFtuR_SY",
+   "data_id": "0x3bae0f53bd97e341:0x26fd91db16d335f1",
+   "title": "Kerala Tiffin",
+   "address": "SHOP NO.C001, GARDEN OF EDEN BY UKN PROPERTIES, B.B, ECC Rd, M.P East, Whitefield, Bengaluru, Karnataka 560066",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "079079 43091",
+   "rating": 4.3,
+   "reviews": 1687,
+   "website": "https://keralatiffin.com/",
+   "domain": "keralatiffin.com",
+   "gps_coordinates": {
+    "latitude": 12.9803898,
+    "longitude": 77.75046429999999
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 7 am",
+   "open_hours": {
+    "sunday": "7 am–1 am",
+    "monday": "7 am–1 am",
+    "tuesday": "7 am–1 am",
+    "wednesday": "7 am–1 am",
+    "thursday": "7 am–1 am",
+    "friday": "7 am–1 am",
+    "saturday": "7 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Kerbside pickup",
+       "value": "Offers kerbside pickup"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Drive-through",
+       "value": "Has drive-through"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great coffee",
+       "value": "Serves great coffee"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Organic dishes",
+       "value": "Serves organic dishes"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Gender-neutral toilets",
+       "value": "Has gender-neutral toilets"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking garage",
+       "value": "Paid parking garage"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCXc_0Mpy5nbNYQOH3ph5js-RnFDwioLQNabHBRIPF-UrZNXKmd0VC_4JJVa96krHaSMFBSTWIO0s5aqsAqCJ0wDmQE_HcvUgRF7-G1iq2wJ9CrkLVLDlYhD54X2kI-bc833WJ2J3nEhUo=w80-h142-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJJyyK-t4WrjsRuKlo1fv3_b8",
+   "data_id": "0x3bae16defa8a2c27:0xbffdf7fbd568a9b8",
+   "title": "Sangam Mess",
+   "address": "7, Kammanahalli Main Road 3rd Cross Road, Road, opp. Sansar collection Ganesh juice canter, Chinnappa Layout, Bengaluru, Karnataka 560084",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080503 51651",
+   "rating": 4.3,
+   "reviews": 7160,
+   "gps_coordinates": {
+    "latitude": 13.0193171,
+    "longitude": 77.6376694
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Andhra restaurant",
+    "Biryani restaurant",
+    "Breakfast restaurant",
+    "Buffet restaurant",
+    "Chettinad restaurant",
+    "Seafood restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8:30 am",
+   "open_hours": {
+    "monday": "8:30 am–10:30 pm",
+    "tuesday": "8:30 am–10:30 pm",
+    "wednesday": "8:30 am–10:30 pm",
+    "thursday": "8:30 am–10:30 pm",
+    "friday": "8:30 am–10:30 pm",
+    "saturday": "8:30 am–10:30 pm",
+    "sunday": "8:30 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Late-night food",
+       "value": "Serves late-night food"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Gender-neutral toilets",
+       "value": "Has gender-neutral toilets"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Does not accept reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwJ9SfNrADfvO5RW2w0JRCNjaXf1FgM49RoJn7L13RvQ8MW-fDuuwR0wTCQDM1G-RYKYYtBxfbVW3xxZhDtNoz4j3YtTCEG7IdioPOqdCj-1zvhXZnGnYSwHJydPn7J3dJZf57=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJ8bynR44UrjsR5SB6ZSgkHQ0",
+   "data_id": "0x3bae148e47a7bcf1:0xd1d2428657a20e5",
+   "title": "Kumarakom The Restaurant",
+   "description": "Keralan cuisine in a simple space. No nonsense dining room for a menu of classic Keralan dishes from a chain originating in the south.",
+   "address": "47, ground floor, 560102, 18th Main Rd, near mustard food court, behind sai baba temble, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "092437 38111",
+   "rating": 3.8,
+   "reviews": 3833,
+   "website": "https://kumarakomrestaurant.com/",
+   "domain": "kumarakomrestaurant.com",
+   "gps_coordinates": {
+    "latitude": 12.9106564,
+    "longitude": 77.644305
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Indian restaurant",
+    "South Indian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–10:30 pm",
+    "tuesday": "7 am–10:30 pm",
+    "wednesday": "7 am–10:30 pm",
+    "thursday": "7 am–10:30 pm",
+    "friday": "7 am–10:30 pm",
+    "saturday": "7 am–10:30 pm",
+    "sunday": "7 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "From the business",
+     "items": [
+      {
+       "title": "Identifies as women-owned",
+       "value": "Identifies as women-owned"
+      }
+     ]
+    },
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSocE9Cl0W0l3qGyYAeXiBOtWvP2nUuk3_dTTl52QHYCe5ssjIzg4Eit1PupRKoFRgDPEnHdJkIDz2JrdxdrD62j7o6CpgNX4gGV-PUehNNJGMPmldvnRVLOw5Y8D1AH0EPC0=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJ3QZxKf8UrjsRaQHjD8WJq-g",
+   "data_id": "0x3bae14ff297106dd:0xe8ab89c50fe30169",
+   "title": "Muthashy's Restaurant",
+   "address": "3/1 1st main 2nd cross maruthi Nagar, Madiwala, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098441 62560",
+   "rating": 4.1,
+   "reviews": 6777,
+   "gps_coordinates": {
+    "latitude": 12.9266082,
+    "longitude": 77.6157719
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Breakfast restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–12 am",
+    "tuesday": "8 am–12 am",
+    "wednesday": "8 am–12 am",
+    "thursday": "8 am–12 am",
+    "friday": "8 am–12 am",
+    "saturday": "8 am–12 am",
+    "sunday": "8 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Does not accept reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSPMsFmqvfgdg1fVn6fF8l9ReI-c4VuqiLtld6jGCPNVOv7iDa9p22p7T9TNFvuZlteSKnocLC95iVaMPkI4eR0yvCiYRr9DzkYcfrMyLhZ2suB4-6L-8YBVhMMcWX2OJTwwWv=w167-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJ5QD7Rn4WrjsRH_yAmEEDe3c",
+   "data_id": "0x3bae167e46fb00e5:0x777b03419880fc1f",
+   "title": "Karavalli",
+   "description": "Classy venue for regional Indian cuisine. Regional dishes from southwest India are featured at this classic, refined hotel restaurant.",
+   "address": "Vivanta, 66, Residency Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080666 04545",
+   "rating": 4.5,
+   "reviews": 4559,
+   "review_text": "\"Great Kerala food.. Great atmosphere\"",
+   "website": "https://www.vivantahotels.com/en-in/hotels/vivanta-bengaluru-residency-road/restaurants/karavalli-bengaluru-residency-road",
+   "domain": "vivantahotels.com",
+   "gps_coordinates": {
+    "latitude": 12.9724473,
+    "longitude": 77.6086535
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12–11:30 pm",
+    "thursday": "12–11:30 pm",
+    "friday": "12–11:30 pm",
+    "saturday": "12–11:30 pm",
+    "sunday": "12–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great coffee",
+       "value": "Serves great coffee"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Late-night food",
+       "value": "Serves late-night food"
+      },
+      {
+       "title": "Organic dishes",
+       "value": "Serves organic dishes"
+      },
+      {
+       "title": "Private dining room",
+       "value": "Has private dining room"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Bar on site",
+       "value": "Has bar on site"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      },
+      {
+       "title": "Romantic",
+       "value": "Romantic"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "Tourists",
+       "value": "Popular with tourists"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Brunch reservations recommended",
+       "value": "Brunch reservations recommended"
+      },
+      {
+       "title": "Lunch reservations recommended",
+       "value": "Lunch reservations recommended"
+      },
+      {
+       "title": "Reservations required",
+       "value": "Reservations required"
+      },
+      {
+       "title": "Dinner reservations recommended",
+       "value": "Dinner reservations recommended"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      },
+      {
+       "title": "Good for kids birthday",
+       "value": "Good for kids birthday"
+      },
+      {
+       "title": "Has changing table(s)",
+       "value": "Has changing table(s)"
+      },
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking garage",
+       "value": "Free parking garage"
+      },
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "On-site parking",
+       "value": "On-site parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    },
+    {
+     "title": "Pets",
+     "items": [
+      {
+       "title": "Dogs allowed inside",
+       "value": "Dogs allowed inside"
+      },
+      {
+       "title": "Dogs allowed outside",
+       "value": "Dogs allowed outside"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLevc_fU6B9yAEN-pur5Wpr3OdpoyA2DTINLCAYtQeDbv9xF9XU4E5ggrvE-URf2EUY9sDYT4X67j2Y5izD_QbZNRmA9DzbhuDXF4-KNoFoQU7ZG51Ews4n55nTdI3tKrCem3RiL=w80-h100-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJMXUS9TUXrjsRNHSguXdcVdI",
+   "data_id": "0x3bae1735f5127531:0xd2555c77b9a07434",
+   "title": "Yumm Keralam",
+   "address": "Bishop house road, near Liza home, Doddagubbi, Kyalasanahalli, Bengaluru, Karnataka 560077",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097397 70770",
+   "rating": 4.4,
+   "reviews": 3135,
+   "review_text": "\"One of the best kerala cuisine in Bangalore and the ambience is top notch.\"",
+   "gps_coordinates": {
+    "latitude": 13.0608055,
+    "longitude": 77.6543116
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–3:30 pm, 6:30–11 pm",
+    "tuesday": "8 am–3:30 pm, 6:30–11 pm",
+    "wednesday": "8 am–3:30 pm, 6:30–11 pm",
+    "thursday": "8 am–3:30 pm, 6:30–11 pm",
+    "friday": "8 am–3:30 pm, 6:30–11 pm",
+    "saturday": "8 am–3:30 pm, 6:30–11 pm",
+    "sunday": "8 am–3:30 pm, 6:30–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "Kerbside pickup",
+       "value": "Offers kerbside pickup"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great coffee",
+       "value": "Serves great coffee"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great tea selection",
+       "value": "Has great tea selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Private dining room",
+       "value": "Has private dining room"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Usually a wait",
+       "value": "Usually has a wait"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Does not accept reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      },
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      },
+      {
+       "title": "Kids' menu",
+       "value": "Has kids' menu"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "On-site parking",
+       "value": "On-site parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOfKsw6WAwfeXRO6E5NIW4pMWnaj8ABwbS8jVM7PPhAXb_G0fxdQoOWj8oiytJf98o3UG3PecLGZx9tCwKQEv0QkLRu0N2s6bWlAJZstTE0CRJqiHe4xnLJzJT_Ed9J5xc_DSN6_h7Dq6Ce=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJhfboFttrrjsRC7TB1oQs9oY",
+   "data_id": "0x3bae6bdb16e8f685:0x86f62c84d6c1b40b",
+   "title": "Thrissur Food Spot",
+   "address": "ABBAYAPPA garden, near AECS MAARUTI Dental College, Doddakammanahalli, Binne Bande, Hulimavu, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "086606 62136",
+   "rating": 4.5,
+   "reviews": 574,
+   "gps_coordinates": {
+    "latitude": 12.8651946,
+    "longitude": 77.6003557
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am Tue",
+   "open_hours": {
+    "monday": "Closed",
+    "tuesday": "7 am–10:30 pm",
+    "wednesday": "7 am–10 pm",
+    "thursday": "7 am–10 pm",
+    "friday": "7 am–10:30 pm",
+    "saturday": "7 am–10 pm",
+    "sunday": "7 am–9 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Drive-through",
+       "value": "Has drive-through"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Popular for breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Does not accept reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYsNl627lVVGfZmcD7ntW4FW5QjEjXNBI1PNli9Ko_rXDnCgMiNUo2MDS_sP7ZvSTxhUsAwz6qeCeWITsLt8WF-IUHoh02ShWiYOlqMhTndmhLRpDYw399nhOIq1M6ksWOaIQ3=w122-h92-k-no"
+  }
+ ]
+}

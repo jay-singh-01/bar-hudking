@@ -1,0 +1,444 @@
+{
+ "q": "best restaurants in Koramangala Bangalore",
+ "ll": "@12.9352,77.6146,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:40:14.811Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Nandhana Palace - Andhra Style Restaurant - Koramangala",
+   "place_id": "ChIJq6o2UGAUrjsRhsOrNB1QNgg",
+   "data_id": "0x3bae14605036aaab:0x836501d34abc386",
+   "rating": 4.4,
+   "reviews": 11000,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Andhra",
+   "address": "7, Mahakavi Vemana Rd",
+   "gps_coordinates": {
+    "latitude": 12.931744,
+    "longitude": 77.62288
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Bombay Adda",
+   "place_id": "ChIJ6XPL1GQVrjsR9Tg5HPVORaY",
+   "data_id": "0x3bae1564d4cb73e9:0xa6454ef51c3938f5",
+   "rating": 4.1,
+   "reviews": 8500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "Bldg 5th floor, Z1 Construction, 6, 20th Main Rd, next to Sapna Book House",
+   "gps_coordinates": {
+    "latitude": 12.936452,
+    "longitude": 77.61636
+   },
+   "comment": "Upbeat gastropub with modern Indian food",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "China Pearl",
+   "place_id": "ChIJgwUaGEUUrjsRRTdbOTMrzco",
+   "data_id": "0x3bae1445181a0583:0xcacd2b33395b3745",
+   "rating": 4.3,
+   "reviews": 5400,
+   "price": "₹400–800",
+   "extracted_price": {
+    "min": 400,
+    "max": 800
+   },
+   "type": "Chinese",
+   "address": "53/1, 5th Cross, 60 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.936285,
+    "longitude": 77.62144
+   },
+   "comment": "Chinese cuisine in a refined setting",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Zingron",
+   "place_id": "ChIJY64WaE4UrjsRpms455Joj9Y",
+   "data_id": "0x3bae144e6816ae63:0xd68f6892e7386ba6",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "North Eastern Indian restaurant",
+   "address": "No. 62, 2nd Floor, Solitaire Cascade, 1st A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936268,
+    "longitude": 77.61515
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "AL-DAAZ KORAMANGALA",
+   "place_id": "ChIJsYwXKAAVrjsRnodnMF9K_RM",
+   "data_id": "0x3bae150028178cb1:0x13fd4a5f3067879e",
+   "rating": 4.3,
+   "reviews": 2400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Eclectic",
+   "address": "1st Floor, 60, 60 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.933351,
+    "longitude": 77.622665
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "By The Blue",
+   "place_id": "ChIJG2CGgF4UrjsR4h-8KWFXu6Q",
+   "data_id": "0x3bae145e8086601b:0xa4bb576129bc1fe2",
+   "rating": 4.3,
+   "reviews": 652,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.929389,
+    "longitude": 77.628075
+   }
+  },
+  {
+   "position": 7,
+   "title": "Hungry Hippie",
+   "place_id": "ChIJqc7cKE4UrjsR7KM6JUZtjtk",
+   "data_id": "0x3bae144e28dccea9:0xd98e6d46253aa3ec",
+   "rating": 4.1,
+   "reviews": 5300,
+   "type": "Restaurant",
+   "address": "Vijay Jatti Building, 104, near EMPIRE RESTAURANT",
+   "gps_coordinates": {
+    "latitude": 12.934628,
+    "longitude": 77.61573
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Naati Cafe",
+   "place_id": "ChIJs7bHAKsVrjsRbjXCijmaoL8",
+   "data_id": "0x3bae15ab00c7b6b3:0xbfa09a398ac2356e",
+   "rating": 4.2,
+   "reviews": 1400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "56, 1st A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936192,
+    "longitude": 77.61542
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Kota Kachori",
+   "place_id": "ChIJL0R7XUMUrjsRvtH2I6WhCME",
+   "data_id": "0x3bae14435d7b442f:0xc108a1a523f6d1be",
+   "rating": 4.2,
+   "reviews": 18000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Rajasthani Restaurant",
+   "address": "Shop No. 2, Ground Floor, Salarpuria, Money Center, No. 121, opposite Forum Mall",
+   "gps_coordinates": {
+    "latitude": 12.934643,
+    "longitude": 77.612465
+   },
+   "comment": "Casual spot for Indian sweets & snacks",
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Buff Buffet Buff",
+   "place_id": "ChIJqSsUw1EUrjsRtJnGsaYq6cU",
+   "data_id": "0x3bae1451c3142ba9:0xc5e92aa6b1c699b4",
+   "rating": 4.3,
+   "reviews": 7300,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "No. 60, Jyoti Nivas College Rd, inside BluPetal Hotel",
+   "gps_coordinates": {
+    "latitude": 12.933478,
+    "longitude": 77.61521
+   },
+   "comment": "Modern buffet with global & BBQ fare",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "THE HILLS CAFE & KITCHEN",
+   "place_id": "ChIJ_UsyZscVrjsR7d70o-OAXFA",
+   "data_id": "0x3bae15c766324bfd:0x505c80e3a3f4deed",
+   "rating": 4.9,
+   "reviews": 86,
+   "type": "North Eastern Indian restaurant",
+   "address": "1st Floor, No 176, Main Road, opp. Passport Office",
+   "gps_coordinates": {
+    "latitude": 12.946422,
+    "longitude": 77.6187
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Saki - Pan Asian Kitchen",
+   "place_id": "ChIJjeXtAwAVrjsRcGGAHQUqHqc",
+   "data_id": "0x3bae150003ede58d:0xa71e2a051d806170",
+   "rating": 4.3,
+   "reviews": 108,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Asian",
+   "address": "750, 10th Main road80, Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.933162,
+    "longitude": 77.63077
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Northwest Kebab & Curryhouse",
+   "place_id": "ChIJqYd1z8MVrjsRc7vktFCOdBE",
+   "data_id": "0x3bae15c3cf7587a9:0x11748e50b4e4bb73",
+   "rating": 4.5,
+   "reviews": 585,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "North Indian",
+   "address": "2nd Floor, 99, 5th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.937036,
+    "longitude": 77.62015
+   },
+   "comment": "Understated eatery for regional fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Tuk Tuk – Koramangala | 100% Pure Veg Pan Asian Fine Dine Restaurant. Thai Curry, Best Sushi,Best Bao, Pad Thai, Dim sum",
+   "place_id": "ChIJVWs9jtIVrjsRREDZI3Pebms",
+   "data_id": "0x3bae15d28e3d6b55:0x6b6ede7323d94044",
+   "rating": 4.4,
+   "reviews": 1300,
+   "type": "Pan Asian",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933427,
+    "longitude": 77.62238
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Bistro Claytopia",
+   "place_id": "ChIJ9Wl0S2AUrjsRNI2PQmBxT_Y",
+   "data_id": "0x3bae14604b7469f5:0xf64f7160428f8d34",
+   "rating": 4.2,
+   "reviews": 8800,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "SBI Park, 11, 80 Feet Rd, near Wipro Park",
+   "gps_coordinates": {
+    "latitude": 12.925592,
+    "longitude": 77.63327
+   },
+   "comment": "Colourful pavement cafe for world eats",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "The Fixx",
+   "place_id": "ChIJm1yVlAAVrjsRffETHyI0iDc",
+   "data_id": "0x3bae150094955c9b:0x378834221f13f17d",
+   "rating": 4,
+   "reviews": 5500,
+   "type": "Restaurant",
+   "address": "80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.932281,
+    "longitude": 77.63163
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Nasi and Mee - Koramangala",
+   "place_id": "ChIJNcKZykIUrjsR5_XmIUVem_k",
+   "data_id": "0x3bae1442ca99c235:0xf99b5e4521e6f5e7",
+   "rating": 4.4,
+   "reviews": 7500,
+   "type": "Pan Asian",
+   "address": "974, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.935121,
+    "longitude": 77.62923
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Café du L'Amour (Cafe of Love)",
+   "place_id": "ChIJ9zgfLQAVrjsRTCzkLTZ6OiQ",
+   "data_id": "0x3bae15002d1f38f7:0x243a7a362de42c4c",
+   "rating": 4.7,
+   "reviews": 1400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "980, 1st A Cross, AVS Layout, near Maharaja Signal, off 80 Feet Road",
+   "gps_coordinates": {
+    "latitude": 12.934922,
+    "longitude": 77.62951
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Tibetan Mother's Kitchen (Koramangala)",
+   "place_id": "ChIJB2CO8E0UrjsRTjGXYRgXb4o",
+   "data_id": "0x3bae144df08e6007:0x8a6f17186197314e",
+   "rating": 4.1,
+   "reviews": 2800,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Tibetan",
+   "address": "404, 1st C Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.934929,
+    "longitude": 77.61274
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:45 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Brooks and Bonds Brewery",
+   "place_id": "ChIJHSRVNlsUrjsRe-wZJirXY88",
+   "data_id": "0x3bae145b3655241d:0xcf63d72a2619ec7b",
+   "rating": 4.1,
+   "reviews": 12000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "4, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.934155,
+    "longitude": 77.62339
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

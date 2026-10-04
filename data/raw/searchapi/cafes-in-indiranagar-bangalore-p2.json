@@ -1,0 +1,1049 @@
+{
+ "q": "cafes in Indiranagar Bangalore",
+ "ll": "@12.9716,77.6412,14z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:41:30.784Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJrXT8wnMXrjsRmkywvo4rLlY",
+   "data_id": "0x3bae1773c2fc74ad:0x562e2b8ebeb04c9a",
+   "title": "Ainmane Cafe and Speciality Store",
+   "address": "420, 9th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6197 3415",
+   "rating": 4.3,
+   "reviews": 900,
+   "website": "http://ainmane.com/",
+   "domain": "ainmane.com",
+   "gps_coordinates": {
+    "latitude": 12.9719867,
+    "longitude": 77.6419848
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–9:30 pm",
+    "tuesday": "7:30 am–9:30 pm",
+    "wednesday": "7:30 am–9:30 pm",
+    "thursday": "7:30 am–9:30 pm",
+    "friday": "7:30 am–9:30 pm",
+    "saturday": "7:30 am–9:30 pm",
+    "sunday": "7:30 am–9:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQc4qfieHWXcZ-fUscVQxJgm76ceplOle1uarU_aRv29W4qDBlJ4q75xmG3bmZt_m7CNY3C08IQcXVw3lNE8X_DWNM4ijU1tPTHgV14HX49xuVoleeRrfH2i7oIGaR9NYc-QUF=w137-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ_ULNqisXrjsReF339zKH1Gk",
+   "data_id": "0x3bae172baacd42fd:0x69d48732f7f75d78",
+   "title": "The Coffee Theatre - Indiranagar, Bangalore",
+   "address": "3rd floor, Bayt Towers, 12th Main Rd, Hal, Sodepur, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081700 66084",
+   "rating": 4.6,
+   "reviews": 136,
+   "gps_coordinates": {
+    "latitude": 12.9702495,
+    "longitude": 77.63938019999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–9 pm",
+    "tuesday": "9 am–9 pm",
+    "wednesday": "9 am–9 pm",
+    "thursday": "9 am–9 pm",
+    "friday": "9 am–4 pm",
+    "saturday": "9 am–4 pm",
+    "sunday": "9 am–4 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-coffee-theatre-indiranagar-east-bengaluru-705101",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPCot84FGv1aLvp48k1h3HH7IQhFrX79UM9Vnl3UqHbHF1lDgg_jmCe8SCuefVQhGb7OtGIYNstd_y7FeX1V13gxoYQ8vnHaDhe0UauqOuBiZuIEoZfBIRt_SbIcvShTc5iUNOhWOpbZu6=w122-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJE0KZuXIXrjsRUvgHPMkiRTM",
+   "data_id": "0x3bae1772b9994213:0x334522c93c07f852",
+   "title": "Conçu Indiranagar",
+   "address": "1089/A, 12th Main Rd, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074837 66077",
+   "rating": 4.2,
+   "reviews": 1644,
+   "website": "http://www.concu.in/",
+   "domain": "concu.in",
+   "gps_coordinates": {
+    "latitude": 12.9698563,
+    "longitude": 77.6378177
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Patisserie"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "8 am–12 am",
+    "sunday": "8 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/concu-indiranagar-bangalore-1432021/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpINhTHANGuztq9tOs7x7l1UOzxUZ7EuYikZCHPsTh-a-fg_1GW-DUktSYGBp1momlZvHn2SMJSeQ4k7x-z4bVGN0NG399TcHjPLCHujPLDLDF8zJ7iLztury3jdDBCjYOGDU=w80-h100-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJY-p496cWrjsRQjH-PKHnK7E",
+   "data_id": "0x3bae16a7f778ea63:0xb12be7a13cfe3142",
+   "title": "SMOOR Lounge - Indiranagar",
+   "address": "1131, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2521 1901",
+   "rating": 4.4,
+   "reviews": 7599,
+   "website": "https://smoor.in/",
+   "domain": "smoor.in",
+   "gps_coordinates": {
+    "latitude": 12.9698325,
+    "longitude": 77.6415694
+   },
+   "type": "Chocolate cafe",
+   "types": [
+    "Chocolate cafe",
+    "Chocolate artisan",
+    "Chocolate shop"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/smoor-2-indiranagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jWPG-RdQNL8N89oKyqppEJl6nXJ6gbqwoGKXkH3_zgEKLQ3PtLhpSz99B1WvXlS4zhblOjvKDa-YnC1Phcm70NnFxO-mkg8V12VMvc5RAKVclQOeE%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SV5qEslEinzCq6WThSjSaKjwN-U83ve-R_SURTEYSbVyUTVgZAbjPC2thejnI7wmGQMSSXHkL2K-BcnwMZ7GTLGGwCoQfk1jSllXOEtjadpKulfHkwm5jCej91vqvu9Owlsz6bOg=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJmaECDuIXrjsRBV-N3LEeVY8",
+   "data_id": "0x3bae17e20e02a199:0x8f551eb1dc8d5f05",
+   "title": "Third Wave Coffee",
+   "address": "12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "076193 73964",
+   "rating": 4.4,
+   "reviews": 2597,
+   "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-12th-main-indiranagar-bengaluru/",
+   "domain": "thirdwavecoffeeroasters.com",
+   "gps_coordinates": {
+    "latitude": 12.9702038,
+    "longitude": 77.6386734
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee roastery",
+    "Coffee shop",
+    "Coffee store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/third-wave-coffee-indiranagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g4wZIN3BCWC44e-upSVl7L41mCXTxKjKlxeewZxiCtKkz0HWPoMDGiu52r0C0ipSme1RONejDZR9TEjS6tZFjftn0RAZDS6wQTAH19KRuXF0qsNFc%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tc4SiQMnwMtTDKOJh6-LMsxET0MqMumZ6Km1WXhO2E0xRSAgKRNopMUAlugCX81l9_yrQG4ZXv-NHI48i0UPVVfVKiEi-VGauYrEheMPUWg9C7of7jY8B6XGREA36njgzKwZQL=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJmdq205oXrjsRrn9q3VqwI9g",
+   "data_id": "0x3bae179ad3b6da99:0xd823b05add6a7fae",
+   "title": "The Rameshwaram Cafe @ Indiranagar",
+   "address": "847/1(Old No. 847/A), Binnamangala 1st Stage, 100 Feet Rd, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090711 79191",
+   "rating": 4.3,
+   "reviews": 21359,
+   "website": "http://www.therameshwaramcafe.org/",
+   "domain": "therameshwaramcafe.org",
+   "gps_coordinates": {
+    "latitude": 12.9816796,
+    "longitude": 77.640918
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Takeout restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 5 am",
+   "open_hours": {
+    "sunday": "5 am–1 am",
+    "monday": "5 am–1 am",
+    "tuesday": "5 am–1 am",
+    "wednesday": "5 am–1 am",
+    "thursday": "5 am–1 am",
+    "friday": "5 am–1 am",
+    "saturday": "5 am–1 am"
+   },
+   "reservation": {
+    "link": "https://therameshwaramcafeindiranagar.dotpe.in/",
+    "source": "dotpe.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TKYOOrCsny9qUAhIEoFzOjAocRaa3OC4YEX9MFZG0WD59TGDpDSI-EMT2Mt7IfNDEoDyNSz-DBdfo3hsBesTZuyonvDvsoizi20_ZUPiSUJ2ViMXxeHMLsCE1G3P0gop4plEP9sw=w96-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJ-3cMy7oWrjsRu8up6eYKXaI",
+   "data_id": "0x3bae16bacb0c77fb:0xa25d0ae6e9a9cbbb",
+   "title": "Truffles - Indiranagar",
+   "description": "Snacks & desserts in bright interiors. A wide variety of American snacks & desserts in a bright space with contemporary art on walls.",
+   "address": "Ground Floor, K. P Square, 307, 100 Feet Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096110 24000",
+   "rating": 4.4,
+   "reviews": 21019,
+   "website": "https://truffles.co.in/",
+   "domain": "truffles.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9807271,
+    "longitude": 77.6405213
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "American restaurant",
+    "Continental restaurant",
+    "Hamburger restaurant",
+    "Italian restaurant",
+    "Thai restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11:30 am",
+   "open_hours": {
+    "sunday": "11:30 am–1 am",
+    "monday": "11:30 am–1 am",
+    "tuesday": "11:30 am–1 am",
+    "wednesday": "11:30 am–1 am",
+    "thursday": "11:30 am–1 am",
+    "friday": "11:30 am–1 am",
+    "saturday": "11:30 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RAajOfKauQbhW-lf-TGDt4BJ30DHRsrPVl5BujQ5YEUdRV7dYPXrjpUgeTeMmbeyNEOawZFp3DulfO5LWjJNJzb233HamfzDhcdGkRUUewiW_4B1AMkI5qyaEFnG1r9pTkcR2fPw=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJCRk_sqQWrjsRrvD65IXyTu8",
+   "data_id": "0x3bae16a4b23f1909:0xef4ef285e4faf0ae",
+   "title": "Cafe Terra",
+   "description": "Stylish spot for coffee & breakfast. Hearty breakfast & brunch fare & coffee served in a chic, 2-floor space decorated with comics.",
+   "address": "3161, 12th Main Rd, near ESI HOSPITAL, 2st Stage, Indiranagar, Domlur, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4163 1800",
+   "rating": 4.2,
+   "reviews": 2492,
+   "gps_coordinates": {
+    "latitude": 12.9697445,
+    "longitude": 77.6358625
+   },
+   "type": "Breakfast restaurant",
+   "types": [
+    "Breakfast restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–10 pm",
+    "tuesday": "8 am–10 pm",
+    "wednesday": "8 am–10 pm",
+    "thursday": "8 am–10 pm",
+    "friday": "8 am–10 pm",
+    "saturday": "8 am–10 pm",
+    "sunday": "8 am–10 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/terra-bites-resto-cafe-indiranagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iKTSHB17xz4G4jQBNIhXKGSAY5neJE6llyl_G4jV1q8omLbnOeUW3t06XH2e0AYrhkcvfRZpZVkamF4jakOUTsnqlPMql84bgFSVPJavmiOY5y5Og%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_dU8UN12wDv774cj6idSgKRmURoc80oMyIeBp6BT_OQwvBSbRMMZ6I0-MerE5xSmAzCgZxZXyvOhh5nUkfLUylFgEzx7VP4r2K_dUrXNsjWoAQ0grXrYL962kVqEXQrfm9lFQ=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJD_Lt36gWrjsRObF4QxsAqQE",
+   "data_id": "0x3bae16a8dfedf20f:0x1a9001b4378b139",
+   "title": "Eddy's Cafe",
+   "description": "Casual spot for coffee & snacks. Down-to-earth restaurant serving pasta, salads & snacks, plus tea & coffee drinks.",
+   "address": "314, 6th Main Rd, HAL 2nd Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063612 92968",
+   "rating": 4.3,
+   "reviews": 759,
+   "website": "https://www.eddyscafe.com/",
+   "domain": "eddyscafe.com",
+   "gps_coordinates": {
+    "latitude": 12.9739743,
+    "longitude": 77.6450124
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am Tue",
+   "open_hours": {
+    "monday": "Closed",
+    "tuesday": "8 am–7 pm",
+    "wednesday": "8 am–7 pm",
+    "thursday": "8 am–7 pm",
+    "friday": "8 am–7 pm",
+    "saturday": "9 am–8 pm",
+    "sunday": "9 am–8 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qwzg0nnd6w8JQ4Ls2c_I-IVtf5OJCLNQ0HqM0NJUHQryTT3tJrdvu0kdJkx7QvqokRwZXDHLd8ot7Wg7zA7BFvrALtfMCEkyj7ekEE7Gct_SbQpXHbOOZAiGNEVFePmgv_2j2rAQ=w200-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJdU1tOrsWrjsRa8hTEg4Fuug",
+   "data_id": "0x3bae16bb3a6d4d75:0xe8ba050e1253c86b",
+   "title": "Yogisthaan",
+   "address": "89, 11th Cross Rd, Stage 2, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4091 4888",
+   "hotel_stars": "3 stars",
+   "rating": 4.2,
+   "reviews": 3800,
+   "website": "http://www.yogisthaan.com/",
+   "domain": "yogisthaan.com",
+   "gps_coordinates": {
+    "latitude": 12.9809695,
+    "longitude": 77.6384095
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Bed & breakfast",
+    "Breakfast restaurant",
+    "Vegetarian restaurant",
+    "Holiday home",
+    "Macrobiotic restaurant",
+    "Organic restaurant",
+    "Organic shop",
+    "Home Stay",
+    "Vegan restaurant",
+    "Yoga studio"
+   ],
+   "amenities": [
+    "Free breakfast",
+    "Free Wi-Fi",
+    "Breakfast",
+    "Wi-Fi"
+   ],
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SrYj43ijSVt5mmREmF5mFV8nqpgAN8czyRSBvb_ScVvfODrLFearDAoHCvIX0YuQevwaC9QWvp12OVHIMp5tePYMdKUpaWVGsvMkA8SKz1QRt13m_yojFuqtkYt5Srbhn8zRd8=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJJVxHHQAXrjsRnydro6h-Rew",
+   "data_id": "0x3bae17001d475c25:0xec457ea8a36b279f",
+   "title": "Kink Speciality Coffee",
+   "address": "14, 5th Main Rd, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099801 43932",
+   "rating": 4.5,
+   "reviews": 172,
+   "website": "https://kinkcoffee.in/",
+   "domain": "kinkcoffee.in",
+   "gps_coordinates": {
+    "latitude": 12.9799508,
+    "longitude": 77.63809909999999
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–10 pm",
+    "tuesday": "8 am–10 pm",
+    "wednesday": "8 am–10 pm",
+    "thursday": "8 am–10 pm",
+    "friday": "8 am–10 pm",
+    "saturday": "8 am–10 pm",
+    "sunday": "8 am–10 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/kink-coffee-indiranagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jchjmSoKELCiVa34MTA5ueaKTAdXDuu78SCdaHQxezN7Iej_5wH779z1R1CW4vDbQwy2SzRwlw7eCl3ilS20TfxOGN3gc1eb4Dy9yOgdjerS_yrhw%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T2dQZ1aE4w5C0uEjVqdQqWVRbRAWsmNk3U--ShBQqVcSOey4-mm2JMQPte9ow_4IasBZIOhIHn-MyaSZ6_X7GoPXM74tEHBSnLdzq7JNISjdNdVRwm-egO1DkXkz63xV9AO-At=w80-h106-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJk42RIQAXrjsR-MPn-d_HDE4",
+   "data_id": "0x3bae170021918d93:0x4e0cc7dff9e7c3f8",
+   "title": "Vanamo Global Eats and Caffeinary",
+   "address": "368, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090082 66669",
+   "rating": 4.4,
+   "reviews": 693,
+   "website": "https://vanamo.in/",
+   "domain": "vanamo.in",
+   "gps_coordinates": {
+    "latitude": 12.9732198,
+    "longitude": 77.6413393
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe",
+    "Fine dining restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–11 pm",
+    "tuesday": "8 am–11 pm",
+    "wednesday": "8 am–11 pm",
+    "thursday": "8 am–11 pm",
+    "friday": "8 am–11 pm",
+    "saturday": "8 am–11 pm",
+    "sunday": "8 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/vanamo-indiranagar-bangalore-926551/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SkAqXmNEQ5ekh2XlHqa8M36oEoDAVRvmvZLmCdNxZS61i8NTIM-ojRk3rn44FGYcbP3k22vfOkIrZPSOskzFArT8tv1960E8B--_XlYDkZYKxjMudnCMwKF20yaGEsymoESEhP=w137-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJ_xOtZNYVrjsRwT6S5amoF98",
+   "data_id": "0x3bae15d664ad13ff:0xdf17a8a9e5923ec1",
+   "title": "Blue Tokai Coffee Roasters | Indiranagar, Domlur",
+   "address": "24, 1st Main, 3rd Cross Road Defence Colony, Indiranagar, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098101 57426",
+   "rating": 4.2,
+   "reviews": 312,
+   "website": "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-indiranagar-domlur-cafe-indiranagar-bengaluru-436797/Home?utm_source=locator&utm_medium=googleplaces",
+   "domain": "stores.bluetokaicoffee.com",
+   "gps_coordinates": {
+    "latitude": 12.9672485,
+    "longitude": 77.6367305
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe",
+    "Coffee roastery"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–11 pm",
+    "tuesday": "7 am–11 pm",
+    "wednesday": "7 am–11 pm",
+    "thursday": "7 am–11 pm",
+    "friday": "7 am–11 pm",
+    "saturday": "7 am–11 pm",
+    "sunday": "7 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/blue-tokai-coffee-roasters-domlur-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j3pPlDtaaOBoCjtfitnd431sUYj8im4KR7GPH2cYsAVF8vTQm-V2bqADoVy67sWeX2VkfY1JAOV9B8yNLHSrvHCdncAipIs1KHhZs-XU47LcFmR_w%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QmcdeuA81Vce1yp_vijvjtxkoUdpE0rb-X-ElLeQzNfWE-YpHVrnbLZOpB75CVvVAvbIlnCAVUnzj123YbXgJhMqdxtfe0nkRn0WPK2_CxAdJK5QTQarspB2tNWZH4JB9Arwkg5jGzUdA=w80-h106-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJUZokVgoVrjsR1l1DwgGT7as",
+   "data_id": "0x3bae150a56249a51:0xabed9301c2435dd6",
+   "title": "Huvu Cafe x Healthy Fuel",
+   "address": "46, 9th Main, 80 Feet Rd, opposite to BSNL, HAL 3rd Stage, Indiranagar, Bengaluru, Karnataka 560075",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081052 11846",
+   "rating": 4.6,
+   "reviews": 464,
+   "website": "http://www.huvucafe.com/",
+   "domain": "huvucafe.com",
+   "gps_coordinates": {
+    "latitude": 12.969501,
+    "longitude": 77.6478044
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–11 pm",
+    "tuesday": "7:30 am–11 pm",
+    "wednesday": "7:30 am–11 pm",
+    "thursday": "7:30 am–11 pm",
+    "friday": "7:30 am–11 pm",
+    "saturday": "7:30 am–11 pm",
+    "sunday": "7:30 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/huvu-cafe-indiranagar-bangalore-944234/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpHvRUUQoB-GwirMwL1c8mxm4cHCFJZ8OXQwjNmaOjZkrcv-qsOnVg48eTcUy8eie3y8w8sQfQ2tpQgGtKbY8msU_78-e9FJ2xr7NT9NYtR8GQ4dXaZh-f0xz1RX1L-RqHg0V7=w80-h106-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJc0JAFaUWrjsRRXSXJPX7YFo",
+   "data_id": "0x3bae16a515404273:0x5a60fbf524977445",
+   "title": "Toit",
+   "description": "Rustic microbrewery with facility tours. Brick-walled microbrewery offering naturally crafted beers, hearty pub grub & brewery tours.",
+   "address": "6/2, 100 Feet Rd, near Drops Total Spirites, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090197 13388",
+   "rating": 4.5,
+   "reviews": 62683,
+   "website": "https://toit.in/restaurant/toit-bangalore/",
+   "domain": "toit.in",
+   "gps_coordinates": {
+    "latitude": 12.9795441,
+    "longitude": 77.6406542
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "American restaurant",
+    "Bar",
+    "Italian restaurant",
+    "Pizza restaurant",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8:30 am",
+   "open_hours": {
+    "sunday": "8:30 am–1 am",
+    "monday": "8:30 am–1 am",
+    "tuesday": "8:30 am–1 am",
+    "wednesday": "8:30 am–1 am",
+    "thursday": "8:30 am–1 am",
+    "friday": "8:30 am–1 am",
+    "saturday": "8:30 am–1 am"
+   },
+   "reservation": {
+    "link": "https://toit.in/bangalore-reservation/",
+    "source": "toit.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RR1cqTSbX-Myh2xk8dbdhOlcAxIL0qbNcLhjFWe2Wth8nFcXMUIPyj4-Kh_K5653pJk7P1oK8W9biq2LTKg3nF1XGxjeTSZqDfPDKb_wTKOAjpeguMlq3eyDeaBcD8D7daaF8=w80-h106-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJj6COu-EXrjsRAVgJzOtBMys",
+   "data_id": "0x3bae17e1bb8ea08f:0x2b3341ebcc095801",
+   "title": "Chaayos Cafe - Indiranagar",
+   "address": "789/B, 12th Main Rd, Sodepur, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "1800 120 2424",
+   "rating": 4,
+   "reviews": 2022,
+   "website": "http://www.chaayos.com/",
+   "domain": "chaayos.com",
+   "gps_coordinates": {
+    "latitude": 12.9703299,
+    "longitude": 77.64081329999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–11 pm",
+    "tuesday": "8 am–11 pm",
+    "wednesday": "8 am–11 pm",
+    "thursday": "8 am–11 pm",
+    "friday": "8 am–11 pm",
+    "saturday": "8 am–11 pm",
+    "sunday": "8 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/chaayos-chai-snacks-relax-indiranagar-bangalore-217505/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RifpPxgApUrW4O8Qpr-R2Bn837vZPracB5uiiBiyBthRcOORSjJgEDdosD1X_koRtmKvQoSgs6gUwXmZoiuDRS90__kIL-Ujd9HZsIQ1XG02LlvjUTJjdT2HQMYiRbGx13kiMX=w95-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJv_Jv4H0XrjsRc9yIr1_3w48",
+   "data_id": "0x3bae177de06ff2bf:0x8fc3f75faf88dc73",
+   "title": "Story Coffee House & Bistro",
+   "address": "East West Building, 13th Street, near Indira Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "086605 56092",
+   "rating": 4.3,
+   "reviews": 239,
+   "website": "http://www.storycoffeehouse.in/",
+   "domain": "storycoffeehouse.in",
+   "gps_coordinates": {
+    "latitude": 12.9718491,
+    "longitude": 77.6351116
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–10 pm",
+    "tuesday": "8 am–10 pm",
+    "wednesday": "8 am–10 pm",
+    "thursday": "8 am–10 pm",
+    "friday": "8 am–10 pm",
+    "saturday": "8 am–10 pm",
+    "sunday": "8 am–10 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/story-coffee-bistro-indiranagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_he5aAAKIkCiiBIClMZNLOl3-09WB1UYj2r6k9Zlbx2MOG3TbhPD6I6vnmcMtd8Z5W8Ax7GFMPBuYYGlHtwcxvJBW6MaG65Pq9qUDaPqhbUhbHeqm0%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlgOJWf3PlhJj4cxUjsXHwT8O9uyOsmOsl_BbDd24k3JolbuAI8yWW4pKuv-Tvi4D5tEhuOQSnx5GUMXzk3K0WCyQxzwziv1dADawiDXAb4SEEnGO8bLj4_lCdxy_oceOhBLsZ9w=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJU4T7IskXrjsRk-_bSCGL0ZU",
+   "data_id": "0x3bae17c922fb8453:0x95d18b2148dbef93",
+   "title": "Cafe Grey by Dongle & Co",
+   "address": "3rd Floor, No, 421/J, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096063 33284",
+   "rating": 4.4,
+   "reviews": 1045,
+   "website": "https://dongle.community/cafe-to-work-in-indiranagar/",
+   "domain": "dongle.community",
+   "gps_coordinates": {
+    "latitude": 12.9792489,
+    "longitude": 77.64319119999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Beverages"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–11 pm",
+    "tuesday": "9 am–11 pm",
+    "wednesday": "9 am–11 pm",
+    "thursday": "9 am–11 pm",
+    "friday": "9 am–11 pm",
+    "saturday": "9 am–11 pm",
+    "sunday": "9 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/cafe-grey-by-dongle-co-indiranagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hcGywk2RPWhs4Lx2cDBmlAxnPFqXkrIZLS6C54NDdj_psdLP7sAPpJ_JoZWIJ_i62aR8uEaLMJr2AyzzBEV0oza0vqYE-ezXzZeAexwcqAgHSBzoM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2FLtJUvxs3gaJFipoA4HlQPFrh1EQRttQF0GBY5xonv-kqUN8B0ORXbnhxo9i9sdxdhnX6VHFRr8Z61C_FGuFM_gZikjKwqStPiHAFC3efweWwglV97Ppns7KbIqwpifsjkQJ=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJtS18E3wXrjsRp6ams4onXL4",
+   "data_id": "0x3bae177c137c2db5:0xbe5c278ab3a6a6a7",
+   "title": "The Srirangam Cafe",
+   "address": "332, Paramahansa Yogananda Rd, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089043 69660",
+   "rating": 4.4,
+   "reviews": 3051,
+   "website": "https://thesrirangamcafe.org/",
+   "domain": "thesrirangamcafe.org",
+   "gps_coordinates": {
+    "latitude": 12.978633,
+    "longitude": 77.63692209999999
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Self service restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6:30 am",
+   "open_hours": {
+    "monday": "6:30 am–12 am",
+    "tuesday": "6:30 am–12 am",
+    "wednesday": "6:30 am–12 am",
+    "thursday": "6:30 am–12 am",
+    "friday": "6:30 am–12 am",
+    "saturday": "6:30 am–12 am",
+    "sunday": "6:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-srirangam-cafe-indiranagar-bangalore-690393/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RP-En1YFhuUs6GeWvDF2H-ThFTPnihaefG2uRovdlCpdKYnBQFj7LKnorcZ5VGZf-6HUxM0phpP2p5VJgRx4kvmutkqHgB7jZ5R2cO-bYsoNSggjxkhjvpVPFzUDHvFKZophNtfw=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ4Y0h9hoVrjsRzjwTlHwsLKU",
+   "data_id": "0x3bae151af6218de1:0xa52c2c7c94133cce",
+   "title": "Chai Days",
+   "description": "Tea & snacks in a down-to-earth cafe. Compact, unassuming cafe offering a variety of teas, plus rolls, sandwiches, baked goods & sweets.",
+   "address": "100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "092147 66583",
+   "rating": 4.4,
+   "reviews": 5010,
+   "website": "http://www.chaidays.in/",
+   "domain": "chaidays.in",
+   "gps_coordinates": {
+    "latitude": 12.9664766,
+    "longitude": 77.64168529999999
+   },
+   "type": "Tea house",
+   "types": [
+    "Tea house",
+    "Coffee shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Opens soon · 12:30 am",
+   "open_hours": {
+    "monday": "12:30–1 am, 7:30 am–12 am",
+    "tuesday": "12:30–1 am, 7:30 am–12 am",
+    "wednesday": "12:30–1 am, 7:30 am–12 am",
+    "thursday": "12:30–1 am, 7:30 am–12 am",
+    "friday": "12:30–1 am, 7:30 am–12 am",
+    "saturday": "12:30–1 am, 7:30 am–12 am",
+    "sunday": "12:30–1 am, 7:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/chai-days-indiranagar-bangalore-110996/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RW05gklcPcskyfvmB0jmnrDwNHY-C8VVvZPYkOe4m-EzC6-0gNG6z1XtiKmpOaLQPe_ETww0tV_xksU1oNO6L03sE5usAl3EuzQf0oE8iuG9eGtUVAgJ3Rb4_dRoBK4UGoQ4FH=w80-h106-k-no"
+  }
+ ]
+}

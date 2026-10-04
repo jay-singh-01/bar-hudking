@@ -1,0 +1,440 @@
+{
+ "q": "best restaurants in Whitefield Bangalore",
+ "ll": "@12.9698,77.75,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:41:13.807Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Telugu Aromas - Whitefields",
+   "place_id": "ChIJEcIqba8PrjsRQyfrCAZQ1MY",
+   "data_id": "0x3bae0faf6d2ac211:0xc6d4500608eb2743",
+   "rating": 4,
+   "reviews": 1600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "tree park metro station, No. 44, Upkar Layout, Prasanth Extension, near hope form kadugudi",
+   "gps_coordinates": {
+    "latitude": 12.983109,
+    "longitude": 77.74718
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Oasis Brewery",
+   "place_id": "ChIJoZwK_ckRrjsRgf30yYlwfJ0",
+   "data_id": "0x3bae11c9fd0a9ca1:0x9d7c7089c9f4fd81",
+   "rating": 4.7,
+   "reviews": 5100,
+   "type": "Brewpub",
+   "address": "Sy No. 26, Plot No 1A & 2B, Whitefield Main Road",
+   "gps_coordinates": {
+    "latitude": 12.997321,
+    "longitude": 77.691055
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Dhaba Square",
+   "place_id": "ChIJbfsCq1ETrjsRbGyqt6p9-kk",
+   "data_id": "0x3bae1351ab02fb6d:0x49fa7daab7aa6c6c",
+   "rating": 4.5,
+   "reviews": 7300,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "North Indian",
+   "address": "Nallurhalli circle, Borewell Rd, beside Ambedkar statue",
+   "gps_coordinates": {
+    "latitude": 12.969338,
+    "longitude": 77.735306
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Bologna Italian Restaurant - Whitefield",
+   "place_id": "ChIJr2e7gdYPrjsRQ3glLYGrg6k",
+   "data_id": "0x3bae0fd681bb67af:0xa983ab812d257843",
+   "rating": 4.6,
+   "reviews": 773,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Italian",
+   "address": "No 921,Old no 634/494/1, Belathur Village, Post",
+   "gps_coordinates": {
+    "latitude": 13.003342,
+    "longitude": 77.75696
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Terracotta - Vivanta Bengaluru, Whitefield",
+   "place_id": "ChIJKT7zweQRrjsReDHD_j1yfSk",
+   "data_id": "0x3bae11e4c1f33e29:0x297d723dfec33178",
+   "rating": 4.3,
+   "reviews": 193,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Indian",
+   "address": "Vivanta Bengaluru, Whitefield, ITPB, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.98708,
+    "longitude": 77.7373
+   },
+   "comment": "Modern north Indian bistro in a hotel",
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "KAILASH PARBAT | Best Veg Restaurant in Whitefield",
+   "place_id": "ChIJsZ8eGI4RrjsRv9DQYrKjrss",
+   "data_id": "0x3bae118e181e9fb1:0xcbaea3b262d0d0bf",
+   "rating": 4.5,
+   "reviews": 3600,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "No 149, Doddanakundi, 2nd Phase, Industrial area Hoodi village",
+   "gps_coordinates": {
+    "latitude": 12.985888,
+    "longitude": 77.708206
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Alto Vino",
+   "place_id": "ChIJm8hEUfERrjsRQ-EH6uI41cE",
+   "data_id": "0x3bae11f15144c89b:0xc1d538e2ea07e143",
+   "rating": 4.3,
+   "reviews": 255,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Italian",
+   "address": "Plot No. 75, 8th Rd",
+   "gps_coordinates": {
+    "latitude": 12.979719,
+    "longitude": 77.72835
+   },
+   "comment": "Luxury hotel's modern Italian trattoria",
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Cafe Palmyra",
+   "place_id": "ChIJi3s1EQcSrjsR9C0UvfDGXHE",
+   "data_id": "0x3bae120711357b8b:0x715cc6f0bd142df4",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "address": "Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.96435,
+    "longitude": 77.739555
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Nusa - Tropical Brewvilla",
+   "place_id": "ChIJ34DjU8QTrjsRNzkL-HfwTRk",
+   "data_id": "0x3bae13c453e380df:0x194df077f80b3937",
+   "rating": 4.3,
+   "reviews": 7300,
+   "type": "Brewery",
+   "address": "23-A , chaithanya sharan X",
+   "gps_coordinates": {
+    "latitude": 12.925833,
+    "longitude": 77.73483
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Habba Kadal Kashmiri Heritage Hub & Restaurant",
+   "place_id": "ChIJjSab3wENrjsRb5YCT-Gy91I",
+   "data_id": "0x3bae0d01df9b268d:0x52f7b2e14f02966f",
+   "rating": 4.4,
+   "reviews": 1500,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Kashmiri",
+   "address": "326, Inner Cir Rd",
+   "gps_coordinates": {
+    "latitude": 12.971973,
+    "longitude": 77.74933
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Attil Multi-Cuisine Restaurant",
+   "place_id": "ChIJJ40hihAPrjsRrRk1Vk5vQoo",
+   "data_id": "0x3bae0f108a218d27:0x8a426f4e563519ad",
+   "rating": 4.4,
+   "reviews": 130,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "1st floor, Hope Farm Circle, Channasandra Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.983217,
+    "longitude": 77.75295
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Axon Corporate Stays – Whitefield | Hope Farm - Best Hotel in Whitefield Bangalore",
+   "place_id": "ChIJcUCeR5wPrjsRpUDZt9-H_0U",
+   "data_id": "0x3bae0f9c479e4071:0x45ff87dfb7d940a5",
+   "rating": 4.9,
+   "reviews": 230,
+   "type": "Restaurant",
+   "address": "Site No. 4, Near Hope Farm Signal, Behind Shell Petrol Bunk, Pattandur Agrahara Swamy Vivekananda Road, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.981825,
+    "longitude": 77.75172
+   }
+  },
+  {
+   "position": 13,
+   "title": "Whitefield SOCIAL",
+   "place_id": "ChIJdxAI4AoRrjsRcYNOSqAim5A",
+   "data_id": "0x3bae110ae0081077:0x909b22a04a4e8371",
+   "rating": 4,
+   "reviews": 13000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "Shop 29, Ground Floor, Phoenix Market city, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.997596,
+    "longitude": 77.6967
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "InAzia",
+   "place_id": "ChIJTT-W0iYRrjsRSvStdgGRw0Y",
+   "data_id": "0x3bae1126d2963f4d:0x46c3910176adf44a",
+   "rating": 4.4,
+   "reviews": 148,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan Asian",
+   "gps_coordinates": {
+    "latitude": 12.989124,
+    "longitude": 77.72985
+   },
+   "extensions": [
+    "Sheraton Grand Bengaluru Whitefield Hotel & Convention Center Hoodi",
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Chulha Chauki Da Dhaba | AECS Layout",
+   "place_id": "ChIJQRN0iCQSrjsRa5pvX-5_e0s",
+   "data_id": "0x3bae122488741341:0x4b7b7fee5f6f9a6b",
+   "rating": 4.3,
+   "reviews": 22000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "Krishvi Prospero 601, AECS Layout Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.964475,
+    "longitude": 77.71584
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "AB's - Absolute Barbecues | Whitefield, Bangalore",
+   "place_id": "ChIJYyvApCASrjsRxZUjSiAynaU",
+   "data_id": "0x3bae1220a4c02b63:0xa59d32204a2395c5",
+   "rating": 4.2,
+   "reviews": 18000,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Barbecue",
+   "address": "Export Promotion Industrial Park 5 Cafe, 120, above Liquor Liberary",
+   "gps_coordinates": {
+    "latitude": 12.977018,
+    "longitude": 77.72491
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "153 Biere Street | Best Microbrewery in Whitefield",
+   "place_id": "ChIJmW76IqYNrjsRLzqM4cTcevM",
+   "data_id": "0x3bae0da622fa6e99:0xf37adcc4e18c3a2f",
+   "rating": 4.2,
+   "reviews": 2500,
+   "type": "Brewpub",
+   "address": "XP5X+JR6 Biere Street, 153/1, Hagadur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.963289,
+    "longitude": 77.75096
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Layla – An Indian -Terranean Love Story",
+   "place_id": "ChIJS6P5CMYRrjsRovtN9U_8w2M",
+   "data_id": "0x3bae11c608f9a34b:0x63c3fc4ff54dfba2",
+   "rating": 4,
+   "reviews": 700,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Mediterranean",
+   "address": "ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.987413,
+    "longitude": 77.73332
+   },
+   "comment": "Chic rooftop locale for drinks & tapas",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Kapoor's Cafe",
+   "place_id": "ChIJD-qdKTwSrjsRVQQNisM6TtE",
+   "data_id": "0x3bae123c299dea0f:0xd14e3ac38a0d0455",
+   "rating": 4,
+   "reviews": 14000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "Gurukuls Sports Academy, Old, Varthur Main Rd, near Cafe Coffee Day",
+   "gps_coordinates": {
+    "latitude": 12.956092,
+    "longitude": 77.719955
+   },
+   "comment": "Punjabi fare in a simple setting",
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Biergarten",
+   "place_id": "ChIJuRJGo4URrjsRSyNZtkBQMZY",
+   "data_id": "0x3bae1185a34612b9:0x96315040b659234b",
+   "rating": 4.5,
+   "reviews": 6500,
+   "type": "Brewery",
+   "address": "2, Rd Number 2",
+   "gps_coordinates": {
+    "latitude": 12.98245,
+    "longitude": 77.70873
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

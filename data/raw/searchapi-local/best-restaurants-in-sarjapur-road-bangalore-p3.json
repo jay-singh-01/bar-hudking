@@ -1,0 +1,449 @@
+{
+ "q": "best restaurants in Sarjapur Road Bangalore",
+ "ll": "@12.901,77.687,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:41:28.471Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Chianti, The Bay- ECOWORLD",
+   "place_id": "ChIJIyjCmioTrjsRX8uhIEEcAhg",
+   "data_id": "0x3bae132a9ac22823:0x18021c4120a1cb5f",
+   "rating": 4.8,
+   "reviews": 1700,
+   "type": "Italian",
+   "address": "Ground floor, Unit AR 1, Art Gallery, The Bay, ECOWORLD",
+   "gps_coordinates": {
+    "latitude": 12.920409,
+    "longitude": 77.68376
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "ForSkor Restaurant And Party Hall",
+   "place_id": "ChIJt7eBQnMTrjsR6jGlI2FY5rM",
+   "data_id": "0x3bae13734281b7b7:0xb3e6586123a531ea",
+   "rating": 4.3,
+   "reviews": 2300,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Family-friendly",
+   "address": "Sulikunte Colony, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.889098,
+    "longitude": 77.73226
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Kairali Kitchen & Restaurant, Sarjapur",
+   "place_id": "ChIJaVMr0FVzrjsRKSB4XnoNH9Y",
+   "data_id": "0x3bae7355d02b5369:0xd61f0d7a5e782029",
+   "rating": 4.4,
+   "reviews": 2700,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Keralan",
+   "address": "Sarjapura - Attibele Rd, near Police Station",
+   "gps_coordinates": {
+    "latitude": 12.856185,
+    "longitude": 77.78242
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Brik Oven - Woodfired Pizzas (Sarjapur Road)",
+   "place_id": "ChIJWy-KNnQTrjsRrlX4GkQYehw",
+   "data_id": "0x3bae1374368a2f5b:0x1c7a18441af855ae",
+   "rating": 4.2,
+   "reviews": 242,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Pizza",
+   "address": "401, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908042,
+    "longitude": 77.69329
+   }
+  },
+  {
+   "position": 5,
+   "title": "Indian Pantry",
+   "place_id": "ChIJiVNiwFlzrjsRkRP7oN-OtfI",
+   "data_id": "0x3bae7359c0625389:0xf2b58edfa0fb1391",
+   "rating": 4.5,
+   "reviews": 825,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "Ground Floor, AMR Complex, SY NO 73/1, taluk, opposite Yamare",
+   "gps_coordinates": {
+    "latitude": 12.877223,
+    "longitude": 77.76498
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Paakashala",
+   "place_id": "ChIJ73GiNBYTrjsRthTP3BBlYoc",
+   "data_id": "0x3bae131634a271ef:0x87626510dccf14b6",
+   "rating": 4.3,
+   "reviews": 2900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "2217/62//2C, Sarjapur Main Rd, above Bank Of Baroda, near WIpro Corporate Office",
+   "gps_coordinates": {
+    "latitude": 12.911946,
+    "longitude": 77.68259
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Blue Terrain",
+   "place_id": "ChIJO-MSxaYTrjsRY7o-v5I5Tjk",
+   "data_id": "0x3bae13a6c512e33b:0x394e3992bf3eba63",
+   "rating": 4.5,
+   "reviews": 733,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Barbecue",
+   "address": "Novotel Bengaluru Tech Park, Marathahalli - Sarjapur Outer Ring Rd, opp. Intel Campus",
+   "gps_coordinates": {
+    "latitude": 12.929868,
+    "longitude": 77.68337
+   },
+   "comment": "Mid-range hotel's grill restaurant & bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "The Urban Turban",
+   "place_id": "ChIJE_zEBlwTrjsRbK9hmGXN8Bw",
+   "data_id": "0x3bae135c06c4fc13:0x1cf0cd659861af6c",
+   "rating": 4,
+   "reviews": 2300,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "Domsandra, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.885002,
+    "longitude": 77.73758
+   },
+   "comment": "Unfussy destination for local bites",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Waves Bar & Kitchen",
+   "place_id": "ChIJq4lqJURzrjsR_DmUkm6wvkk",
+   "data_id": "0x3bae7344256a89ab:0x49beb06e929439fc",
+   "rating": 4.4,
+   "reviews": 346,
+   "type": "Pub",
+   "address": "Sarjapura, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.861535,
+    "longitude": 77.77758
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "The Golden Circle Brewery",
+   "place_id": "ChIJPR-ZhNQTrjsRL5ghswxh8qs",
+   "data_id": "0x3bae13d484991f3d:0xabf2610cb321982f",
+   "rating": 4.5,
+   "reviews": 3800,
+   "type": "Brewery",
+   "address": "Sy. No. 41/9, BBMP No. 154/41/9, Doddakanneli, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908461,
+    "longitude": 77.69023
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Little Italy Restaurant",
+   "place_id": "ChIJTX-ZM3cTrjsRbtkkc4BYdxU",
+   "data_id": "0x3bae137733997f4d:0x157758807324d96e",
+   "rating": 4.1,
+   "reviews": 3800,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Italian",
+   "address": "Sri Balaji Serenity Ambalipura Village Varthur, 12/3/2, Ambalipura - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.9201,
+    "longitude": 77.66707
+   },
+   "comment": "Stylish chain preparing Italian cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Napoli Italian Bistro - Sarjapur Road",
+   "place_id": "ChIJgV-hWIIUrjsRzev8giXJzZY",
+   "data_id": "0x3bae148258a15f81:0x96cdc92582fcebcd",
+   "rating": 4.1,
+   "reviews": 2600,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Italian",
+   "address": "Fire Stations, No 71, Plot No 9, Kaikondrahalli Lake Road, Ambalipura - Sarjapur Rd, opp. to Sarjapur - Marathahalli Road, near Anand Sweets",
+   "gps_coordinates": {
+    "latitude": 12.915774,
+    "longitude": 77.67291
+   },
+   "comment": "Modern dining room for Italian dishes",
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "AMBUR STAR BRIYANI SINCE 1890",
+   "place_id": "ChIJQw_sAvwTrjsRpAKsrjnHuWw",
+   "data_id": "0x3bae13fc02ec0f43:0x6cb9c739aeac02a4",
+   "rating": 4.5,
+   "reviews": 475,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "1st FLOOR, BRS Towers, 51, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.914707,
+    "longitude": 77.67607
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Coastal Fine Dine Restaurant",
+   "place_id": "ChIJvTAcUAJzrjsRwoh5Km2xZ7s",
+   "data_id": "0x3bae7302501c30bd:0xbb67b16d2a7988c2",
+   "rating": 4.6,
+   "reviews": 112,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "VQ6M+839 Ground Floor #472/2 Shop No 4 And 5 Bangalore Main Road, Taluk, opp. New Athithi Grand",
+   "gps_coordinates": {
+    "latitude": 12.860692,
+    "longitude": 77.78274
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Asia Alive - Global Dining",
+   "place_id": "ChIJB5j4qXATrjsRcVjvx0v3VKc",
+   "data_id": "0x3bae1370a9f89807:0xa754f74bc7ef5871",
+   "rating": 4,
+   "reviews": 769,
+   "type": "Buffet",
+   "address": "Iblur Gate, Outer Ring Road Marathahalli-Bellandur-Sarjapur Outer Ring Road, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.919075,
+    "longitude": 77.66512
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Royale Dine",
+   "place_id": "ChIJkenrIxkTrjsRZa3m4_6fDSQ",
+   "data_id": "0x3bae131923ebe991:0x240d9ffee3e6ad65",
+   "rating": 4.1,
+   "reviews": 4800,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "71/2",
+   "gps_coordinates": {
+    "latitude": 12.911696,
+    "longitude": 77.68193
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "The Chef Couple",
+   "place_id": "ChIJMT64ztFzrjsRJyM-Kh_wGYs",
+   "data_id": "0x3bae73d1ceb83e31:0x8b19f01f2a3e2327",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Punjabi",
+   "address": "5/4, 3rd Floor, Rana City, Sarjapur - Marathahalli Rd, opp. The Prestige City, above Naturals Salon",
+   "gps_coordinates": {
+    "latitude": 12.876794,
+    "longitude": 77.76514
+   },
+   "comment": "Casual eatery for Indian & Chinese fare",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Sri Annapurna Grand",
+   "place_id": "ChIJ_wkuEgATrjsR-ZjgZDjGwOs",
+   "data_id": "0x3bae1300122e09ff:0xebc0c63864e098f9",
+   "rating": 4.5,
+   "reviews": 278,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "Chikkakannalli, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.899899,
+    "longitude": 77.69542
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Erivum Puliyum Restaurant (EP Kitchen)",
+   "place_id": "ChIJ66tO4rMTrjsRsG0kGPmKQZA",
+   "data_id": "0x3bae13b3e24eabeb:0x90418af918246db0",
+   "rating": 4.2,
+   "reviews": 820,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Keralan",
+   "address": "Ground floor, No, 6 & 7, Ambalipura - Sarjapur Rd, behind Louis Philippe Showroom",
+   "gps_coordinates": {
+    "latitude": 12.9204035,
+    "longitude": 77.66721
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Barbeque Nation- Sarjapur Road",
+   "place_id": "ChIJTaPb6esTrjsR7oWu5bRlclE",
+   "data_id": "0x3bae13ebe9dba34d:0x517265b4e5ae85ee",
+   "rating": 4.1,
+   "reviews": 6600,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "3rd Floor, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump",
+   "gps_coordinates": {
+    "latitude": 12.90926,
+    "longitude": 77.687645
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

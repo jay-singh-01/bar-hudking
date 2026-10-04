@@ -1,0 +1,470 @@
+{
+ "q": "best restaurants in Jayanagar Bangalore",
+ "ll": "@12.9293,77.5852,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:40:52.208Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Chickpet donne biryani house Jayanagar",
+   "place_id": "ChIJ8zgxfHMVrjsRwvHuz5_hEvs",
+   "data_id": "0x3bae15737c3138f3:0xfb12e19fcfeef1c2",
+   "rating": 4.5,
+   "reviews": 6500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Ground floor, 140, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.932382,
+    "longitude": 77.5838
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Toffee And Talk - Best Cafe in Jayanagar Bangalore",
+   "place_id": "ChIJeTLvKnYVrjsRUi6G2Jc-k20",
+   "data_id": "0x3bae15762aef3279:0x6d933e97d8862e52",
+   "rating": 4.5,
+   "reviews": 663,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "36th Cross, 20th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.923159,
+    "longitude": 77.59066
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Rajathadri Food Fort",
+   "place_id": "ChIJZ3AX75sVrjsR34h_Msc1vuo",
+   "data_id": "0x3bae159bef177067:0xeabe35c7327f88df",
+   "rating": 4.1,
+   "reviews": 18000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "National College, 19/49, 2nd Main Road, 31st Cross Rd, near Jayanagar",
+   "gps_coordinates": {
+    "latitude": 12.927976,
+    "longitude": 77.57821
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Brahmin Tiffins and Coffee",
+   "place_id": "ChIJAcurO6AVrjsRHpcSrEFECHM",
+   "data_id": "0x3bae15a03babcb01:0x73084441ac12971e",
+   "rating": 4.3,
+   "reviews": 7000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "36th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.923352,
+    "longitude": 77.586105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Simmerr by Lilac",
+   "place_id": "ChIJA8rYC7UVrjsRd0RpK9d0LzQ",
+   "data_id": "0x3bae15b50bd8ca03:0x342f74d72b694477",
+   "rating": 4.6,
+   "reviews": 71,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "South Indian",
+   "address": "65/4, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934869,
+    "longitude": 77.58322
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Café Amudham Restaurant Basavanagudi",
+   "place_id": "ChIJ3xLGpUEVrjsRw4-DP0uV2rs",
+   "data_id": "0x3bae1541a5c612df:0xbbda954b3f838fc3",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, No. 31, Rashtriya Vidyalaya Rd, opp. Vijaya College",
+   "gps_coordinates": {
+    "latitude": 12.940201,
+    "longitude": 77.57992
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Via Milano",
+   "place_id": "ChIJ1RnSHrwVrjsRfEJO21qtZ0Q",
+   "data_id": "0x3bae15bc1ed219d5:0x4467ad5adb4e427c",
+   "rating": 4.4,
+   "reviews": 803,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Italian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.93697,
+    "longitude": 77.58062
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "House of Commons",
+   "place_id": "ChIJ50afDbsVrjsR_oHqHPMIQW4",
+   "data_id": "0x3bae15bb0d9f46e7:0x6e4108f31cea81fe",
+   "rating": 4.4,
+   "reviews": 5700,
+   "type": "Restaurant",
+   "address": "No 1, ( old 141/37 ) 24th main 2nd phase JP Nagar Marenahalli main road Bangalore 560078",
+   "gps_coordinates": {
+    "latitude": 12.914248,
+    "longitude": 77.586044
+   },
+   "comment": "Pub grub in an upbeat locale",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "PANKAJ DELICACIES",
+   "place_id": "ChIJaURf20IVrjsRMYU8lBpnCkY",
+   "data_id": "0x3bae1542db5f4469:0x460a671a943c8531",
+   "rating": 4.4,
+   "reviews": 1900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "32nd D Cross road, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.92731,
+    "longitude": 77.58554
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Shivalli Restaurant",
+   "place_id": "ChIJMdD8k1AVrjsRNWx53vj-6Aw",
+   "data_id": "0x3bae155093fcd031:0xce8fef8de796c35",
+   "rating": 4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "462, near, Ashoka Pillar Rd",
+   "gps_coordinates": {
+    "latitude": 12.943546,
+    "longitude": 77.58401
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "SMOOR Lounge - Jayanagar",
+   "place_id": "ChIJ2xhoDBcVrjsRQBuEY-9KO7U",
+   "data_id": "0x3bae15170c6818db:0xb53b4aef63841b40",
+   "rating": 4.5,
+   "reviews": 1700,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Asian",
+   "address": "307/14, Diamond Arcade, 9th Main, 39th A Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.921332,
+    "longitude": 77.583855
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Food Springs",
+   "place_id": "ChIJG5mr_6EVrjsR5Eqy-CcQZKM",
+   "data_id": "0x3bae15a1ffab991b:0xa3641027f8b24ae4",
+   "rating": 4.4,
+   "reviews": 3900,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Chinese",
+   "address": "66/1 1st floor 33rd cross, 7th Main Rd, above Ajfan dates",
+   "gps_coordinates": {
+    "latitude": 12.9262495,
+    "longitude": 77.58196
+   },
+   "comment": "Simple takeaway for vegetarian fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Mangalore Sea Palate",
+   "place_id": "ChIJh9IVRJgVrjsR5vH2w57E73k",
+   "data_id": "0x3bae15984415d287:0x79efc49ec3f6f1e6",
+   "rating": 4.2,
+   "reviews": 3800,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Seafood",
+   "address": "197/F, 27th A Cross Road Jayanagar East",
+   "gps_coordinates": {
+    "latitude": 12.930969,
+    "longitude": 77.583046
+   },
+   "comment": "Mangalorean cuisine in a polished setup",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Tue"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Cable Car",
+   "place_id": "ChIJRbfmTgsVrjsRVQ1vDEw0SfI",
+   "data_id": "0x3bae150b4ee6b745:0xf249344c0c6f0d55",
+   "rating": 4.1,
+   "reviews": 8100,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Vegetarian",
+   "address": "Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.916941,
+    "longitude": 77.585464
+   },
+   "comment": "Replica cable car restaurant in a hotel",
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Shanmukha Restaurant - Jayanagar 9th Block",
+   "place_id": "ChIJQ7AjpgkVrjsRDDHo1GkeG60",
+   "data_id": "0x3bae1509a623b043:0xad1b1e69d4e8310c",
+   "rating": 4.1,
+   "reviews": 5800,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Hyderabadi",
+   "address": "1313, 25th Main Rd, near Bangalore Central Mall",
+   "gps_coordinates": {
+    "latitude": 12.917821,
+    "longitude": 77.592545
+   },
+   "comment": "Bright Indian biryani & curry spot",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Andhra Ruchulu, Jayanagar",
+   "place_id": "ChIJ3Vbm2ZMVrjsROOzjCqpp3aE",
+   "data_id": "0x3bae1593d9e656dd:0xa1dd69aa0ae3ec38",
+   "rating": 4.1,
+   "reviews": 5000,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Andhra",
+   "address": "79/8, Diagonal Rd",
+   "gps_coordinates": {
+    "latitude": 12.933262,
+    "longitude": 77.58331
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Kailash Parbat",
+   "place_id": "ChIJrXYLgxEVrjsRx59FF7kwpyk",
+   "data_id": "0x3bae1511830b76ad:0x29a730b917459fc7",
+   "rating": 4.1,
+   "reviews": 4300,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "120/A, Pattalamma Temple Rd, opposite R. R. Gold palace",
+   "gps_coordinates": {
+    "latitude": 12.933951,
+    "longitude": 77.58261
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Mulbagal Dosa Corner, Jayanagar",
+   "place_id": "ChIJy9BUjAQVrjsRLZfhdOe-NvY",
+   "data_id": "0x3bae15048c54d0cb:0xf636bee774e1972d",
+   "rating": 4.2,
+   "reviews": 2500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "1504, 16th Cross, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9360285,
+    "longitude": 77.583786
+   },
+   "comment": "Busy spot for dosas & tiffin items",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Mayuri",
+   "place_id": "ChIJbZDy4d8VrjsR2ryRpKGog6M",
+   "data_id": "0x3bae15dfe1f2906d:0xa383a8a1a491bcda",
+   "rating": 4.2,
+   "reviews": 3200,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Andhra",
+   "address": "N-7, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912806,
+    "longitude": 77.58562
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Madapalli – Iyengar Flavours of South India",
+   "place_id": "ChIJfZ5LOqsVrjsRlGPGskxGz6E",
+   "data_id": "0x3bae15ab3a4b9e7d:0xa1cf464cb2c66394",
+   "rating": 4.1,
+   "reviews": 1300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Ground floor 2nd floor, and, 10th Main Rd, near by Go Colours",
+   "gps_coordinates": {
+    "latitude": 12.931307,
+    "longitude": 77.584755
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  }
+ ]
+}

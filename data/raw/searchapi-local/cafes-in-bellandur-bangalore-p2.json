@@ -1,0 +1,439 @@
+{
+ "q": "cafes in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:42:44.528Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Gopal Jee Cafe",
+   "place_id": "ChIJ7QessnUTrjsRUxOI-Ldi7KU",
+   "data_id": "0x3bae1375b2ac07ed:0xa5ec62b7f8881353",
+   "rating": 4,
+   "reviews": 2200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "Ground Floor, Behind ARB Complex Opp Akme Harmony Back Gate Ambalipura, Gate, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.921679,
+    "longitude": 77.67185
+   },
+   "comment": "Curries & samosas in a low-key space",
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "The Hole In The Wall Cafe",
+   "place_id": "ChIJy9Ry9GcUrjsRlAT3TuW94lE",
+   "data_id": "0x3bae1467f472d4cb:0x51e2bde54ef70494",
+   "rating": 4.3,
+   "reviews": 21000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "3, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93474,
+    "longitude": 77.62547
+   },
+   "comment": "Laid-back cafe serving hearty breakfasts",
+   "extensions": [
+    "Closed",
+    "Opens 8 am Tue"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Café Amudham Restaurant Sarjapur",
+   "place_id": "ChIJu_RYDl0TrjsRcyXHHBKBzH4",
+   "data_id": "0x3bae135d0e58f4bb:0x7ecc81121cc72573",
+   "rating": 3.9,
+   "reviews": 528,
+   "price": "₹1–400",
+   "extracted_price": {
+    "min": 1,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "1-2, Suncity Apartments Ln",
+   "gps_coordinates": {
+    "latitude": 12.921994,
+    "longitude": 77.66506
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Buddu's cafe",
+   "place_id": "ChIJeT8DPAATrjsRtMKubi5J-pE",
+   "data_id": "0x3bae13003c033f79:0x91fa492e6eaec2b4",
+   "rating": 5,
+   "reviews": 9,
+   "type": "Cafe",
+   "address": "WMFF+WWR, central, opp. to Bellandur, near Cafe Coffee day",
+   "gps_coordinates": {
+    "latitude": 12.924856,
+    "longitude": 77.674774
+   }
+  },
+  {
+   "position": 5,
+   "title": "Radio Bar Bangalore",
+   "place_id": "ChIJP1VvHAATrjsRMPXQQozKKy0",
+   "data_id": "0x3bae13001c6f553f:0x2d2bca8c42d0f530",
+   "rating": 4.3,
+   "reviews": 718,
+   "type": "Bar",
+   "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay",
+   "gps_coordinates": {
+    "latitude": 12.920866,
+    "longitude": 77.68592
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am",
+    "On the menu: cafes"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Dialogues Cafe Koramangala",
+   "place_id": "ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
+   "data_id": "0x3bae1444a83d071f:0xd2cf430545189e99",
+   "rating": 4.3,
+   "reviews": 2400,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "21, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.932418,
+    "longitude": 77.63195
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Bellandur SOCIAL",
+   "place_id": "ChIJc6UoZAATrjsRg9NLB7-9kZM",
+   "data_id": "0x3bae13006428a573:0x9391bdbf074bd383",
+   "rating": 4,
+   "reviews": 6400,
+   "type": "Bar",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.937812,
+    "longitude": 77.69472
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Chaayos Cafe at Green Glen Layout",
+   "place_id": "ChIJFe0J_ZwTrjsRcV2V4rUqTLw",
+   "data_id": "0x3bae139cfd09ed15:0xbc4c2ab5e2955d71",
+   "rating": 4.3,
+   "reviews": 632,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Unit 001, Cherry Ln",
+   "gps_coordinates": {
+    "latitude": 12.927362,
+    "longitude": 77.6706
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Jeev cafe - Under the cherry tree (Made with pure ghee, finest cold-pressed oils, hand made spices)",
+   "place_id": "ChIJmV4ATvITrjsRGxDxra1MtUA",
+   "data_id": "0x3bae13f24e005e99:0x40b54cadadf1101b",
+   "rating": 4.6,
+   "reviews": 723,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Jeev Cafe- Under The Cherry Tree, KRS Avenue, Sarjapur Main Rd, behind airtel office",
+   "gps_coordinates": {
+    "latitude": 12.913274,
+    "longitude": 77.680534
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "The Bay at Ecoworld",
+   "place_id": "ChIJuTI82Q4TrjsRTtgzvAmbyGI",
+   "data_id": "0x3bae130ed93c32b9:0x62c89b09bc33d84e",
+   "rating": 4.5,
+   "reviews": 4000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.920766,
+    "longitude": 77.6836
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Chianti, The Bay- ECOWORLD",
+   "place_id": "ChIJIyjCmioTrjsRX8uhIEEcAhg",
+   "data_id": "0x3bae132a9ac22823:0x18021c4120a1cb5f",
+   "rating": 4.8,
+   "reviews": 1700,
+   "type": "Italian",
+   "address": "Ground floor, Unit AR 1, Art Gallery, The Bay, ECOWORLD",
+   "gps_coordinates": {
+    "latitude": 12.920409,
+    "longitude": 77.68376
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Blue Terrain",
+   "place_id": "ChIJO-MSxaYTrjsRY7o-v5I5Tjk",
+   "data_id": "0x3bae13a6c512e33b:0x394e3992bf3eba63",
+   "rating": 4.5,
+   "reviews": 733,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Barbecue",
+   "address": "Novotel Bengaluru Tech Park, Marathahalli - Sarjapur Outer Ring Rd, opp. Intel Campus",
+   "gps_coordinates": {
+    "latitude": 12.929868,
+    "longitude": 77.68337
+   },
+   "comment": "Mid-range hotel's grill restaurant & bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Aarna Modern Day Dining And Cafe",
+   "place_id": "ChIJAaJrqw0TrjsR4KbNBVKXIyc",
+   "data_id": "0x3bae130dab6ba201:0x2723975205cda6e0",
+   "rating": 4.8,
+   "reviews": 127,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "54, Haralur Main Rd, off Sarjapur - Marathahalli Road, opposite to Ozone Evergreen",
+   "gps_coordinates": {
+    "latitude": 12.909485,
+    "longitude": 77.66398
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Espressoulster Coffee India Koramangala",
+   "place_id": "ChIJyT0zZFYVrjsRU0trxvdNYlA",
+   "data_id": "0x3bae155664333dc9:0x50624df7c66b4b53",
+   "rating": 4.6,
+   "reviews": 635,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "4, 80 Feet Rd, above 3M showroom, next to 1522",
+   "gps_coordinates": {
+    "latitude": 12.934217,
+    "longitude": 77.63022
+   }
+  },
+  {
+   "position": 15,
+   "title": "Deck of Brews- Brewery & Kitchen",
+   "place_id": "ChIJPduVcHETrjsRS0EL_cMmaFE",
+   "data_id": "0x3bae13717095db3d:0x516826c3fd0b414b",
+   "rating": 4.2,
+   "reviews": 4000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "Gear School Rd",
+   "gps_coordinates": {
+    "latitude": 12.932716,
+    "longitude": 77.69659
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "HOC Art Cafe by Samvedya",
+   "place_id": "ChIJIy9C3isTrjsRT95cxRr57k4",
+   "data_id": "0x3bae132bde422f23:0x4eeef91ac55cde4f",
+   "rating": 4.6,
+   "reviews": 309,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Art cafe",
+   "address": "28/2 new, Chikkabellandur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9124365,
+    "longitude": 77.7129
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Mighty Paws Cafe & Bakery",
+   "place_id": "ChIJ-SW-8j8TrjsRJFKQfFJUGfw",
+   "data_id": "0x3bae133ff2be25f9:0xfc1954527c905224",
+   "rating": 4.3,
+   "reviews": 1600,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "Junnasandra, 533, 2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90194,
+    "longitude": 77.677315
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Sarjapur Social",
+   "place_id": "ChIJ8VUwH0ATrjsR1Z2VaSRNiKA",
+   "data_id": "0x3bae13401f3055f1:0xa0884d2469959dd5",
+   "rating": 4.2,
+   "reviews": 13000,
+   "type": "Bar",
+   "address": "Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.90986,
+    "longitude": 77.68555
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Chai Point - Bellandur",
+   "place_id": "ChIJ7Yf_C3YTrjsRLngQPWH1Mq0",
+   "data_id": "0x3bae13760bff87ed:0xad32f5613d10782e",
+   "rating": 4.1,
+   "reviews": 814,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Salarpuria Softzone",
+   "gps_coordinates": {
+    "latitude": 12.922416,
+    "longitude": 77.668274
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Krust Cafe",
+   "place_id": "ChIJXSCaADsVrjsRk8MqnKv1fo4",
+   "data_id": "0x3bae153b009a205d:0x8e7ef5ab9c2ac393",
+   "rating": 4.6,
+   "reviews": 535,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "29, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.928497,
+    "longitude": 77.63592
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  }
+ ]
+}

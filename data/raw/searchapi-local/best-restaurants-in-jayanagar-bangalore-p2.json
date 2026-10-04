@@ -1,0 +1,472 @@
+{
+ "q": "best restaurants in Jayanagar Bangalore",
+ "ll": "@12.9293,77.5852,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:30:46.339Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Green Plate Society",
+   "place_id": "ChIJ2e5TLO0VrjsRtWEnVf9pmb0",
+   "data_id": "0x3bae15ed2c53eed9:0xbd9969ff552761b5",
+   "rating": 4.5,
+   "reviews": 2900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "address": "The Green Plate Society, 34/1, 2nd floor, 36th cross, 6th, Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.923563,
+    "longitude": 77.5815
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Ayoham Dining",
+   "place_id": "ChIJobI0ZpMVrjsRqR4LwpxEp48",
+   "data_id": "0x3bae15936634b2a1:0x8fa7449cc20b1ea9",
+   "rating": 4.5,
+   "reviews": 953,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "Second floor, 10th B Main Rd, opposite to Manak mewa, opposite Manak Mewa Dry Fruit",
+   "gps_coordinates": {
+    "latitude": 12.927304,
+    "longitude": 77.58582
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Kapoor’s Cafe Jayanagar",
+   "place_id": "ChIJi7gozBIVrjsRSWYVQ_TzV60",
+   "data_id": "0x3bae1512cc28b88b:0xad57f3f443156649",
+   "rating": 4.2,
+   "reviews": 11000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Punjabi",
+   "address": "329, 10th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.932742,
+    "longitude": 77.58507
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Ishtaa | Vegetarian Cuisine",
+   "place_id": "ChIJC7WV744VrjsRonavTkoh4m8",
+   "data_id": "0x3bae158eef95b50b:0x6fe2214a4eaf76a2",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "SRI VINAYAKA DEVALAYA, Ground Floor, 8/30, Old PID/KHATHA NO 60-157-30 SONI 6TH C MAIN ROAD, 30th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.928906,
+    "longitude": 77.58143
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Garci",
+   "place_id": "ChIJrQYJDQAVrjsRc6zkFiHUn5s",
+   "data_id": "0x3bae15000d0906ad:0x9b9fd42116e4ac73",
+   "rating": 4.4,
+   "reviews": 1600,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Vegetarian",
+   "address": "Ground & Mezzanine floor, No.51, Kanakapura Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.928274,
+    "longitude": 77.57672
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Subz",
+   "place_id": "ChIJpYCLVL0VrjsRdbBETJAeyLQ",
+   "data_id": "0x3bae15bd548b80a5:0xb4c81e904c44b075",
+   "rating": 4.2,
+   "reviews": 8900,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Buffet",
+   "address": "1st Floor, Cosmopolitan Club, 22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.933045,
+    "longitude": 77.58504
+   },
+   "comment": "Unfussy vegetarian buffet restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Aromas of Biryani, Jayanagar",
+   "place_id": "ChIJHW8IO-4VrjsRoJ7edhT4kdA",
+   "data_id": "0x3bae15ee3b086f1d:0xd091f81476de9ea0",
+   "rating": 4.4,
+   "reviews": 3100,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Biryani",
+   "address": "No. 50, Old No. 665, Ground and First Floor, 11th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.925274,
+    "longitude": 77.58586
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Basaveshwar Khanavali",
+   "place_id": "ChIJWw0zCjMVrjsRqht3uZRPjEo",
+   "data_id": "0x3bae15330a330d5b:0x4a8c4f94b9771baa",
+   "rating": 4.7,
+   "reviews": 4300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "71, 1st floor, 30th cross, 11th Main Rd, beside cool joint",
+   "gps_coordinates": {
+    "latitude": 12.928786,
+    "longitude": 77.585785
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Café Amudham Restaurant Basavanagudi",
+   "place_id": "ChIJ3xLGpUEVrjsRw4-DP0uV2rs",
+   "data_id": "0x3bae1541a5c612df:0xbbda954b3f838fc3",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, No. 31, Rashtriya Vidyalaya Rd, opp. Vijaya College",
+   "gps_coordinates": {
+    "latitude": 12.940201,
+    "longitude": 77.57992
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Jalpaan",
+   "place_id": "ChIJzwyvUZwVrjsR198PqqvBZPs",
+   "data_id": "0x3bae159c51af0ccf:0xfb64c1abaa0fdfd7",
+   "rating": 4.2,
+   "reviews": 7400,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "North Indian",
+   "address": "No. 18, MDR House, S Kariyappa Road",
+   "gps_coordinates": {
+    "latitude": 12.924948,
+    "longitude": 77.57713
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Via Milano",
+   "place_id": "ChIJ1RnSHrwVrjsRfEJO21qtZ0Q",
+   "data_id": "0x3bae15bc1ed219d5:0x4467ad5adb4e427c",
+   "rating": 4.4,
+   "reviews": 803,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Italian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.93697,
+    "longitude": 77.58062
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "CLOVE",
+   "place_id": "ChIJR3cE5ZgVrjsRjDDKMOuMOxw",
+   "data_id": "0x3bae1598e5047747:0x1c3b8ceb30ca308c",
+   "rating": 4.3,
+   "reviews": 718,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Bar",
+   "address": "No. 118 & 119, 8th B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.928933,
+    "longitude": 77.58253
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Tea Villa Cafe Jayanagar",
+   "place_id": "ChIJJ9p7sAcVrjsRpAgXeEDhTlI",
+   "data_id": "0x3bae1507b07bda27:0x524ee140781708a4",
+   "rating": 4,
+   "reviews": 6500,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "183, 16, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.927573,
+    "longitude": 77.58081
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Haveli, Heritage of The North, Jayanagar, Bangalore",
+   "place_id": "ChIJdTAjX4YVrjsRoMIZpSFKpVI",
+   "data_id": "0x3bae15865f233075:0x52a54a21a519c2a0",
+   "rating": 4.4,
+   "reviews": 330,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "North Indian",
+   "address": "30th Cross Rd, 400, 8th B Main Rd, near Jain Temple",
+   "gps_coordinates": {
+    "latitude": 12.9286,
+    "longitude": 77.58274
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Simmerr by Lilac",
+   "place_id": "ChIJA8rYC7UVrjsRd0RpK9d0LzQ",
+   "data_id": "0x3bae15b50bd8ca03:0x342f74d72b694477",
+   "rating": 4.6,
+   "reviews": 71,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "South Indian",
+   "address": "65/4, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934869,
+    "longitude": 77.58322
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Caramelts Cafe & Charcoal",
+   "place_id": "ChIJt0GY9q8VrjsRU9UmkCBAuCE",
+   "data_id": "0x3bae15aff69841b7:0x21b840209026d553",
+   "rating": 4.2,
+   "reviews": 875,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Pizza",
+   "address": "55, 32nd Cross Road, 5, 13th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.928732,
+    "longitude": 77.58692
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Food Springs",
+   "place_id": "ChIJG5mr_6EVrjsR5Eqy-CcQZKM",
+   "data_id": "0x3bae15a1ffab991b:0xa3641027f8b24ae4",
+   "rating": 4.4,
+   "reviews": 3900,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Chinese",
+   "address": "66/1 1st floor 33rd cross, 7th Main Rd, above Ajfan dates",
+   "gps_coordinates": {
+    "latitude": 12.9262495,
+    "longitude": 77.58196
+   },
+   "comment": "Simple takeaway for vegetarian fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Chickpet donne biryani house Jayanagar",
+   "place_id": "ChIJ8zgxfHMVrjsRwvHuz5_hEvs",
+   "data_id": "0x3bae15737c3138f3:0xfb12e19fcfeef1c2",
+   "rating": 4.5,
+   "reviews": 6500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Ground floor, 140, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.932382,
+    "longitude": 77.5838
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "PANKAJ DELICACIES",
+   "place_id": "ChIJaURf20IVrjsRMYU8lBpnCkY",
+   "data_id": "0x3bae1542db5f4469:0x460a671a943c8531",
+   "rating": 4.4,
+   "reviews": 1900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "32nd D Cross road, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.92731,
+    "longitude": 77.58554
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Golden OAK",
+   "place_id": "ChIJdapBk5YVrjsR75-qSHY0hsE",
+   "data_id": "0x3bae15969341aa75:0xc186347648aa9fef",
+   "rating": 4.1,
+   "reviews": 724,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Eclectic",
+   "address": "1, 14th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.936966,
+    "longitude": 77.58062
+   },
+   "comment": "Multi-cuisine restaurant & bar",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  }
+ ]
+}

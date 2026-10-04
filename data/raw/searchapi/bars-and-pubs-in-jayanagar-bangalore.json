@@ -1,0 +1,4891 @@
+{
+ "q": "bars and pubs in Jayanagar Bangalore",
+ "ll": "@12.9293,77.5852,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T16:39:43.022Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJW5iH5aEVrjsR8sJmUYg-hjM",
+   "data_id": "0x3bae15a1e587985b:0x33863e885166c2f2",
+   "title": "Brew Meister Craft Beer and Kitchen",
+   "description": "Soothing vibe for house craft beers. Brewpub offering craft house brews & snacks in a space with plants & natural lighting.",
+   "address": "523, 33rd Cross Rd, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "078994 42200",
+   "rating": 4.1,
+   "reviews": 6742,
+   "website": "https://brewmeister.co.in/",
+   "domain": "brewmeister.co.in",
+   "gps_coordinates": {
+    "latitude": 12.926497,
+    "longitude": 77.584627
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11:30 am–1 am",
+    "monday": "11:30 am–1 am",
+    "tuesday": "11:30 am–1 am",
+    "wednesday": "11:30 am–1 am",
+    "thursday": "11:30 am–1 am",
+    "friday": "11:30 am–1 am",
+    "saturday": "11:30 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/brew-meister-jayanagar/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hVp3kxyW-IXHyePaXH_uN2fB-HhLrHdFPnWLfJLe9lvLiY7tIeX2d8WNuO4gQq5ijSy5HvvtldOqi0mAhMpoyqhch9hhuVg8HcLIwmepIp8m3k8X8%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlkTkSaQv5FDtnciilo6HDDot8KxqCgf7NBr-yRXYJskWODwVpWnFPpQh-Btod17FmjoscMfGBl2E8PVj8aeFH8dXBVZuoiUSVIzFb2zH2YJOyKa4bcKVtMshjO6TOdq18XvX8Z_Q=w138-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJoYDHxqEVrjsRV56SEHezlNM",
+   "data_id": "0x3bae15a1c6c780a1:0xd394b37710929e57",
+   "title": "Salut Gastropub",
+   "address": "387 71-4, 11th Main Rd, opposite to Max Showroom, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089712 85555",
+   "rating": 4,
+   "reviews": 2358,
+   "gps_coordinates": {
+    "latitude": 12.9310167,
+    "longitude": 77.58592399999999
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Bar",
+    "Gastropub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/salut-jayanagar-bangalore-408655/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLKOBaVhDQzMmd9hlXa2ezEa27_5riYL7n3yNx-up0_Lo1qYsx52RUD5XLk3nxRDTJfmTp-dX7PtaNwBHttnqgaymf7-jzxHRNuhLNrnoQEsxfLELa89xU5wM3miZH-PYiPUYJpQ=w163-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJzb7BWZAVrjsResEZ1db4Ie0",
+   "data_id": "0x3bae159059c1becd:0xed21f8d6d519c17a",
+   "title": "Saarai Bar & Kitchen",
+   "address": "First & Second Floor, 728, 13th Cross, 7th Block, Jayanagar, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096323 17020",
+   "rating": 4.6,
+   "reviews": 1660,
+   "gps_coordinates": {
+    "latitude": 12.9237344,
+    "longitude": 77.5737776
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/saarai-jayanagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jQ1sC-Jnm8fFMbV7ioE_dLKspdCOUV3ibI0XK_XpsXe5ZCNec8GFdHvEMOYUqFG3ugU06o5yJGOXdDq74EQy1fNK4ITJMo1WUVcEpOYRmqyVhd0Vs%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      },
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJAwNa9VsZfHzmATgoCyKdAHn2ogRxA6Aqb46gY-6yORDs8gmqMdnNzbl154Q10LL9Hu41NthOctlyL_QkUAhhS5B_86FsngKmAenCIPPLCGF8vH9gCG2fADShMqpuvqcK14wJ8zFYqFnl=w163-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJ402PyYsVrjsREn_hTNVm-uU",
+   "data_id": "0x3bae158bc98f4de3:0xe5fa66d54ce17f12",
+   "title": "DHA 6566 Resto Pub",
+   "address": "278/A, New, 9th Main Rd, opposite Bharat Petrol Bunk, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081232 58931",
+   "rating": 4.6,
+   "reviews": 74,
+   "website": "https://dha6566restopub.com/",
+   "domain": "dha6566restopub.com",
+   "gps_coordinates": {
+    "latitude": 12.9256816,
+    "longitude": 77.5837014
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "12–11:30 pm",
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12–11:30 pm",
+    "thursday": "12–11:30 pm",
+    "friday": "12–11:30 pm",
+    "saturday": "12–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/dha-6566-resto-pub-jayanagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_i2XNqKljeAGVqa-1hbBE3yLmT-OsSCUqTxST2E-U8h2tEnZXrsbCxak5RTTLcojUsN1HzaCyx98FoXZYU3oHtXFILzKoroaadS6X9xu4fVyyZS_9w%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkaGc-8yyTAONbRmDzn1oBfT78sb7udJWUwyk0IhkHo4lMpv-gUGzzQJ71UtpWo0Dkx91Z5fxsJBVbUgp2Ui8zOPKtzM3czDgmZOGQGWtno8Dx9zXnK4wG2zOVABI4fK4wA_qVPVoFjMUg=w80-h100-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJiaaEup8VrjsRf5NqU2pOZsI",
+   "data_id": "0x3bae159fba84a689:0xc2664e6a536a937f",
+   "title": "LIT Gastropub Bangalore",
+   "description": "Laid-back hangout for drinks & bar bites. Unassuming pub with sports screens & colorful decor, plus beer, cocktails & comfort food.",
+   "address": "9th Main Road, No. 233, 40th Cross Rd, 5th Block, Jayanagar, Bengaluru, Karnataka 560041",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "093538 31382",
+   "rating": 3.4,
+   "reviews": 1334,
+   "gps_coordinates": {
+    "latitude": 12.9200047,
+    "longitude": 77.5835173
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/lit-gastro-pub-jayanagar-bangalore-136831/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "From the business",
+     "items": [
+      {
+       "title": "Identifies as women-owned",
+       "value": "Identifies as women-owned"
+      }
+     ]
+    },
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Bar games",
+       "value": "Has bar games"
+      },
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Karaoke",
+       "value": "Has karaoke"
+      },
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Quiz night",
+       "value": "Has quiz night"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Outside food allowed",
+       "value": "Outside food allowed"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYJIiNXEEHjnyKJnMNdXkkQaXkZqNFX7_VKttGXUblKZANSaA4e2m2cika1uwCNTiiq3yY8xAvT2iX7V-H-eDb_HIuYXJBVdLYaiCwSxSQFWU_dWSAIVx-lxAvJjJ9tAYXHGHv=w137-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJ8U96ZJQVrjsR6CteLSlQa_g",
+   "data_id": "0x3bae1594647a4ff1:0xf86b50292d5e2be8",
+   "title": "South Point Pub",
+   "description": "Laid-back spot with pool & light fare. Old-school pub offering a down-to-earth atmosphere, simple dishes & a pool table.",
+   "address": "South End Circle, Shop No. 5, No. 7, Lakshmi Towers, 200, Rashtriya Vidyalaya Rd, 2nd Block, Jayanagar, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096633 37125",
+   "rating": 4,
+   "reviews": 749,
+   "website": "https://south-point-pub-s12yc14.gamma.site/",
+   "domain": "gamma.site",
+   "gps_coordinates": {
+    "latitude": 12.9381513,
+    "longitude": 77.5803074
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11 am–12 am",
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am"
+   },
+   "reservation": {
+    "link": "https://wa.link/rig76o",
+    "source": "wa.link"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Bar games",
+       "value": "Has bar games"
+      },
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMzsVpG41hA6igXhhcFwP6Tb1_PPTo_tLTmOesioAnqL5nHw2IFtDXQ2Ey-HdQl4OVzoykDLy1fsvVagD9swV-Cm1a41Y92K3iZ8rFscZ9tfjYGqFwphUnFtyUe2kvErNeJ54b=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJq83ihKIVrjsR-OfU89E7rt0",
+   "data_id": "0x3bae15a284e2cdab:0xddae3bd1f3d4e7f8",
+   "title": "The English Channel Bar _ Restaurant in Jayanagar",
+   "address": "The royal comfort,452/3/16, 27th Cross Road Geetha Colony, 4th T Block East, Jaya Nagar 1st Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091080 15100",
+   "rating": 4.2,
+   "reviews": 598,
+   "gps_coordinates": {
+    "latitude": 12.9305947,
+    "longitude": 77.58528199999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Bar & grill",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/the-english-channel-jayanagar-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "From the business",
+     "items": [
+      {
+       "title": "Identifies as women-owned",
+       "value": "Identifies as women-owned"
+      }
+     ]
+    },
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Bar games",
+       "value": "Has bar games"
+      },
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Quiz night",
+       "value": "Has quiz night"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Vegetarian options only",
+       "value": "Serves vegetarian options only"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Gender-neutral toilets",
+       "value": "Has gender-neutral toilets"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Reservations required",
+       "value": "Reservations required"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking garage",
+       "value": "Free parking garage"
+      },
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqI4-Gyfj2pahxt0vn9r1-yjEknysGFS81TWgTo1ENYT-ZZ630Qv8TPXYSrWCtpBsC-2MMb4s7f8Syov6R72Upkg_0MXpJ-aSRhXdDubGNVE1_Oc2CrbgUtYChPIZ9NhXBjTu58w=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJ_VCVJ5YVrjsRZgYrogPKBYM",
+   "data_id": "0x3bae1596279550fd:0x8305ca03a22b0666",
+   "title": "Levels Pub & Kitchen",
+   "description": "Hip hangout for global eats & cocktails. International comfort food & cocktails served in a spacious, trendy brewpub with DJ sets.",
+   "address": "14, Outer Ring Rd, JP Nagar 4th Phase, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098458 81144",
+   "rating": 4.3,
+   "reviews": 9681,
+   "website": "http://www.thelevelspub.com/",
+   "domain": "thelevelspub.com",
+   "gps_coordinates": {
+    "latitude": 12.9059939,
+    "longitude": 77.59407089999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/levels-pub-kitchen-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gHXxjiwjPjHjAQXjnUxxoMFSySGHQULdvoCfDIhJiuU2D8uAKeAWZue7ZV3fBAsPzLWNdTS1Wd9spL1WshoHGBfaUcc2PhFL-trXfjrjd--3ZjKAg%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Private dining room",
+       "value": "Has private dining room"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Romantic",
+       "value": "Romantic"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Reservations required",
+       "value": "Reservations required"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrfeYR9wm5TNG6JwdGAWUYhsLPEguRaxqH7MTTpFKEmZiKrv8mgUiKGBYtIrczfeMVODvbC8RE5IeNrY-BRMdFqfo_HJtScP-HUpVJPbIhZsxGY2LDZ6LzaPK06KWIzymsjHA=w138-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJEasZOa0VrjsRQxIeG1AbPpA",
+   "data_id": "0x3bae15ad3919ab11:0x903e1b501b1e1243",
+   "title": "1522 The Pub JP Nagar",
+   "description": "Trendy spot for pub grub & music. Hip locale featuring a stylish outdoor deck, plus bar bites, cocktails, mocktails & music.",
+   "address": "6th Phase, Chandana, Number 613, Outer Ring Rd, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063640 01522",
+   "rating": 4.2,
+   "reviews": 7024,
+   "website": "http://1522thepub.com/",
+   "domain": "1522thepub.com",
+   "gps_coordinates": {
+    "latitude": 12.9062095,
+    "longitude": 77.57587749999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/1522-the-pub-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iIGXC4ck2peK2Bm_vGQEnsqx1jT_xTs8Yd6B8w2nhp4mi-Ytors2nu1WCUKUNzk1j2gSf9Kp3BGoNRGK23KeZWWb58NjioaOZFsfrtOx8Rj_Qi-vs%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      },
+      {
+       "title": "Karaoke",
+       "value": "Has karaoke"
+      },
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Private dining room",
+       "value": "Has private dining room"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Romantic",
+       "value": "Romantic"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      },
+      {
+       "title": "Tourists",
+       "value": "Popular with tourists"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7-QfUaiRuQbSFJ2aso7JavtVGKPjKqJ2y-DD7rZghRXCv7l6D0yuWKFgzXA1oqRlvlyHDU9slJlTiDE-tEvv8mT4-2pKMxefgiWxP0u6r-HEXk9zcyu2Qr3nro-nEk5hPsERO=w138-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJZXvOXFwVrjsRk-jaxpxk-II",
+   "data_id": "0x3bae155c5cce7b65:0x82f8649cc6dae893",
+   "title": "Terrace Bar & Kitchen",
+   "address": "No 1, (old 141/37), Rooftop, 24th main, Marenahalli Rd, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560041",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "078994 43516",
+   "rating": 4.5,
+   "reviews": 2295,
+   "website": "https://terracebyhouseofcommons.com/",
+   "domain": "terracebyhouseofcommons.com",
+   "gps_coordinates": {
+    "latitude": 12.9142509,
+    "longitude": 77.5859572
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Eclectic restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/terrace-by-house-of-commons-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      },
+      {
+       "title": "Delivery",
+       "value": "No delivery"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Late-night food",
+       "value": "Serves late-night food"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Bar on site",
+       "value": "Has bar on site"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Romantic",
+       "value": "Romantic"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Lunch reservations recommended",
+       "value": "Lunch reservations recommended"
+      },
+      {
+       "title": "Dinner reservations recommended",
+       "value": "Dinner reservations recommended"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      },
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeiLK0xxLkhJEUtgB8n_mIt560HJACWd1dWaBlt9hj7y5szyjp5r9mctgSklLFSEvPnEU1DwZYsJt8H5XSSsfX7LxYJ46k0cyuockkQXPdapm8iHorGpXrCj03vR5Vnk_b0rIxcg=w138-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJF5KdUQgVrjsRGg1xnXFWB-M",
+   "data_id": "0x3bae1508519d9217:0xe30756719d710d1a",
+   "title": "Bob's Bar - JP Nagar",
+   "address": "Survey 32, 15 And 16, Municipal 3, 4, 5, 14, Marenahalli Rd, Sarakki Industrial Layout, J. P. Nagar, Bengaluru, Karnataka 560041",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 5219,
+   "gps_coordinates": {
+    "latitude": 12.9120319,
+    "longitude": 77.586017
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/bobs-bar-1-jp-nagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_itgBEtMHVuaEQs4IH-WClN4ja3Ut4sXNuXBwOJCJJK2wc1e9CUAV6_sYt4ZKarcln9WmPOdPO8aTBwEGmgMz8fzeH6BDbvICD3VJfKdylMKz91XiU%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "Tourists",
+       "value": "Popular with tourists"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1fUm_RlMBi8Gaww-nBK-4diOZLiANFmG_2s2wwduwryYAWE_pvdf_v4CxLwXqyEcWq0zz9xF4rd1MGJVMNFBYLVg3HJIyfIRAEW90tfPI-ggCRlDrVdQYZvnHfvTupYyaMrckpw=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJozHBG5gVrjsRrlIdt1OeSVo",
+   "data_id": "0x3bae15981bc131a3:0x5a499e53b71d52ae",
+   "title": "Sun Bar & Restaurant",
+   "address": "25, 9th Main Rd, near Ajais Lab Studio, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4130 7538",
+   "rating": 3.7,
+   "reviews": 319,
+   "gps_coordinates": {
+    "latitude": 12.9323175,
+    "longitude": 77.5837794
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–12 am",
+    "tuesday": "10 am–12 am",
+    "wednesday": "10 am–12 am",
+    "thursday": "10 am–12 am",
+    "friday": "10 am–12 am",
+    "saturday": "10 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      },
+      {
+       "title": "Delivery",
+       "value": "No delivery"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Reservations required",
+       "value": "Reservations required"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWka6DzjMfSxvYI1xV14tM5A1kGhvIjnXStjtwDUmgzW6ovqsBrHL28FwzH7QqWRKam8WsajdoeRFPXrLpGASX3HZVOMlK7nVOe1oY_HA3xcgw0kM6CGjFMVHuJber6j3d47lKIMgQ=w138-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJ46PfBwYVrjsR-QQs8tF014k",
+   "data_id": "0x3bae150607dfa3e3:0x89d774d1f22c04f9",
+   "title": "The Dennys Pub",
+   "address": "1550, East End Circle JP Nagar 3rd phase, Jayanagara 9th Block, Bengaluru, Karnataka 560041",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "093412 12142",
+   "rating": 3.9,
+   "reviews": 1489,
+   "gps_coordinates": {
+    "latitude": 12.9166194,
+    "longitude": 77.59712499999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-dennys-jayanagar-indiranagar-bangalore-658091/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmcXbAjSdpj7Xhx2mOsSCEqogtLESqwCRNvDlpDGELiHIIDbqJuzBg3hBlW8UfMJbECct1frsVAEerfurnCpGWYXwMs3rKRKxmgaLrKP5mRpIPbxH7mm9SpFRbkpKLQ9qGQkymrew=w138-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJFZn0I9gVrjsR5BE6c2w7bmA",
+   "data_id": "0x3bae15d823f49915:0x606e3b6c733a11e4",
+   "title": "Gustoes",
+   "description": "Comfort food in an eclectic hangout. Colourful hub offering global comfort food, a Sunday brunch buffet & mocktails, plus beer & wine.",
+   "address": "Ground Floor, 728, 13th Cross, 7th Block, Jayanagar, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099166 61626",
+   "rating": 4.2,
+   "reviews": 5938,
+   "website": "http://www.gustoes.in/",
+   "domain": "gustoes.in",
+   "gps_coordinates": {
+    "latitude": 12.9238025,
+    "longitude": 77.5737759
+   },
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Bar & grill",
+    "Buffet restaurant",
+    "Event venue"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "hours": "Open now",
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/gustoes-jayanagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j9b_9x_JjHC4zxlFJjbTS6BM5Y2mltuLTr0H3bF3jmHdWaW-ozMuSz-_ulIFdNGoxmT22IPGOdcm_Uef1vVzVgckdMLw%3D%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "Kerbside pickup",
+       "value": "Offers kerbside pickup"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great dessert",
+       "value": "Serves great dessert"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Popular for dinner"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "All you can eat",
+       "value": "Always offers all you can eat"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Brunch",
+       "value": "Serves brunch"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Counter service",
+       "value": "Has counter service"
+      },
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      },
+      {
+       "title": "University students",
+       "value": "Popular with university students"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Lunch reservations recommended",
+       "value": "Lunch reservations recommended"
+      },
+      {
+       "title": "Reservations required",
+       "value": "Reservations required"
+      },
+      {
+       "title": "Dinner reservations recommended",
+       "value": "Dinner reservations recommended"
+      },
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      },
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      },
+      {
+       "title": "Kids' menu",
+       "value": "Has kids' menu"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll2gaU_vKK4DplC_7zBWqZBlEc1JgrckjF5J418ogBi-mQRKvZ-fHyEn2qTd3vQYg2DxtF5V6dZo0Ba_S6zGvUsn6U0GPVHxIiRh4FCQEabDB3W_6IaDO_SzHsREnJDqCTthmN=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJbzW4oAAVrjsR7yvvbFpaQeU",
+   "data_id": "0x3bae1500a0b8356f:0xe5415a5a6cef2bef",
+   "title": "Tipsy Bull - The Bar Exchange - JP Nagar",
+   "address": "Outer Ring Rd, Rose Garden, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088844 42009",
+   "rating": 4.3,
+   "reviews": 7058,
+   "website": "http://www.tipsybull.com/",
+   "domain": "tipsybull.com",
+   "gps_coordinates": {
+    "latitude": 12.9062595,
+    "longitude": 77.5775857
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/tipsy-bull-the-bar-exchange-jp-nagar-bangalore-302320/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      },
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Rooftop seating",
+       "value": "Has rooftop seating"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      },
+      {
+       "title": "Upmarket",
+       "value": "Upmarket"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlctEkyg0_AbSkbMmdPcgWTMbl726-klu3ScC7Dn7Yq49R7a0_o7vQ46Tq7A_gJ_MR6gT1k68WWi5HkuLzFy_k2REoIf9Ksdq9NBWTT9bp4gRSuy87Q3uYna2zUtepNC7fiww=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJdUPTH7sVrjsRzEu585SgJUo",
+   "data_id": "0x3bae15bb1fd34375:0x4a25a094f3b94bcc",
+   "title": "21C - Bar in Jayanagar",
+   "address": "1, 14th Cross Rd, SOUTH-END CIRCLE, 2nd Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4333 5333",
+   "rating": 4.1,
+   "reviews": 9,
+   "website": "http://www.lamarvella.com/dine-drink.html",
+   "domain": "lamarvella.com",
+   "gps_coordinates": {
+    "latitude": 12.936946,
+    "longitude": 77.58059449999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Bar & grill",
+    "Cocktail bar",
+    "Disco club",
+    "Live music bar",
+    "Lounge bar",
+    "Wine bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–12 pm",
+    "monday": "11 am–12 pm",
+    "tuesday": "11 am–12 pm",
+    "wednesday": "11 am–12 pm",
+    "thursday": "11 am–12 pm",
+    "friday": "11 am–12 pm",
+    "saturday": "11 am–12 pm"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      },
+      {
+       "title": "Wi-Fi",
+       "value": "Has Wi-Fi"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWki_b4CeKy_fMwa0Vc8XryrfOMjm92b9i1Wa5vun1isFsUOIOz0QhbHyM7lJEXvwxkqhZjl6IT5nEyYrsW4yrv3qOcXS6h2cScnbpY88k8RsiPcWqchA7mA7V7lk2h-fyaU53nb=w163-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "title": "The Pump House",
+   "description": "Hip modern interiors & craft brews. Massive space with glass walls & plant-filled decor, with house-brewed beers & continental food.",
+   "address": "607, 15th Cross, Outer Ring Rd, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096061 27666",
+   "rating": 4.5,
+   "reviews": 31252,
+   "website": "https://thepumphouse.in/",
+   "domain": "thepumphouse.in",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.58208499999999
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Bar",
+    "Brewery",
+    "Chinese restaurant",
+    "European restaurant",
+    "Event venue",
+    "Italian restaurant",
+    "Party planner",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-pump-house-1-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hv4pNwTq2LhrdxE0jVy-X_WO1GPYddl9Q3cFZdW6wSpLM1jfibNGztt1Hb6n4QzPR6NiRQMd5uKc2ohH4hcqd8DM2GzPNMg5H989khBCmL31hmooU%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Paid parking lot",
+       "value": "Paid parking lot"
+      },
+      {
+       "title": "Paid street parking",
+       "value": "Paid street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsOmqFoKPcWucVbAstNkzuUeXM3wJDCc7AJ6zi8pWQZu28vtA92UcNxFfiNQjekKA0SwHbXxFXpb-hNyNzNMt3FsOpw5RsK6pc35FKD6Kg7YzDQmEYkkJnn2kjwYzPE4PrmWn0=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJ0WXpJA4VrjsR_jzM3zaL91c",
+   "data_id": "0x3bae150e24e965d1:0x57f78b36dfcc3cfe",
+   "title": "Sky Lounge By Wall Street",
+   "address": "Goenka Chambers, 55,d 5th floor, Goenka Chambers, 19th main, 15th Cross Rd, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070228 01017",
+   "rating": 4.2,
+   "reviews": 12138,
+   "review_text": "\"less crowded on weekdays, especially at night,\nGood food and a good vibe.\"",
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9066389,
+    "longitude": 77.589636
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Outdoor seating",
+       "value": "Has outdoor seating"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services available"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Dancing",
+       "value": "Has dancing"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Dessert",
+       "value": "Serves dessert"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmZrFjaFHBVxDIBNY65a1gapofCuPri-wlG8t1QlRVNZiEY-pztiGxtrbbzY3D_50fauNF4fHCu_qP_xWwMW25w0oXeSnK5dFXGfWUdqtD30RFxFqcD_DzO3TWjaf05QD8Gg2ghg=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJGRt_OiIVrjsR3M4vUGxp-C8",
+   "data_id": "0x3bae15223a7f1b19:0x2ff8696c502fcedc",
+   "title": "The Wild Fork Best Restaurant in Jayanagar - La Marvella",
+   "address": "south end circle, La Marvella, Hotel, 14th Cross Rd, next to Infosys Science Foundation, 2nd Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096639 23923",
+   "rating": 4.8,
+   "reviews": 540,
+   "website": "https://www.lamarvella.com/dining/the-wild-fork.html",
+   "domain": "lamarvella.com",
+   "gps_coordinates": {
+    "latitude": 12.9371679,
+    "longitude": 77.5806133
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Asian restaurant",
+    "Eclectic restaurant",
+    "Beer hall",
+    "Cocktail bar",
+    "European restaurant",
+    "Hotel",
+    "Indian restaurant",
+    "Pan-Asian restaurant",
+    "Pizza restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "reservation": {
+    "link": "https://www.lamarvella.com/",
+    "source": "lamarvella.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "Kerbside pickup",
+       "value": "Offers kerbside pickup"
+      },
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Lunch",
+       "value": "Popular for lunch"
+      },
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Coffee",
+       "value": "Serves coffee"
+      },
+      {
+       "title": "Healthy options",
+       "value": "Serves healthy options"
+      },
+      {
+       "title": "Quick bite",
+       "value": "Quick bite"
+      },
+      {
+       "title": "Small plates",
+       "value": "Serves small plates"
+      },
+      {
+       "title": "Vegetarian options",
+       "value": "Serves vegetarian dishes"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Breakfast",
+       "value": "Serves breakfast"
+      },
+      {
+       "title": "Lunch",
+       "value": "Serves lunch"
+      },
+      {
+       "title": "Dinner",
+       "value": "Serves dinner"
+      },
+      {
+       "title": "Catering",
+       "value": "Has catering"
+      },
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Bar on site",
+       "value": "Has bar on site"
+      },
+      {
+       "title": "Gender-neutral toilets",
+       "value": "Has gender-neutral toilets"
+      },
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Family friendly",
+       "value": "Family friendly"
+      },
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      },
+      {
+       "title": "Has changing table(s)",
+       "value": "Has changing table(s)"
+      },
+      {
+       "title": "High chairs",
+       "value": "High chairs available"
+      },
+      {
+       "title": "Kids' menu",
+       "value": "Has kids' menu"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free parking lot",
+       "value": "Free parking lot"
+      },
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      },
+      {
+       "title": "Valet parking",
+       "value": "Valet parking"
+      }
+     ]
+    },
+    {
+     "title": "Pets",
+     "items": [
+      {
+       "title": "Dogs allowed outside",
+       "value": "Dogs allowed outside"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkP5P6S_GNZl9RncLWWTl2WInybi8yiCGU1yW8mg6DxLZR4L-pXv7vx-FrfSkGJOss3f7Ras8mSBwKlEfeBBM39q-S5rRfQaNDivrH6ZtHUAuu8dGoPo1ggiy3cRKO1PACgGRYBy1XQ4j3k=w163-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJNboI9ZcVrjsRYvTR-IlR_AY",
+   "data_id": "0x3bae1597f508ba35:0x6fc5189f8d1f462",
+   "title": "GRAZERS Resto-Bar",
+   "description": "Casual well-lit cafe over 2 floors. Mixed cuisine cafe with a vibrant 2-story space & brightly lit interiors.",
+   "address": "Mahendra Banking Institute, 8th F Main Rd, opposite end of ICICI Bank, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081056 94634",
+   "rating": 4,
+   "reviews": 1118,
+   "gps_coordinates": {
+    "latitude": 12.9328235,
+    "longitude": 77.5836454
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Asian restaurant",
+    "Bar & grill",
+    "Cafe",
+    "Continental restaurant",
+    "Italian restaurant",
+    "North Indian restaurant",
+    "Pizza restaurant",
+    "Restaurant",
+    "Seafood restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/grazers-resto-bar-jayanagar-bangalore-31763/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Service options",
+     "items": [
+      {
+       "title": "No-contact delivery",
+       "value": "Has no-contact delivery"
+      },
+      {
+       "title": "Delivery",
+       "value": "Offers delivery"
+      },
+      {
+       "title": "Takeaway",
+       "value": "Offers takeaway"
+      },
+      {
+       "title": "Dine-in",
+       "value": "Serves dine-in"
+      },
+      {
+       "title": "On-site services",
+       "value": "On-site services not available"
+      }
+     ]
+    },
+    {
+     "title": "Highlights",
+     "items": [
+      {
+       "title": "Great beer selection",
+       "value": "Has great beer selection"
+      },
+      {
+       "title": "Great wine list",
+       "value": "Has great wine list"
+      },
+      {
+       "title": "Live music",
+       "value": "Has live music"
+      },
+      {
+       "title": "Live performances",
+       "value": "Has live performances"
+      },
+      {
+       "title": "Sport",
+       "value": "Good for watching sport"
+      }
+     ]
+    },
+    {
+     "title": "Popular for",
+     "items": [
+      {
+       "title": "Solo dining",
+       "value": "Good for solo dining"
+      }
+     ]
+    },
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    },
+    {
+     "title": "Offerings",
+     "items": [
+      {
+       "title": "Alcohol",
+       "value": "Serves alcohol"
+      },
+      {
+       "title": "Beer",
+       "value": "Serves beer"
+      },
+      {
+       "title": "Cocktails",
+       "value": "Serves cocktails"
+      },
+      {
+       "title": "Food",
+       "value": "Serves food"
+      },
+      {
+       "title": "Food at bar",
+       "value": "Serves food at bar"
+      },
+      {
+       "title": "Happy-hour drinks",
+       "value": "Serves happy-hour drinks"
+      },
+      {
+       "title": "Happy-hour food",
+       "value": "Serves happy-hour food"
+      },
+      {
+       "title": "Spirits",
+       "value": "Serves spirits"
+      },
+      {
+       "title": "Wine",
+       "value": "Serves wine"
+      }
+     ]
+    },
+    {
+     "title": "Dining options",
+     "items": [
+      {
+       "title": "Seating",
+       "value": "Has seating"
+      },
+      {
+       "title": "Table service",
+       "value": "Has table service"
+      }
+     ]
+    },
+    {
+     "title": "Amenities",
+     "items": [
+      {
+       "title": "Restroom",
+       "value": "Has restroom"
+      }
+     ]
+    },
+    {
+     "title": "Atmosphere",
+     "items": [
+      {
+       "title": "Casual",
+       "value": "Casual"
+      },
+      {
+       "title": "Cozy",
+       "value": "Cozy"
+      },
+      {
+       "title": "Quiet",
+       "value": "Quiet"
+      },
+      {
+       "title": "Trendy",
+       "value": "Trendy"
+      }
+     ]
+    },
+    {
+     "title": "Crowd",
+     "items": [
+      {
+       "title": "Groups",
+       "value": "Good for groups"
+      },
+      {
+       "title": "LGBTQ+ friendly",
+       "value": "LGBTQ+ friendly"
+      }
+     ]
+    },
+    {
+     "title": "Planning",
+     "items": [
+      {
+       "title": "Accepts reservations",
+       "value": "Accepts reservations"
+      }
+     ]
+    },
+    {
+     "title": "Payments",
+     "items": [
+      {
+       "title": "Credit cards",
+       "value": "Accepts credit cards"
+      },
+      {
+       "title": "Debit cards",
+       "value": "Accepts debit cards"
+      },
+      {
+       "title": "Google Pay",
+       "value": "Accepts Google Pay"
+      },
+      {
+       "title": "NFC mobile payments",
+       "value": "Accepts NFC mobile payments"
+      }
+     ]
+    },
+    {
+     "title": "Children",
+     "items": [
+      {
+       "title": "Good for kids",
+       "value": "Good for kids"
+      }
+     ]
+    },
+    {
+     "title": "Parking",
+     "items": [
+      {
+       "title": "Free street parking",
+       "value": "Free street parking"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEq8vwt1-N7q-gFBBDJ93cr1OH4QR0tWiA5C08O2rWjDRPV9fWd1eXnstSmQccXVvQ3ziP_IRxG8wNLPCacYi46Kwdd86XiuNbxiQX4aCBsFhqh6duSgntS72ytB16_HqQS9Yt=w138-h92-k-no"
+  }
+ ]
+}

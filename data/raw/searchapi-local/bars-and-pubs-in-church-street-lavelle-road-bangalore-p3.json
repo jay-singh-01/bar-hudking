@@ -1,0 +1,425 @@
+{
+ "q": "bars and pubs in Church Street/Lavelle Road Bangalore",
+ "ll": "@12.9718,77.5985,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:13.747Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Cavore",
+   "place_id": "ChIJ4fqSpp4XrjsRGx5cS0KlCF0",
+   "data_id": "0x3bae179ea692fae1:0x5d08a5424b5c1e1b",
+   "rating": 4.2,
+   "reviews": 347,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Night club",
+   "address": "5, Field Marshal Cariappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.971289,
+    "longitude": 77.6053
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Hard Rock Cafe Bengaluru",
+   "place_id": "ChIJ3f5vgnsWrjsRhDkIjzW274o",
+   "data_id": "0x3bae167b826ffedd:0x8aefb6358f083984",
+   "rating": 4.4,
+   "reviews": 17000,
+   "type": "Bar",
+   "address": "40, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.976179,
+    "longitude": 77.60154
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Chin Lung Resto Bar RESIDENCY ROAD",
+   "place_id": "ChIJ8RR0DfwTrjsR4c8XsUaKMWI",
+   "data_id": "0x3bae13fc0d7414f1:0x62318a46b117cfe1",
+   "rating": 4,
+   "reviews": 9100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "30, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.971847,
+    "longitude": 77.60664
+   },
+   "comment": "Casual stop for Indian cooking",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "1522 The Pub Residency Road",
+   "place_id": "ChIJ6XGdw6cXrjsRw5GkY_QZsdQ",
+   "data_id": "0x3bae17a7c39d71e9:0xd4b119f463a491c3",
+   "rating": 4.2,
+   "reviews": 2500,
+   "type": "Pub",
+   "address": "65 Field Marshall Cariappa Road, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.972803,
+    "longitude": 77.608986
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "The Ritz-Carlton Bar",
+   "place_id": "ChIJha3d0R4VrjsR2YTNXtXW2GU",
+   "data_id": "0x3bae151ed1ddad85:0x65d8d6d55ecd84d9",
+   "rating": 4.5,
+   "reviews": 106,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "99, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.968079,
+    "longitude": 77.60132
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Boche & Shakesbierre - Brewpub & Club",
+   "place_id": "ChIJVfZAnQwXrjsRuKZfPXAxiI4",
+   "data_id": "0x3bae170c9d40f655:0x8e8831703d5fa6b8",
+   "rating": 4.5,
+   "reviews": 7900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "Level 5, EVA Mall, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.970871,
+    "longitude": 77.60732
+   },
+   "comment": "Vibrant rooftop multicuisine gastropub",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Loco Lane",
+   "place_id": "ChIJ5dZ8ewAXrjsRBRGPUhSNh3g",
+   "data_id": "0x3bae17007b7cd6e5:0x78878d14528f1105",
+   "rating": 4.8,
+   "reviews": 566,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "No. 20, 21, Prestige Shivaya Site, 2nd Floor, 22, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.971302,
+    "longitude": 77.605415
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Templar-7",
+   "place_id": "ChIJV7V0eH0WrjsRehoXdlOJTk4",
+   "data_id": "0x3bae167d7874b557:0x4e4e895376171a7a",
+   "rating": 3.9,
+   "reviews": 2200,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "Hotel Komfort Terraces, 65/66, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975112,
+    "longitude": 77.60718
+   },
+   "comment": "Down-to-earth tavern with local eats",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "RCB Bar and Cafe",
+   "place_id": "ChIJMYZlS40XrjsRB_M-a_xVlfw",
+   "data_id": "0x3bae178d4b658631:0xfc9555fc6b3ef307",
+   "rating": 4.3,
+   "reviews": 3500,
+   "type": "Sports bar",
+   "address": "5th & 6 th Floor, Garuda Mall, Magrath Rd",
+   "gps_coordinates": {
+    "latitude": 12.970054,
+    "longitude": 77.60961
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Brigade Night's.6 BAR AND RESTAURANT",
+   "place_id": "ChIJu3EveyAXrjsR4MRpbV0xjPI",
+   "data_id": "0x3bae17207b2f71bb:0xf28c315d6d69c4e0",
+   "rating": 3.8,
+   "reviews": 261,
+   "type": "Pub",
+   "address": "152, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.969299,
+    "longitude": 77.60652
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Communiti",
+   "place_id": "ChIJGfvrpIAWrjsRGGKh9a3WQ2I",
+   "data_id": "0x3bae1680a4ebfb19:0x6243d6adf5a16218",
+   "rating": 4.4,
+   "reviews": 31000,
+   "type": "Brewery",
+   "address": "Brigade Solitare, 67/68, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.972421,
+    "longitude": 77.608246
+   },
+   "comment": "Spacious, upscale pub with a patio",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Spice Terrace",
+   "place_id": "ChIJc_4WSHcWrjsR7wdB6_Dms58",
+   "data_id": "0x3bae16774816fe73:0x9fb3e6f0eb4107ef",
+   "rating": 4.3,
+   "reviews": 2200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972144,
+    "longitude": 77.594925
+   },
+   "comment": "Posh hotel's poolside Indian restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 7 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Lover's Night ( Dasi ) Pub Bar & Restaurant",
+   "place_id": "ChIJQ-zuheAVrjsRI1kRwqBKAOI",
+   "data_id": "0x3bae15e085eeec43:0xe2004aa0c2115923",
+   "rating": 4,
+   "reviews": 66,
+   "type": "Bar",
+   "address": "1st Floor, TOWN HALL, New Raja Building, 3-20/1, NR Rd",
+   "gps_coordinates": {
+    "latitude": 12.963436,
+    "longitude": 77.58413
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "BANG",
+   "place_id": "ChIJlS6mr3gWrjsRrojfHkIFenM",
+   "data_id": "0x3bae1678afa62e95:0x737a05421edf88ae",
+   "rating": 4.1,
+   "reviews": 81,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Grill",
+   "address": "99, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.968765,
+    "longitude": 77.60125
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "We:Neighborhood",
+   "place_id": "ChIJiUfMjSAXrjsRGvFZeLpuGiQ",
+   "data_id": "0x3bae17208dcc4789:0x241a6eba7859f11a",
+   "rating": 4.3,
+   "reviews": 2000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Brewpub",
+   "address": "No. 67/1, Brigade Solitare, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.9724245,
+    "longitude": 77.60825
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Sanctam pub",
+   "place_id": "ChIJUzES3LsXrjsRUF2gDijltxc",
+   "data_id": "0x3bae17bbdc123153:0x17b7e5280ea05d50",
+   "rating": 5,
+   "reviews": 7,
+   "price": "₹1–1,000",
+   "extracted_price": {
+    "min": 1,
+    "max": 1000
+   },
+   "type": "Pub",
+   "address": "XJC4+CP3, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.971023,
+    "longitude": 77.60679
+   }
+  },
+  {
+   "position": 17,
+   "title": "UNO Izakaya",
+   "place_id": "ChIJeczjR3cWrjsRA6CUF4K40sI",
+   "data_id": "0x3bae167747e3cc79:0xc2d2b8821794a003",
+   "rating": 4.1,
+   "reviews": 54,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "Jw Marriott Hotel",
+   "gps_coordinates": {
+    "latitude": 12.972463,
+    "longitude": 77.59494
+   },
+   "comment": "Casual tapas-style hotel dining room",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Bengaluru pub crawlers info #churchstreet pub crawl",
+   "place_id": "ChIJOWD702mSXa8R49WpN_3LGxE",
+   "data_id": "0xaf5d9269d3fb6039:0x111bcbfd37a9d5e3",
+   "rating": 5,
+   "reviews": 22,
+   "type": "Tour agency",
+   "address": "Brigade Rd, near bychance pub",
+   "gps_coordinates": {
+    "latitude": 12.973135,
+    "longitude": 77.607445
+   }
+  },
+  {
+   "position": 19,
+   "title": "Raahi Neo Kitchen & Bar",
+   "place_id": "ChIJjbrf1qQXrjsRgWp8joa9keU",
+   "data_id": "0x3bae17a4d6dfba8d:0xe591bd868e7c6a81",
+   "rating": 4.2,
+   "reviews": 2600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "15, State Bank of India Rd",
+   "gps_coordinates": {
+    "latitude": 12.973079,
+    "longitude": 77.60243
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Bon Sante",
+   "place_id": "ChIJGVhi4X0WrjsR56H-AIECV08",
+   "data_id": "0x3bae167de1625819:0x4f57028100fea1e7",
+   "rating": 4.1,
+   "reviews": 257,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Pub",
+   "address": "6, Rest House Rd",
+   "gps_coordinates": {
+    "latitude": 12.9736595,
+    "longitude": 77.60676
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

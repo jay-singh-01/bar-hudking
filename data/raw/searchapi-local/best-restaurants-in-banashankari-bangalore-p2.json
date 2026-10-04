@@ -1,0 +1,458 @@
+{
+ "q": "best restaurants in Banashankari Bangalore",
+ "ll": "@12.925,77.5567,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:40.976Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "SLV Coffee Bar",
+   "place_id": "ChIJ45uQcoEVrjsRUnXS3H8iTR0",
+   "data_id": "0x3bae158172909be3:0x1d4d227fdcd27552",
+   "rating": 4.4,
+   "reviews": 10000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Breakfast",
+   "address": "186, 24th Cross Rd, next to SLV hotel",
+   "gps_coordinates": {
+    "latitude": 12.924078,
+    "longitude": 77.56635
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "NH10 Restaurant",
+   "place_id": "ChIJxz4mnqQVrjsRaNe6UcK1gpk",
+   "data_id": "0x3bae15a49e263ec7:0x9982b5c251bad768",
+   "rating": 4.6,
+   "reviews": 618,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "85, 22nd Main Rd, opp. to Kim's pharmacy college",
+   "gps_coordinates": {
+    "latitude": 12.926949,
+    "longitude": 77.56458
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Jcubez",
+   "place_id": "ChIJIfEOzoAVrjsR_yApnlDLpwg",
+   "data_id": "0x3bae1580ce0ef121:0x8a7cb509e2920ff",
+   "rating": 4,
+   "reviews": 5200,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.92573,
+    "longitude": 77.56407
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "New Imperial Restaurant",
+   "place_id": "ChIJf90-7ncVrjsRXwdWiFWBb_0",
+   "data_id": "0x3bae1577ee3edd7f:0xfd6f81558856075f",
+   "rating": 4,
+   "reviews": 2100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "Door No, 39/3C, Kanakapura Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.920127,
+    "longitude": 77.57417
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Sardarji Londonwaley - Pure Veg",
+   "place_id": "ChIJyaEB_Ys_rjsR9PtglmWdeCs",
+   "data_id": "0x3bae3f8bfd01a1c9:0x2b789d659660fbf4",
+   "rating": 4.2,
+   "reviews": 904,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "MH Towers, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.938615,
+    "longitude": 77.55404
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Go Native Jayanagar",
+   "place_id": "ChIJQTZA9p8VrjsRQxak6CEZqAU",
+   "data_id": "0x3bae159ff6403641:0x5a81921e8a41643",
+   "rating": 4.3,
+   "reviews": 10000,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "#64, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.922555,
+    "longitude": 77.584785
+   },
+   "comment": "Earthy cafe with vegetarian cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Gufha Restaurant, Jayanagar",
+   "place_id": "ChIJtWPujJcVrjsRQCh66TorJPU",
+   "data_id": "0x3bae15978cee63b5:0xf5242b3ae97a2840",
+   "rating": 4.1,
+   "reviews": 9200,
+   "type": "Indian",
+   "address": "79/8, Diagonal Rd",
+   "gps_coordinates": {
+    "latitude": 12.933236,
+    "longitude": 77.5833
+   },
+   "comment": "Grotto-themed hotel restaurant & bar",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Sea Spice By 7 Star",
+   "place_id": "ChIJbYkYQkIVrjsRdA946eU8I1U",
+   "data_id": "0x3bae15424218896d:0x55233ce5e9780f74",
+   "rating": 4.3,
+   "reviews": 419,
+   "type": "Seafood",
+   "address": "1890, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.918826,
+    "longitude": 77.56872
+   },
+   "comment": "Informal fixture for seafood meals",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Silent Woods - Non Veg Fine Dine",
+   "place_id": "ChIJK9LiXG8_rjsRQnaiLY8zq7I",
+   "data_id": "0x3bae3f6f5ce2d22b:0xb2ab338f2da27642",
+   "rating": 4.8,
+   "reviews": 28,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Fine Dining",
+   "address": "3rd Block, 82",
+   "gps_coordinates": {
+    "latitude": 12.927606,
+    "longitude": 77.549095
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Local Panda",
+   "place_id": "ChIJP-pYIgAVrjsRQHklaUTjHIw",
+   "data_id": "0x3bae15002258ea3f:0x8c1ce34469257940",
+   "rating": 4.5,
+   "reviews": 426,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Chinese",
+   "address": "94, 22nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.926382,
+    "longitude": 77.56443
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "SLV Swadista",
+   "place_id": "ChIJySiaK4cVrjsRbOA3K541qUg",
+   "data_id": "0x3bae15872b9a28c9:0x48a9359e2b37e06c",
+   "rating": 4,
+   "reviews": 1100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "WHG7+MVC, 21st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.926683,
+    "longitude": 77.56464
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Srinivasa Upahara",
+   "place_id": "ChIJB7DlESI-rjsRmpYro7ZIMpw",
+   "data_id": "0x3bae3e2211e5b007:0x9c3248b6a32b969a",
+   "rating": 4.1,
+   "reviews": 3300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "12/1, 11th Main, 50 Feet Road Opposite P.E.S. College, Srinagar",
+   "gps_coordinates": {
+    "latitude": 12.941939,
+    "longitude": 77.55482
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Aithal's Mithra Koota",
+   "place_id": "ChIJYy5haxU-rjsRpD8EY9qad5g",
+   "data_id": "0x3bae3e156b612e63:0x98779ada63043fa4",
+   "rating": 4.4,
+   "reviews": 3300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "28, 50 Feet Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9433,
+    "longitude": 77.54094
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Mini Punjabi Dhaba",
+   "place_id": "ChIJg_ZtVooVrjsRI93Fa26YfmI",
+   "data_id": "0x3bae158a566df683:0x627e986e6bc5dd23",
+   "rating": 4.2,
+   "reviews": 5100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Punjabi",
+   "address": "10, 4, Kathriguppa Main Road",
+   "gps_coordinates": {
+    "latitude": 12.940266,
+    "longitude": 77.56449
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Moai, Jayanagar - Redefined Vegetarian Dining",
+   "place_id": "ChIJUS3ryxsVrjsR8-zbliXVuvQ",
+   "data_id": "0x3bae151bcbeb2d51:0xf4bad52596dbecf3",
+   "rating": 4.6,
+   "reviews": 6700,
+   "type": "Vegetarian",
+   "address": "790/43, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.925025,
+    "longitude": 77.583954
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Shree karavalli Family Restaurant",
+   "place_id": "ChIJ1603c1k_rjsRJOWQ9ceKJfU",
+   "data_id": "0x3bae3f597337add7:0xf5258ac7f590e524",
+   "rating": 4.4,
+   "reviews": 32,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Family-friendly",
+   "address": "WGQX+3PM, 2nd B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9376745,
+    "longitude": 77.549255
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Tue"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Mumbai Bytes - Banashankari BDA",
+   "place_id": "ChIJUd6zbgAVrjsRavLEr5aml_g",
+   "data_id": "0x3bae15006eb3de51:0xf897a696afc4f26a",
+   "rating": 4.6,
+   "reviews": 85,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Maharashtrian Restaurant",
+   "address": "Shop No 74, Bda Complex",
+   "gps_coordinates": {
+    "latitude": 12.925496,
+    "longitude": 77.564735
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Vinny's",
+   "place_id": "ChIJ9ZbQ44AVrjsRGIEDAmYCCi8",
+   "data_id": "0x3bae1580e3d096f5:0x2f0a026602038118",
+   "rating": 4.1,
+   "reviews": 5400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Pizza",
+   "address": "2467, 24th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.924327,
+    "longitude": 77.56473
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Taaza Thindi",
+   "place_id": "ChIJGzjadqcVrjsRChTAxBu2SFk",
+   "data_id": "0x3bae15a776da381b:0x5948b61bc4c0140a",
+   "rating": 4.6,
+   "reviews": 38000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "1004, 26th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.922841,
+    "longitude": 77.593285
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Venkateshwara Mess",
+   "place_id": "ChIJJcrsvyE-rjsR_CvD7ATdCYw",
+   "data_id": "0x3bae3e21bfecca25:0x8c09dd04ecc32bfc",
+   "rating": 4.7,
+   "reviews": 3000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "349/71, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.941891,
+    "longitude": 77.55591
+   },
+   "comment": "Classic dishes in a simple eatery",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

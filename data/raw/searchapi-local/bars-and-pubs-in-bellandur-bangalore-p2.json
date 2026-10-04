@@ -1,0 +1,401 @@
+{
+ "q": "bars and pubs in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:31:52.730Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "ToXiC Pub & Kitchen",
+   "place_id": "ChIJd4C60B8TrjsRjsfW7dlOpxo",
+   "data_id": "0x3bae131fd0ba8077:0x1aa74ed9edd6c78e",
+   "rating": 4.5,
+   "reviews": 92,
+   "type": "Bar",
+   "address": "near Centro Mall",
+   "gps_coordinates": {
+    "latitude": 12.926021,
+    "longitude": 77.676025
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Byg Brewski Brewing Company",
+   "place_id": "ChIJ6VlNkBETrjsRTQamSEJHQiI",
+   "data_id": "0x3bae1311904d59e9:0x2242474248a6064d",
+   "rating": 4.3,
+   "reviews": 46000,
+   "type": "Brewpub",
+   "address": "10/62/2A/2 & 3, Sarjapur Main Rd, behind MK Retail, near WIpro Corporate Office",
+   "gps_coordinates": {
+    "latitude": 12.913142,
+    "longitude": 77.683075
+   },
+   "comment": "Chic brewpub with an Asian menu",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Sip Society (Bar & Kitchen)",
+   "place_id": "ChIJVYkXRMMTrjsRKLju8flKUwA",
+   "data_id": "0x3bae13c344178955:0x534af9f1eeb828",
+   "rating": 4.8,
+   "reviews": 54,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "Panathur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.937947,
+    "longitude": 77.698975
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Sarjapur Social",
+   "place_id": "ChIJ8VUwH0ATrjsR1Z2VaSRNiKA",
+   "data_id": "0x3bae13401f3055f1:0xa0884d2469959dd5",
+   "rating": 4.2,
+   "reviews": 13000,
+   "type": "Bar",
+   "address": "Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.90986,
+    "longitude": 77.68555
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "To Be Continued Sky Lounge TBC",
+   "place_id": "ChIJd9DFZ4AUrjsRMvg9cEl-fJM",
+   "data_id": "0x3bae148067c5d077:0x937c7e49703df832",
+   "rating": 4.4,
+   "reviews": 15000,
+   "type": "Lounge bar",
+   "address": "2795, 27th Main Rd, near Sony Center",
+   "gps_coordinates": {
+    "latitude": 12.922893,
+    "longitude": 77.65145
+   },
+   "comment": "Global eats & a stylish greenhouse vibe",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Hashtag 88 – Restobar & Pub",
+   "place_id": "ChIJvVOtScMTrjsR9EAtYMc3RoA",
+   "data_id": "0x3bae13c349ad53bd:0x804637c7602d40f4",
+   "rating": 4.4,
+   "reviews": 4900,
+   "type": "Pub",
+   "address": "4th Floor, above More Hypermarket, near INNOVATIVE MULTIPLEX",
+   "gps_coordinates": {
+    "latitude": 12.948181,
+    "longitude": 77.69866
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "BLR Brewing Co. - Eco World",
+   "place_id": "ChIJHwudLAATrjsRS3A-XkqdJ10",
+   "data_id": "0x3bae13002c9d0b1f:0x5d279d4a5e3e704b",
+   "rating": 4.2,
+   "reviews": 381,
+   "type": "Brewery",
+   "address": "RMZ ECOWORLD, UNIT NO R5, GROUND FLOOR, THE BAY, BUILDING, B.B, Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.920164,
+    "longitude": 77.68493
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Marquis by Radisson Blu Bengaluru Outer Ring Road",
+   "place_id": "ChIJs1icEm0TrjsR0LNaPn_YLAY",
+   "data_id": "0x3bae136d129c58b3:0x62cd87f3e5ab3d0",
+   "rating": 4.4,
+   "reviews": 400,
+   "type": "Bar",
+   "address": "Radisson Blu, 90-4, Marathahalli Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.950111,
+    "longitude": 77.69893
+   },
+   "comment": "Sharp nightclub for global fare & drinks"
+  },
+  {
+   "position": 9,
+   "title": "The Biere Club | RMZ Eco World",
+   "place_id": "ChIJKxxSG0QTrjsRguYaDOmMQvs",
+   "data_id": "0x3bae13441b521c2b:0xfb428ce90c1ae682",
+   "rating": 3.5,
+   "reviews": 15,
+   "price": "₹1,200–1,400",
+   "extracted_price": {
+    "min": 1200,
+    "max": 1400
+   },
+   "type": "Brewpub",
+   "address": "G Floor, Twilio office Campus 20",
+   "gps_coordinates": {
+    "latitude": 12.919768,
+    "longitude": 77.68727
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "La Casa Brewery + Kitchen",
+   "place_id": "ChIJFWKvqmwTrjsRgu5YOEqOaRg",
+   "data_id": "0x3bae136caaaf6215:0x18698e4a3858ee82",
+   "rating": 4.2,
+   "reviews": 10000,
+   "type": "Bar",
+   "address": "Amrutha Engineering collage, NO 877/1/2&895/19/20, 1st Cross Rd, near ICICI BANK, opp. KFC",
+   "gps_coordinates": {
+    "latitude": 12.904262,
+    "longitude": 77.67584
+   },
+   "comment": "Homely continental restaurant & takeaway",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "The Big Baadshaah",
+   "place_id": "ChIJ52ZEEPATrjsRQfUkS8Is89U",
+   "data_id": "0x3bae13f0104466e7:0xd5f32cc24b24f541",
+   "rating": 4.3,
+   "reviews": 4400,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "2nd Floor, 88, Outer Ring Rd, near More Supermarket",
+   "gps_coordinates": {
+    "latitude": 12.948431,
+    "longitude": 77.69878
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The Studs Sports Bar: Taproom & All Day Diner ETV",
+   "place_id": "ChIJ_6HD7QYTrjsRfxrf-ZUSNbA",
+   "data_id": "0x3bae1306edc3a1ff:0xb0351295f9df1a7f",
+   "rating": 4.6,
+   "reviews": 646,
+   "type": "Grill",
+   "address": "Unit 3 & 4, BLOCK-E, Embassy TechVillage, GF, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.927681,
+    "longitude": 77.69185
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "BG's Poolside Bar & Grill",
+   "place_id": "ChIJYf66NqcTrjsRLkpnS7b6ptg",
+   "data_id": "0x3bae13a736bafe61:0xd8a6fab64b674a2e",
+   "rating": 4.2,
+   "reviews": 454,
+   "type": "Grill",
+   "address": "Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.927933,
+    "longitude": 77.682625
+   },
+   "comment": "Multi-cuisine restaurant & bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Long Boat Brewing Co.",
+   "place_id": "ChIJqwEtA1ETrjsRsgt6bQ-rEaM",
+   "data_id": "0x3bae1351032d01ab:0xa311ab0f6d7a0bb2",
+   "rating": 4.5,
+   "reviews": 16000,
+   "type": "Brewery",
+   "address": "1st Main",
+   "gps_coordinates": {
+    "latitude": 12.951804,
+    "longitude": 77.70065
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "The Reservoire Koramangala",
+   "place_id": "ChIJH3YpIVsUrjsRJBzG1Im39jc",
+   "data_id": "0x3bae145b2129761f:0x37f6b789d4c61c24",
+   "rating": 4.3,
+   "reviews": 16000,
+   "type": "Cocktail bar",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933466,
+    "longitude": 77.62222
+   },
+   "comment": "Chic, bi-level lounge with Indian fare",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Big Pitcher Indiranagar",
+   "place_id": "ChIJmYFyxAUUrjsRQ2009RsA3cM",
+   "data_id": "0x3bae1405c4728199:0xc3dd001bf5346d43",
+   "rating": 4.4,
+   "reviews": 31000,
+   "type": "Brewery",
+   "address": "Ward No.88, L R Arcade, No.4121, HAL Old Airport Rd, next to The Leela Palace",
+   "gps_coordinates": {
+    "latitude": 12.96022,
+    "longitude": 77.64689
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Knock Back",
+   "place_id": "ChIJ1XPcSn4TrjsRvfnLvllmKD0",
+   "data_id": "0x3bae137e4adc73d5:0x3d286659becbf9bd",
+   "rating": 4.1,
+   "reviews": 63,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pub",
+   "address": "27, Doctor Puneeth Rajkumar Road, Service Rd, opp. to Oracle",
+   "gps_coordinates": {
+    "latitude": 12.939892,
+    "longitude": 77.695885
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Yuki - Cocktail Bar and Kitchen | Sarjapur",
+   "place_id": "ChIJFy8A8WgTrjsRLQ0eGicymuM",
+   "data_id": "0x3bae1368f1002f17:0xe39a32271a1e0d2d",
+   "rating": 4.6,
+   "reviews": 1200,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "3rd Floor, PLR Square, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91275,
+    "longitude": 77.68005
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Greens Bar and Restaurant",
+   "place_id": "ChIJizYQ738TrjsRFYY2EwkZLFA",
+   "data_id": "0x3bae137fef10368b:0x502c190913368615",
+   "rating": 4,
+   "reviews": 2200,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "Asian Highway, 45",
+   "gps_coordinates": {
+    "latitude": 12.923945,
+    "longitude": 77.65447
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Animal Bar",
+   "place_id": "ChIJ36i77x8VrjsR1HiJu0mJvaQ",
+   "data_id": "0x3bae151fefbba8df:0xa4bd8949bb8978d4",
+   "rating": 3.9,
+   "reviews": 6500,
+   "type": "Bar",
+   "address": "SY NO 38, 38/5, Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.923983,
+    "longitude": 77.64034
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

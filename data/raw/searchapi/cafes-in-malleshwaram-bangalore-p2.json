@@ -1,0 +1,960 @@
+{
+ "q": "cafes in Malleshwaram Bangalore",
+ "ll": "@13.0077,77.5694,14z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:41:57.804Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJ-TFJLF4XrjsRCQ8lF_CsW5g",
+   "data_id": "0x3bae175e2c4931f9:0x985bacf017250f09",
+   "title": "Old School Cafe",
+   "address": "16th Cross, 8th Main Rd, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.5,
+   "reviews": 54,
+   "gps_coordinates": {
+    "latitude": 13.0067509,
+    "longitude": 77.564041
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbbQqV7_PMienIo3B_8e-Fkq9So6RoUgFGIPTVqpVkbwL0XcH-aqNrYkk1myEWkQFEuLdtgTzZpVa9Vr0IKdoogZKod4NP8BJkmRNmiO08fPLSoDTvaIf1pHkZj0Ob6qyu02A2FS5F_Z0=w80-h106-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJda-d9iwWrjsRcR-2weptlu0",
+   "data_id": "0x3bae162cf69daf75:0xed966deac1b61f71",
+   "title": "Coffee Break",
+   "address": "18, 18th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560012",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099646 91061",
+   "rating": 4.2,
+   "reviews": 218,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 13.0087524,
+    "longitude": 77.5695057
+   },
+   "type": "Fast food restaurant",
+   "types": [
+    "Fast food restaurant",
+    "Coffee shop",
+    "Indian restaurant",
+    "South Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–9:30 pm",
+    "tuesday": "7 am–9:30 pm",
+    "wednesday": "7 am–9:30 pm",
+    "thursday": "7 am–9:30 pm",
+    "friday": "7 am–9:30 pm",
+    "saturday": "7 am–9:30 pm",
+    "sunday": "7 am–9:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkQjlIh7hnjN7U2MYF3L8STcJN7KXWs919p0aublrC1r9nWbkFzkBsEVOLP9QqS72oqaGnFVAHr8gVA1RdqgJUN31uXSCabZTCS4QW5LjoGVpoep-JV6AZdi7Abc7Sgh7-OO7F=w80-h106-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJtXA1eAAXrjsR86eTYbmIHp4",
+   "data_id": "0x3bae1700783570b5:0x9e1e88b96193a7f3",
+   "title": "Cafe Nuvi",
+   "address": "2H49+XPF, Margosa Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 10,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 13.0074426,
+    "longitude": 77.5692909
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–8 pm",
+    "tuesday": "11 am–8 pm",
+    "wednesday": "11 am–8 pm",
+    "thursday": "11 am–8 pm",
+    "friday": "11 am–8 pm",
+    "saturday": "11 am–8 pm",
+    "sunday": "11 am–8 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0dxKIilcBPIAp0839pAUXfejrUGrZZGeW9j2nyMnDHgYDD1PfAPK-LKO1XiOIAOVVkfgLzhshGv9-t91Q0dmmfcbhB9plM--lhfmZS-XVPhV2NAFxKcgRtEksL5uBYmtv-bHkEGgTvTT-=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJ42LISjsWrjsR2J_ek53Z28Q",
+   "data_id": "0x3bae163b4ac862e3:0xc4dbd99d93de9fd8",
+   "title": "New By Two Coffee",
+   "address": "Circle, 5/1, Link Rd, TR Layout, Malleshwaram, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.8,
+   "reviews": 33,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9959199,
+    "longitude": 77.5733356
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Tea store"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 5:30 am",
+   "open_hours": {
+    "monday": "5:30 am–11 pm",
+    "tuesday": "5:30 am–11 pm",
+    "wednesday": "5:30 am–11 pm",
+    "thursday": "5:30 am–11 pm",
+    "friday": "5:30 am–11 pm",
+    "saturday": "5:30 am–11 pm",
+    "sunday": "5:30 am–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLezf4Lf_6NudOZtqZtSYSmPlNn80ZL0ZfBfSj5LzUVnOhOniS0-CdCKZHSt8uQoeINuHGV8xEr6SlWFZCkJNVtMeP0jpGeoedTpDHcOLJgdoxaAJ6BLNCJ4sK_SGHe_wQh9mD6X=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJ82NqvCUWrjsRC33A4yTYQWk",
+   "data_id": "0x3bae1625bc6a63f3:0x6941d824e3c07d0b",
+   "title": "Central Tiffin Room",
+   "description": "Landmark breakfast place known for dosas. Iconic breakfast spot serving signature benne dosas, bajji & coffee in a buzzy, informal atmosphere.",
+   "address": "7th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.3,
+   "reviews": 37792,
+   "gps_coordinates": {
+    "latitude": 12.9982327,
+    "longitude": 77.56953949999999
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Asian restaurant",
+    "Breakfast restaurant",
+    "Tiffin center",
+    "South Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–12:30 pm, 4–9:30 pm",
+    "tuesday": "7 am–12:30 pm, 4–9:30 pm",
+    "wednesday": "7 am–12:30 pm, 4–9:30 pm",
+    "thursday": "7 am–12:30 pm, 4–9:30 pm",
+    "friday": "7 am–12:30 pm, 4–9:30 pm",
+    "saturday": "7 am–12:30 pm, 4–9:30 pm",
+    "sunday": "7 am–12:30 pm, 4–9:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVamArvbipXub-GgPHTUjIVJRc6GhMu6Umd2qXwtnu9WwEOMRayiJPuclg9NuhPp7QVtDpNX3kptYfMa-hVWxAYKmC-ArhelI9j2Fzt7mKnCRQ7uxbAd_rPA5XLMr1o0fET4gJ=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJ7a1jYp4XrjsRGhQS495FQvQ",
+   "data_id": "0x3bae179e6263aded:0xf44245dee312141a",
+   "title": "Kerbside Bistro",
+   "address": "601, 3rd Main Rd, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095354 04882",
+   "rating": 4.6,
+   "reviews": 419,
+   "website": "https://airmenus.in/kerbsidebistro",
+   "domain": "airmenus.in",
+   "gps_coordinates": {
+    "latitude": 13.0078022,
+    "longitude": 77.5779677
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–9:30 pm",
+    "tuesday": "9 am–9:30 pm",
+    "wednesday": "9 am–9:30 pm",
+    "thursday": "9 am–9:30 pm",
+    "friday": "9 am–9:30 pm",
+    "saturday": "9 am–9:30 pm",
+    "sunday": "9 am–9:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/kerbside-bistro-sadashiv-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jg9oh_5lUgs8uOnVwalHnzQKjmeLqbbmmr0ZYSMLdRFwf37_ySVn83VRvwRCpk8dC_0CLwRPrw62d2ylXbQPNg8jifsdu0BLVUeamymPy6RH89l6M%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZODpIjJ_iftuTJD9TaYkiA8bOPgEhjLfIevXsBVUTHBFjis82b_5OUlz1ugi3o-v7vcPkyeDxtTMsLIwBIk0GyIW9Q9gCNSIZXdL17R6gn9-JY0f1nXUKOwIqbAJorYS1qg0=w80-h106-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJddauZYc9rjsRXQoiy0l59-w",
+   "data_id": "0x3bae3d8765aed675:0xecf77949cb220a5d",
+   "title": "SMOOR Cafe - Orion Mall",
+   "address": "NO. UGF Coffee Shop-2 Orion, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2268 2150",
+   "rating": 4.7,
+   "reviews": 837,
+   "website": "https://smoor.in/",
+   "domain": "smoor.in",
+   "gps_coordinates": {
+    "latitude": 13.0110215,
+    "longitude": 77.5549616
+   },
+   "type": "Chocolate cafe",
+   "types": [
+    "Chocolate cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–12 am",
+    "tuesday": "8 am–12 am",
+    "wednesday": "8 am–12 am",
+    "thursday": "8 am–12 am",
+    "friday": "8 am–12 am",
+    "saturday": "8 am–12 am",
+    "sunday": "8 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/smoor-malleshwaram-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jptz1mcU8dN-ZQrRW5dmqocSRN-X-q0p-beuwNlXW9nfRvm0RxQ4rK8m9KwThns2grO7Vm0g5DGVx_Bp6fk5zU9ezbzOSpzRfY5P9qu1QW68aBnS0%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQwNBlmhDPBAcLVKgEIGOWl5rg-5EQfDr2sqODiEdbKCqK9yXUDjLVgY1RA-erC3B-vRcPUHElBAiOekJ52LKDNUkgRvLe6-5B3Uyw6OqPJajuf4Bf0KSRybCtUN6JBBH1iDauKg=w98-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJbT3b7Zw9rjsRuMBLy88Mixc",
+   "data_id": "0x3bae3d9ceddb3d6d:0x178b0ccfcb4bc0b8",
+   "title": "Hot Coffee",
+   "address": "375, Chord Rd, Bovipalya, Nagapura, Bengaluru, Karnataka 560086",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097318 33600",
+   "rating": 4.3,
+   "reviews": 5183,
+   "gps_coordinates": {
+    "latitude": 13.0064577,
+    "longitude": 77.5484876
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6:30 am",
+   "open_hours": {
+    "monday": "6:30 am–1 pm, 3:30–9 pm",
+    "tuesday": "6:30 am–1 pm, 3:30–9 pm",
+    "wednesday": "6:30 am–1 pm, 3:30–9 pm",
+    "thursday": "6:30 am–1 pm, 3:30–9 pm",
+    "friday": "6:30 am–1 pm, 3:30–9 pm",
+    "saturday": "6:30 am–1 pm, 3:30–9 pm",
+    "sunday": "6:30 am–1 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXp1Rh16JnNh64NB_Auk9pPQEqUI7w5p130PJ0Sw_5m06e-Sy5zIcIaM9gwRAVmKNVUszECkUv8MetBb245-m1PpZqyYFPejOkH3ecKm7ZgGLlhCWn2Mm5X4Wp9CG9GQN7vgEL=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJpxVZZz0XrjsRrJi4ytC_B_I",
+   "data_id": "0x3bae173d675915a7:0xf207bfd0cab898ac",
+   "title": "Third Wave Coffee",
+   "address": "13th Cross Rd, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073497 11123",
+   "rating": 4.5,
+   "reviews": 2372,
+   "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-sadashiva-nagar-bengaluru/",
+   "domain": "thirdwavecoffeeroasters.com",
+   "gps_coordinates": {
+    "latitude": 13.0082254,
+    "longitude": 77.5798264
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee roastery",
+    "Coffee shop",
+    "Coffee store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–12 am",
+    "tuesday": "8 am–12 am",
+    "wednesday": "8 am–12 am",
+    "thursday": "8 am–12 am",
+    "friday": "8 am–12 am",
+    "saturday": "8 am–12 am",
+    "sunday": "8 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/third-wave-coffee-sadashiv-nagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g8ZW471xXokA_vHA14q2NuNzmJlkVDcqOEbIuoc_eEqEIdxk0RFPWEt0xpP39Cow2c2vifm5EszLuhwlmZZGHKVluE21h-iAWdWpYOjN3wkX5SmWM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcT-dfI2oDLC0Yy1at9eR0ZELKm5JzKygZFCb9kssD1jFE0WrE4WpHNWu5UuNIua2jkhLn7DgkjEWS4nIL9Jf0pDKPHOMZ8mhl40L3bwtaX8UOnUWcHfwXrVzQUP1_sLjpttHft=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJZ_OfsHg9rjsRs7jOTujsRjs",
+   "data_id": "0x3bae3d78b09ff367:0x3b46ece84eceb8b3",
+   "title": "Hatti Kaapi - Orion Mall (Lake Side)",
+   "address": "Orion Mall, A Block, Brigade Gateway, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095919 99434",
+   "rating": 4,
+   "reviews": 2403,
+   "website": "https://hattikaapi.com/",
+   "domain": "hattikaapi.com",
+   "gps_coordinates": {
+    "latitude": 13.0114871,
+    "longitude": 77.5554987
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–9 pm",
+    "tuesday": "9 am–9 pm",
+    "wednesday": "9 am–9 pm",
+    "thursday": "9 am–9 pm",
+    "friday": "9 am–9 pm",
+    "saturday": "9 am–9 pm",
+    "sunday": "9 am–9 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeogH1KIkGBwVUMMBgD-_E2GU_FUU7AK-E7slPnNlhXPstgc8ZCvUQlLPjyFQjctQT040peX1T6DP2ULwehGW9DTazDIslq-F-3v4V8arOwWHtUPB7kMj71_8yTReU77Fx3XXlG=w163-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJo9_ZwCAXrjsR1eHmtSpaAnI",
+   "data_id": "0x3bae1720c0d9dfa3:0x72025a2ab5e6e1d5",
+   "title": "Chaayos Cafe at Mantri Mall",
+   "address": "K/UG/19, Mantri Square, Sampige Rd, Malleshwaram, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "1800 120 2424",
+   "rating": 4.1,
+   "reviews": 455,
+   "website": "https://www.chaayos.com/",
+   "domain": "chaayos.com",
+   "gps_coordinates": {
+    "latitude": 12.9915341,
+    "longitude": 77.5709332
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop",
+    "Tea store"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–10 pm",
+    "tuesday": "10 am–10 pm",
+    "wednesday": "10 am–10 pm",
+    "thursday": "10 am–10 pm",
+    "friday": "10 am–10 pm",
+    "saturday": "10 am–10 pm",
+    "sunday": "10 am–10 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGyfbgOgCrSGUl1zryXjTeskKF123DMT2E97q27EV6tCF_iLpiPZKCUKSYgpgtf5Mzb38PxZwhI80JpTmJF3xoaCWqsqSBLelodtdXXKqfFi4XBylWwHImHKK61QOiVpTl288Zuw=w163-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJmYknmC8WrjsRgwhIh_TRV9A",
+   "data_id": "0x3bae162f98278999:0xd057d1f487480883",
+   "title": "Café Coffee Day",
+   "address": "187, Venkata Ranga Iyengar Rd, near Croma - Malleshwaram, Malleshwaram, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "1800 102 5093",
+   "rating": 3.9,
+   "reviews": 50,
+   "website": "https://www.cafecoffeeday.com/",
+   "domain": "cafecoffeeday.com",
+   "gps_coordinates": {
+    "latitude": 13.0013443,
+    "longitude": 77.5711218
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop",
+    "Takeout restaurant",
+    "Pastry shop",
+    "Restaurant",
+    "Sandwich shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–9 pm",
+    "tuesday": "9 am–9 pm",
+    "wednesday": "9 am–9 pm",
+    "thursday": "9 am–9 pm",
+    "friday": "9 am–9 pm",
+    "saturday": "9 am–9 pm",
+    "sunday": "9 am–9 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsP6ouN7KwhgFkbA2UBty6J1-AafYgdRZZQ01WGqqXf_I3EnD2asbuB9ZSnD571LuC9P5tKEe11Bd5JrqrwwjCcw4x_PYqs7cQmjReGhFIIkOYni9dK_w7VgD8KGKciULB8pQGOw=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJY9e2tDIXrjsRw7OTMaYkV8Y",
+   "data_id": "0x3bae1732b4b6d763:0xc65724a63193b3c3",
+   "title": "Smoor Cafe - Sadashivanagar",
+   "address": "13th Cross Rd, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089047 44080",
+   "rating": 4.5,
+   "reviews": 519,
+   "gps_coordinates": {
+    "latitude": 13.007755,
+    "longitude": 77.5798282
+   },
+   "type": "Chocolate cafe",
+   "types": [
+    "Chocolate cafe"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/smoor-sadashiv-nagar-north-bengaluru-686594",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVQFJGnLkgpj1L_EF6Ey8NFZw5BvkCx0qTwTRZ3m-f80mVNAlUYgZO9-0cCOOLSgzgs_d_g_vXzwfrpbVRw4jkNsL3LVBhc3koy-zT9ogHnrhlx1GNo-3fr-kUJGLGSpbh8H_S=w153-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJqW-e4TMXrjsRl863c2HtFiA",
+   "data_id": "0x3bae1733e19e6fa9:0x2016ed6173b7ce97",
+   "title": "Crushers",
+   "address": "Margosa Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 18,
+   "gps_coordinates": {
+    "latitude": 13.0071992,
+    "longitude": 77.5691559
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11:30 pm",
+    "tuesday": "10 am–11:30 pm",
+    "wednesday": "10 am–11:30 pm",
+    "thursday": "10 am–11:30 pm",
+    "friday": "10 am–11:30 pm",
+    "saturday": "10 am–11:30 pm",
+    "sunday": "10 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMCdJRt2_I3Mfz_FALvm8GwFbBj7-d2vN-j_SQDiWduVVJaINo4spWxWoZ3df4kqK-_Uo27Fp2Xesx42N4DYf14FLl9d9V9AacKDU40Mp3MewX_7YltSxCtSLanr9cZDQGbPlbjA=w80-h106-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJS4tnGCQWrjsRxjyX4YmdJyI",
+   "data_id": "0x3bae162418678b4b:0x22279d89e1973cc6",
+   "title": "Hallimane Restaurant",
+   "description": "Breezy bistro for South Indian fare. South Indian dishes whipped up in rustic, airy surrounds with traditional decor accents.",
+   "address": "Sampige Road, 3rd Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098808 33199",
+   "rating": 4,
+   "reviews": 26080,
+   "website": "http://www.hallimane.com/",
+   "domain": "hallimane.com",
+   "gps_coordinates": {
+    "latitude": 12.995496,
+    "longitude": 77.5717835
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–10 pm",
+    "tuesday": "7 am–10 pm",
+    "wednesday": "7 am–10 pm",
+    "thursday": "7 am–10 pm",
+    "friday": "7 am–10 pm",
+    "saturday": "7 am–10 pm",
+    "sunday": "7 am–10 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmosLORiguMUKkStAQi6-LUkDRS0HjRglrS_7ERPsJj68Q_luDPR2xI1JvnZ2qBYwzaiiuXovOb2CiDP4wLWTgazySYV1cohK4MJdbdam-KrhIdnqmkm0c1y08sg3MVIhDK89JyQ=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJGffAq8AXrjsRyxb1tosKssE",
+   "data_id": "0x3bae17c0abc0f719:0xc1b20a8bb6f516cb",
+   "title": "Blue Tokai Coffee Roasters | Sadashiva Nagar",
+   "address": "1/1, No 384, 13th Cross Rd, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070422 13394",
+   "rating": 4.5,
+   "reviews": 308,
+   "website": "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-sadashiva-nagar-cafe-sadashiva-nagar-bengaluru-436783/Home?utm_source=locator&utm_medium=googleplaces",
+   "domain": "stores.bluetokaicoffee.com",
+   "gps_coordinates": {
+    "latitude": 13.0068784,
+    "longitude": 77.57891
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe",
+    "Coffee roastery"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–11 pm",
+    "tuesday": "7 am–11 pm",
+    "wednesday": "7 am–11 pm",
+    "thursday": "7 am–11 pm",
+    "friday": "7 am–11 pm",
+    "saturday": "7 am–11 pm",
+    "sunday": "7 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/blue-tokai-coffee-roasters-sadashiv-nagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_h9DXE-FNvhlH8HlymCTt1Ck49ewW9nzjMAowhrB5os0qWzJXp-uYIomHtMYn22FRWA1ZSEhOg5kr980jFT__SeON62dbqDnNg2gbJNbHNUXPAdNIc%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFQb2HC-I64XHc38p9dmpvvKXfMBBQ3ef35e86LzLTj-FqB-6UltJD6ZjVdV80WXGg1VB291oVSODJiDsXEs7AUfddgLXh_O4tHup4JUnD7YuezvC2vNbtOcBSDQ66u7K7XjcwsQ=w92-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJq5nfHMUXrjsR_l6XfL8J4y8",
+   "data_id": "0x3bae17c51cdf99ab:0x2fe309bf7c975efe",
+   "title": "Enne",
+   "address": "3rd floor, #30, 1st cross road, Sampige Rd, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "076191 81855",
+   "rating": 4,
+   "reviews": 4058,
+   "gps_coordinates": {
+    "latitude": 12.994254,
+    "longitude": 77.5712118
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Cocktail bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn2ZsVXM9QYdfX6ICBSjT6hpseDXi9w_yznTQqZ730t-CGt_pPqQPwpSTPX0Oi064rgNYccATYNR2R5BvcZItWLXF0oc1u8usE-Nq0hGfYna9LCXbhrxdAVmnesik6-MP2vzY=w138-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJO-HQRbkXrjsR9dghF3pguXo",
+   "data_id": "0x3bae17b945d0e13b:0x7ab9607a1721d8f5",
+   "title": "Bangalore Cafe",
+   "address": "Hare Krishna Rd, Madhava Nagar, Gandhi Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082961 99994",
+   "rating": 4.1,
+   "reviews": 1170,
+   "gps_coordinates": {
+    "latitude": 12.9871114,
+    "longitude": 77.578464
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "South Indian restaurant",
+    "Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6 am",
+   "open_hours": {
+    "monday": "6 am–10:30 pm",
+    "tuesday": "6 am–10:30 pm",
+    "wednesday": "6 am–10:30 pm",
+    "thursday": "6 am–10:30 pm",
+    "friday": "6 am–10:30 pm",
+    "saturday": "6 am–10:30 pm",
+    "sunday": "6 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeB_31Aal23ob7jVoOJrt8vrEGuUDBeQ95h7rq_JB5u9dg5hE2wMEqeNNiDE0pcFH_DJ26VhnYxFGYKOwa3hEsfmVZ3-5s47hTB-QGeIq8wy2mktub5VmCRCiE3Cu8oYEGJF39Uphg61RI=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJZTBYkCE9rjsR4kqI_qwh88M",
+   "data_id": "0x3bae3d2190583065:0xc3f321acfe884ae2",
+   "title": "GOD Celebrations Cafe and Private Theatre - Rajajinagar",
+   "address": "No 12, 60ft, 1st Main Rd, Shivanagar, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080731 29482",
+   "rating": 4.8,
+   "reviews": 7680,
+   "website": "http://www.godcelebrations.com/",
+   "domain": "godcelebrations.com",
+   "gps_coordinates": {
+    "latitude": 12.9891285,
+    "longitude": 77.5466549
+   },
+   "type": "Event venue",
+   "types": [
+    "Event venue",
+    "Party planner"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9:30 am",
+   "open_hours": {
+    "monday": "9:30 am–10:30 pm",
+    "tuesday": "9:30 am–10:30 pm",
+    "wednesday": "9:30 am–10:30 pm",
+    "thursday": "9:30 am–10:30 pm",
+    "friday": "9:30 am–10:30 pm",
+    "saturday": "9:30 am–10:30 pm",
+    "sunday": "9:30 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2x02Yge3C7aKuUvsqeERFxTqObj6r9eS8yUJeFOKz9xAycDVwZXnBAT7HBIKEStpGK5RSLqwysXPmK39OroQw_CQ_tq8zWMcJvnAGd_0DhCxbJ3p9ZNHMccFPTL58ABbHF6FS0A=w80-h106-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ80ENaSgWrjsRrODlwYx7P10",
+   "data_id": "0x3bae1628690d41f3:0x5d3f7b8cc1e5e0ac",
+   "title": "Sri Raghavendra Stores",
+   "description": "Humble pitstop for typical Indian eats. Small, rustic roadside joint serving common Indian bites such as idlis & vadas.",
+   "address": "Railway station, 11th Main Rd, next to Malleshwara, Malleshwaram, Bengaluru, Karnataka 560003",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.4,
+   "reviews": 7981,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 13.0007865,
+    "longitude": 77.5638664
+   },
+   "type": "Breakfast restaurant",
+   "types": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Indian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6:30 am",
+   "open_hours": {
+    "monday": "6:30 am–1 pm, 4–9 pm",
+    "tuesday": "Closed",
+    "wednesday": "6:30 am–1 pm, 4–9 pm",
+    "thursday": "6:30 am–1 pm, 4–9 pm",
+    "friday": "6:30 am–1 pm, 4–9 pm",
+    "saturday": "6:30 am–1 pm, 4–9 pm",
+    "sunday": "6:30 am–1 pm, 4–9 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/raghavendra-stores-malleshwaram-bangalore-4152/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLemMnWeCUkkeOB3_gYeECSgfAWuB_Qzk48coiMMJDigx6yWCLUb9msm1zr-AGkyG3e0VFgmwepAK78q5vJ2ryL8IO6Cu-mawvKyayrsPSFrCHeTZJ4nSvJO2r8ikjS1r5pnu85Hfg=w122-h92-k-no"
+  }
+ ]
+}

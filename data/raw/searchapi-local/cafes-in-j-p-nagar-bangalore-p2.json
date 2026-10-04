@@ -1,0 +1,457 @@
+{
+ "q": "cafes in J. P. Nagar Bangalore",
+ "ll": "@12.906,77.5836,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:42:24.996Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJ3YdhrS0VrjsRnhdEddzAIR0",
+   "data_id": "0x3bae152dad6187dd:0x1d21c0dc7544179e",
+   "rating": 4.4,
+   "reviews": 1700,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 276, 15th Cross Rd, next to Nexa showroom",
+   "gps_coordinates": {
+    "latitude": 12.906063,
+    "longitude": 77.58767
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Beku - Cafe Bakery Bookstore",
+   "place_id": "ChIJi2omMgAVrjsRcbVQ_-SHqhQ",
+   "data_id": "0x3bae150032266a8b:0x14aa87e4ff50b571",
+   "rating": 4.7,
+   "reviews": 2400,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "542, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.910611,
+    "longitude": 77.59671
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "TFG Bakehouse and Kitchen",
+   "place_id": "ChIJd99uDgAVrjsRC4L-W8ROIk4",
+   "data_id": "0x3bae15000e6edf77:0x4e224ec45bfe820b",
+   "rating": 4.2,
+   "reviews": 1200,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bakery and Cake Shop",
+   "address": "63",
+   "gps_coordinates": {
+    "latitude": 12.892415,
+    "longitude": 77.59698
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Bonheur Cafe",
+   "place_id": "ChIJ7deQG-wVrjsR0aG1TS_1PEc",
+   "data_id": "0x3bae15ec1b90d7ed:0x473cf52f4db5a1d1",
+   "rating": 4.5,
+   "reviews": 160,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "79, 3rd Main Rd, beside Broadcom Office, near Kalyani Magnum",
+   "gps_coordinates": {
+    "latitude": 12.902866,
+    "longitude": 77.59481
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "The Pump House",
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "rating": 4.5,
+   "reviews": 31000,
+   "type": "Brewpub",
+   "address": "607, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.582085
+   },
+   "comment": "Hip modern interiors & craft brews",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Solace Cafe",
+   "place_id": "ChIJhyIY9rxrrjsRrKvnhoEa6Aw",
+   "data_id": "0x3bae6bbcf6182287:0xce81a8186e7abac",
+   "rating": 4.8,
+   "reviews": 87,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Neo gym, beside Cult",
+   "gps_coordinates": {
+    "latitude": 12.868622,
+    "longitude": 77.57564
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Nombre - Specialty Coffee",
+   "place_id": "ChIJiZ85v_IVrjsR6PnIqix-FQo",
+   "data_id": "0x3bae15f2bf399f89:0xa157e2caac8f9e8",
+   "rating": 4.6,
+   "reviews": 472,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "9th Cross, 1st Main Rd, opp. Mini Forest",
+   "gps_coordinates": {
+    "latitude": 12.911239,
+    "longitude": 77.59907
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Benedict's",
+   "place_id": "ChIJ8WuCCKIVrjsRZ-97TvEN74w",
+   "data_id": "0x3bae15a208826bf1:0x8cef0df14e7bef67",
+   "rating": 4.3,
+   "reviews": 266,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 19th Main St",
+   "gps_coordinates": {
+    "latitude": 12.906523,
+    "longitude": 77.589554
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Blue Tokai Coffee Roasters | JP Nagar",
+   "place_id": "ChIJy5np9TIVrjsRfLd79GM13jo",
+   "data_id": "0x3bae1532f5e999cb:0x3ade3563f47bb77c",
+   "rating": 4.3,
+   "reviews": 636,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "Shop No 36, near 100 Feet Ring Road",
+   "gps_coordinates": {
+    "latitude": 12.906858,
+    "longitude": 77.59935
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Terrace Bar & Kitchen",
+   "place_id": "ChIJZXvOXFwVrjsRk-jaxpxk-II",
+   "data_id": "0x3bae155c5cce7b65:0x82f8649cc6dae893",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Eclectic",
+   "address": "No 1, (old 141/37), Rooftop, 24th main, Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.914251,
+    "longitude": 77.58596
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Yummy Bee JP Nagar - Sugar Free & Gluten Free Cakes | Millets Desserts",
+   "place_id": "ChIJkVJF-LwVrjsRLt3jVCpATQk",
+   "data_id": "0x3bae15bcf8455291:0x94d402a54e3dd2e",
+   "rating": 4.5,
+   "reviews": 347,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "451, 9th Cross, JP Nagar 2nd Phase, B.B",
+   "gps_coordinates": {
+    "latitude": 12.910145,
+    "longitude": 77.59068
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Cafe Khadya",
+   "place_id": "ChIJkWRpSXAVrjsRe1x6sEO1nNQ",
+   "data_id": "0x3bae157049696491:0xd49cb543b07a5c7b",
+   "rating": 4.3,
+   "reviews": 699,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "47/1, JP Nagar 3rd Phase 9th Cross, 1st Main Road, Bannerghatta Rd, near Sony Center",
+   "gps_coordinates": {
+    "latitude": 12.910715,
+    "longitude": 77.599144
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "INYA Cafe",
+   "place_id": "ChIJkxFk3_cVrjsRWzq7VYbQ1tQ",
+   "data_id": "0x3bae15f7df641193:0xd4d6d08655bb3a5b",
+   "rating": 4.8,
+   "reviews": 97,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "1293, 20th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.911902,
+    "longitude": 77.58796
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Anju's Cafe",
+   "place_id": "ChIJdZEfbg0VrjsRR4tSFh-S2CE",
+   "data_id": "0x3bae150d6e1f9175:0x21d8921f16528b47",
+   "rating": 4.3,
+   "reviews": 486,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "138/2",
+   "gps_coordinates": {
+    "latitude": 12.911469,
+    "longitude": 77.587074
+   },
+   "comment": "Casual option for international bites",
+   "extensions": [
+    "Closed",
+    "Opens 11 am Tue"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Bodhi Coffee",
+   "place_id": "ChIJi7oBEBoVrjsR084STMOHHgc",
+   "data_id": "0x3bae151a1001ba8b:0x71e87c34c12ced3",
+   "rating": 4.5,
+   "reviews": 79,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "612 , 13th cross, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.907285,
+    "longitude": 77.592064
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Cafe Aroma Express",
+   "place_id": "ChIJkVuAca8VrjsRPOCY05RmiP0",
+   "data_id": "0x3bae15af71805b91:0xfd886694d398e03c",
+   "rating": 4.8,
+   "reviews": 444,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "No.759 to 764, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913816,
+    "longitude": 77.594925
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Linto Coffee",
+   "place_id": "ChIJBVzCIYsVrjsR1DoRk08_Iig",
+   "data_id": "0x3bae158b21c25c05:0x28223f4f93113ad4",
+   "rating": 4,
+   "reviews": 729,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Coffee shop",
+   "address": "Sarrakki IV Phase, No 84",
+   "gps_coordinates": {
+    "latitude": 12.903579,
+    "longitude": 77.59485
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Box Bites Cafe",
+   "place_id": "ChIJKfSskpcVrjsRSO2R5odT1jA",
+   "data_id": "0x3bae159792acf429:0x30d65387e691ed48",
+   "rating": 4.5,
+   "reviews": 646,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "22, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.914396,
+    "longitude": 77.599335
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Cafe Coffee day - J P Nagar Ring Road",
+   "place_id": "ChIJQSMAQREVrjsRziPDefyBIrM",
+   "data_id": "0x3bae151141002341:0xb32281fc79c323ce",
+   "rating": 4.1,
+   "reviews": 2300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Site No. 300, Ground Floor, 6, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906102,
+    "longitude": 77.59187
+   }
+  },
+  {
+   "position": 20,
+   "title": "Family bites",
+   "place_id": "ChIJZ-9pjWJrrjsRf-ICcNCUJ8Y",
+   "data_id": "0x3bae6b628d69ef67:0xc62794d07002e27f",
+   "rating": 5,
+   "reviews": 85,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "basement of, Roshan place, Tipu circle",
+   "gps_coordinates": {
+    "latitude": 12.872499,
+    "longitude": 77.56637
+   },
+   "extensions": [
+    "Closed",
+    "Opens 2 pm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,434 @@
+{
+ "q": "bars and pubs in Indiranagar Bangalore",
+ "ll": "@12.9716,77.6412,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:01.033Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Murphy's Brewhouse",
+   "place_id": "ChIJu-m8mBEUrjsREFVZh0GU3Q0",
+   "data_id": "0x3bae141198bce9bb:0xddd944187595510",
+   "rating": 4.3,
+   "reviews": 4400,
+   "type": "Brewpub",
+   "address": "The Paul, 139/28, 5th floor, off Intermediate Ring Road",
+   "gps_coordinates": {
+    "latitude": 12.953779,
+    "longitude": 77.63968
+   },
+   "comment": "Irish-style pub for microbrews & bites",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Three Monkeys Brewpub",
+   "place_id": "ChIJS0-f6nQRrjsRK7hxMqGryww",
+   "data_id": "0x3bae1174ea9f4f4b:0xccbaba13271b82b",
+   "rating": 4.5,
+   "reviews": 1200,
+   "type": "Brewpub",
+   "address": "4th floor, Gopalan Signature Mall, Swami Vivekananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.992928,
+    "longitude": 77.661575
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "The Italian Bar by La Gioia",
+   "place_id": "ChIJt_WR6sMXrjsRiQactCLvdGg",
+   "data_id": "0x3bae17c3ea91f5b7:0x6874ef22b49c0689",
+   "rating": 4.8,
+   "reviews": 43,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "2nd Floor, 1085, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9698305,
+    "longitude": 77.638374
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "AnTeRa Kitchen and Bar - Indiranagar",
+   "place_id": "ChIJJyjgxDIVrjsRnbh73SsXbwk",
+   "data_id": "0x3bae1532c4e02827:0x96f172bdd7bb89d",
+   "rating": 4.3,
+   "reviews": 1400,
+   "type": "Bar",
+   "address": "Plot No .4006, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.962483,
+    "longitude": 77.64138
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Adda 1522",
+   "place_id": "ChIJXdmIqKUXrjsR1tzD5PK3OP4",
+   "data_id": "0x3bae17a5a888d95d:0xfe38b7f2e4c3dcd6",
+   "rating": 4.4,
+   "reviews": 1200,
+   "type": "Bar",
+   "address": "18, 1, Cambridge Rd",
+   "gps_coordinates": {
+    "latitude": 12.972691,
+    "longitude": 77.62668
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Elvnthrtyone",
+   "place_id": "ChIJZ2l596cWrjsRL4fIVCyDUdc",
+   "data_id": "0x3bae16a7f7796967:0xd751832c54c8872f",
+   "rating": 4.2,
+   "reviews": 522,
+   "type": "Bar",
+   "address": "d.no, 1131, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.969868,
+    "longitude": 77.64164
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Mini bar",
+   "place_id": "ChIJn3sIIMEXrjsR6CJWQJFpuiE",
+   "data_id": "0x3bae17c120087b9f:0x21ba6991405622e8",
+   "rating": 3.9,
+   "reviews": 136,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "Ground floor, 1080, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970158,
+    "longitude": 77.638405
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Amigoo Bistro Bar",
+   "place_id": "ChIJacHQhMIVrjsRYVXhvG8qA6Y",
+   "data_id": "0x3bae15c284d0c169:0xa6032a6fbce15561",
+   "rating": 3.7,
+   "reviews": 104,
+   "type": "Pub",
+   "address": "5th Floor, No 765, 100 Feet Rd, near to Sony Center Signal",
+   "gps_coordinates": {
+    "latitude": 12.970912,
+    "longitude": 77.641014
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Newton's Resto Bar",
+   "place_id": "ChIJSy6kphYVrjsR6k6k8DboMDk",
+   "data_id": "0x3bae1516a6a42e4b:0x3930e836f0a44eea",
+   "rating": 4.2,
+   "reviews": 147,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Pub",
+   "address": "4121/Q, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.960531,
+    "longitude": 77.64455
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Elongos Pub & Grub",
+   "place_id": "ChIJm4gg91cXrjsR85Wl9pIcVGg",
+   "data_id": "0x3bae1757f720889b:0x68541c92f6a595f3",
+   "rating": 4.2,
+   "reviews": 474,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pub",
+   "address": "3 floor, Surya enclave, 1206, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.96513,
+    "longitude": 77.64141
+   },
+   "comment": "Casual pub serving drinks & snacks",
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Circa 11",
+   "place_id": "ChIJYYBK2LsXrjsRXWvSAX68Es4",
+   "data_id": "0x3bae17bbd84a8061:0xce12bc7e01d26b5d",
+   "rating": 4.4,
+   "reviews": 186,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "957, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970262,
+    "longitude": 77.64018
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Tue"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "XU - Fashion|Bar|Kitchen",
+   "place_id": "ChIJu9-9cQYUrjsRoCstV9isXd0",
+   "data_id": "0x3bae140671bddfbb:0xdd5dacd8572d2ba0",
+   "rating": 3.8,
+   "reviews": 3100,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "23, Level C, The Leela Palace",
+   "gps_coordinates": {
+    "latitude": 12.961232,
+    "longitude": 77.64887
+   },
+   "comment": "Vibrant gastropub with mixed fare",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "SGR Bar",
+   "place_id": "ChIJh7c4QJgWrjsRWzEymhh43ts",
+   "data_id": "0x3bae16984038b787:0xdbde78189a32315b",
+   "rating": 3.9,
+   "reviews": 154,
+   "price": "₹1–1,000",
+   "extracted_price": {
+    "min": 1,
+    "max": 1000
+   },
+   "type": "Bar",
+   "gps_coordinates": {
+    "latitude": 12.978352,
+    "longitude": 77.62945
+   },
+   "extensions": [
+    "Chinmaya Mission Hospital Rd",
+    "Closes soon",
+    "12:45 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Shalimar Restaurant And Bar",
+   "place_id": "ChIJ14DjjaQWrjsR11zEA7HFRrI",
+   "data_id": "0x3bae16a48de380d7:0xb246c5b103c45cd7",
+   "rating": 4.1,
+   "reviews": 2300,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "3RD Floor, 322/2, Chinmaya Mission Hospital Rd",
+   "gps_coordinates": {
+    "latitude": 12.978458,
+    "longitude": 77.63727
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Knowhere",
+   "place_id": "ChIJM2TS2AMXrjsRraj9l2SYatI",
+   "data_id": "0x3bae1703d8d26433:0xd26a986497fda8ad",
+   "rating": 4.4,
+   "reviews": 2200,
+   "type": "Grill",
+   "address": "Favourite Plaza, 15, Dodda Banaswadi Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.001152,
+    "longitude": 77.62922
+   },
+   "comment": "Lively rooftop bar & grill with karaoke",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Crazy Boys",
+   "place_id": "ChIJl9oJgNcVrjsRBODwmhIEzDw",
+   "data_id": "0x3bae15d78009da97:0x3ccc04129af0e004",
+   "rating": 3.9,
+   "reviews": 206,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "XJ6Q+6CR",
+   "gps_coordinates": {
+    "latitude": 12.960616,
+    "longitude": 77.63852
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "7 Rivers Brewing Company",
+   "place_id": "ChIJLx0ZKUcXrjsRn3ic9Xnlowo",
+   "data_id": "0x3bae174729191d2f:0xaa3e579f59c789f",
+   "rating": 4.3,
+   "reviews": 2500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Brewpub",
+   "address": "No. 41/3, Taj MG Road",
+   "gps_coordinates": {
+    "latitude": 12.973454,
+    "longitude": 77.61987
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Pasta Street - Indiranagar",
+   "place_id": "ChIJ7VssrhwUrjsRsUVHewyWzbM",
+   "data_id": "0x3bae141cae2c5bed:0xb3cd960c7b4745b1",
+   "rating": 4.4,
+   "reviews": 8100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Italian",
+   "address": "2022, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.967053,
+    "longitude": 77.641716
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Cafe Noir Indiranagar",
+   "place_id": "ChIJ3Tg2nYwXrjsR6IFy6nWA1KI",
+   "data_id": "0x3bae178c9d3638dd:0xa2d48075ea7281e8",
+   "rating": 4,
+   "reviews": 1700,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "French",
+   "address": "1st Floor, 3275, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970008,
+    "longitude": 77.63627
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Monkey Bar",
+   "place_id": "ChIJzWN9rSoUrjsRiR5_FDQyN5k",
+   "data_id": "0x3bae142aad7d63cd:0x99373234147f1e89",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "First Floor, The Museum, No.1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975082,
+    "longitude": 77.60288
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

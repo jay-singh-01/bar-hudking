@@ -1,0 +1,404 @@
+{
+ "q": "bars and pubs in Jayanagar Bangalore",
+ "ll": "@12.9293,77.5852,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:30:52.732Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "SOHO Cafe, Pub & Grill",
+   "place_id": "ChIJhbh8pPIVrjsRPvqqU9mFsr0",
+   "data_id": "0x3bae15f2a47cb885:0xbdb285d953aafa3e",
+   "rating": 3.9,
+   "reviews": 4300,
+   "type": "Pub",
+   "address": "198, 4th Floor, Old Soho pub n grill, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944537,
+    "longitude": 77.57279
+   },
+   "comment": "Pub fare in relaxed digs with a terrrace",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "The Dennys Pub",
+   "place_id": "ChIJ46PfBwYVrjsR-QQs8tF014k",
+   "data_id": "0x3bae150607dfa3e3:0x89d774d1f22c04f9",
+   "rating": 3.9,
+   "reviews": 1500,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "1550, East End Circle JP Nagar 3rd phase",
+   "gps_coordinates": {
+    "latitude": 12.916619,
+    "longitude": 77.59712
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "BRICKS Bar & Kitchen",
+   "place_id": "ChIJc8x8aKIVrjsRxV2eBk1kDTM",
+   "data_id": "0x3bae15a2687ccc73:0x330d644d069e5dc5",
+   "rating": 4.6,
+   "reviews": 547,
+   "type": "Bar",
+   "address": "4th Floor, 67, 6th B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.906354,
+    "longitude": 77.59686
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "South Point Pub",
+   "place_id": "ChIJ8U96ZJQVrjsR6CteLSlQa_g",
+   "data_id": "0x3bae1594647a4ff1:0xf86b50292d5e2be8",
+   "rating": 4,
+   "reviews": 749,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Pub",
+   "address": "South End Circle, Shop No. 5, No. 7, Lakshmi Towers, 200, Rashtriya Vidyalaya Rd",
+   "gps_coordinates": {
+    "latitude": 12.938151,
+    "longitude": 77.58031
+   },
+   "comment": "Laid-back spot with pool & light fare",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Fat Owl - Gastropub",
+   "place_id": "ChIJp9VDOEQVrjsR3K1tJSASYNM",
+   "data_id": "0x3bae15443843d5a7:0xd3601220256daddc",
+   "rating": 4.1,
+   "reviews": 4200,
+   "type": "Gastropub",
+   "address": "No 610, 100ft Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906552,
+    "longitude": 77.581314
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "PlanB Jayanagar",
+   "place_id": "ChIJFQMCXzwVrjsRAYdX8aSebRQ",
+   "data_id": "0x3bae153c5f020315:0x146d9ea4f1578701",
+   "rating": 3.3,
+   "reviews": 339,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Chicken Wings",
+   "address": "51, 11th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.925417,
+    "longitude": 77.585846
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "The Boozy Griffin Bangalore",
+   "place_id": "ChIJyZ7MK04UrjsRMdiRfgNb3fk",
+   "data_id": "0x3bae144e2bcc9ec9:0xf9dd5b037e91d831",
+   "rating": 4.1,
+   "reviews": 6400,
+   "type": "Pub",
+   "address": "105, 1st A cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934438,
+    "longitude": 77.61592
+   },
+   "comment": "Bustling pub with dancing & DJs",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "21C - Bar in Jayanagar",
+   "place_id": "ChIJdUPTH7sVrjsRzEu585SgJUo",
+   "data_id": "0x3bae15bb1fd34375:0x4a25a094f3b94bcc",
+   "rating": 4.1,
+   "reviews": 9,
+   "type": "Bar",
+   "address": "1, 14th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.936946,
+    "longitude": 77.5806
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "CANTON BAR AND RESTAURANT",
+   "place_id": "ChIJpfe5HpgVrjsR2ihnEEcMs8o",
+   "data_id": "0x3bae15981eb9f7a5:0xcab30c47106728da",
+   "rating": 3.5,
+   "reviews": 839,
+   "type": "Chinese",
+   "address": "141 1, 142, 9th Main Rd, near balaji medical centre",
+   "gps_coordinates": {
+    "latitude": 12.932535,
+    "longitude": 77.58382
+   }
+  },
+  {
+   "position": 10,
+   "title": "Lover's Night ( Dasi ) Pub Bar & Restaurant",
+   "place_id": "ChIJQ-zuheAVrjsRI1kRwqBKAOI",
+   "data_id": "0x3bae15e085eeec43:0xe2004aa0c2115923",
+   "rating": 4,
+   "reviews": 66,
+   "type": "Bar",
+   "address": "1st Floor, TOWN HALL, New Raja Building, 3-20/1, NR Rd",
+   "gps_coordinates": {
+    "latitude": 12.963436,
+    "longitude": 77.58413
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Surabhi bar and restaurant",
+   "place_id": "ChIJj0z-qQoVrjsRqvkPNkwq5qE",
+   "data_id": "0x3bae150aa9fe4c8f:0xa1e62a4c360ff9aa",
+   "rating": 4.3,
+   "reviews": 158,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Bar",
+   "address": "533,29th Main Road, 489, E End Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.918654,
+    "longitude": 77.59679
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Alchemy",
+   "place_id": "ChIJifjDfooXrjsRDOT2aCsp79A",
+   "data_id": "0x3bae178a7ec3f889:0xd0ef292b68f6e40c",
+   "rating": 4.3,
+   "reviews": 2000,
+   "type": "Bar",
+   "address": "The Chancery Pavilion, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.965867,
+    "longitude": 77.59875
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "STORIES BREWERY & KITCHEN",
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "rating": 4.4,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905697,
+    "longitude": 77.60852
+   },
+   "comment": "Beer & quick bites in a hip, stylish bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Dolos: Bar and Kitchen",
+   "place_id": "ChIJL5SGfAAVrjsR9v3uCwajcfU",
+   "data_id": "0x3bae15007c86942f:0xf571a3060beefdf6",
+   "rating": 4.5,
+   "reviews": 477,
+   "type": "Bar",
+   "address": "Dalmia circle, 309, 3rd and 4th floor, Above DBS Bank 100ft Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906169,
+    "longitude": 77.59284
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Mockaholic- OG Bar & Kitchen",
+   "place_id": "ChIJG6ucuwwVrjsRXpyO4lgEi5o",
+   "data_id": "0x3bae150cbb9cab1b:0x9a8b0458e28e9c5e",
+   "rating": 3.9,
+   "reviews": 4400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "1107, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915277,
+    "longitude": 77.58556
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "HighDrate Restopub Banashankari",
+   "place_id": "ChIJwaAaxBcVrjsRa3TH8m9izBg",
+   "data_id": "0x3bae1517c41aa0c1:0x18cc626ff2c7746b",
+   "rating": 4.2,
+   "reviews": 558,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "631, Master Hirannaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.924499,
+    "longitude": 77.56553
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "TIMBAR",
+   "place_id": "ChIJi6D_mCUVrjsRYdxcszx2JzQ",
+   "data_id": "0x3bae152598ffa08b:0x3427763cb35cdc61",
+   "rating": 4.6,
+   "reviews": 994,
+   "type": "Bar",
+   "address": "No. N15, 15, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913527,
+    "longitude": 77.58556
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Bar Doubble",
+   "place_id": "ChIJf9QW_vAVrjsR_OM7azbwjgo",
+   "data_id": "0x3bae15f0fe16d47f:0xa8ef0366b3be3fc",
+   "rating": 4.8,
+   "reviews": 115,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "90, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.956611,
+    "longitude": 77.59229
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The Bier Library",
+   "place_id": "ChIJsaosImcVrjsRPP5rNvYTmLc",
+   "data_id": "0x3bae1567222caab1:0xb79813f6366bfe3c",
+   "rating": 4.4,
+   "reviews": 24000,
+   "type": "Brewpub",
+   "address": "14, Patel Narayana Reddy Layout, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.93922,
+    "longitude": 77.626114
+   },
+   "comment": "Microbrewery with international bar food",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Coastal Family Resto Bar",
+   "place_id": "ChIJ36xaLwYVrjsR-qS0PJjB9NQ",
+   "data_id": "0x3bae15062f5aacdf:0xd4f4c1983cb4a4fa",
+   "rating": 3.9,
+   "reviews": 1300,
+   "type": "Bar",
+   "address": "Shop No: 488, 108, E End Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.918612,
+    "longitude": 77.59673
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  }
+ ]
+}

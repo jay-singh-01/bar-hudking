@@ -1,0 +1,1142 @@
+{
+ "q": "best restaurants in Rajajinagar Bangalore",
+ "ll": "@12.9911,77.5554,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T16:42:28.299Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJUUSLnpI9rjsRGQuAAkCJSdY",
+   "data_id": "0x3bae3d929e8b4451:0xd649894002800b19",
+   "title": "Nandhana Palace -Andhra Style Restaurant - Rajajinagar",
+   "address": "No 15, 5th Main, Shivanagar, Opposite-Power House, WOC, 3rd Block, Rajaji Nagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4613 1111",
+   "rating": 4,
+   "reviews": 9930,
+   "website": "https://www.nandhanarestaurants.com/",
+   "domain": "nandhanarestaurants.com",
+   "gps_coordinates": {
+    "latitude": 12.9891845,
+    "longitude": 77.55011879999999
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant",
+    "Biryani restaurant",
+    "Non Vegetarian Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11 am–12 am",
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMyMKouorUlPJxTV3tOUYF0Plnm-9XPTg4vczJ2tUBPoyiuCiDXQ6A_oi5WfB5fp_M7P7XVtl-Rh2g5YAfMmXpLTkPvcrgLxmR41eE7HZ-xlGoa6Qs5cIHbCdmWP_P16AN8s1uMSA=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ5xrlwng9rjsRxHEVifI7ViQ",
+   "data_id": "0x3bae3d78c2e51ae7:0x24563bf2891571c4",
+   "title": "The Persian Terrace",
+   "description": "Rooftop space for Middle Eastern cuisine. Glamorous rooftop restaurant dishing Middle Eastern classics amid chic, Persian-inspired decor.",
+   "address": "4th Floor, 26/1, Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4252 1000",
+   "rating": 4.4,
+   "reviews": 1220,
+   "website": "https://www.sevenrooms.com/reservations/thepersianterraceblrgs/marriott-com",
+   "domain": "sevenrooms.com",
+   "gps_coordinates": {
+    "latitude": 13.0124946,
+    "longitude": 77.5552197
+   },
+   "type": "Persian restaurant",
+   "types": [
+    "Persian restaurant",
+    "Middle Eastern restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "6–11:30 pm",
+    "monday": "6–11:30 pm",
+    "tuesday": "6–11:30 pm",
+    "wednesday": "6–11:30 pm",
+    "thursday": "6–11:30 pm",
+    "friday": "6–11:30 pm",
+    "saturday": "6–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://api.whatsapp.com/message/ETTQRLLB2N4BK1",
+    "source": "whatsapp.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNsu-wQqorvzq31LFzToqP0WtbIwKAKQbwjdeJcSkuWiOS7chBL7DPsMoqsSegVC15aNO41-vjSQqqqPWjrSaWvEs1beUPWTC3FI12omPhn4A4szYDcAydLRNv9tRnB-rbUXxAU=w138-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJVS8uVHU9rjsRb77rItbSNJ8",
+   "data_id": "0x3bae3d75542e2f55:0x9f34d2d622ebbe6f",
+   "title": "5C Resto Pub & Kitchen",
+   "address": "No 37/1, West of Chord road, 1st Main Rd, Shivanagar, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "085500 21314",
+   "rating": 4.5,
+   "reviews": 816,
+   "gps_coordinates": {
+    "latitude": 12.9883254,
+    "longitude": 77.54897799999999
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "11 am–12:30 am",
+    "monday": "11 am–12:30 am",
+    "tuesday": "11 am–12:30 am",
+    "wednesday": "11 am–12:30 am",
+    "thursday": "11 am–12:30 am",
+    "friday": "11 am–12:30 am",
+    "saturday": "11 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/5-c-restobar-rajajinagar-bangalore-573627/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP3yLh_t4JWZmRIIzsH4yCL_GjOXzdaYVsiDwtAkwfmYqlQr5vUbGIDWZqaz-2qWvvezqQfdpoMkcPTjHkfWOw1ah4Gmg0NhF0FKtDSLHpkN_DqZ8i-zR7cbIEslS0BKxY-CTAw=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJAWdNvCg9rjsRGtTJ-H1zaMg",
+   "data_id": "0x3bae3d28bc4d6701:0xc868737df8c9d41a",
+   "title": "Swagat Restaurant",
+   "description": "Informal choice for local & Chinese fare. Typical local & Chinese eats including noodles, biryani & curries are offered at this relaxed venue.",
+   "address": "#747, 12th Main Road, 42nd Cross Rd, near Terapanth Bhavan, 3rd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073490 17687",
+   "rating": 4.3,
+   "reviews": 817,
+   "gps_coordinates": {
+    "latitude": 12.9894094,
+    "longitude": 77.5540537
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Family restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 11:30 am Mon",
+   "open_hours": {
+    "sunday": "11:30 am–10:30 pm",
+    "monday": "11:30 am–10:30 pm",
+    "tuesday": "11:30 am–10:30 pm",
+    "wednesday": "11:30 am–10:30 pm",
+    "thursday": "11:30 am–10:30 pm",
+    "friday": "11:30 am–10:30 pm",
+    "saturday": "11:30 am–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/swagat-restaurant-rajajinagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hXYqllwNuGrx-sfrxF5kl8T3wKL0wvlaFUPjTyFyIujryQqRngNTCWbewqKFfVl-ZwHf-5E223_rdDPPqGUD724AtsP6Z2ob4oM0Uo-ozYPb-Rh0o%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNPx-kibbx871WRZyryialN8YfGhSOC_KACGwCWLgfZu5daS04YBy9ZJjjYvIMBIxMfqLCqJZ0bta4GCPKdMOa0Kwl8m_wvZjuXimcne6QwGTjDwAdKzHUqp0KCBYk8lvgIrkw8=w138-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJPzvaJTM9rjsROmK-rW3gTTM",
+   "data_id": "0x3bae3d3325da3b3f:0x334de06dadbe623a",
+   "title": "Narmada Restaurant Rajaji Nagar",
+   "address": "706, 1st Floor, WCR 2nd Stage, 9th Cross, Modi Hospital Rd, Bengaluru, Karnataka 560086",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097430 00329",
+   "rating": 4.5,
+   "reviews": 2082,
+   "website": "https://cuisine-canvas-8.preview.emergentagent.com/",
+   "domain": "cuisine-canvas-8.preview.emergentagent.com",
+   "gps_coordinates": {
+    "latitude": 12.9976154,
+    "longitude": 77.5474006
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "Open 24 hours",
+    "monday": "10:30 am–2 am",
+    "tuesday": "10:30 am–2 am",
+    "wednesday": "10:30 am–2 am",
+    "thursday": "10:30 am–2 am",
+    "friday": "10:30 am–2 am",
+    "saturday": "10:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/narmada-rajajinagar-west-bengaluru-698764",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOGTR9NQVadW8QuGieMaxBS2sQM2BmRMJkxYTID7aHChorR64VOEdpNOI90kAX0fef4Df9sTHZm5kJe4gZVY4IGN9JigZ0KADiD7VkVENH8NhkgyGKSNNv4uOmqA3c-01IklVhqeg=w163-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJZ91TdO09rjsRT_7bJCra_vY",
+   "data_id": "0x3bae3ded7453dd67:0xf6feda2a24dbfe4f",
+   "title": "The Higher Taste Restaurant",
+   "description": "A la carte & buffet yogic Sattvic food. 2-level restaurant in a temple complex serving Sattvic Indian food on banana leaves and buffets.",
+   "address": "Hare Krishna Hill, Chord Rd, inside ISKCON, 1st R Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2357 5333",
+   "rating": 4.3,
+   "reviews": 2373,
+   "website": "http://iskconhighertaste.com/",
+   "domain": "iskconhighertaste.com",
+   "gps_coordinates": {
+    "latitude": 13.0093447,
+    "longitude": 77.55132449999999
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Buffet restaurant",
+    "Fine dining restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–3 pm, 7–10:30 pm",
+    "monday": "12–3 pm, 7–10:30 pm",
+    "tuesday": "12–3 pm, 7–10:30 pm",
+    "wednesday": "12–3 pm, 7–10:30 pm",
+    "thursday": "12–3 pm, 7–10:30 pm",
+    "friday": "12–3 pm, 7–10:30 pm",
+    "saturday": "12–3 pm, 7–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://api.whatsapp.com/send?phone=919738334259",
+    "source": "whatsapp.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNhkVDrWJqLVX5t_EGVptGM0syVKJ-Tx4bJwPreYCyFa5eHiw0FDpj-2aCHt06hK8M7d-KACNrrFrkFFh7WViVqYDezE6RGPSVgcLMJiFkWNxybNmfguwGfbFqnwQRUAhJfTug2Wg=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJZzuJfzE9rjsRTD3UiwxOMSI",
+   "data_id": "0x3bae3d317f893b67:0x22314e0c8bd43d4c",
+   "title": "Pari",
+   "address": "75/5, Chord Rd, next to Iskcon Temple, Rajajinagar, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.7,
+   "reviews": 4292,
+   "gps_coordinates": {
+    "latitude": 13.0109551,
+    "longitude": 77.5506056
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–4 pm, 7–11 pm",
+    "monday": "12–4 pm, 7–11 pm",
+    "tuesday": "12–4 pm, 7–11 pm",
+    "wednesday": "12–4 pm, 7–11 pm",
+    "thursday": "12–4 pm, 7–11 pm",
+    "friday": "12–4 pm, 7–11 pm",
+    "saturday": "12–4 pm, 7–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/pari-5-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_h0r21mUtHb1mEd-L4-bsnE6qC63I0bLUSQc3PPQoJKAIgLZuAEZaw2yKN3BXEAMBEKoz79xWZo7aCNX6BtsMEzD4hP2kK9aYpvQ6xd14PX_dlxLgk%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNMch6h2mH0GCkiJsYJXq17reKuTM6fmb4dAR0Pk8qWoBQ81Mh9un1U0UYEt1NRWBFMjJsNAc0S73TcPzVQnUFdFnKdQr222ZezeJR4O9LXSwMbBFWE9iyYrCVgwmBxtasTG323BKjipoqv=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJuxfxieE9rjsRdZMmxqUeJG8",
+   "data_id": "0x3bae3de189f117bb:0x6f241ea5c6269375",
+   "title": "Stories Bar & Kitchen - Rajajinagar",
+   "description": "Modern, indoor/outdoor cocktail bar. Trendy bar featuring beer, wine, cocktails, a rooftop terrace & eclectic fusion fare.",
+   "address": "4th Floor, 1st Block, 77, Chord Rd, 1st R Block, Rajajinagar, Yeswanthpur, Bengaluru, Karnataka 560086",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4680 9322",
+   "rating": 4.1,
+   "reviews": 10255,
+   "gps_coordinates": {
+    "latitude": 13.0085549,
+    "longitude": 77.5491036
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "Closed",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/stories-bar-kitchen-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_ghHGR0MhG7zPw_f3Mukv_JMJF_jkoGwab2q1_GEO6Ppk4UyyWGCRhxGx4eP6qhTIwKRgbX2odxRYU4Z7AzB4X1Tvi81mfjaPVQUC6rPul19hSfMFs%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNa1_F6XvnibD3RJytkfROLAKryPakCHO8N9-NQchVm49yt-IIpITmpH1VcLb3HMZ0B2n23R7NnEoDKbByIB0sbYeufnRZrx2yhn8GVbnPc8i8ENUECvtN_hw2e1Ieq32Toonf3=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJD14-qzM9rjsR7996OC9QvcY",
+   "data_id": "0x3bae3d33ab3e5e0f:0xc6bd502f387adfef",
+   "title": "Chulha Chauki da Dhaba | Rajajinagar",
+   "address": "1st Floor, Industrial Sub Urb, No.3, Joddh Tower, Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073497 38051",
+   "rating": 4.7,
+   "reviews": 7305,
+   "website": "https://www.chulhachaukidadhaba.com/",
+   "domain": "chulhachaukidadhaba.com",
+   "gps_coordinates": {
+    "latitude": 13.0121899,
+    "longitude": 77.5541915
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Dhaba",
+    "Indian restaurant",
+    "Non Vegetarian Restaurant",
+    "Punjabi restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–3:30 pm, 7–10:30 pm",
+    "monday": "12–3:30 pm, 7–10:30 pm",
+    "tuesday": "12–3:30 pm, 7–10:30 pm",
+    "wednesday": "12–3:30 pm, 7–10:30 pm",
+    "thursday": "12–3:30 pm, 7–10:30 pm",
+    "friday": "12–3:30 pm, 7–10:30 pm",
+    "saturday": "12–3:30 pm, 7–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN3e-wNOsiKCwcBwXG8FV8BDNmY8au84NDO31ng_Wb-YycknFLbbOa-4o2Hg7yw3qJNMbQCz-Ivp8M9-nAe4316au4B-qk6CW4Czwcw9B2xBZgcPYgcActTqU1xMnZ6JSqge9Y=w138-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJu3I7G109rjsR-uEJv4W-MAg",
+   "data_id": "0x3bae3d5d1b3b72bb:0x830be85bf09e1fa",
+   "title": "Empire Restaurant Rajajinagar",
+   "address": "702, Modi Hospital Rd, West of Chord Road 2nd Stage, West of Chord Road, Stage 2, Nagapura, Bengaluru, Karnataka 560086",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4041 4141",
+   "rating": 4.4,
+   "reviews": 26609,
+   "website": "http://www.hotelempire.in/",
+   "domain": "hotelempire.in",
+   "gps_coordinates": {
+    "latitude": 12.9976134,
+    "longitude": 77.54667479999999
+   },
+   "type": "Non Vegetarian Restaurant",
+   "types": [
+    "Non Vegetarian Restaurant",
+    "Buffet restaurant",
+    "Family restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 2 am",
+   "open_hours": {
+    "sunday": "11 am–2 am",
+    "monday": "11 am–2 am",
+    "tuesday": "11 am–2 am",
+    "wednesday": "11 am–2 am",
+    "thursday": "11 am–2 am",
+    "friday": "11 am–2 am",
+    "saturday": "11 am–2 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/easybites-by-empire-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hxaHtnuwLKnLpjwkBEqwkMvUM5J9Jy58FL9kjDjxAYrkN8rGHHmEcOug4b8xzit_00y_VZ0YKwJDBr2NNkeEwaYFZWwFXaeWJNhpj0apQFBPb3h_g%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPNce1GNt0XIsI3KTEzpoCMs7XG9fKzAs91XfH-O_0QB72jxae74xjZyJ7TfHizAnmO7teZcvBY31bgbebo-pc_eU1TSkId1KwnYRDVFfsQ7e5j29CGa7HLZrRe3i1rPV3OyQ=w163-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJO8sFs-Q9rjsRP0IHDscpyi8",
+   "data_id": "0x3bae3de4b305cb3b:0x2fca29c70e07423f",
+   "title": "Jetlag Bar and Grill",
+   "address": "opp. to Sherton Hotel, 6th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2337 8007",
+   "rating": 4.1,
+   "reviews": 11299,
+   "gps_coordinates": {
+    "latitude": 13.0122906,
+    "longitude": 77.5540973
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar & grill"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/jetlag-rajajinagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gVOfuqaXpazc07As1TeufXSfepRFx76CzNO4P0nALzj8pM7QKEVbiEC1vkVH_AupNJFGCRvoag-F6p-58fpmSFQsw-cFPzvioZXtN5oQ6TV7spSWw%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMBnpEh3fbOKQ1E6eTExH4Uto_hlpYVZCZZhLXF9R-NkTaX7dKCvn64pF8v8NkYcsrFL2k6Ymx7iEHQGotQr6UCa2QsxfbPdcLqIsXlRSfsyrX1tPUq8C1CzuXyn20xTJV8kbYz=w125-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJtcHnw3g9rjsROTzAoEmcyQw",
+   "data_id": "0x3bae3d78c3e7c1b5:0xcc99c49a0c03c39",
+   "title": "District 6 - Best German Microbrewery in Bangalore | Pub Rajajinagar",
+   "description": "Rustic-chic German eatery & brewpub. German dishes & beers featured in a European-style microbrewery with woodsy-chic, golden-hued decor.",
+   "address": "G-03, G-04, G-05 26/1, Dr Rajkumar Road, Malleshwaram, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072599 06666",
+   "rating": 4.4,
+   "reviews": 12619,
+   "website": "https://www.district6.in/",
+   "domain": "district6.in",
+   "gps_coordinates": {
+    "latitude": 13.0124183,
+    "longitude": 77.55475679999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Bar",
+    "Beer garden",
+    "Beer hall",
+    "Brewery",
+    "Brewpub",
+    "European restaurant",
+    "German restaurant",
+    "Live music bar",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/district-6-pub-brewery-and-kitchen-malleshwaram-331921",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMKXT_LoUCJNaNp_5kiGUjDCVstfzp_LpdPpS07p-7HCniVohBaHcpdw9DGTTagAMZQhvgVT4gx_nDVZ4jeajC1rnQMR3CrCdqU8j5cB8UYiPO8sT8bpauKkRuFi4-rIAjxSqLo=w138-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJmVIgq2Q9rjsRcX2vudGQ138",
+   "data_id": "0x3bae3d64ab205299:0x7fd790d1b9af7d71",
+   "title": "Saffron By Sanmanaa - Pure Veg Restaurant",
+   "address": "10 old no 104/b 1 st Main Road, Dr Rajkumar Rd, beside Saptagiri Suzuki Showroom, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "079968 50161",
+   "rating": 4.5,
+   "reviews": 916,
+   "gps_coordinates": {
+    "latitude": 12.9850039,
+    "longitude": 77.56001309999999
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–10 pm",
+    "monday": "8 am–10 pm",
+    "tuesday": "8 am–10 pm",
+    "wednesday": "8 am–10 pm",
+    "thursday": "8 am–10 pm",
+    "friday": "8 am–10 pm",
+    "saturday": "8 am–10 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/saffron-by-sanmanaa-rajajinagar-west-bengaluru-706374",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO6iv8fbj9RWUk2Dce-9VS8z1rmGhDNh57RkI2PfbGq2N9U6N3wOcIBWRSB4pvbYodfl6kqbQXurRFaccrsgpfUhKiAx5nT3PRpaxi5w60u9MSD7FV5tM7nqbksVnPEX4cRMbkaNRPJ-20=w128-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJr6pr9bM9rjsRXRU5AHafQ-4",
+   "data_id": "0x3bae3db3f56baaaf:0xee439f760039155d",
+   "title": "Chowman (Rajajinagar)",
+   "address": "first n block, GROUND FLOOR, SITE N 69, Dr Rajkumar Rd, beside SUBRAMANYA NAGAR, 1st Block, E block, 2nd Stage, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "092306 19716",
+   "rating": 4.7,
+   "reviews": 624,
+   "website": "https://www.chowman.net/",
+   "domain": "chowman.net",
+   "gps_coordinates": {
+    "latitude": 13.0030026,
+    "longitude": 77.5533006
+   },
+   "type": "Chinese restaurant",
+   "types": [
+    "Chinese restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11:45 am Mon",
+   "open_hours": {
+    "sunday": "11:45 am–5 pm, 5:45–11 pm",
+    "monday": "11:45 am–5 pm, 5:45–11 pm",
+    "tuesday": "11:45 am–5 pm, 5:45–11 pm",
+    "wednesday": "11:45 am–5 pm, 5:45–11 pm",
+    "thursday": "11:45 am–5 pm, 5:45–11 pm",
+    "friday": "11:45 am–5 pm, 5:45–11 pm",
+    "saturday": "11:45 am–5 pm, 5:45–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/chowman-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j60ILhP2C9BLVctbKFwVGBRqpKWa_GCv-d4RhvhQmOPXMPYy_DF4lEiR2k1RzwX1mpS5CYvBEkFtsCeddJ1JvyetSchD3OsVBEOjVoTWMwxR2zibY%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMYLQJg_2n47k3B86EcYYcg24pmOS0fsFdV7Ch4Oe4tTWhJpyfdhqhKZPEm3_hLHbBxSxtl2xgkKHoLv2YpenyCjCUSfr0Z_k_jyujsFVF6qeGrqRUoO1bbHM0UXvrNC3BUQnn8XAc_2aqu=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJiaW92co9rjsRd9w1SYpuYYM",
+   "data_id": "0x3bae3dcad9bda589:0x83616e8a4935dc77",
+   "title": "Sicilia Point (Italian restaurant). Pure Veg",
+   "address": "816/1, 17th F Main Rd, Rajajinagar 3rd Block, 5th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091108 74168",
+   "rating": 4.5,
+   "reviews": 1097,
+   "gps_coordinates": {
+    "latitude": 12.985771,
+    "longitude": 77.5519485
+   },
+   "type": "Italian restaurant",
+   "types": [
+    "Italian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/sicilia-point-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gyI1qFiEzDz8ZfVt_f0AkA2vCyFZPIux5RwNf-6q58ND4QwdgC4d7lO-Zdu3k4EqnNiOau-SS6Df9FwUpcjBP54wKMgfNvTB-fufBiLChr5T5pkjk%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMbqZvIOzXZ6YmHEoh_c951oLvnINbL7ShQz04WI0fbKjygm22z8it2a8EjAhbdaUkz5dytEZpTbzXeRQNARhPVo6CWtpzmHSBliKgCejVcNAQfYmG9vMuAnMHI9wdvB_D10YBYtdPQbfgs=w80-h106-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJCawS47U9rjsRNO_wnS6VCXY",
+   "data_id": "0x3bae3db5e312ac09:0x7609952e9df0ef34",
+   "title": "Kakal Kai Ruchi @ Rajajinagar",
+   "address": "129, 1st Main Road, Dr, Dr Rajkumar Rd, 1st Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "094482 81195",
+   "rating": 4.4,
+   "reviews": 4597,
+   "website": "http://kakalkairuchi.com/",
+   "domain": "kakalkairuchi.com",
+   "gps_coordinates": {
+    "latitude": 13.0008722,
+    "longitude": 77.5528211
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "North Indian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 7 am Mon",
+   "open_hours": {
+    "sunday": "7 am–11 pm",
+    "monday": "7 am–11 pm",
+    "tuesday": "7 am–11 pm",
+    "wednesday": "7 am–11 pm",
+    "thursday": "7 am–11 pm",
+    "friday": "7 am–11 pm",
+    "saturday": "7 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/kakal-kai-ruchi-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLey7Ctj6kj0saUY560Kuw85EZdCsfg5tfIDVnadvd7PrVKRzUW93O9CXq0wUZh_f5YJPdcywSKwQXP0qRDq7aDVEeiaiFSlZ7UI09amrlHxtL3Cc1fKOs_NfQcAFlb1OcOoPmuI=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJYTZqxO09rjsRNghCRQUplz4",
+   "data_id": "0x3bae3dedc46a3661:0x3e97290545420836",
+   "title": "1947 Restaurant",
+   "description": "Stylish spot for veg North Indian fare. Well appointed veg restaurant for classic North Indian & Chinese fare, with a menu & buffets.",
+   "address": "Bindu Galaxy, 5, 2, 1st Main Rd, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4132 1947",
+   "rating": 4.1,
+   "reviews": 5738,
+   "gps_coordinates": {
+    "latitude": 12.9835657,
+    "longitude": 77.5487679
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Buffet restaurant",
+    "Chinese restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–3:30 pm, 7–10:30 pm",
+    "monday": "12–3:30 pm, 7–10:30 pm",
+    "tuesday": "12–3:30 pm, 7–10:30 pm",
+    "wednesday": "12–3:30 pm, 7–10:30 pm",
+    "thursday": "12–3:30 pm, 7–10:30 pm",
+    "friday": "12–3:30 pm, 7–10:30 pm",
+    "saturday": "12–3:30 pm, 7–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/1947-rajajinagar-335309",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPMcFtyM1I10ogaPkD4dqagyVXXZFQ3vXSsbuXW92ymQvUfxy2-AP9Sfhp4SiPOP2hV6HTFo0QQhdbEa7sJrku_6rUGPbHsDdmf3m6HJBcAGGRPBM_mCXaHiOoVwCgRjCZXobX8=w138-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJ-dBZUxo9rjsR7pMykwz48Vc",
+   "data_id": "0x3bae3d1a5359d0f9:0x57f1f80c933293ee",
+   "title": "Kake Di Hatti Rajajinagar – Pure Veg North Indian Restaurant",
+   "address": "3rd Floor, 37, 20th Main Rd, above Unacademy Centre, 1st Block, 2nd Stage, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096060 16918",
+   "rating": 4.2,
+   "reviews": 2695,
+   "website": "https://kdhrajajinagar.com/",
+   "domain": "kdhrajajinagar.com",
+   "gps_coordinates": {
+    "latitude": 13.0030579,
+    "longitude": 77.54960369999999
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11 am–12 am",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/kake-di-hatti-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hHfD33h_T9W7cpfwo3kCyw96s7mOIxJjQYRsuoPAt8WMHDVf9dV_h1445ucGubshq0JMD7T5rwg0EtN55W_7jjrwK3kIHru9cMz3o5gvF6jHzpy-8%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPNj6uNdFfjYVkJSlDwdZc7Fm9x69K-vgYeF2CGvqHC21lePyNhrBf4Ab4_TYer32PkNc3vG-L7KyHpQ0BTGU4_mKJYkvDXCI7DJ8IcThby2UXMykM5s60mqIYnYE0Mq109XHpjA=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJHSEbZec9rjsRurDKrQvxrqw",
+   "data_id": "0x3bae3de7651b211d:0xacaef10badcab0ba",
+   "title": "Kapoor's Cafe Rajajinagar",
+   "address": "117, 1st Block, 1st Main Road, Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097398 00012",
+   "rating": 4.1,
+   "reviews": 3667,
+   "website": "https://www.instagram.com/kapoorscafe_rajajinagar/",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9994625,
+    "longitude": 77.5525342
+   },
+   "type": "Punjabi restaurant",
+   "types": [
+    "Punjabi restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:40 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–10:40 pm",
+    "monday": "11 am–10:30 pm",
+    "tuesday": "11 am–10:40 pm",
+    "wednesday": "11 am–10:40 pm",
+    "thursday": "11 am–10:40 pm",
+    "friday": "11 am–10:40 pm",
+    "saturday": "11 am–10:40 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPUQeduG3RQIX7VFKDcncF7peufBKmsF573xhCiu_jpLBvvhAP8bDW_xIBGwPHxlgcU0s23lkUL-WOu24QIRMYHBWDVoGjoIknuaxvkC4E6tgbr04GeHdq7n6ynSPbHj5vrtH_KNg=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJuzxdAgA9rjsRSN1yZ0zPlJw",
+   "data_id": "0x3bae3d00025d3cbb:0x9c94cf4c6772dd48",
+   "title": "Bombay Brasserie - Orion Mall - Rajajinagar",
+   "address": "Unit UG-24, Orion Mall, Brigade Gateway, Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074115 65806",
+   "rating": 4.7,
+   "reviews": 1678,
+   "website": "https://bombaybrasserie.in/",
+   "domain": "bombaybrasserie.in",
+   "gps_coordinates": {
+    "latitude": 13.0107361,
+    "longitude": 77.55537679999999
+   },
+   "type": "Modern Indian restaurant",
+   "types": [
+    "Modern Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 11:45 am Mon",
+   "open_hours": {
+    "sunday": "11:45 am–10:30 pm",
+    "monday": "11:45 am–10:30 pm",
+    "tuesday": "11:45 am–10:30 pm",
+    "wednesday": "11:45 am–10:30 pm",
+    "thursday": "11:45 am–10:30 pm",
+    "friday": "11:45 am–10:30 pm",
+    "saturday": "11:45 am–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveBrands/64b8d1846fb5aed64bab6d82?source=9&city=Bangalore&cityselector=fixed",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNDqaDAIlSoGgZjmAQgCWxV_VwNcH80iNCxtwAWfgYh7r4__8E8iVHNZjjqniwT2X5G8p6BT8kiszxsh4Na3mrRag6pnqZ9xwzfsvUejxTMWgWh4vNI4cilXkC90TLpoR19-0RX8A=w122-h92-k-no"
+  }
+ ]
+}

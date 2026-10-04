@@ -1,0 +1,434 @@
+{
+ "q": "best brunch places in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:39:28.575Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Bengaluru Brasserie",
+   "place_id": "ChIJbVUziYgXrjsRL7_G3APYR6U",
+   "data_id": "0x3bae17888933556d:0xa547d803dcc6bf2f",
+   "rating": 4.2,
+   "reviews": 712,
+   "type": "Coffee shop",
+   "address": "1/1, Hyatt Centric MG Road Bangalore, Swami Vivekananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.973071,
+    "longitude": 77.62045
+   }
+  },
+  {
+   "position": 2,
+   "title": "The Hole In The Wall Cafe",
+   "place_id": "ChIJy9Ry9GcUrjsRlAT3TuW94lE",
+   "data_id": "0x3bae1467f472d4cb:0x51e2bde54ef70494",
+   "rating": 4.3,
+   "reviews": 21000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "3, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93474,
+    "longitude": 77.62547
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Tue"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "154 Breakfast Club - JP Nagar",
+   "place_id": "ChIJMYCl3eAVrjsR_1UAPrCvs5Y",
+   "data_id": "0x3bae15e0dda58031:0x96b3afb03e0055ff",
+   "rating": 4.4,
+   "reviews": 4100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Breakfast",
+   "address": "688, 2nd Floor, 100 Feet Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906533,
+    "longitude": 77.5925
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Reservoire Koramangala",
+   "place_id": "ChIJH3YpIVsUrjsRJBzG1Im39jc",
+   "data_id": "0x3bae145b2129761f:0x37f6b789d4c61c24",
+   "rating": 4.3,
+   "reviews": 16000,
+   "type": "Restaurant",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933466,
+    "longitude": 77.62222
+   },
+   "extensions": [
+    "Brunch: 12:30 pm–4 pm Sun"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "The Brown Table",
+   "place_id": "ChIJZQ8x8k0XrjsR1Tr9gd5_XrE",
+   "data_id": "0x3bae174df2310f65:0xb15e7fde81fd3ad5",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Bistro",
+   "address": "238, Dr CV Raman Road, RMV extension",
+   "gps_coordinates": {
+    "latitude": 13.014541,
+    "longitude": 77.57432
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Dyu Art Cafe",
+   "place_id": "ChIJ80IECk8UrjsRqCffDjE09lw",
+   "data_id": "0x3bae144f0a0442f3:0x5cf634310edf27a8",
+   "rating": 4.4,
+   "reviews": 21000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "KHB MIG Colony, Dyu art cafe 23, 22, 1st Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.937307,
+    "longitude": 77.61765
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "JW Kitchen",
+   "place_id": "ChIJ_x_iR3cWrjsRwrvKa9lpKMA",
+   "data_id": "0x3bae167747e21fff:0xc02869d96bcabbc2",
+   "rating": 4.3,
+   "reviews": 3800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Fine Dining",
+   "address": "24/1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972067,
+    "longitude": 77.59487
+   },
+   "extensions": [
+    "Brunch: 12:30 pm–4 pm Sun"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "The Bangalore Cafe",
+   "place_id": "ChIJo0tJmV8VrjsR0vWuyvPK9DM",
+   "data_id": "0x3bae155f99494ba3:0x33f4caf3caaef5d2",
+   "rating": 4.3,
+   "reviews": 13000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Vegetarian",
+   "address": "4, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.961559,
+    "longitude": 77.594696
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Cubbon Pavilion - ITC Gardenia",
+   "place_id": "ChIJIcg0IYkXrjsRWhn8BiNHq0Q",
+   "data_id": "0x3bae17892134c821:0x44ab472306fc195a",
+   "rating": 4.6,
+   "reviews": 359,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "European",
+   "address": "1, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.966919,
+    "longitude": 77.595726
+   }
+  },
+  {
+   "position": 10,
+   "title": "Bramble Kitchen & Bar",
+   "place_id": "ChIJRdL0JVgVrjsRl7jCDzYHopw",
+   "data_id": "0x3bae155825f4d245:0x9ca207360fc2b897",
+   "rating": 4.5,
+   "reviews": 3300,
+   "type": "Continental restaurant",
+   "address": "Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.9170065,
+    "longitude": 77.57933
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Lazy Suzy",
+   "place_id": "ChIJ37SqAqoWrjsR0104e_dU3fY",
+   "data_id": "0x3bae16aa02aab4df:0xf6dd54f77b385dd3",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "European",
+   "address": "36, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.970875,
+    "longitude": 77.64759
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Shiro Bengaluru",
+   "place_id": "ChIJ897J43kWrjsRwLzr4oSg67c",
+   "data_id": "0x3bae1679e3c9def3:0xb7eba084e2ebbcc0",
+   "rating": 4.5,
+   "reviews": 6800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan Asian",
+   "address": "3rd Floor, 222, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.97185,
+    "longitude": 77.59662
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "46 Ounces Brewhouse,Old Madras Road",
+   "place_id": "ChIJy8oCrlQRrjsREkHE0tGWUSI",
+   "data_id": "0x3bae1154ae02cacb:0x225196d1d2c44112",
+   "rating": 4.5,
+   "reviews": 1400,
+   "type": "Restaurant",
+   "address": "No 3, RMZ Infinity, Old Madras Rd, opposite GOPALAN GRAND MALL",
+   "gps_coordinates": {
+    "latitude": 12.993989,
+    "longitude": 77.66141
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Spice Terrace",
+   "place_id": "ChIJc_4WSHcWrjsR7wdB6_Dms58",
+   "data_id": "0x3bae16774816fe73:0x9fb3e6f0eb4107ef",
+   "rating": 4.3,
+   "reviews": 2200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972144,
+    "longitude": 77.594925
+   },
+   "comment": "Posh hotel's poolside Indian restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 7 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Glass Kitchen & Bar",
+   "place_id": "ChIJ83uLPhAXrjsRPajPxoPfU6Q",
+   "data_id": "0x3bae17103e8b7bf3:0xa453df83c6cfa83d",
+   "rating": 4.5,
+   "reviews": 385,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Restaurant",
+   "address": "Ward No.94, 16/1, Seshadri Rd",
+   "gps_coordinates": {
+    "latitude": 12.98014,
+    "longitude": 77.57845
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm Tue"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Paper & Pie",
+   "place_id": "ChIJV54y6swXrjsRhHo7UCh61mo",
+   "data_id": "0x3bae17ccea329e57:0x6ad67a28503b7a84",
+   "rating": 4.2,
+   "reviews": 2100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Coffee shop",
+   "address": "Metro Pillar Number 55, 842/A, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.981031,
+    "longitude": 77.64097
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Sunny Side Bistro",
+   "place_id": "ChIJZczxZ-8WrjsRuyixHPh0n2Q",
+   "data_id": "0x3bae16ef67f1cc65:0x649f74f81cb128bb",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Continental restaurant",
+   "address": "98/5, Davis Rd",
+   "gps_coordinates": {
+    "latitude": 13.001882,
+    "longitude": 77.62352
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Casa Fresco, Indiranagar: All-Day Dining & Café",
+   "place_id": "ChIJLyuGuqAWrjsRUuzoP3abqxs",
+   "data_id": "0x3bae16a0ba862b2f:0x1bab9b763fe8ec52",
+   "rating": 4.2,
+   "reviews": 5300,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "609, 2nd Main Rd, off 100 Feet Road",
+   "gps_coordinates": {
+    "latitude": 12.98257,
+    "longitude": 77.64036
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Brunch Project",
+   "place_id": "ChIJidqkPy8VrjsRH4OdpGMmGME",
+   "data_id": "0x3bae152f3fa4da89:0xc1182663a49d831f",
+   "rating": 4,
+   "reviews": 209,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "439, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933452,
+    "longitude": 77.627
+   },
+   "extensions": [
+    "Brunch: 8:30 am–10 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "TrueBrew Cafe & Restaurant",
+   "place_id": "ChIJU603NOcXrjsRFveo4o4Ts-4",
+   "data_id": "0x3bae17e73437ad53:0xeeb3138ee2a8f716",
+   "rating": 4.6,
+   "reviews": 1100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "3163, Paramahansa Yogananda Road, Double Road, 12th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.969303,
+    "longitude": 77.63585
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  }
+ ]
+}

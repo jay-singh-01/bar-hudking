@@ -1,0 +1,467 @@
+{
+ "q": "best restaurants in Basavanagudi Bangalore",
+ "ll": "@12.9422,77.576,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:30:31.048Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Pramukh Family Restaurant - Prassidhi Enterprises",
+   "place_id": "ChIJP1r3wfIVrjsRSUS_Vp88_nU",
+   "data_id": "0x3bae15f2c1f75a3f:0x75fe3c9f56bf4449",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Family-friendly",
+   "address": "5, Mallaraiah Complex, 1st Floor, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944175,
+    "longitude": 77.57266
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Bengaluru Cafe Basvangudi",
+   "place_id": "ChIJu77DdgAVrjsRKvrUbAugbGg",
+   "data_id": "0x3bae150076c3bebb:0x686ca00b6cd4fa2a",
+   "rating": 4.2,
+   "reviews": 458,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "3/3-1, Dewan Madhava Rao Rd",
+   "gps_coordinates": {
+    "latitude": 12.939805,
+    "longitude": 77.57555
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Haldiram's",
+   "place_id": "ChIJcXHdJusVrjsRV3Zl4yugmbk",
+   "data_id": "0x3bae15eb26dd7171:0xb999a02be3657657",
+   "rating": 4.4,
+   "reviews": 3900,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Family-friendly",
+   "address": "Shop No.75, Ground Floor, Vanivilas Rd",
+   "gps_coordinates": {
+    "latitude": 12.948076,
+    "longitude": 77.56987
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "JK COASTAL CURRY",
+   "place_id": "ChIJZQ8Zu0UVrjsRI5Ic6vYGwQ4",
+   "data_id": "0x3bae1545bb190f65:0xec106f6ea1c9223",
+   "rating": 4.3,
+   "reviews": 923,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Family-friendly",
+   "address": "Natkalappa Circle, 169 24/1, Subbarama Chetty Rd",
+   "gps_coordinates": {
+    "latitude": 12.939267,
+    "longitude": 77.571945
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "V. V. Pura Food Street",
+   "place_id": "ChIJH-raknwVrjsRoJppMsw-y2U",
+   "data_id": "0x3bae157c92daea1f:0x65cb3ecc32699aa0",
+   "rating": 4.2,
+   "reviews": 24000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "Sajjan Rao Circle, Food St",
+   "gps_coordinates": {
+    "latitude": 12.950916,
+    "longitude": 77.57774
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "OTP - Oven Tawa Pan",
+   "place_id": "ChIJIbPaarIVrjsRdieHjHH74uo",
+   "data_id": "0x3bae15b26adab321:0xeae2fb718c872776",
+   "rating": 4.2,
+   "reviews": 428,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Vegetarian",
+   "address": "KP, 8/2, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.957145,
+    "longitude": 77.57078
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Adyar Ananda Bhavan - A2B",
+   "place_id": "ChIJ2RnT_FcVrjsRIDPQ0iCaDbU",
+   "data_id": "0x3bae1557fcd319d9:0xb50d9a20d2d03320",
+   "rating": 4.2,
+   "reviews": 4700,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "200, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944449,
+    "longitude": 77.573
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "CUBBONPETE TIFFIN ROOM",
+   "place_id": "ChIJgwuR-SkVrjsRP0dxlBTlql0",
+   "data_id": "0x3bae1529f9910b83:0x5daae5149471473f",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "9/46, W Anjaneya Temple St",
+   "gps_coordinates": {
+    "latitude": 12.945944,
+    "longitude": 77.5686
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "By2 Coffee",
+   "place_id": "ChIJxSls34wVrjsRYdepovnYJGA",
+   "data_id": "0x3bae158cdf6c29c5:0x6024d8f9a2a9d761",
+   "rating": 4.4,
+   "reviews": 5800,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Breakfast",
+   "address": "22/1, Police Station Rd",
+   "gps_coordinates": {
+    "latitude": 12.942237,
+    "longitude": 77.57058
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Brahmins' Coffee Bar",
+   "place_id": "ChIJ44pbo_AVrjsRZLlc5NF2IcA",
+   "data_id": "0x3bae15f0a35b8ae3:0xc02176d1e45cb964",
+   "rating": 4.5,
+   "reviews": 23000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Pushp Kiran, 19, Ranga Rao Rd, near Shankar Mutt Road",
+   "gps_coordinates": {
+    "latitude": 12.953973,
+    "longitude": 77.56885
+   },
+   "comment": "Bustling spot for coffee & breakfast",
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Khana Makhan",
+   "place_id": "ChIJPYcoYwAVrjsRvXhFfUrFxsk",
+   "data_id": "0x3bae15006328873d:0xc9c6c54a7d4578bd",
+   "rating": 4.4,
+   "reviews": 601,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Halal",
+   "address": "Metro Pillar No 69, 23/1, Rashtriya Vidyalaya Rd, near South End Circle",
+   "gps_coordinates": {
+    "latitude": 12.93915,
+    "longitude": 77.57995
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "South Thindis",
+   "place_id": "ChIJd6r1h5EVrjsRdGFB3SvIT-o",
+   "data_id": "0x3bae159187f5aa77:0xea4fc82bdd416174",
+   "rating": 4.1,
+   "reviews": 8500,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Kanakapura Road",
+   "gps_coordinates": {
+    "latitude": 12.93859,
+    "longitude": 77.57556
+   },
+   "comment": "Stand-&-eat South Indian meals",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "ELAICHI RESTAURANT, DVG ROAD",
+   "place_id": "ChIJY2-dJJgVrjsRlawWP9dlf3s",
+   "data_id": "0x3bae1598249d6f63:0x7b7f65d73f16ac95",
+   "rating": 4.4,
+   "reviews": 110,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Rajasthani Restaurant",
+   "address": "30/2, Surveyor street, DV Gundappa Rd, opposite Jain bakes",
+   "gps_coordinates": {
+    "latitude": 12.947469,
+    "longitude": 77.57167
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Upahara Darshini",
+   "place_id": "ChIJfYwpLIwVrjsRGNDHysIdZsY",
+   "data_id": "0x3bae158c2c298c7d:0xc6661dc2cac7d018",
+   "rating": 4.2,
+   "reviews": 5500,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.939313,
+    "longitude": 77.5714
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Brewing Untold Stories",
+   "place_id": "ChIJjTTlYwAVrjsRsEe-VzTh2qA",
+   "data_id": "0x3bae150063e5348d:0xa0dae13457be47b0",
+   "rating": 4.4,
+   "reviews": 416,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 74, S End Rd",
+   "gps_coordinates": {
+    "latitude": 12.937047,
+    "longitude": 77.57326
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Hotel Dwarka",
+   "place_id": "ChIJRR0bAIwVrjsROej9jRoJH0w",
+   "data_id": "0x3bae158c001b1d45:0x4c1f091a8dfde839",
+   "rating": 4.3,
+   "reviews": 10000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "7th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.937666,
+    "longitude": 77.56767
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "South Kitchen",
+   "place_id": "ChIJiVk8HIwVrjsRUJfFyyPqfWY",
+   "data_id": "0x3bae158c1c3c5989:0x667dea23cbc59750",
+   "rating": 4.4,
+   "reviews": 7000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Near Katte Balaga 1st Main Road, Subbarama Chetty Rd",
+   "gps_coordinates": {
+    "latitude": 12.937999,
+    "longitude": 77.56873
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Shivalli Restaurant",
+   "place_id": "ChIJMdD8k1AVrjsRNWx53vj-6Aw",
+   "data_id": "0x3bae155093fcd031:0xce8fef8de796c35",
+   "rating": 4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "462, near, Ashoka Pillar Rd",
+   "gps_coordinates": {
+    "latitude": 12.943546,
+    "longitude": 77.58401
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Gufha Restaurant, Jayanagar",
+   "place_id": "ChIJtWPujJcVrjsRQCh66TorJPU",
+   "data_id": "0x3bae15978cee63b5:0xf5242b3ae97a2840",
+   "rating": 4.1,
+   "reviews": 9200,
+   "type": "Indian",
+   "address": "79/8, Diagonal Rd",
+   "gps_coordinates": {
+    "latitude": 12.933236,
+    "longitude": 77.5833
+   },
+   "comment": "Grotto-themed hotel restaurant & bar",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "NH10 Restaurant",
+   "place_id": "ChIJxz4mnqQVrjsRaNe6UcK1gpk",
+   "data_id": "0x3bae15a49e263ec7:0x9982b5c251bad768",
+   "rating": 4.6,
+   "reviews": 618,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "85, 22nd Main Rd, opp. to Kim's pharmacy college",
+   "gps_coordinates": {
+    "latitude": 12.926949,
+    "longitude": 77.56458
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  }
+ ]
+}

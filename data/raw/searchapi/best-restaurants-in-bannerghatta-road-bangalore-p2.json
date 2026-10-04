@@ -1,0 +1,1107 @@
+{
+ "q": "best restaurants in Bannerghatta Road Bangalore",
+ "ll": "@12.8894,77.5972,14z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:43:50.026Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJG-3XZ_JqrjsR7-demu-g1K0",
+   "data_id": "0x3bae6af267d7ed1b:0xadd4a0ef9a5ee7ef",
+   "title": "The Park Inn",
+   "address": "Kolifarm gate, Bus Stop, Bannerghatta Rd, Pillaganahalli, Bengaluru, Karnataka 560083",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099028 73733",
+   "rating": 4.1,
+   "reviews": 1079,
+   "gps_coordinates": {
+    "latitude": 12.8420055,
+    "longitude": 77.58817859999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Banquet hall",
+    "Lodge"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-park-inn-bannerghatta-road-south-bengaluru-708566",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlhN2YPyyg-nqF_Rht1iBzEJeB6QZh-IPhXV_z1fbfaZ6_WQ8-Ce_V6RwiMKHTSJXXJKmePoaGZYzm-U5DtEpsdGjoBnLt4HrmmR_1JsRYnAFrPpOgOnM0lq1G5OZfXiq77RuKVAw=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ9X7_QQAVrjsR6Cj12wZYy1c",
+   "data_id": "0x3bae150041ff7ef5:0x57cb5806dbf528e8",
+   "title": "Syons Cafe",
+   "address": "VHGW+X5V Campus, Christ University, Bannerghatta Rd, Pai Layout, Hulimavu, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098454 06666",
+   "rating": 4.5,
+   "reviews": 212,
+   "gps_coordinates": {
+    "latitude": 12.8775465,
+    "longitude": 77.5955372
+   },
+   "type": "Fine dining restaurant",
+   "types": [
+    "Fine dining restaurant",
+    "Grill",
+    "Bakery and Cake Shop",
+    "Pizza restaurant",
+    "Steak house"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/syons-cafe-bannerghatta-road-south-bengaluru-695997",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnkTBGg0ygWmNrMUhXayx3O6-DCYOWucwl8gLhMeDQn75Mo9XYOZLwJ2UTTUtpeyYO672ZWYOAXe_2wWJ6ivEojrmB1LR6p4LTlER_XGOQONzJphy_nBxmdjLPhs0sZRsGACx8=w122-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJE0YrafgVrjsR-8hX0ObeNZU",
+   "data_id": "0x3bae15f8692b4613:0x9535dee6d057c8fb",
+   "title": "URU - JP Nagar",
+   "description": "Craft beer & global eats in stylish digs. Chic, contemporary hangout with outdoor tables offering eclectic global fare & craft beers.",
+   "address": "Maratt Estate, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063663 85623",
+   "rating": 4.3,
+   "reviews": 25009,
+   "gps_coordinates": {
+    "latitude": 12.9057826,
+    "longitude": 77.6011616
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Bar",
+    "Brewery",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 10:30 am",
+   "open_hours": {
+    "sunday": "9 am–1 am",
+    "monday": "10:30 am–1 am",
+    "tuesday": "10:30 am–1 am",
+    "wednesday": "10:30 am–1 am",
+    "thursday": "10:30 am–1 am",
+    "friday": "10:30 am–1 am",
+    "saturday": "9 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/uru-1-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hWlv92jnmgo5t5ncTGgkq8KPA7VqmfprrHunQD5qYyrjOLcFqIz2AumvJlZw0rnzmNqgtt-Nioj2GR6zXeF--bTDywtgZOepDYKLRIp1Oi_YRy5t4%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknvqgSbohImaSbmH0dgk_nAzluNwvumbV0OHYe-yRlvlc12LuSPTaWSUHtvtiKTzw43dQ8Zej-ULz9gTERI4ZUus1p7MC6sG9XkX8AywiEZej6KtewUHQ-1eUsgPLUhA5g3KOj=w138-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJJTks4iQVrjsRLWiKfTtq7D8",
+   "data_id": "0x3bae1524e22c3925:0x3fec6a3b7d8a682d",
+   "title": "Guru Garden",
+   "description": "Casual spot for Indian & Chinese fare. North Indian & Chinese cuisine served along with a full bar in a casual space with outdoor seating.",
+   "address": "No. 555 No 3, SS Plaza, Arekere Gate, Bannerghatta Rd, Omkar Nagar, Hulimavu, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2658 3972",
+   "rating": 4,
+   "reviews": 2192,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.8911653,
+    "longitude": 77.5981752
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant",
+    "Bar",
+    "Family restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm",
+    "sunday": "11:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/guru-garden-bannerghatta-road-330425",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlE21zoRPvfegfwfhNls_aAyDgtzBv6k5PZ_1kWml4_6lo-QFUVTA8rDw0oaJLSV38-Pg8zQ7j3bhu8PoeuGnhetjN7_meSKg7r5AN-oXR8zTNiHxo6eIVIP0PqEwOAPX_3arMz=w163-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJz2RpErdrrjsRDotHKBjOEBI",
+   "data_id": "0x3bae6bb7126964cf:0x1210ce1828478b0e",
+   "title": "Blue Waters-Lounge Bar and Fine Dining",
+   "description": "Informal spot for Indian & Chinese bites. Airy dining room serving casual rice & noodle dishes, plus Asian meat & seafood favourites.",
+   "address": "3, Bannerghatta Rd, next to Star market, Kothnur, Gottigere, Bengaluru, Karnataka 560083",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095911 75557",
+   "rating": 4,
+   "reviews": 1419,
+   "gps_coordinates": {
+    "latitude": 12.8611708,
+    "longitude": 77.5897526
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Bar",
+    "Lounge bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–12 am",
+    "tuesday": "10 am–12 am",
+    "wednesday": "10 am–12 am",
+    "thursday": "10 am–12 am",
+    "friday": "10 am–12 am",
+    "saturday": "10 am–12 am",
+    "sunday": "10 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/blue-waters-bannerghatta-road-south-bengaluru-684090",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmA10X_M7prO8FU2MjrbrWfzq8nwQbapw96qwwFApen3xZY7WXunfnrBrxFYJpICy0-OvyFlri4vIp5Rahu0vUmsf8AD1Blbt_boQ7EcsTIhhZ75ZFWRbODLzpOHsVCHt-X2LvCjg=w163-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "title": "STORIES BREWERY & KITCHEN",
+   "description": "Beer & quick bites in a hip, stylish bar. Trendy destination with a glassed-in patio & garden seating, offering cocktails & shared-plates.",
+   "address": "29th Main Rd, BTM 2nd Stage, Mahadeshwara Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4680 9326",
+   "rating": 4.4,
+   "reviews": 8967,
+   "website": "http://www.storiesbrewery.com/",
+   "domain": "storiesbrewery.com",
+   "gps_coordinates": {
+    "latitude": 12.9056972,
+    "longitude": 77.6085236
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "Closed",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/stories-brewery-kitchen-btm-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jxoJku9mYdnrO2yLjulgcDfWsk7APnQj-z-HXNJ5fMRyaPKtQr4qWg-61ruz_AEyD1EErE-sxnHOq0xWfA5Rgs6YnpmA-qFWpp9_q_PvhPw8cnG3w%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkilpPCy_r4IqY68afbpkBExG8opc0mw0-8CnA38frmzic8fb50tKi7fzXAYMgfiXbF2TjR8NTs26811JSwWze6GmN77KdBydAjNM6jvVxaMiaVlAsz5CwMa6byxfrFPE2i5sfyQQ=w138-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJiau9BSRrrjsRdrOEXEt-B4w",
+   "data_id": "0x3bae6b2405bdab89:0x8c077e4b5c84b376",
+   "title": "Soofi Mandi Bangalore",
+   "address": "Bannerghatta Rd, Kothnur, Gottigere, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095625 77775",
+   "rating": 4.4,
+   "reviews": 4661,
+   "website": "https://soofimandi.com/",
+   "domain": "soofimandi.com",
+   "gps_coordinates": {
+    "latitude": 12.8630994,
+    "longitude": 77.59101249999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Middle Eastern restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12:30 pm",
+   "open_hours": {
+    "sunday": "12:30 pm–12:30 am",
+    "monday": "12:30 pm–12:30 am",
+    "tuesday": "12:30 pm–12:30 am",
+    "wednesday": "12:30 pm–12:30 am",
+    "thursday": "12:30 pm–12:30 am",
+    "friday": "12:30 pm–12:30 am",
+    "saturday": "12:30 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/city/bangalore/soofiyana-mandi-restaurant-popular-coolony-bommanhalli-rest984101",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkwZQPxoKeA7U4tt3Jd_If_SzZoI_u0fo8bytx25JG8W2JLh2bDadjsGRW23OWfWlYIaZ8KH2Tgqzqrw83QlLamKfspcHec-gcnet8Aw_Jnr3iRJWyAN9VqwWXRPgktjE2uXAWqcX5x704=w80-h106-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJpRjpBkcVrjsRS2yPUuzVmb8",
+   "data_id": "0x3bae154706e918a5:0xbf99d5ec528f6c4b",
+   "title": "The Soya Chaap Co.",
+   "address": "1, Raghavendra Layout, Arakere, Kothanur Main Road, Bannerghatta Rd, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082965 09493",
+   "rating": 4.3,
+   "reviews": 539,
+   "website": "https://thesoyachaapco.in/onlineorder",
+   "domain": "thesoyachaapco.in",
+   "gps_coordinates": {
+    "latitude": 12.8846089,
+    "longitude": 77.5912372
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Catering food and drink supplier",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-soya-chaap-co-bannerghatta-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gntRAlb90KoJYUMZowgWdJ7vaTKQ81HxqzpvfsLO8qM93zqOBqYvroxDZmE0ctpFGwLHSHYvaEsN0pTWdxA_pVa0tbpNW06kfrWN4GzhF2nQwr28E%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfjCnSZMhCNYPRuXm3DlFDZm-90B2xjA27tSUdqS3bXnlDcPLokoWdJh3oBVD8yKrjWvlCp70Qs5mnWySZD_l4dEIiIU5UhCgDJxwmgu10UWj6JNVge2WFsCKPnSJ5vM9E3_7ktw=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJWZJ3f1cVrjsRBrnjmBVzE-A",
+   "data_id": "0x3bae15577f779259:0xe013731598e3b906",
+   "title": "81 Casual Dine",
+   "address": "81, Ground Floor, Sir M Vishweahwaraiah Road BTM, 6th stage, 2nd Phase, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "087924 88366",
+   "rating": 4.4,
+   "reviews": 583,
+   "website": "https://81casualdine.com/",
+   "domain": "81casualdine.com",
+   "gps_coordinates": {
+    "latitude": 12.880764,
+    "longitude": 77.6102344
+   },
+   "type": "Eclectic restaurant",
+   "types": [
+    "Eclectic restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm",
+    "sunday": "11 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/81-casual-dine-bannerghatta-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j4XrjM-cz2MvZYkkUk1NNgRBjD-QakoTxPFpAvSBytwoMHH-6q5rBf_Nk-jLJyMZtm2uC_OZa5LCyqfmCF463rR2ZckMy3lyQI-TBQGHrbCHl79H0%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBk1CgBKJfyMtFClrsfVs0rkJuH3IzMI5LseYBJZC0SmzcfmbyPIMX1QHuc43Yc0n56_3uvVoskw4iC1YxGpbiNJo5-dGKB1fRG8Rw2w8GBBU2Rk0pYQPdhfs7yNdsDmSe1zcC0Q=w138-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJs4liRjZrrjsRhWErtyq5SlM",
+   "data_id": "0x3bae6b36466289b3:0x534ab92ab72b6185",
+   "title": "Dugguz Delight Multicuisine Restaurant",
+   "address": "No 37, Narayana Reddy layout, 8, Gottigere - Kengeri Rd, Kothnur, 8th Phase, J. P. Nagar, Bengaluru, Karnataka 560083",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090036 32110",
+   "rating": 4.7,
+   "reviews": 1440,
+   "website": "http://www.dugguzdelight.com/",
+   "domain": "dugguzdelight.com",
+   "gps_coordinates": {
+    "latitude": 12.870195,
+    "longitude": 77.5745322
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant",
+    "Chinese restaurant",
+    "Continental restaurant",
+    "Italian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm",
+    "sunday": "11 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9zcAEYTVWIGTUz-nhGAV9QfQOQ3ClcFlR_enp_mB4R3deDsOdcV5JO6M74S40uCgLX228BUAhQwhcdA4IvyCGpp064CeWNzvet6ACkFhl5aqTOQmcz-ncoxHHhldiwBo6edc3qSw8oocO=w137-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJkyElDsNrrjsRJ51mUs88HoQ",
+   "data_id": "0x3bae6bc30e252193:0x841e3ccf52669d27",
+   "title": "Street Foods By Punjab Grill Bannerghatta Road",
+   "address": "Shop No. 10, Third Floor, Food Court, Royal Meenakshi Mall, Bannerghatta Rd, Hulimavu, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088820 25423",
+   "rating": 4.4,
+   "reviews": 852,
+   "website": "https://stores.lbf.co.in/store-pages/street-foods-by-punjab-grill-meenakshi-mall-bannerghatta-bengaluru/",
+   "domain": "stores.lbf.co.in",
+   "gps_coordinates": {
+    "latitude": 12.8759917,
+    "longitude": 77.5957899
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Indian restaurant",
+    "Kebab shop",
+    "Punjabi restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/street-foods-by-punjab-grill-bannerghatta-road-arekere-bangalore-58913/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlWgCN97Palp2jAtfbtkylxWRQv518jlVYyqRNi4kzXN75q9NWO1bMVlNOc5jTtzfz9xZxliTWcZJEcJ6o7oEZ25DDyUFyxAKxlk-PRd7HM6U9hq51Z84Vl94ptW0dptMCQPYLz5Q=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJWbJsJXIVrjsRpJSeBV40dfg",
+   "data_id": "0x3bae1572256cb259:0xf875345e059e94a4",
+   "title": "Skyroot by TOF",
+   "address": "BDA 80 Feet Rd, Shantiniketan Layout, Arekere, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072042 00440",
+   "rating": 4.1,
+   "reviews": 1274,
+   "gps_coordinates": {
+    "latitude": 12.8842458,
+    "longitude": 77.6046157
+   },
+   "type": "Eclectic restaurant",
+   "types": [
+    "Eclectic restaurant",
+    "Bar & grill",
+    "Cocktail bar",
+    "Dance club",
+    "Italian restaurant",
+    "Live music bar",
+    "Pizza restaurant",
+    "Pub",
+    "Seafood restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/skyroot-by-tof-arekere-bengaluru-700988",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmarCJsjIu4vzhIhLm27DpyNiYx71ff4Nhpgm9rtIfATzlPtQsZNLQnlYkazphofsCuJzDyCIQQSPasKnY91XYGBXXWfjF7gLQntcaSsoSA5oMXxyQcabmYJ6B4FzfWP8rNet4=w138-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJL5rjzB4VrjsR27lMVnxWgbc",
+   "data_id": "0x3bae151ecce39a2f:0xb781567c564cb9db",
+   "title": "Kalpavruksha Veg Restaurant",
+   "address": "173, Bannerghatta Rd, Stage 2, Munivenkatppa Layout, BTM Layout 2nd Stage, Bilekahalli, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095359 97416",
+   "rating": 4.1,
+   "reviews": 5455,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9036706,
+    "longitude": 77.6021016
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Juice shop",
+    "North Indian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–10:30 pm",
+    "tuesday": "7 am–10:30 pm",
+    "wednesday": "7 am–10:30 pm",
+    "thursday": "7 am–10:30 pm",
+    "friday": "7 am–10:30 pm",
+    "saturday": "7 am–10:30 pm",
+    "sunday": "7 am–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/kalpavruksha-bannerghatta-road-btm-bangalore-33591/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-ZtHMQxyzxR-29df300oIgrr17vhJl7Nx5FqMfPk9YBtrw_6zjMv-TBGsgG1cEzFR0JkRodA2XGcYlhXg43rKv_74rwPHl4BCOViRhyRx_njNFq5m84m2df-pm0gV54H0qAc=w163-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJJTzBK9kUrjsRPYXJtrybr7c",
+   "data_id": "0x3bae14d92bc13c25:0xb7af9bbcb6c9853d",
+   "title": "Ambara Gardenia",
+   "address": "Gangaparameshwari Nagar, Kodichikknahalli, Vijaya Bank Layout, Bilekahalli, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081052 66066",
+   "rating": 4,
+   "reviews": 3159,
+   "website": "https://www.google.com/search?q=abhinandana+banquet+hall&sca_esv=b597786ab811f977&rlz=1C1YTUH_enIN1036IN1036&sxsrf=AHTn8zoqtkbTatVYDJuExPkVEm2F1zk2XQ%3A1741237655121&ei=ly3JZ7CDB5WRseMP8enSqQk&gs_ssp=eJwFwUsKgCAQAFDaBu1bumntFzWP0C1mnCkDEYMCj9978yIvqXXBGmLvr5rSpoZFYO1oN944zOZMajDl4IjYemU4Ah8rYLkbNIIGAqE9H7-iQK0_xj4ZZA&oq=abhinan&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2FiaGluYW4qAggBMggQLhiABBixAzILEC4YgAQYxwEYrwEyBRAuGIAEMggQABiABBixAzIFEC4YgAQyDhAuGIAEGLEDGNEDGMcBMgUQABiABDIKEAAYgAQYQxiKBTIFEC4YgAQyBRAAGIAEMhcQLhiABBixAxiXBRjcBBjeBBjfBNgBAkiIW1D4BlitQnACeACQAQSYAcUBoAHFFaoBBDAuMTi4AQHIAQD4AQGYAg6gApATqAIUwgINECMYgAQYsAMYJxiKBcICBxAjGLADGCfCAg0QABiABBiwAxhDGIoFwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICHBAuGIAEGLADGEMYxwEYyAMYigUYjgUYrwHYAQHCAhQQLhiABBiwAxjHARjIAxivAdgBAcICExAuGIAEGMcBGCcYigUYjgUYrwHCAgoQIxiABBgnGIoFwgIEECMYJ8ICChAAGIAEGBQYhwLCAgYQABgWGB7CAgIQJsICIBAuGIAEGMcBGIoFGI4FGK8BGJcFGNwEGN4EGOAE2AECwgINEC4YgAQYxwEYChivAcICBxAAGIAEGArCAgcQLhiABBgKwgIQEC4YxwEYJxjqAhiOBRivAcICBxAjGCcY6gLCAgoQIxjwBRgnGOoCwgIQEAAYAxi0AhjqAhiPAdgBAsICEBAuGAMYtAIY6gIYjwHYAQLCAhAQLhiABBhDGMcBGIoFGK8BwgITEC4YgAQYQxjHARiKBRiOBRivAcICChAuGIAEGEMYigXCAgsQABiABBiRAhiKBcICERAuGIAEGJECGMcBGIoFGK8BwgIOEC4YgAQYsQMYgwEYigXCAhQQLhiABBiRAhjHARiKBRiOBRivAcICCxAuGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAiMQLhiABBiRAhjHARiKBRiOBRivARiXBRjcBBjeBBjgBNgBAsICDRAuGIAEGJECGIoFGArCAhwQLhiABBiRAhiKBRgKGJcFGNwEGN4EGN8E2AECwgIOEC4YgAQYxwEYjgUYrwHCAg4QLhiABBiRAhixAxiKBcICCxAuGIAEGLEDGIMBwgIdEC4YgAQYxwEYjgUYrwEYlwUY3AQY3gQY4ATYAQKYAyfxBQSLN8eoRdomiAYBkAYKugYECAEYCLoGBggCEAEYFJIHBTIuOC40oAeL7gM&sclient=gws-wiz-serp",
+   "domain": "google.com",
+   "gps_coordinates": {
+    "latitude": 12.8939375,
+    "longitude": 77.61093749999999
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant",
+    "Costa Rican restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–4 pm, 6:30–11 pm",
+    "tuesday": "11 am–4 pm, 6:30–11 pm",
+    "wednesday": "11 am–4 pm, 6:30–11 pm",
+    "thursday": "11 am–4 pm, 6:30–11 pm",
+    "friday": "11 am–4 pm, 6:30–11 pm",
+    "saturday": "11 am–4 pm, 6:30–11 pm",
+    "sunday": "11 am–4 pm, 6:30–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxAADMLLemBcde3HSgN95qFG6k3kc9yWbaIrbaE2zFu3Sb2GTn6HQykd_5ZUTKIdrQrPydBAvBs7lCzo6CdFiGI-wMbP5SPTkPaeSpYfiwGn-ATnfXopk-sop2DuW0CSPczeDYzg=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJwVGfLu8VrjsRhYQW_XTdGEU",
+   "data_id": "0x3bae15ef2e9f51c1:0x4518dd74fd168485",
+   "title": "Loka Restaurant by Green Park Hotels",
+   "address": "WJ52+87H, Bannerghatta Rd, Dollar Layout, BTM Layout 2nd Stage, J. P. Nagar, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089045 78093",
+   "rating": 4.5,
+   "reviews": 176,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9083189,
+    "longitude": 77.60072579999999
+   },
+   "type": "Buffet restaurant",
+   "types": [
+    "Buffet restaurant"
+   ],
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRlrfMlEHUdzLxwLRKxhxgogBRcmyk9uk5ytJjkw4IeaUVVVS75J2R5hMYKtnCNg3VnpyJ-nfAIxh7hTLpIS99NwQ3eZiGE0rxcsrYyugQ4plgiNHnE7OHj7etWY3fpyauO_hsCw=w80-h106-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJTectOgAVrjsRgb_3n26j3_U",
+   "data_id": "0x3bae15003a2de74d:0xf5dfa36e9ff7bf81",
+   "title": "BudBee Restobar Bg Road",
+   "address": "175/176, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.3,
+   "reviews": 335,
+   "website": "https://www.budbeerestobar.com/",
+   "domain": "budbeerestobar.com",
+   "gps_coordinates": {
+    "latitude": 12.9038706,
+    "longitude": 77.6012915
+   },
+   "type": "Dance restaurant",
+   "types": [
+    "Dance restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/budbee-restobar-dollar-layout-koramangala-bangalore-1281386/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm34_YyR7mrhcBrtJR_1wqhGT2ODqcdB3vQhwTN155GBaubzh5hs9SjVk4uc9JkHM-xLru1Yz04WTJpM7kxOaHTEYP_gV7uLaRuEfMHObS1ulLvJJzXDml0bjqXUyWgxmmFN-b5EzoYGYy0=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJAWNPNz8VrjsRmm4btDLh1Sw",
+   "data_id": "0x3bae153f374f6301:0x2cd5e132b41b6e9a",
+   "title": "Hakuna Matata",
+   "description": "African-themed multi-cuisine rooftop bar. Indian & Chinese fare offered with a full bar in a rooftop space with African-themed decor.",
+   "address": "1231/35/2, Brigade Millenium Rd, opposite Brigade Palmsprings, Paradise Colony, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4709 4530",
+   "rating": 4.3,
+   "reviews": 18451,
+   "website": "https://www.facebook.com/Hakuna-Matata-441289349357889",
+   "domain": "facebook.com",
+   "gps_coordinates": {
+    "latitude": 12.8939411,
+    "longitude": 77.5865772
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Chinese restaurant",
+    "Cocktail bar",
+    "Continental restaurant",
+    "Seafood restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/hakuna-matata-jp-nagar-indiranagar-bangalore-902386/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUjCEs3vq9cdjBPJ0A5yRLplzPyqDBbS0DrEoyHqEklUa8kyrk7mgbCz3xlKkK7ka00m63Sh_U2S8Ov6X1uZGRQMnzNwBSAsjejcTcZmdvcNpdbBjwnjslUlHcVpBQg0TXPY7Qgw=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJJ-5jt-cVrjsR1a8z_EBHybc",
+   "data_id": "0x3bae15e7b763ee27:0xb7c94740fc33afd5",
+   "title": "Jewel Sizzle - Luxury Dining | Cocktail Lounge",
+   "address": "1st Floor, No. 17, 24th Main Rd, opposite to HDFC Bank, 5th Phase, Annaiah Reddy Layout, sarakkikere village, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090366 55045",
+   "rating": 4.6,
+   "reviews": 3306,
+   "website": "https://www.jewelsizzle.in/",
+   "domain": "jewelsizzle.in",
+   "gps_coordinates": {
+    "latitude": 12.9009759,
+    "longitude": 77.5857777
+   },
+   "type": "Modern Indian restaurant",
+   "types": [
+    "Modern Indian restaurant",
+    "Cocktail bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12–11:30 pm",
+    "thursday": "12–11:30 pm",
+    "friday": "12–11:30 pm",
+    "saturday": "12–11:30 pm",
+    "sunday": "12–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/jewel-sizzle-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gtPGpRvTS8WESDAO9Oh0XnpES4IzaXhkwe3006Yi3SD_VN3Xot5_oWzyO5bMjjCnzQGV2tSwo5Ws_HIqdf34idX1oVnNr8iKL1PZK9KY5s2qd3kJU%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL73gSWwg594Ybk1Ei5es8NAqtadGROS8Deb2v22XI7D0q14RELW7W4UcST-M9pTlbyQlWmTUkfBwZi2PLk0vG-bukofAYS5HV4LSc3Wx4LBj20tzwLYWqcm0VsB-Cpkt4vqea=w138-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJdYNYWs1qrjsRNVaozqTgWow",
+   "data_id": "0x3bae6acd5a588375:0x8c5ae0a4cea85635",
+   "title": "Khandani Rajdhani, Royal Meenakshi Mall, Bannerghatta",
+   "address": "3rd Floor, Royal Meenakshi Mall, Bannerghatta Rd, Hulimavu, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098860 33325",
+   "rating": 4.2,
+   "reviews": 3306,
+   "website": "http://rajdhani.co.in/",
+   "domain": "rajdhani.co.in",
+   "gps_coordinates": {
+    "latitude": 12.8759495,
+    "longitude": 77.5952454
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Family restaurant",
+    "Gujarati restaurant",
+    "North Indian restaurant",
+    "Rajasthani Restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–4 pm, 7–11 pm",
+    "tuesday": "12–4 pm, 7–11 pm",
+    "wednesday": "12–4 pm, 7–11 pm",
+    "thursday": "12–4 pm, 7–11 pm",
+    "friday": "12–4 pm, 7–11 pm",
+    "saturday": "12–4 pm, 7–11 pm",
+    "sunday": "12–4 pm, 7–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/rajdhani-thali-restaurant-royal-meenakshi-mall-bannerghatta-road-335197",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKkPackkHPExU0pcolUP1Z1-O7H5WjpiKvagUAqppSg4m7_a4ZG-TTEAwbtLMT9Ibk-pYDlUIkUgICdf_MOdexDWWBge0XO_Ky45RyuCUcSxpuYxA3K828Y06GXNcrak5jISlH=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJjVuXSxoVrjsRS3HXyKoKbAg",
+   "data_id": "0x3bae151a4b975b8d:0x86c0aaac8d7714b",
+   "title": "Neemsi Restaurant | JP Nagar",
+   "address": "Ground Floor, Sai Panorama, 15th Cross Rd, KR Layout, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096860 60429",
+   "rating": 4.8,
+   "reviews": 16465,
+   "website": "https://www.neemsirestaurant.com/",
+   "domain": "neemsirestaurant.com",
+   "gps_coordinates": {
+    "latitude": 12.9062087,
+    "longitude": 77.5825606
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3:45 pm, 6:45–10:45 pm",
+    "tuesday": "12–3:45 pm, 6:45–10:45 pm",
+    "wednesday": "12–3:45 pm, 6:45–10:45 pm",
+    "thursday": "12–3:45 pm, 6:45–10:45 pm",
+    "friday": "12–4 pm, 6:45–11 pm",
+    "saturday": "12–5 pm, 6:30–11 pm",
+    "sunday": "12–5 pm, 6:30–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/neemsi-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkwoF9vanWXirH0wCumJLyYxTLU1Sg1RNnvXRKgWo6ZKrTnByRXCyXPnaSNNYx6zTFQFxnIbkZmziUIqZw0TgShymNo8q6dD08QlhndVud_hwGsgffHvDw89gLA0NY9njBp4g-1Fob-_CWO=w122-h92-k-no"
+  }
+ ]
+}

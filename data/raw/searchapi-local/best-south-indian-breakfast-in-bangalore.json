@@ -1,0 +1,465 @@
+{
+ "q": "best south indian breakfast in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:33:00.613Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Vidyarthi Bhavan",
+   "place_id": "ChIJNdCK6PIVrjsR3I4feeftf-0",
+   "data_id": "0x3bae15f2e88ad035:0xed7fede7791f8edc",
+   "rating": 4.2,
+   "reviews": 59000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "32, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.945046,
+    "longitude": 77.57138
+   },
+   "comment": "Low-key vegetarian south Indian eatery",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Central Tiffin Room",
+   "place_id": "ChIJ82NqvCUWrjsRC33A4yTYQWk",
+   "data_id": "0x3bae1625bc6a63f3:0x6941d824e3c07d0b",
+   "rating": 4.3,
+   "reviews": 38000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "7th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.998233,
+    "longitude": 77.56954
+   },
+   "comment": "Landmark breakfast place known for dosas",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "The Srirangam Cafe",
+   "place_id": "ChIJtS18E3wXrjsRp6ams4onXL4",
+   "data_id": "0x3bae177c137c2db5:0xbe5c278ab3a6a6a7",
+   "rating": 4.4,
+   "reviews": 3100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "332, Paramahansa Yogananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.978633,
+    "longitude": 77.636925
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "IDC Kitchen",
+   "place_id": "ChIJmXnJZdYXrjsRocsapvZXZjo",
+   "data_id": "0x3bae17d665c97999:0x3a6657f6a61acba1",
+   "rating": 4.3,
+   "reviews": 3200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "17, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.968685,
+    "longitude": 77.60127
+   },
+   "comment": "Simple eatery serving dosa & rice plates",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Maayaa - Coastal Treasures of South India",
+   "place_id": "ChIJHbDsKtQXrjsRGu-RAKJGjbs",
+   "data_id": "0x3bae17d42aecb01d:0xbb8d46a20091ef1a",
+   "rating": 4.6,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "South Indian",
+   "address": "The Courtyard By Sublime, Prestige Trade Tower, Palace Rd",
+   "gps_coordinates": {
+    "latitude": 12.985822,
+    "longitude": 77.5881
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Café Amudham Restaurant Koramangala",
+   "place_id": "ChIJUb7JajoVrjsRL4OPpCZUzR8",
+   "data_id": "0x3bae153a6ac9be51:0x1fcd5426a48f832f",
+   "rating": 4.2,
+   "reviews": 3100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "146, Ground Floor, Shop No 2, next to William Penn Showroom",
+   "gps_coordinates": {
+    "latitude": 12.9337845,
+    "longitude": 77.61972
+   }
+  },
+  {
+   "position": 7,
+   "title": "Taaza Thindi",
+   "place_id": "ChIJGzjadqcVrjsRChTAxBu2SFk",
+   "data_id": "0x3bae15a776da381b:0x5948b61bc4c0140a",
+   "rating": 4.6,
+   "reviews": 38000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "1004, 26th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.922841,
+    "longitude": 77.593285
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Café Amudham Restaurant Basavanagudi",
+   "place_id": "ChIJ3xLGpUEVrjsRw4-DP0uV2rs",
+   "data_id": "0x3bae1541a5c612df:0xbbda954b3f838fc3",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, No. 31, Rashtriya Vidyalaya Rd, opp. Vijaya College",
+   "gps_coordinates": {
+    "latitude": 12.940201,
+    "longitude": 77.57992
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Brahmins' Coffee Bar",
+   "place_id": "ChIJ44pbo_AVrjsRZLlc5NF2IcA",
+   "data_id": "0x3bae15f0a35b8ae3:0xc02176d1e45cb964",
+   "rating": 4.5,
+   "reviews": 23000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Pushp Kiran, 19, Ranga Rao Rd, near Shankar Mutt Road",
+   "gps_coordinates": {
+    "latitude": 12.953973,
+    "longitude": 77.56885
+   },
+   "comment": "Bustling spot for coffee & breakfast",
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Café Amudham Restaurant Gandhinagar",
+   "place_id": "ChIJbyRSHHIXrjsRIcj8mePJHXs",
+   "data_id": "0x3bae17721c52246f:0x7b1dc9e399fcc821",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "No.46, Ground floor, Akshaya Chambers, 4th cross, near, WH Hanumanthappa Rd, beside Hotel Moti Mahal",
+   "gps_coordinates": {
+    "latitude": 12.977963,
+    "longitude": 77.57733
+   },
+   "extensions": [
+    "Opens soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Priyadarshini Restaurant",
+   "place_id": "ChIJvU6q1w8WrjsRpJxJ8znYojY",
+   "data_id": "0x3bae160fd7aa4ebd:0x36a2d839f3499ca4",
+   "rating": 4.3,
+   "reviews": 8100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "262, Subedar Chatram Rd",
+   "gps_coordinates": {
+    "latitude": 12.977544,
+    "longitude": 77.5759
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Maha Lakshmi Tiffin Room",
+   "place_id": "ChIJbzNR2vIVrjsRLP9V_dvPfNQ",
+   "data_id": "0x3bae15f2da51336f:0xd47ccfdbfd55ff2c",
+   "rating": 4.2,
+   "reviews": 6100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.947018,
+    "longitude": 77.5715
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Hallimane Restaurant",
+   "place_id": "ChIJS4tnGCQWrjsRxjyX4YmdJyI",
+   "data_id": "0x3bae162418678b4b:0x22279d89e1973cc6",
+   "rating": 4,
+   "reviews": 26000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Sampige Road, 3rd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.995496,
+    "longitude": 77.571785
+   },
+   "comment": "Breezy bistro for South Indian fare",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Bangalore Thindies",
+   "place_id": "ChIJ8YjR-I4XrjsRCaSr6Y-3510",
+   "data_id": "0x3bae178ef8d188f1:0x5de7b78fe9aba409",
+   "rating": 4.1,
+   "reviews": 793,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Bowring Hospital Emergency Covid Patient General Ward Block-2, 3, Lady Curzon Rd",
+   "gps_coordinates": {
+    "latitude": 12.981091,
+    "longitude": 77.604225
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "MTR",
+   "place_id": "ChIJJ2h8xxEWrjsRCcZShnFROsk",
+   "data_id": "0x3bae1611c77c6827:0xc93a51718652c609",
+   "rating": 4.1,
+   "reviews": 7800,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "39/40, Hansa Pratheek Building, WH Hanumanthappa Rd, opp. Dr. Rajkumar International Hotel",
+   "gps_coordinates": {
+    "latitude": 12.979053,
+    "longitude": 77.577194
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Tue"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "MTR",
+   "place_id": "ChIJ3ZIMQ3kWrjsR50bc0zsS8Lg",
+   "data_id": "0x3bae1679430c92dd:0xb8f0123bd3dc46e7",
+   "rating": 4.1,
+   "reviews": 9500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "29, Ground Floor, White House, St Mark's Rd, opposite SBI HQ",
+   "gps_coordinates": {
+    "latitude": 12.9722185,
+    "longitude": 77.60105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Shivalli Restaurant",
+   "place_id": "ChIJMdD8k1AVrjsRNWx53vj-6Aw",
+   "data_id": "0x3bae155093fcd031:0xce8fef8de796c35",
+   "rating": 4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "462, near, Ashoka Pillar Rd",
+   "gps_coordinates": {
+    "latitude": 12.943546,
+    "longitude": 77.58401
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Bengaluru Restaurant",
+   "place_id": "ChIJf2-y-BwVrjsR0G-Ts_6cAVs",
+   "data_id": "0x3bae151cf8b26f7f:0x5b019cfeb3936fd0",
+   "rating": 4.7,
+   "reviews": 436,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Indian",
+   "address": "Ganigara, C, Gurkar Ramanayak Ln",
+   "gps_coordinates": {
+    "latitude": 12.966572,
+    "longitude": 77.583145
+   }
+  },
+  {
+   "position": 19,
+   "title": "Bengaluru Cafe",
+   "place_id": "ChIJ0X__7pUVrjsRQMKU3ykW3zk",
+   "data_id": "0x3bae1595eeff7fd1:0x39df1629df94c240",
+   "rating": 4.4,
+   "reviews": 15000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.939287,
+    "longitude": 77.58392
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Dose Camp",
+   "place_id": "ChIJiS1WbpgVrjsRzzVmgfcy8vA",
+   "data_id": "0x3bae15986e562d89:0xf0f232f7816635cf",
+   "rating": 4.1,
+   "reviews": 9200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "No.244, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.930969,
+    "longitude": 77.5841
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

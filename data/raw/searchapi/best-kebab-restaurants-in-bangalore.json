@@ -1,0 +1,1043 @@
+{
+ "q": "best kebab restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:33:37.636Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJ89MzCI0XrjsR0Y6xqL9E7G4",
+   "data_id": "0x3bae178d0833d3f3:0x6eec44bfa8b18ed1",
+   "title": "Sheeshkebab",
+   "address": "MM Road, Fraser Town, Bengaluru, Karnataka 560005",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2580 2222",
+   "rating": 4.1,
+   "reviews": 4564,
+   "website": "http://sheeshkebab.com/",
+   "domain": "sheeshkebab.com",
+   "gps_coordinates": {
+    "latitude": 13.0002768,
+    "longitude": 77.6167052
+   },
+   "type": "Kebab shop",
+   "types": [
+    "Kebab shop",
+    "Persian restaurant",
+    "Middle Eastern restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/sheesh-kebab-frazer-town-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hu6BiMIUHS0Xc-4LlJ-GNI85y8Vab0QIMgwzc6E38XctOanoLS8TU0csg7ZNZnTSpHcQE3iTwea29VefijYHuDdt77ssCqQIjFpNlG7p8nvY03760%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assisted listening devices",
+       "value": "Offers assisted listening devices"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFaFSc-pFP5G8tMm25FlMTWzJX-M-a7y7u8kq63oUw_s97MCwanvXSb1cHv2Jmhn607fCzPPoAEJrRbNDVeypkqPFgUu4K7rBgSZZnJ1JtbEBBQksFPTv07c1BN65BllKVjm_Q6g5mvXxXWL_rePTgBgtJ5EJ_yxl2BnA6poevRubb_nYHAVplQ=w137-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJCXpbSCIVrjsR-VuVzN1kIt8",
+   "data_id": "0x3bae1522485b7a09:0xdf2264ddcc955bf9",
+   "title": "Kebapci",
+   "description": "Upmarket destination with Turkish fare. Polished restaurant with a terrace presenting Turkish & Indian specialties in a vibrant setting.",
+   "address": "74, 17th E Main Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096637 32777",
+   "rating": 4.3,
+   "reviews": 5630,
+   "website": "https://thekebapci.com/blrmenu",
+   "domain": "thekebapci.com",
+   "gps_coordinates": {
+    "latitude": 12.9361271,
+    "longitude": 77.6225346
+   },
+   "type": "Turkish restaurant",
+   "types": [
+    "Turkish restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12:30 pm",
+   "open_hours": {
+    "sunday": "12:30 pm–12:30 am",
+    "monday": "12:30 pm–12:30 am",
+    "tuesday": "12:30 pm–12:30 am",
+    "wednesday": "12:30 pm–12:30 am",
+    "thursday": "12:30 pm–12:30 am",
+    "friday": "12:30 pm–12:30 am",
+    "saturday": "12:30 pm–12:30 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEQyL36PzA0AUPrpzUgw9vnfDDEsjuWKTH68gMo0siZorZTpxNnEhu1ZdiTycIIBiu0MAYMGrDqA5Jv_uh4BMTmmv9bV8jVra6B7PuuvpzlroCUJ3cxY_cxdYjXKErzppOFLkPhpnV25bm5jHKQ_P8STliZI_qUkUFzoDgGDHk3sKZ6udF93ZTJ=w163-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJRQdCEDEXrjsRAEqY-Mb-B3o",
+   "data_id": "0x3bae173110420745:0x7a07fec6f8984a00",
+   "title": "Persian Kebab Co",
+   "address": "42, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091870 38414",
+   "rating": 4.6,
+   "reviews": 358,
+   "website": "https://www.persiankebabco.com/#",
+   "domain": "persiankebabco.com",
+   "gps_coordinates": {
+    "latitude": 12.9758263,
+    "longitude": 77.6019889
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGAqJrx7GR95PmizACFvGax1Xk1WVmRDl9j_Cpue7Q-TUVIWButqByuJlxHR67kaspF0QnR8PooL9_g57Jv1GaDe13sOaAy9IhF6U5u5h3M7eZT8dyLHoEkJL4zh3X21JA257FNotqWy1U_1y1Z6eGPIjBkppVKHkxa5PwXGU2XnX7HCrN1LrX8=w138-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJ8SECdY4VrjsRmeUh8m7o2W8",
+   "data_id": "0x3bae158e750221f1:0x6fd9e86ef221e599",
+   "title": "Kabab Magic",
+   "address": "31, Rashtriya Vidyalaya Rd, opp. Vijaya College, 2nd Block, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082775 65656",
+   "rating": 4.1,
+   "reviews": 13341,
+   "gps_coordinates": {
+    "latitude": 12.9400968,
+    "longitude": 77.5799783
+   },
+   "type": "Chicken restaurant",
+   "types": [
+    "Chicken restaurant",
+    "Grill",
+    "Biryani restaurant",
+    "Fried chicken takeaway",
+    "Shawarma restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30–11:30 pm",
+    "tuesday": "12:30–11:30 pm",
+    "wednesday": "12:30–11:30 pm",
+    "thursday": "12:30–11:30 pm",
+    "friday": "12:30–11:30 pm",
+    "saturday": "12:30–11:30 pm",
+    "sunday": "12:30–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuA1UKN2KHHZTii9mk_-IH1LY6LrUohkujvTncO1yn6Lsj7bb5JqmAZyo7SEJwryH0KL4xqLQg3GPSVg3qcqmhKZwoMxnvvqNgx8WyP33fZiEZ6nIGK1wQaBEzw2Di6cLNkjlWLQ=w80-h106-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJz89YLOAXrjsR7oa1t_OKXYY",
+   "data_id": "0x3bae17e02c58cfcf:0x865d8af3b7b586ee",
+   "title": "Öz by Kebapçi",
+   "address": "Level 2, UB City, Concorde Tower, 1, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070906 77771",
+   "rating": 4.6,
+   "reviews": 3168,
+   "website": "http://ozbykebapci.com/",
+   "domain": "ozbykebapci.com",
+   "gps_coordinates": {
+    "latitude": 12.9718538,
+    "longitude": 77.59558849999999
+   },
+   "type": "Turkish restaurant",
+   "types": [
+    "Turkish restaurant",
+    "Mediterranean restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30 pm–12 am",
+    "tuesday": "12:30 pm–12 am",
+    "wednesday": "12:30 pm–12 am",
+    "thursday": "12:30 pm–12 am",
+    "friday": "12:30 pm–12 am",
+    "saturday": "12:30 pm–12 am",
+    "sunday": "12:30 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/oz-by-kebapci-lavelle-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iSY6ll0OWv-FVURsri8utHFfDX1fWpEtY0ryW_G5AueqfE1R_cleZ4m1LizvvOP-hbnar6sRHvXma7VTSsxUiJmdnExJW989RbykSopfV7BaFANzY%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWma3HY-FQ7sfE_wvTphCSpiA_PpkykcEeeqPobbSy5XA7sicZP3xWccj82LkmnD5iqbEp2_Yb8XqsTtZWuNwxsWoJP9hELMPTI7uuQYpQ-RJNcSCDUK9oPlJe4YWOm7dcDazgYeCXiC30f0=w84-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJa_IaTgAVrjsRao4qFJtRLwQ",
+   "data_id": "0x3bae15004e1af26b:0x42f519b142a8e6a",
+   "title": "Kebapci Forum South",
+   "address": "3rd Floor, 311, Forum Mall Rd, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560062",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091139 37771",
+   "rating": 4.7,
+   "reviews": 1802,
+   "website": "https://thekebapci.com/blrmenu",
+   "domain": "thekebapci.com",
+   "gps_coordinates": {
+    "latitude": 12.8882035,
+    "longitude": 77.563204
+   },
+   "type": "Turkish restaurant",
+   "types": [
+    "Turkish restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12:30 pm",
+   "open_hours": {
+    "sunday": "12:30 pm–12:30 am",
+    "monday": "12:30 pm–12:30 am",
+    "tuesday": "12:30 pm–12:30 am",
+    "wednesday": "12:30 pm–12:30 am",
+    "thursday": "12:30 pm–12:30 am",
+    "friday": "12:30 pm–12:30 am",
+    "saturday": "12:30 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/kebapci-1-kanakapura-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jCSYMhC9hqAXOQrr4v9xwLfBzOODaUIb77ArUK6rjIuR7ceNHwStT-VeOnM9suHcl3DU-YmpJBZHkYqY8M6gtD9EvfUl5QRuaSUIo0ok_M-ZFhtc8%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEQyL36PzA0AUPrpzUgw9vnfDDEsjuWKTH68gMo0siZorZTpxNnEhu1ZdiTycIIBiu0MAYMGrDqA5Jv_uh4BMTmmv9bV8jVra6B7PuuvpzlroCUJ3cxY_cxdYjXKErzppOFLkPhpnV25bm5jHKQ_P8STliZI_qUkUFzoDgGDHk3sKZ6udF93ZTJ=w163-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJPVF2VRQWrjsRpbxezZKTIrk",
+   "data_id": "0x3bae16145576513d:0xb9229392cd5ebca5",
+   "title": "The Kabab Studio",
+   "description": "Stylish hotel eatery known for kebabs. Indian BBQ restaurant & buffet serving kebabs & vegetarian offerings in a modern hotel space.",
+   "address": "Crescent Rd, 32/3, Crescent Rd, inside Goldfinch Hotel, off Race Course Road, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4129 1300",
+   "rating": 4.1,
+   "reviews": 2330,
+   "website": "https://www.goldfinchhotels.com/the-kabab-studio/",
+   "domain": "goldfinchhotels.com",
+   "gps_coordinates": {
+    "latitude": 12.9854241,
+    "longitude": 77.57946849999999
+   },
+   "type": "Kebab shop",
+   "types": [
+    "Kebab shop",
+    "Buffet restaurant",
+    "Dessert restaurant",
+    "Barbecue restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30–3:30 pm, 7–11 pm",
+    "tuesday": "12:30–3:30 pm, 7–11 pm",
+    "wednesday": "12:30–3:30 pm, 7–11 pm",
+    "thursday": "12:30–3:30 pm, 7–11 pm",
+    "friday": "12:30–3:30 pm, 7–11 pm",
+    "saturday": "12:30–3:30 pm, 7–11 pm",
+    "sunday": "12:30–3:30 pm, 7–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-kabab-studio-race-course-road-indiranagar-bangalore-623217/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdS0KA6ExsaZpUt1nkyCZcuMMCP2NlhH60kbe-rtirlglTWGqBqLLp5UA-TvnQlvpQa_FclWYsS1F8ztzApfjtbXSgFv5gOz866aViYxUIkfxAGnUxYQrqwiAmB5QEtUSoz2EhuQ=w189-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJI4y_EwUXrjsRmO0YQajCarU",
+   "data_id": "0x3bae170513bf8c23:0xb56ac2a84118ed98",
+   "title": "The Lokum",
+   "address": "Aizah International 5th A Main Road, CMR Main Rd, HRBR Layout 2nd Block, Kalyan Nagar, Bengaluru, Karnataka 560043",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072046 16662",
+   "rating": 4.7,
+   "reviews": 604,
+   "website": "https://thelokumrestaurant.com/",
+   "domain": "thelokumrestaurant.com",
+   "gps_coordinates": {
+    "latitude": 13.022355,
+    "longitude": 77.64003129999999
+   },
+   "type": "Turkish restaurant",
+   "types": [
+    "Turkish restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12:30 pm",
+   "open_hours": {
+    "sunday": "12:30 pm–12:30 am",
+    "monday": "12:30 pm–12:30 am",
+    "tuesday": "12:30 pm–12:30 am",
+    "wednesday": "12:30 pm–12:30 am",
+    "thursday": "12:30 pm–12:30 am",
+    "friday": "12:30 pm–12:30 am",
+    "saturday": "12:30 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-lokum-kalyan-nagar-koramangala-bangalore-1329547/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlq1g1ZEeaeHCc7kRAwZJAPkasxeo2whLn0SOGYBpRnjeJpdF_1VuH6rH8KJ6J5WieR47ze1v2ob7vIvcIzIVxrydi60gSyvWkZietMSGqCwuU9amGg4QBTsX4Z1o9y4Gi8eU_aFnWg4gxd=w80-h142-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJSdjl2F8WrjsRCfAQzPOc9-s",
+   "data_id": "0x3bae165fd8e5d849:0xebf79cf3cc10f009",
+   "title": "Golden Shahi Kabab Center",
+   "address": "28/C, Dhanakoti Rd, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka 560051",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098453 33667",
+   "rating": 4.4,
+   "reviews": 1589,
+   "gps_coordinates": {
+    "latitude": 12.9902832,
+    "longitude": 77.6059604
+   },
+   "type": "Kebab shop",
+   "types": [
+    "Kebab shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6 pm",
+   "open_hours": {
+    "monday": "6–11 pm",
+    "tuesday": "6–11 pm",
+    "wednesday": "6–11 pm",
+    "thursday": "6–11 pm",
+    "friday": "6–11 pm",
+    "saturday": "6–11 pm",
+    "sunday": "Closed"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/golden-shahi-kabab-shivaji-nagar-indiranagar-bangalore-891045/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkuJAt9HNvSwiZJ9_MLeMa6gAaHPWp7mknmzocyiWkIHjKS2Tvo2edy9RLJJQey99xmaghW-ng8tdYi2OB2vEIsPJ0v7aTcWjfLFeX-F9KIUC1GGgbNeElgoXUetFm2QCxRtuwRXg=w92-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJ5xcoktQVrjsRxMCZmqbqc98",
+   "data_id": "0x3bae15d4922817e7:0xdf73eaa69a99c0c4",
+   "title": "Siddiq kabab center",
+   "address": "7, Curley St, Richmond Town, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080889 35074",
+   "rating": 4.4,
+   "reviews": 7486,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.963081,
+    "longitude": 77.60576019999999
+   },
+   "type": "Fast food restaurant",
+   "types": [
+    "Fast food restaurant",
+    "Non Vegetarian Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 5:30 pm",
+   "open_hours": {
+    "monday": "5:30 pm–12 am",
+    "tuesday": "5:30 pm–12 am",
+    "wednesday": "5:30 pm–12 am",
+    "thursday": "5:30 pm–12 am",
+    "friday": "5:30 pm–12 am",
+    "saturday": "5:30 pm–12 am",
+    "sunday": "5:30 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/siddiq-kabab-center-richmond-town-koramangala-bangalore-1250936/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMnv2qytJlHTV3V8gjOsvpn6byqlKBvzWHKVljeSJftbc6j-_DlKhJi2AJZMfkV6vk8xUvyAZrTQcfPR1IaZ_7UlSZ2RdrngcpW9LR3aIZL2QC4o1Seog6QcVieJ9o65SqgeMV=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJo_P095oVrjsRdh-wZlbSGWM",
+   "data_id": "0x3bae159af7f4f3a3:0x6319d25666b01f76",
+   "title": "Kabab Magic",
+   "description": "Bustling spot for casual Indian fare. Bright roadside counter serve turning out familiar Indian classics such as chicken tikka & kebabs.",
+   "address": "Yediyur, 7th Block, 69, Kanakapura Main Rd, Jayanagar, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073380 82378",
+   "rating": 4,
+   "reviews": 8483,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9302325,
+    "longitude": 77.5762266
+   },
+   "type": "Kebab shop",
+   "types": [
+    "Kebab shop",
+    "Fast food restaurant",
+    "Non Vegetarian Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30–11:30 pm",
+    "tuesday": "12:30–11:30 pm",
+    "wednesday": "12:30–11:30 pm",
+    "thursday": "12:30–11:30 pm",
+    "friday": "12:30–11:30 pm",
+    "saturday": "12:30–11:30 pm",
+    "sunday": "12:30–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/kabab-magic-jayanagar-bangalore-108108/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmyeVoZ3CLHyu8CSGhq5NCZ9I0-Pbmu0sz46syBib9hVQ-KHULPtcwmE_-hhHZbTxUAfegDaEJka60yi7ifw5nefavKO_4PqVFjnbKUFvnscQw-pvcKX8pGlrPfP5E8OMuKL4pPw=w80-h142-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJ9byDSNE_rjsRn2N0gLHDKmQ",
+   "data_id": "0x3bae3fd14883bcf5:0x642ac3b18074639f",
+   "title": "V s caterars jinke Park kabab corner",
+   "address": "Mulkatmma, Shaneshwara Temple Rd, opposite Bangalore, Jinke Park, Karnataka 560018",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.9,
+   "reviews": 84,
+   "gps_coordinates": {
+    "latitude": 12.9519012,
+    "longitude": 77.5556746
+   },
+   "type": "Kebab shop",
+   "types": [
+    "Kebab shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 5:30 pm Tue",
+   "open_hours": {
+    "monday": "Closed",
+    "tuesday": "5:30–10:30 pm",
+    "wednesday": "5:30–10:30 pm",
+    "thursday": "5:30–10 pm",
+    "friday": "5:30–10 pm",
+    "saturday": "5:30–10 pm",
+    "sunday": "5:30–10 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkbEViM03qMXvZbpecf9my06IkPElFfVKYibFugxpMoqUwylvCoZQS-gmxhFEAsS1kyre76z7cjqtBaGfUvyxhgYsVzL3hU0iAc49RWPfe9rjIGENbYBl1t4NHH7E4Io44SKjTFnnksG6GV=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJFcl8CNgVrjsR_0_oQuAY4k8",
+   "data_id": "0x3bae15d8087cc915:0x4fe218e042e84fff",
+   "title": "Kebabs & Kurries, ITC Gardenia",
+   "description": "Luxury hotel's upscale Indian eatery. Formal Indian dining room serving classic dishes in an immaculate hotel dining room.",
+   "address": "Itc Gardenia, 1, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2211 9898",
+   "rating": 4.5,
+   "reviews": 1493,
+   "website": "https://www.itchotels.com/in/en/itcgardenia-bengaluru",
+   "domain": "itchotels.com",
+   "gps_coordinates": {
+    "latitude": 12.966951,
+    "longitude": 77.59551379999999
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30–2:30 pm, 7–11:30 pm",
+    "tuesday": "12:30–2:30 pm, 7–11:30 pm",
+    "wednesday": "12:30–2:30 pm, 7–11:30 pm",
+    "thursday": "12:30–2:30 pm, 7–11:30 pm",
+    "friday": "12:30–2:30 pm, 7–11:30 pm",
+    "saturday": "12:30–2:30 pm, 7–11:30 pm",
+    "sunday": "12:30–2:30 pm, 7–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/kebabs-and-kurries-itc-gardenia-residency-road-koramangala-bangalore-1123755/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWluvFn8Gis4ipaF38cLR57o34nvuPZQqEU2Hov0TP7dE6BbN713wWEbDAAVTIz-RjTMg3ABXc_WrLqr1Kq0llmaqpCHMWVIWoTXgSDpAWe4Vwr3SrIKhpUotknkUJ9lP1vOIGty=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJiVdnRAAXrjsRnbOOcuKF0Xo",
+   "data_id": "0x3bae170044675789:0x7ad185e2728eb39d",
+   "title": "Bangalore Kabab Center",
+   "address": "02, Dinnuru Main Road, Brindavan Layout, KavalBairsandra, RT Nagar, Bengaluru, Karnataka 560032",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090085 07893",
+   "rating": 4.8,
+   "reviews": 16,
+   "gps_coordinates": {
+    "latitude": 13.0213931,
+    "longitude": 77.6059976
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHvOtU7jRAGsoNROHMto9CW0_U9YeZIRtl6_D45vgV-QE434BMKcpmf9qJOxwMQCdPIKytkbCPZ1IUAi5B89lnEyfKyMTE_MUM9nuf_khOLCEyqwdaAb_bJA_z2oTmO8EDxCMLV8qIsaSZWXKJUEnmFu1D3A0QiKQjP9CAG8ZuJTei_PNh6GARi=w92-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJD83aGqgVrjsRz5BcXtmBI3I",
+   "data_id": "0x3bae15a81adacd0f:0x722381d95e5c90cf",
+   "title": "Kabab Magic - JP Nagar 3rd Phase",
+   "address": "1548, 6th Main Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560041",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4165 0241",
+   "rating": 4,
+   "reviews": 14898,
+   "gps_coordinates": {
+    "latitude": 12.9162321,
+    "longitude": 77.59704409999999
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Chicken restaurant",
+    "Fast food restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30–11:30 pm",
+    "tuesday": "12:30–11:30 pm",
+    "wednesday": "12:30–11:30 pm",
+    "thursday": "12:30–11:30 pm",
+    "friday": "12:30–11:30 pm",
+    "saturday": "12:30–11:30 pm",
+    "sunday": "12:30–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnO8dpl24GmnlXd263cG6h8L4pkyyzEuwQuxHeEXy9FqU88dfum9ZcZODdieteW4hVTHaQBPozXlxknJMbWxqiqsV4jdDwRXnOfoSHf1Y2-hgGOW32Dc0DF4lqD0IqNHoJ-eE245g=w163-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJqYd1z8MVrjsRc7vktFCOdBE",
+   "data_id": "0x3bae15c3cf7587a9:0x11748e50b4e4bb73",
+   "title": "Northwest Kebab & Curryhouse",
+   "description": "Understated eatery for regional fare. Relaxed restaurant with a regional menu featuring grilled meats, fish, curries, parathas & desserts.",
+   "address": "2nd Floor, 99, 5th Cross Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081975 21116",
+   "rating": 4.5,
+   "reviews": 585,
+   "website": "http://www.northwest-cuisine.com/",
+   "domain": "northwest-cuisine.com",
+   "gps_coordinates": {
+    "latitude": 12.9370355,
+    "longitude": 77.6201514
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3 pm, 6:30–11 pm",
+    "tuesday": "12–3 pm, 6:30–11 pm",
+    "wednesday": "12–3 pm, 6:30–11 pm",
+    "thursday": "12–3 pm, 6:30–11 pm",
+    "friday": "12–3 pm, 6:30–11 pm",
+    "saturday": "12–3 pm, 6:30–11 pm",
+    "sunday": "12–3 pm, 6:30–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/northwest-kebab-and-curryhouse-koramangala-bangalore-330564/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyPQqO_pRYaLvnkDEjF-pOsuDSoLiM570qnCdZEEZ-ZzOV1JFGJVFEg481KfCHCHl1vxsKJUR2CD8Lkmq1XpTspoaWnN6SqPeWezvLN1_Wfd09U-3oqfKlm0icWk1xpKShfdY=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJv0o0i_AWrjsREZ6f1oxP4Yw",
+   "data_id": "0x3bae16f08b344abf:0x8ce14f8cd69f9e11",
+   "title": "Zayan Kabab Corner",
+   "address": "2J28+8G6, Mosque Rd, Fraser Town, Bengaluru, Karnataka 560005",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095385 98137",
+   "rating": 4.4,
+   "reviews": 501,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 13.000798,
+    "longitude": 77.6162544
+   },
+   "type": "Fast food restaurant",
+   "types": [
+    "Fast food restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 4 pm",
+   "open_hours": {
+    "monday": "4–10:30 pm",
+    "tuesday": "4–10:30 pm",
+    "wednesday": "4–10:30 pm",
+    "thursday": "4–10:30 pm",
+    "friday": "4–10:30 pm",
+    "saturday": "4–10:30 pm",
+    "sunday": "4–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWng-_mgU8zTw729G81TOoeEnmsrn5kwDxBPq8N7GeIDWvQ-1QgR0YPKPzIp04q3PvFhP6Pr6RF0Fh_JGD7cn6Jd8zKmyPWDu0jjBgmWN43Q_JnPduLIyzwDzV0J5LPYjuxq-u2N=w80-h106-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJN0J5CosWrjsRKTr570BanYY",
+   "data_id": "0x3bae168b0a794237:0x869d5a40eff93a29",
+   "title": "Al Noor Chicken Kabab Center",
+   "address": "74, Armstrong Rd, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099808 89451",
+   "rating": 4.2,
+   "reviews": 1585,
+   "gps_coordinates": {
+    "latitude": 12.9878237,
+    "longitude": 77.6118734
+   },
+   "type": "Chicken restaurant",
+   "types": [
+    "Chicken restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 pm · Reopens 2 pm",
+   "open_hours": {
+    "monday": "12 am–12:30 pm, 2 pm–12 am",
+    "tuesday": "12 am–12 pm, 2–11:30 pm",
+    "wednesday": "2–11:30 pm",
+    "thursday": "2–11:30 pm",
+    "friday": "2–11:30 pm",
+    "saturday": "2–11:30 pm",
+    "sunday": "2 pm–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmsbkjXBgyMFmidLI3za0cPKXWzMmj-msCphl7WyXrXMw5ORHBhTIxe3vV0JnI9IUhPGNokTJaeBt5w54RpZmaHStBSxD9UoIISG2jZ2YuxYbTcAyqfV5DSu_8_qFZJ1oeLrsGA=w80-h106-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJA8HZUo0XrjsRhZNbrzrXjXo",
+   "data_id": "0x3bae178d52d9c103:0x7a8dd73aaf5b9385",
+   "title": "Vins Chicken Kabab",
+   "address": "Club House, 1682, 4th Cross Rd, Hal, HAL 3rd Stage, New Thippasandra, Bengaluru, Karnataka 560075",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088922 71436",
+   "rating": 4.7,
+   "reviews": 159,
+   "gps_coordinates": {
+    "latitude": 12.9698732,
+    "longitude": 77.6490086
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 5:30 pm",
+   "open_hours": {
+    "monday": "5:30–10:30 pm",
+    "tuesday": "5:30–10:30 pm",
+    "wednesday": "5:30–10:30 pm",
+    "thursday": "5:30–10:30 pm",
+    "friday": "5:30–10:30 pm",
+    "saturday": "5:30–10:30 pm",
+    "sunday": "5:30–10:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrmFynK2HXr4-LiBcQT05IXZJnk1uVIpK7rdAvVSAWOugX9FekykRbW0-4-waqbEqQEbOX5Y0kUCtT3sAiUyTftUWf2HqgxW7tlz4Qt8TFh57Kajx7YRfPNhMtVfR7gWBnwmIUARY6LSma=w80-h142-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ9aEJxxQVrjsRc3mHMsXeLak",
+   "data_id": "0x3bae1514c709a1f5:0xa92ddec532877973",
+   "title": "Zaitoon Restaurant , JP Nagar",
+   "address": "21, 24th Main Rd, KR Layout, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4148 8988",
+   "rating": 4.3,
+   "reviews": 18099,
+   "website": "https://thezaitoon.com/",
+   "domain": "thezaitoon.com",
+   "gps_coordinates": {
+    "latitude": 12.9029512,
+    "longitude": 77.58562049999999
+   },
+   "type": "Middle Eastern restaurant",
+   "types": [
+    "Middle Eastern restaurant",
+    "Chinese restaurant",
+    "Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–12 am",
+    "tuesday": "11:30 am–12 am",
+    "wednesday": "11:30 am–12 am",
+    "thursday": "11:30 am–12 am",
+    "friday": "11:30 am–12 am",
+    "saturday": "11:30 am–12 am",
+    "sunday": "11:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/zaitoon-jp-nagar-indiranagar-bangalore-851822/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu-mZGiELLCsv_dNpt9iG7ATwd6lv9YlHxSo1IW81HCL9gA3Unz7mgT02lQb-mszbrQ8CsrNab9VE5BKAId5DXIQC0Wsc9lmCL8gQCLhKsXi6eMx0CoJvxCKrST8Vjz32bmS_NJif1_6Y=w80-h106-k-no"
+  }
+ ]
+}

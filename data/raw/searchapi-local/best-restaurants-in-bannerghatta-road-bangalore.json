@@ -1,0 +1,419 @@
+{
+ "q": "best restaurants in Bannerghatta Road Bangalore",
+ "ll": "@12.8894,77.5972,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:32:45.700Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Mykos Craft Kitchen & Bar",
+   "place_id": "ChIJq9vDfwAVrjsRmI7oo0vLnJc",
+   "data_id": "0x3bae15007fc3dbab:0x979ccb4ba3e88e98",
+   "rating": 4.5,
+   "reviews": 6500,
+   "type": "Continental restaurant",
+   "address": "SRK Towers, 448/338, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.897574,
+    "longitude": 77.599686
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Sstella Kitchen And Bar",
+   "place_id": "ChIJ5wwElyxrrjsRje2b0osX-mY",
+   "data_id": "0x3bae6b2c97040ce7:0x66fa178bd29bed8d",
+   "rating": 4.6,
+   "reviews": 2100,
+   "type": "Asian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.875992,
+    "longitude": 77.59579
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Barrel House Bar And Kitchen",
+   "place_id": "ChIJNxqzJMFrrjsR280iePQcgBs",
+   "data_id": "0x3bae6bc124b31a37:0x1b801cf47822cddb",
+   "rating": 4.5,
+   "reviews": 1400,
+   "type": "Pub",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.876797,
+    "longitude": 77.59536
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Big Barbeque - Buffet - Bengaluru - Bannerghatta Road",
+   "place_id": "ChIJhbEYrYYVrjsRronHeInPk54",
+   "data_id": "0x3bae1586ad18b185:0x9e93cf8978c789ae",
+   "rating": 4.6,
+   "reviews": 15000,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.882233,
+    "longitude": 77.5958
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Thelagram",
+   "place_id": "ChIJCy1UwGoVrjsRIayqUd2gHVM",
+   "data_id": "0x3bae156ac0542d0b:0x531da0dd51aaac21",
+   "rating": 4.4,
+   "reviews": 1000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "North Indian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.905791,
+    "longitude": 77.60142
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Gatsby Cocktails & Cuisines",
+   "place_id": "ChIJxeZMypgVrjsRx5pHCly_Hco",
+   "data_id": "0x3bae1598ca4ce6c5:0xca1dbf5c0a479ac7",
+   "rating": 4.1,
+   "reviews": 4900,
+   "type": "Eclectic",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.885764,
+    "longitude": 77.59633
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Nagarjuna Restaurant Since 1984 - Bannerghatta Road",
+   "place_id": "ChIJY6gaURkVrjsRHgIKwU5cOUY",
+   "data_id": "0x3bae1519511aa863:0x46395c4ec10a021e",
+   "rating": 4.1,
+   "reviews": 18000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "Meu Square, 174/1, Bannerghatta Rd, above KFC",
+   "gps_coordinates": {
+    "latitude": 12.904902,
+    "longitude": 77.60156
+   },
+   "comment": "Contemporary Andheri restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Narmada Restaurant Bannerghatta",
+   "place_id": "ChIJ96qrVtoVrjsRhND9ZkxHEVw",
+   "data_id": "0x3bae15da56abaaf7:0x5c11474c66fdd084",
+   "rating": 4.4,
+   "reviews": 1100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Andhra",
+   "address": "No. 193/4A, 193/4B, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.911489,
+    "longitude": 77.60014
+   }
+  },
+  {
+   "position": 9,
+   "title": "Mughal Treat - Bannerghatta Road",
+   "place_id": "ChIJ1yBrrFAVrjsRhxE_l6SQJnA",
+   "data_id": "0x3bae1550ac6b20d7:0x702690a4973f1187",
+   "rating": 4.6,
+   "reviews": 359,
+   "type": "Mughlai",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.883877,
+    "longitude": 77.596054
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Platform65 - Bannerghatta Road - Train Theme Restaurant",
+   "place_id": "ChIJZVC6uYgVrjsRD0iXstrLsbs",
+   "data_id": "0x3bae1588b9ba5065:0xbbb1cbdab297480f",
+   "rating": 4.3,
+   "reviews": 17000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Andhra",
+   "address": "4th Floor, Windsor F4, 75/B, Bannerghatta Rd, opposite Christ University, above Reliance Digital",
+   "gps_coordinates": {
+    "latitude": 12.879256,
+    "longitude": 77.59534
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Guru Greens Garden Family Restaurant",
+   "place_id": "ChIJuVjW3sFqrjsRiETya-gmo9s",
+   "data_id": "0x3bae6ac1ded658b9:0xdba326e86bf24488",
+   "rating": 4.1,
+   "reviews": 5900,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Biryani",
+   "address": "Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.854053,
+    "longitude": 77.58886
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Fattoush Multi-Cuisine Restaurant",
+   "place_id": "ChIJV0Cf9WsVrjsR_YE1z1pnlzc",
+   "data_id": "0x3bae156bf59f4057:0x3797675acf3581fd",
+   "rating": 4.2,
+   "reviews": 6700,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Middle Eastern",
+   "address": "212, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.893097,
+    "longitude": 77.59874
+   },
+   "comment": "Fine-dining Arabian & Indian eatery",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Tiger Aero Restaurant | Aeroplane Restaurant | Flight Restaurant",
+   "place_id": "ChIJEUjtxeprrjsRcdK1JqEzpyE",
+   "data_id": "0x3bae6beac5ed4811:0x21a733a126b5d271",
+   "rating": 4.4,
+   "reviews": 6300,
+   "type": "Restaurant",
+   "address": "Laxmipura, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.826666,
+    "longitude": 77.58676
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Skyroot by TOF",
+   "place_id": "ChIJWbJsJXIVrjsRpJSeBV40dfg",
+   "data_id": "0x3bae1572256cb259:0xf875345e059e94a4",
+   "rating": 4.1,
+   "reviews": 1300,
+   "type": "Eclectic",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.884246,
+    "longitude": 77.604614
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Syons Cafe",
+   "place_id": "ChIJ9X7_QQAVrjsR6Cj12wZYy1c",
+   "data_id": "0x3bae150041ff7ef5:0x57cb5806dbf528e8",
+   "rating": 4.5,
+   "reviews": 212,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Fine Dining",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.877546,
+    "longitude": 77.595535
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Chavadi Native Kitchen Community Cafe",
+   "place_id": "ChIJ48uBmyYVrjsRAYwm7iDUliU",
+   "data_id": "0x3bae15269b81cbe3:0x2596d420ee268c01",
+   "rating": 4.2,
+   "reviews": 6700,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Karnataka restaurant",
+   "address": "No 4, 2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.892165,
+    "longitude": 77.60255
+   },
+   "comment": "Bohemian community cafe & bar",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "BudBee Restobar Bg Road",
+   "place_id": "ChIJTectOgAVrjsRgb_3n26j3_U",
+   "data_id": "0x3bae15003a2de74d:0xf5dfa36e9ff7bf81",
+   "rating": 4.3,
+   "reviews": 335,
+   "type": "Dance restaurant",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.903871,
+    "longitude": 77.60129
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "TRUPTI RESTAURANT",
+   "place_id": "ChIJqYkwJ9hrrjsR-i2cLxS1F7Q",
+   "data_id": "0x3bae6bd8273089a9:0xb417b5142f9c2dfa",
+   "rating": 4.7,
+   "reviews": 300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.85788,
+    "longitude": 77.58914
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Tue"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Hakuna Matata",
+   "place_id": "ChIJAWNPNz8VrjsRmm4btDLh1Sw",
+   "data_id": "0x3bae153f374f6301:0x2cd5e132b41b6e9a",
+   "rating": 4.3,
+   "reviews": 18000,
+   "type": "North Indian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.893941,
+    "longitude": 77.58658
+   },
+   "comment": "African-themed multi-cuisine rooftop bar",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Empire Restaurant - Arekere",
+   "place_id": "ChIJUUry_CQVrjsRZE69OKKCSCk",
+   "data_id": "0x3bae1524fcf24a51:0x294882a238bd4e64",
+   "rating": 4.3,
+   "reviews": 27000,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Fine Dining",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.891368,
+    "longitude": 77.59869
+   }
+  }
+ ]
+}

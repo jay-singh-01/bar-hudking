@@ -1,0 +1,223 @@
+{
+ "q": "VV Puram food street Bangalore",
+ "ll": "@12.9496,77.574,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:29:06.040Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJH-raknwVrjsRoJppMsw-y2U",
+   "data_id": "0x3bae157c92daea1f:0x65cb3ecc32699aa0",
+   "title": "V. V. Pura Food Street",
+   "address": "Sajjan Rao Circle, Food St, Vishweshwarapura, Bengaluru, Karnataka 560004",
+   "plus_code": "XH2H+93 Bengaluru, Karnataka",
+   "rating": 4.2,
+   "reviews": 23529,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9509166,
+    "longitude": 77.5777413
+   },
+   "type": "Food court",
+   "types": [
+    "Food court",
+    "Fast food restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6 pm Mon",
+   "open_hours": {
+    "sunday": "6–11 pm",
+    "monday": "6–11 pm",
+    "tuesday": "6–11 pm",
+    "wednesday": "6–11 pm",
+    "thursday": "6–11 pm",
+    "friday": "6–11 pm",
+    "saturday": "6–11 pm"
+   },
+   "timezone": "Asia/Calcutta",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllxYG__bdJVi6gEx4WRofWJYu5sE56xEYF_fRzbP1eRAkt5DYMjwRNFnTuMzAFTTCP1tJt_6koMh9yEXhhK5jqX0u0Q_GGAYwUAQw_sQDd_U2btOXslh3esJw-smG709erCh5xFA=w191-h86-k-no",
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "at_this_place": {
+    "categories": [
+     {
+      "title": "Food & Drink",
+      "places_count": 4
+     },
+     {
+      "title": "Shopping",
+      "places_count": 3
+     }
+    ],
+    "local_results": [
+     {
+      "position": 1,
+      "ludocid": "1963404496102919084",
+      "kgmid": "/g/11yf81gkqt",
+      "data_id": "0x3bae150055a8c8cf:0x1b3f69fc949e8bac",
+      "title": "Panda Scoops",
+      "gps_coordinates": {
+       "latitude": 12.9519277,
+       "longitude": 77.57732279999999
+      },
+      "rating": 4.7,
+      "reviews": 355,
+      "reviews_histogram": {
+       "1": 11,
+       "2": 4,
+       "3": 8,
+       "4": 17,
+       "5": 315
+      },
+      "address": "01, Sajjan Rao Cir, opp. V. B. Bakery, Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka 560004",
+      "location": "Floor 0",
+      "open_state": "Open · Closes 3 am",
+      "open_hours": {
+       "sunday": "12 pm–3 am",
+       "monday": "12 pm–3 am",
+       "tuesday": "12 pm–3 am",
+       "wednesday": "12 pm–3 am",
+       "thursday": "12 pm–3 am",
+       "friday": "12 pm–3 am",
+       "saturday": "12 pm–3 am"
+      },
+      "type": "Ice cream shop",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3h1Ccbla5Uwsd4X6Uby6k36vaaxyGVxW2NKgGMv7RzsGCUuWq5NJ8v0S6n3q_iSwX3e5sUpfPI1jpSUXXqYP6O2sbY8hnlJXaPyoRfEeFJT2GVJ8eTxNXB_EX36B_2XlSJoxg6aW5RC3C=w86-h86-n-k-no"
+     },
+     {
+      "position": 2,
+      "ludocid": "9410213904627239998",
+      "kgmid": "/g/11w2k33hld",
+      "data_id": "0x3bae150017d6a279:0x8297cbb055bf8c3e",
+      "title": "Juice Pump",
+      "gps_coordinates": {
+       "latitude": 12.9512093,
+       "longitude": 77.5780654
+      },
+      "rating": 4.8,
+      "reviews": 154,
+      "reviews_histogram": {
+       "1": 3,
+       "2": 1,
+       "3": 3,
+       "4": 15,
+       "5": 132
+      },
+      "address": "SB Road, Food St, Vishweshwarapura, Bengaluru, Karnataka 560004",
+      "location": "Floor 0",
+      "open_state": "Closed · Opens 12:30 pm Mon",
+      "open_hours": {
+       "sunday": "12:30–11:30 pm",
+       "monday": "12:30–11:30 pm",
+       "tuesday": "12:30–11:30 pm",
+       "wednesday": "12:30–11:30 pm",
+       "thursday": "12:30–11:30 pm",
+       "friday": "12:30–11:30 pm",
+       "saturday": "12:30–11:30 pm"
+      },
+      "type": "Restaurant",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCpvtv5mgTGsTv_iAOv104Ha5Y7coRww7RflNRwf_z6Pm2c5z2hyD0K3EYh71X3whteidb_f_r0XeflqOvnF_S8VnpM2qIxEiDcnCXhk6ERMUhUtv2A2llYP74kdnIPnVvCjfXaQ=w86-h86-n-k-no"
+     },
+     {
+      "position": 3,
+      "ludocid": "11205137714722564236",
+      "kgmid": "/g/11rtqzb0jp",
+      "data_id": "0x3bae151331f9fa0f:0x9b80a562595ee88c",
+      "title": "Bakers glove",
+      "gps_coordinates": {
+       "latitude": 12.9513263,
+       "longitude": 77.5773308
+      },
+      "rating": 5,
+      "reviews": 82,
+      "reviews_histogram": {
+       "1": 0,
+       "2": 0,
+       "3": 0,
+       "4": 0,
+       "5": 82
+      },
+      "address": "Food St, Parvathipuram, Vishweshwarapura, Shankarapura, Bengaluru, Karnataka 560004",
+      "open_state": "Closed · Opens 2 pm Mon",
+      "open_hours": {
+       "sunday": "2–11 pm",
+       "monday": "2–11 pm",
+       "tuesday": "2–11 pm",
+       "wednesday": "2–11 pm",
+       "thursday": "2–11 pm",
+       "friday": "2–11 pm",
+       "saturday": "2–11 pm"
+      },
+      "type": "Bakery and Cake Shop",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9YUj4rkAh-Id1GzUMsIZK0qSONLMXHSsE09d8Zk1n8zbDnYwC3wVIxrLOM45Wp-ZnCeMBtwVj6qa5nn9l_2QkEoOUVTiG5_Sm8aDySohjT0uHF0faI4iyE48THKPym7kybUX0inxZQo8=w86-h86-n-k-no"
+     },
+     {
+      "position": 4,
+      "ludocid": "3615375798157101987",
+      "kgmid": "/g/11yr57lkb2",
+      "data_id": "0x3bae15007393d875:0x322c652222b2cba3",
+      "title": "Manna Italian wood fired pizza",
+      "gps_coordinates": {
+       "latitude": 12.9507589,
+       "longitude": 77.5782401
+      },
+      "rating": 4.1,
+      "reviews": 11,
+      "reviews_histogram": {
+       "1": 2,
+       "2": 0,
+       "3": 1,
+       "4": 0,
+       "5": 8
+      },
+      "address": "XH2H+875, Vishweshwarapura, Shankarapura, Bengaluru, Karnataka 560004",
+      "open_state": "Closed · Opens 5:30 pm Mon",
+      "open_hours": {
+       "sunday": "6:30–11:30 pm",
+       "monday": "5:30–11 pm",
+       "tuesday": "5:30–11 pm",
+       "wednesday": "5:30–11 pm",
+       "thursday": "5:30–11 pm",
+       "friday": "5:30–11 pm",
+       "saturday": "5:30–11 pm"
+      },
+      "type": "Pizza restaurant",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDbkOhDDXDiwEOpweH7M6i_aRTV6tTbPu-zJRpSDsPyxTKpPcL7YTPCl_VdKq8MAk28vZbY8wkcbXutvwGDpZ-DuvLiUUxX03GRPYM---XUbOCt5g7ZIm_VYkYZkjZy9M1YL3K0iq1awgY=w86-h86-n-k-no"
+     },
+     {
+      "position": 5,
+      "ludocid": "13119325546477606439",
+      "kgmid": "/g/11m5grs2dh",
+      "data_id": "0x3bae150043bdff13:0xb61135134a815627",
+      "title": "Aishwariya Enterprises",
+      "gps_coordinates": {
+       "latitude": 12.9532699,
+       "longitude": 77.5766567
+      },
+      "rating": 5,
+      "reviews": 1,
+      "reviews_histogram": {
+       "1": 0,
+       "2": 0,
+       "3": 0,
+       "4": 0,
+       "5": 1
+      },
+      "address": "33/4/a, Sajjan Rao Rd, Parvathipuram, Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka 560004",
+      "type": "Motor scooter dealer"
+     }
+    ]
+   }
+  }
+ ]
+}

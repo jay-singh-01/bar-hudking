@@ -1,0 +1,336 @@
+{
+ "q": "bars and pubs in Marathahalli Bangalore",
+ "ll": "@12.9591,77.6974,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:39:31.224Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Reboot The Pub",
+   "place_id": "ChIJzbyn-BQTrjsRx5l9t_JuHrI",
+   "data_id": "0x3bae1314f8a7bccd:0xb21e6ef2b77d99c7",
+   "rating": 4.6,
+   "reviews": 3600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "No. 90/2, and 90/3, Above Titan World Marathahalli Outer Ring Road, Service Rd, opposite Iron Hill",
+   "gps_coordinates": {
+    "latitude": 12.9509325,
+    "longitude": 77.700035
+   }
+  },
+  {
+   "position": 2,
+   "title": "The Big Baadshaah",
+   "place_id": "ChIJ52ZEEPATrjsRQfUkS8Is89U",
+   "data_id": "0x3bae13f0104466e7:0xd5f32cc24b24f541",
+   "rating": 4.3,
+   "reviews": 4400,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "2nd Floor, 88, Outer Ring Rd, near More Supermarket",
+   "gps_coordinates": {
+    "latitude": 12.948431,
+    "longitude": 77.69878
+   }
+  },
+  {
+   "position": 3,
+   "title": "Ironhill Bengaluru",
+   "place_id": "ChIJt62F1qwTrjsRzahuMZAxxYM",
+   "data_id": "0x3bae13acd685adb7:0x83c53190316ea8cd",
+   "rating": 4.7,
+   "reviews": 44000,
+   "type": "Brewery",
+   "address": "Sy no 90, 7 & 90/8, Outer Ring Rd, beside Radisson Blu 8",
+   "gps_coordinates": {
+    "latitude": 12.950891,
+    "longitude": 77.69873
+   }
+  },
+  {
+   "position": 4,
+   "title": "Long Boat Brewing Co.",
+   "place_id": "ChIJqwEtA1ETrjsRsgt6bQ-rEaM",
+   "data_id": "0x3bae1351032d01ab:0xa311ab0f6d7a0bb2",
+   "rating": 4.5,
+   "reviews": 16000,
+   "type": "Brewery",
+   "address": "1st Main",
+   "gps_coordinates": {
+    "latitude": 12.951804,
+    "longitude": 77.70065
+   }
+  },
+  {
+   "position": 5,
+   "title": "Hashtag 88 – Restobar & Pub",
+   "place_id": "ChIJvVOtScMTrjsR9EAtYMc3RoA",
+   "data_id": "0x3bae13c349ad53bd:0x804637c7602d40f4",
+   "rating": 4.4,
+   "reviews": 4900,
+   "type": "Pub",
+   "address": "4th Floor, above More Hypermarket, near INNOVATIVE MULTIPLEX",
+   "gps_coordinates": {
+    "latitude": 12.948181,
+    "longitude": 77.69866
+   }
+  },
+  {
+   "position": 6,
+   "title": "TBC Sky Lounge - Kadubisanahalli- Marathahalli Outer Ring Road | Fabulous Terrace Lounge- Rooftop Restaurant & Bar",
+   "place_id": "ChIJMaqAe7ETrjsRNIPc6ouBw4Y",
+   "data_id": "0x3bae13b17b80aa31:0x86c3818beadc8334",
+   "rating": 4.3,
+   "reviews": 9500,
+   "type": "Lounge bar",
+   "address": "5th Floor, Berry's Hotel, 36/1, Marathahalli - Sarjapur Outer Ring Rd, opposite JP Morgan",
+   "gps_coordinates": {
+    "latitude": 12.941811,
+    "longitude": 77.697105
+   }
+  },
+  {
+   "position": 7,
+   "title": "Beige Bangalore",
+   "place_id": "ChIJ_RTLqL4TrjsR8l6SHZ7q1Ok",
+   "data_id": "0x3bae13bea8cb14fd:0xe9d4ea9e1d925ef2",
+   "rating": 4.6,
+   "reviews": 5200,
+   "type": "Pub",
+   "address": "Rooftop, Vanshree Towers, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.952761,
+    "longitude": 77.699684
+   }
+  },
+  {
+   "position": 8,
+   "title": "Helen’s Place Marathahalli",
+   "place_id": "ChIJISjqf-gTrjsRX8zXxHlAKkg",
+   "data_id": "0x3bae13e87fea2821:0x482a4079c4d7cc5f",
+   "rating": 4.3,
+   "reviews": 5600,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Bar",
+   "address": "No 90 Above Titan World, Marathahalli , Service Road, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.950847,
+    "longitude": 77.69989
+   }
+  },
+  {
+   "position": 9,
+   "title": "Tight Tiger Resto Pub Marathahalli",
+   "place_id": "ChIJFawcQ5MTrjsROOK5c7_rIMQ",
+   "data_id": "0x3bae1393431cac15:0xc420ebbf73b9e238",
+   "rating": 4.4,
+   "reviews": 207,
+   "type": "Pub",
+   "address": "185, Near, Marathalli Brg, above Bhagini sprits, above Bhagini spirits",
+   "gps_coordinates": {
+    "latitude": 12.957128,
+    "longitude": 77.702
+   }
+  },
+  {
+   "position": 10,
+   "title": "Tropika Brewing Co",
+   "place_id": "ChIJnytVQY0TrjsR_Cs1pYPdg1Y",
+   "data_id": "0x3bae138d41552b9f:0x5683dd83a5352bfc",
+   "rating": 4.5,
+   "reviews": 5800,
+   "type": "Brewpub",
+   "address": "37/1, Outer Ring Rd, next to Shell Petrol Bunk",
+   "gps_coordinates": {
+    "latitude": 12.942437,
+    "longitude": 77.69751
+   }
+  },
+  {
+   "position": 11,
+   "title": "SkyLine Rooftop Bar & Kitchen 2.0",
+   "place_id": "ChIJ_cIDwu8RrjsRtY7PoH3_5IE",
+   "data_id": "0x3bae11efc203c2fd:0x81e4ff7da0cf8eb5",
+   "rating": 4.5,
+   "reviews": 1800,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.979435,
+    "longitude": 77.69538
+   }
+  },
+  {
+   "position": 12,
+   "title": "Shift Lounge, Marathahalli",
+   "place_id": "ChIJBb6-F4kTrjsRfGmqVu4SomA",
+   "data_id": "0x3bae138917bebe05:0x60a212ee56aa697c",
+   "rating": 3.8,
+   "reviews": 766,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Pub",
+   "address": "172/5, OUTER RING ROAD, KADUBEESANAHALL, PANATHUR, above BLOOM HUB || ORR",
+   "gps_coordinates": {
+    "latitude": 12.94676,
+    "longitude": 77.69902
+   }
+  },
+  {
+   "position": 13,
+   "title": "Zodiac Bar & Kitchen",
+   "place_id": "ChIJt5MZS9cTrjsRGBeysPVuJdM",
+   "data_id": "0x3bae13d74b1993b7:0xd3256ef5b0b21718",
+   "rating": 4.2,
+   "reviews": 4300,
+   "type": "Grill",
+   "address": "42/3, Marathahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.955946,
+    "longitude": 77.711716
+   }
+  },
+  {
+   "position": 14,
+   "title": "Frenzy -Pub ( Craft Beer & Kitchen ) Bangalore",
+   "place_id": "ChIJeVioHNMTrjsR_rhtOfEKirY",
+   "data_id": "0x3bae13d31ca85879:0xb68a0af1396db8fe",
+   "rating": 4.4,
+   "reviews": 300,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "4th Floor, King's Cross 90/1b",
+   "gps_coordinates": {
+    "latitude": 12.951707,
+    "longitude": 77.69943
+   }
+  },
+  {
+   "position": 15,
+   "title": "Deck of Brews- Brewery & Kitchen",
+   "place_id": "ChIJPduVcHETrjsRS0EL_cMmaFE",
+   "data_id": "0x3bae13717095db3d:0x516826c3fd0b414b",
+   "rating": 4.2,
+   "reviews": 4000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "Gear School Rd",
+   "gps_coordinates": {
+    "latitude": 12.932716,
+    "longitude": 77.69659
+   }
+  },
+  {
+   "position": 16,
+   "title": "BOHO Rooftop Restaurant & Bar",
+   "place_id": "ChIJBcyctC8TrjsRgkxoUNWDzvM",
+   "data_id": "0x3bae132fb49ccc05:0xf3ce83d550684c82",
+   "rating": 4,
+   "reviews": 4600,
+   "type": "Restaurant",
+   "address": "Brookefield Mall, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.965916,
+    "longitude": 77.71812
+   },
+   "comment": "Cool hangout for diverse eats & drinks",
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Panacea lounge and cocktail restobar",
+   "place_id": "ChIJ20p7ZQATrjsROgGt9avgpzA",
+   "data_id": "0x3bae1300657b4adb:0x30a7e0abf5ad013a",
+   "rating": 4.7,
+   "reviews": 114,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Lounge bar",
+   "address": "2ND FLOOR, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan",
+   "gps_coordinates": {
+    "latitude": 12.9414015,
+    "longitude": 77.6967
+   }
+  },
+  {
+   "position": 18,
+   "title": "Runway 27 Taproom and Kitchen",
+   "place_id": "ChIJ22dlU9QTrjsRrHwhJ4UeyXc",
+   "data_id": "0x3bae13d4536567db:0x77c91e8527217cac",
+   "rating": 4.1,
+   "reviews": 956,
+   "type": "Restaurant",
+   "address": "Yemalur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.950114,
+    "longitude": 77.68967
+   }
+  },
+  {
+   "position": 19,
+   "title": "Tipsyy Bull Brewhouse And Kitchen - Whitefield",
+   "place_id": "ChIJ9_RrTQARrjsRmoQ1jNDipmk",
+   "data_id": "0x3bae11004d6bf4f7:0x69a6e2d08c35849a",
+   "rating": 4.7,
+   "reviews": 4300,
+   "type": "Brewery",
+   "address": "13/4, Hoodi Main Road, Graphite India Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.988455,
+    "longitude": 77.710304
+   }
+  },
+  {
+   "position": 20,
+   "title": "Cheers Bar & Canteen",
+   "place_id": "ChIJ6yzvVU0TrjsRJb07-9t8bXE",
+   "data_id": "0x3bae134d55ef2ceb:0x716d7cdbfb3bbd25",
+   "rating": 4.5,
+   "reviews": 526,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Grill",
+   "address": "90/2,soulspace, next to iron hill",
+   "gps_coordinates": {
+    "latitude": 12.951365,
+    "longitude": 77.69828
+   }
+  }
+ ]
+}

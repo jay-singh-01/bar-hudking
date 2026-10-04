@@ -1,0 +1,425 @@
+{
+ "q": "bars and pubs in Malleshwaram Bangalore",
+ "ll": "@13.0077,77.5694,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:30:23.139Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Hydeout Bar and Lounge at Sheraton Grand Bangalore Hotel @ Brigade Gateway",
+   "place_id": "ChIJ3TB2wng9rjsRCqUr1KgqO78",
+   "data_id": "0x3bae3d78c27630dd:0xbf3b2aa8d42ba50a",
+   "rating": 4.2,
+   "reviews": 128,
+   "type": "Bar",
+   "address": "4th Floor, at, Sheraton Grand, Brigade Gateway, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.011183,
+    "longitude": 77.556984
+   },
+   "comment": "Upscale Italian spot with a city view",
+   "extensions": [
+    "Closed",
+    "Opens 3 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Sangeet Family Restaurant & Bar",
+   "place_id": "ChIJMbyXsCIWrjsRHiMa-dV_T6k",
+   "data_id": "0x3bae1622b097bc31:0xa94f7fd5f91a231e",
+   "rating": 3.9,
+   "reviews": 766,
+   "price": "₹400–800",
+   "extracted_price": {
+    "min": 400,
+    "max": 800
+   },
+   "type": "Bar",
+   "address": "XHQF+X3P",
+   "gps_coordinates": {
+    "latitude": 12.98997,
+    "longitude": 77.57271
+   }
+  },
+  {
+   "position": 4,
+   "title": "Geometry Gastropub - New BEL Road",
+   "place_id": "ChIJb7B2tY8XrjsRoPHpsZcjjUU",
+   "data_id": "0x3bae178fb576b06f:0x458d2397b1e9f1a0",
+   "rating": 4.5,
+   "reviews": 3500,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Pub",
+   "address": "30 postal address 472, New BEL Rd, next to shanthi sagar hotel",
+   "gps_coordinates": {
+    "latitude": 13.036821,
+    "longitude": 77.566
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "PEBBLE The Jungle Lounge",
+   "place_id": "ChIJLxh4XLUXrjsRfmwZH2yjQN0",
+   "data_id": "0x3bae17b55c78182f:0xdd40a36c1f196c7e",
+   "rating": 3.9,
+   "reviews": 2800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Lounge bar",
+   "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd",
+   "gps_coordinates": {
+    "latitude": 13.004424,
+    "longitude": 77.58484
+   },
+   "comment": "Lounge & club with a chilled out cafe",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "BELL BAR AND RESTAURANT",
+   "place_id": "ChIJgXyHLoI9rjsRiBLdEun9fJI",
+   "data_id": "0x3bae3d822e877c81:0x927cfde912dd1288",
+   "rating": 3.7,
+   "reviews": 378,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "465/25/1, Tank Bund road",
+   "gps_coordinates": {
+    "latitude": 13.00817,
+    "longitude": 77.55574
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Sadashivnagar Comforts",
+   "place_id": "ChIJCUGnVjcXrjsRrUU7mfnPQQs",
+   "data_id": "0x3bae173756a74109:0xb41cff9993b45ad",
+   "rating": 4.8,
+   "reviews": 6,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "Sadashiva Nagar, 460, 11th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.011989,
+    "longitude": 77.57758
+   }
+  },
+  {
+   "position": 8,
+   "title": "1522 - The Pub New Bel Road",
+   "place_id": "ChIJgxLakt0XrjsRJmLNMX6Ud9k",
+   "data_id": "0x3bae17dd92da1283:0xd977947e31cd6226",
+   "rating": 4.3,
+   "reviews": 13000,
+   "type": "Pub",
+   "address": "3rd floor, 23, New BEL Rd",
+   "gps_coordinates": {
+    "latitude": 13.032733,
+    "longitude": 77.569435
+   },
+   "comment": "Stylish spot for cocktails & bar bites",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "BAR OH !",
+   "place_id": "ChIJ9SAbWqA9rjsRRbSDfVyulNU",
+   "data_id": "0x3bae3da05a1b20f5:0xd594ae5c7d83b445",
+   "rating": 5,
+   "reviews": 4,
+   "type": "Pub",
+   "address": "Plot 1699, 43, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 12.9939375,
+    "longitude": 77.55583
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "SAPTHAGIRI RESTOBAR & PUB",
+   "place_id": "ChIJ_____4w9rjsRPgrjFCePYkQ",
+   "data_id": "0x3bae3d8cffffffff:0x44628f2714e30a3e",
+   "rating": 3.9,
+   "reviews": 2100,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "No 638-E, 2nd Main, Near-Navarang Theater, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.001414,
+    "longitude": 77.55329
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Le Grapes Restobar",
+   "place_id": "ChIJiSa7saM9rjsRxfhYLfOmXTY",
+   "data_id": "0x3bae3da3b1bb2689:0x365da6f32d58f8c5",
+   "rating": 4.2,
+   "reviews": 3800,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "31, Chord Rd",
+   "gps_coordinates": {
+    "latitude": 12.996328,
+    "longitude": 77.55093
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Northwind Restaurant",
+   "place_id": "ChIJ_Znegx0VrjsRZGyRfKozL_I",
+   "data_id": "0x3bae151d83de99fd:0xf22f33aa7c916c64",
+   "rating": 4,
+   "reviews": 3300,
+   "type": "Bar",
+   "address": "Gagan Complex, 31, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.998206,
+    "longitude": 77.58137
+   },
+   "comment": "Multi-cuisine restaurant & roof garden",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Toro Brew House & Kitchen",
+   "place_id": "ChIJB7Eob_sXrjsRBsxaBTbCed4",
+   "data_id": "0x3bae17fb6f28b107:0xde79c236055acc06",
+   "rating": 4.2,
+   "reviews": 1300,
+   "type": "Brewpub",
+   "address": "33/3-A-1, D Rajgopala Road Sanjaynagar, 19",
+   "gps_coordinates": {
+    "latitude": 13.031472,
+    "longitude": 77.57719
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Gufha Restaurant, Kumarapark",
+   "place_id": "ChIJA0AIbscXrjsRKUg1mKrDU_s",
+   "data_id": "0x3bae17c76e084003:0xfb53c3aa98354829",
+   "rating": 4.7,
+   "reviews": 4800,
+   "type": "Restaurant",
+   "address": "101, Railway Parallel Rd",
+   "gps_coordinates": {
+    "latitude": 12.996257,
+    "longitude": 77.58388
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am",
+    "On the menu: bars and pubs"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Viking",
+   "place_id": "ChIJgelVyysWrjsR0FI1Dg6dElk",
+   "data_id": "0x3bae162bcb55e981:0x59129d0e0e3552d0",
+   "rating": 3.6,
+   "reviews": 1100,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Bar",
+   "address": "136, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.006492,
+    "longitude": 77.564835
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Nikki's Pub & Restaurant",
+   "place_id": "ChIJM5wdgs0XrjsRKAqekOqQhMw",
+   "data_id": "0x3bae17cd821d9c33:0xcc8490ea909e0a28",
+   "rating": 3.8,
+   "reviews": 731,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "5-B, 10th Cross, R M V Extenstion, Near-Swimming Pool, Sadashiv Nagar",
+   "gps_coordinates": {
+    "latitude": 13.014252,
+    "longitude": 77.573654
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Project Grain",
+   "place_id": "ChIJwbH0lP49rjsRGW-1P7k0Bis",
+   "data_id": "0x3bae3dfe94f4b1c1:0x2b0634b93fb56f19",
+   "rating": 4.4,
+   "reviews": 7,
+   "type": "Bar",
+   "address": "Hotel at, Microtopping India. World Trade Center, Brigade Gateway, Lobby Level, Sheraton Grand, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.01288,
+    "longitude": 77.55758
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Native Bar & Seafood",
+   "place_id": "ChIJF-DFVaMXrjsRHZmJQJnGd0A",
+   "data_id": "0x3bae17a355c5e017:0x4077c6994089991d",
+   "rating": 4.6,
+   "reviews": 48,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Bar",
+   "address": "24, 6th Main, 5th Main Rd, 3rd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.977406,
+    "longitude": 77.57684
+   }
+  },
+  {
+   "position": 19,
+   "title": "Shaken & Stirred",
+   "place_id": "ChIJ86o7rxEWrjsRSma28M_NZQA",
+   "data_id": "0x3bae1611af3baaf3:0x65cdcff0b6664a",
+   "rating": 4.1,
+   "reviews": 719,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Bar",
+   "address": "33, 5th Main, Sheshadri Road, Near Ananda Roa Circle, Race Course Road",
+   "gps_coordinates": {
+    "latitude": 12.980057,
+    "longitude": 77.576866
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Venus Restobar",
+   "place_id": "ChIJMSzBZgAXrjsR5Adxm2Ex_ks",
+   "data_id": "0x3bae170066c12c31:0x4bfe31619b7107e4",
+   "rating": 4.1,
+   "reviews": 18,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bar",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.975767,
+    "longitude": 77.57828
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

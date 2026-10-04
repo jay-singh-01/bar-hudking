@@ -1,0 +1,420 @@
+{
+ "q": "best restaurants in Jayanagar Bangalore",
+ "ll": "@12.9293,77.5852,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:59.520Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Maya Bangalore",
+   "place_id": "ChIJcWlIAtYVrjsRT1Cd3_2CYEI",
+   "data_id": "0x3bae15d602486971:0x426082fddf9d504f",
+   "rating": 4.4,
+   "reviews": 3700,
+   "type": "Asian",
+   "address": "5th block, 60, 10th main, 38th cross, 560041, nagar",
+   "gps_coordinates": {
+    "latitude": 12.922072,
+    "longitude": 77.584625
+   }
+  },
+  {
+   "position": 2,
+   "title": "The Wild Fork Best Restaurant in Jayanagar - La Marvella",
+   "place_id": "ChIJGRt_OiIVrjsR3M4vUGxp-C8",
+   "data_id": "0x3bae15223a7f1b19:0x2ff8696c502fcedc",
+   "rating": 4.8,
+   "reviews": 540,
+   "type": "Eclectic",
+   "address": "south end circle, La Marvella, Hotel, 14th Cross Rd, next to Infosys Science Foundation",
+   "gps_coordinates": {
+    "latitude": 12.937168,
+    "longitude": 77.58061
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "PHURR | Jayanagar",
+   "place_id": "ChIJ05c7FwAVrjsR6MdIv_EE_E4",
+   "data_id": "0x3bae1500173b97d3:0x4efc04f1bf48c7e8",
+   "rating": 4.7,
+   "reviews": 20000,
+   "type": "Fine Dining",
+   "address": "40, 22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.932811,
+    "longitude": 77.58301
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Moai, Jayanagar - Redefined Vegetarian Dining",
+   "place_id": "ChIJUS3ryxsVrjsR8-zbliXVuvQ",
+   "data_id": "0x3bae151bcbeb2d51:0xf4bad52596dbecf3",
+   "rating": 4.6,
+   "reviews": 6700,
+   "type": "Vegetarian",
+   "address": "790/43, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.925025,
+    "longitude": 77.583954
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Shokudo - Jayanagar",
+   "place_id": "ChIJwV40o14VrjsRJC12LzrC0Rs",
+   "data_id": "0x3bae155ea3345ec1:0x1bd1c23a2f762d24",
+   "rating": 4.6,
+   "reviews": 7100,
+   "type": "Pan Asian",
+   "address": "1st Floor, Shokudo Restaurant, 670, 11th, Aurobindo Marg",
+   "gps_coordinates": {
+    "latitude": 12.924548,
+    "longitude": 77.58584
+   }
+  },
+  {
+   "position": 6,
+   "title": "Go Native Jayanagar",
+   "place_id": "ChIJQTZA9p8VrjsRQxak6CEZqAU",
+   "data_id": "0x3bae159ff6403641:0x5a81921e8a41643",
+   "rating": 4.3,
+   "reviews": 10000,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "#64, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.922555,
+    "longitude": 77.584785
+   },
+   "comment": "Earthy cafe with vegetarian cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "The Green Plate Society",
+   "place_id": "ChIJ2e5TLO0VrjsRtWEnVf9pmb0",
+   "data_id": "0x3bae15ed2c53eed9:0xbd9969ff552761b5",
+   "rating": 4.5,
+   "reviews": 2900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "address": "The Green Plate Society, 34/1, 2nd floor, 36th cross, 6th, Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.923563,
+    "longitude": 77.5815
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Gufha Restaurant, Jayanagar",
+   "place_id": "ChIJtWPujJcVrjsRQCh66TorJPU",
+   "data_id": "0x3bae15978cee63b5:0xf5242b3ae97a2840",
+   "rating": 4.1,
+   "reviews": 9200,
+   "type": "Indian",
+   "address": "79/8, Diagonal Rd",
+   "gps_coordinates": {
+    "latitude": 12.933236,
+    "longitude": 77.5833
+   }
+  },
+  {
+   "position": 9,
+   "title": "Masaledaar Desi Rasoi - Jayanagar - Pure Vegetarian",
+   "place_id": "ChIJ028-vxQVrjsRzrK7cMfir7s",
+   "data_id": "0x3bae1514bf3e6fd3:0xbbafe2c770bbb2ce",
+   "rating": 4.4,
+   "reviews": 2400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "57, 1st Floor, SLV Arcade 9th Main Road, 40th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.919724,
+    "longitude": 77.583855
+   }
+  },
+  {
+   "position": 10,
+   "title": "Kapoor’s Cafe Jayanagar",
+   "place_id": "ChIJi7gozBIVrjsRSWYVQ_TzV60",
+   "data_id": "0x3bae1512cc28b88b:0xad57f3f443156649",
+   "rating": 4.2,
+   "reviews": 11000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Punjabi",
+   "address": "329, 10th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.932742,
+    "longitude": 77.58507
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Garden By Su",
+   "place_id": "ChIJGwElffQVrjsRMAfbj-Oqft0",
+   "data_id": "0x3bae15f47d25011b:0xdd7eaae38fdb0730",
+   "rating": 4.5,
+   "reviews": 2100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "499/32-4, 9th Main, 46th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.916657,
+    "longitude": 77.58353
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "1947 Restaurant Jayanagar",
+   "place_id": "ChIJKVn9f_gVrjsR-1SqCsfulo4",
+   "data_id": "0x3bae15f87ffd5929:0x8e96eec70aaa54fb",
+   "rating": 4.2,
+   "reviews": 2000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "1st Floor, Sannidhi, No.62, 11th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.927545,
+    "longitude": 77.58614
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Garci",
+   "place_id": "ChIJrQYJDQAVrjsRc6zkFiHUn5s",
+   "data_id": "0x3bae15000d0906ad:0x9b9fd42116e4ac73",
+   "rating": 4.4,
+   "reviews": 1600,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Vegetarian",
+   "address": "Ground & Mezzanine floor, No.51, Kanakapura Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.928274,
+    "longitude": 77.57672
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "ALE - Jayanagar",
+   "place_id": "ChIJi_lBO3gVrjsR1frl4swLAcI",
+   "data_id": "0x3bae15783b41f98b:0xc2010bcce2e5fad5",
+   "rating": 4.3,
+   "reviews": 318,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Tapas",
+   "address": "186/6, 25th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.931698,
+    "longitude": 77.58333
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Meghana Foods",
+   "place_id": "ChIJDZDp46EVrjsRgObcqyJbfyA",
+   "data_id": "0x3bae15a1e3e9900d:0x207f5b22abdce680",
+   "rating": 4.3,
+   "reviews": 36000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Hyderabadi",
+   "address": "52, 1st Floor, 33rd Cross Rd, near Cafe Coffee Day",
+   "gps_coordinates": {
+    "latitude": 12.926151,
+    "longitude": 77.58458
+   }
+  },
+  {
+   "position": 16,
+   "title": "Haveli, Heritage of The North, Jayanagar, Bangalore",
+   "place_id": "ChIJdTAjX4YVrjsRoMIZpSFKpVI",
+   "data_id": "0x3bae15865f233075:0x52a54a21a519c2a0",
+   "rating": 4.4,
+   "reviews": 330,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "North Indian",
+   "address": "30th Cross Rd, 400, 8th B Main Rd, near Jain Temple",
+   "gps_coordinates": {
+    "latitude": 12.9286,
+    "longitude": 77.58274
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "1966 - The Mumbai Cafe @ Jayanagar",
+   "place_id": "ChIJj5RMPB0VrjsRZFp6SFqtstA",
+   "data_id": "0x3bae151d3c4c948f:0xd0b2ad5a487a5a64",
+   "rating": 4.4,
+   "reviews": 890,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Maharashtrian Restaurant",
+   "address": "Ground floor, No.19 (Old No.136, 6th A Main Road",
+   "gps_coordinates": {
+    "latitude": 12.929435,
+    "longitude": 77.581665
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Ayoham Dining",
+   "place_id": "ChIJobI0ZpMVrjsRqR4LwpxEp48",
+   "data_id": "0x3bae15936634b2a1:0x8fa7449cc20b1ea9",
+   "rating": 4.5,
+   "reviews": 953,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "Second floor, 10th B Main Rd, opposite to Manak mewa, opposite Manak Mewa Dry Fruit",
+   "gps_coordinates": {
+    "latitude": 12.927304,
+    "longitude": 77.58582
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Thyme & Whisk | Vegetarian Restaurant in Jayanagar Bangalore",
+   "place_id": "ChIJW7nymkoVrjsR-iXU6-f9Ha8",
+   "data_id": "0x3bae154a9af2b95b:0xaf1dfde7ebd425fa",
+   "rating": 4.2,
+   "reviews": 4500,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "Sri Krishna Towers, 56/1, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.921998,
+    "longitude": 77.58387
+   },
+   "comment": "Relaxed spot for veggie global fare",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Ishtaa | Vegetarian Cuisine",
+   "place_id": "ChIJC7WV744VrjsRonavTkoh4m8",
+   "data_id": "0x3bae158eef95b50b:0x6fe2214a4eaf76a2",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "SRI VINAYAKA DEVALAYA, Ground Floor, 8/30, Old PID/KHATHA NO 60-157-30 SONI 6TH C MAIN ROAD, 30th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.928906,
+    "longitude": 77.58143
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  }
+ ]
+}

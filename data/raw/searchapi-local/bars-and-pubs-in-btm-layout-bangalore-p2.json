@@ -1,0 +1,393 @@
+{
+ "q": "bars and pubs in BTM Layout Bangalore",
+ "ll": "@12.9166,77.6101,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:30.637Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Boozy Griffin Bangalore",
+   "place_id": "ChIJyZ7MK04UrjsRMdiRfgNb3fk",
+   "data_id": "0x3bae144e2bcc9ec9:0xf9dd5b037e91d831",
+   "rating": 4.1,
+   "reviews": 6400,
+   "type": "Pub",
+   "address": "105, 1st A cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934438,
+    "longitude": 77.61592
+   },
+   "comment": "Bustling pub with dancing & DJs",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Invitation Resto -Bar",
+   "place_id": "ChIJ8Zlq4FYUrjsRaILZR-gwDcI",
+   "data_id": "0x3bae1456e06a99f1:0xc20d30e847d98268",
+   "rating": 3.7,
+   "reviews": 948,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "Subha Darshan Bar & Restaurant, 11, Hosur Rd",
+   "gps_coordinates": {
+    "latitude": 12.927316,
+    "longitude": 77.616394
+   },
+   "comment": "Casual restaurant for traditional fare",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "The Legends",
+   "place_id": "ChIJF0k5SusVrjsR8yi9W0sdsS0",
+   "data_id": "0x3bae15eb4a394917:0x2db11d4b5bbd28f3",
+   "rating": 4.5,
+   "reviews": 145,
+   "type": "Fine Dining",
+   "address": "UDUPI GARDEN, old, 16th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916162,
+    "longitude": 77.610275
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Gypsy Pub & Kitchen",
+   "place_id": "ChIJUelA6aoVrjsRMX125JeMQrQ",
+   "data_id": "0x3bae15aae940e951:0xb4428c97e4767d31",
+   "rating": 4,
+   "reviews": 922,
+   "type": "Pub",
+   "address": "44, 4th B Cross, Koramangala Industrial Layout",
+   "gps_coordinates": {
+    "latitude": 12.93407,
+    "longitude": 77.61571
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Casa Piccosa",
+   "place_id": "ChIJIcwpSBMVrjsRik0fEQkc-vg",
+   "data_id": "0x3bae15134829cc21:0xf8fa1c09111f4d8a",
+   "rating": 4,
+   "reviews": 5300,
+   "type": "Pub",
+   "address": "745/AB, 24th Main, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906096,
+    "longitude": 77.58545
+   },
+   "comment": "Cocktail bar with live entertainment",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Olive Street Food Cafe - Btm Layout",
+   "place_id": "ChIJTXf4zPQVrjsR1ByzpbQiQwY",
+   "data_id": "0x3bae15f4ccf8774d:0x64322b4a5b31cd4",
+   "rating": 4.6,
+   "reviews": 12000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913916,
+    "longitude": 77.61046
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "House of Commons",
+   "place_id": "ChIJ50afDbsVrjsR_oHqHPMIQW4",
+   "data_id": "0x3bae15bb0d9f46e7:0x6e4108f31cea81fe",
+   "rating": 4.4,
+   "reviews": 5700,
+   "type": "Bar",
+   "address": "No 1, ( old 141/37 ) 24th main 2nd phase JP Nagar Marenahalli main road Bangalore 560078",
+   "gps_coordinates": {
+    "latitude": 12.914248,
+    "longitude": 77.586044
+   },
+   "comment": "Pub grub in an upbeat locale",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Barrel House Bar And Kitchen",
+   "place_id": "ChIJNxqzJMFrrjsR280iePQcgBs",
+   "data_id": "0x3bae6bc124b31a37:0x1b801cf47822cddb",
+   "rating": 4.5,
+   "reviews": 1400,
+   "type": "Pub",
+   "address": "53/A, Bannerghatta Rd, near Royal Meenakshi Mall",
+   "gps_coordinates": {
+    "latitude": 12.876797,
+    "longitude": 77.59536
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Brick Lounge Resto-Pub",
+   "place_id": "ChIJtYrEctBrrjsR68XuwPegZt0",
+   "data_id": "0x3bae6bd072c48ab5:0xdd66a0f7c0eec5eb",
+   "rating": 3.9,
+   "reviews": 1500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "81, Sir M Vishweahwaraiah Road, BTM 6th stage",
+   "gps_coordinates": {
+    "latitude": 12.880761,
+    "longitude": 77.61024
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Tyla Brewery and Kitchen",
+   "place_id": "ChIJh_skfwAVrjsRjPVWY8P4xKc",
+   "data_id": "0x3bae15007f24fb87:0xa7c4f8c36356f58c",
+   "rating": 4.5,
+   "reviews": 561,
+   "type": "Brewpub",
+   "address": "3rd floor, 57, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.907527,
+    "longitude": 77.59942
+   }
+  },
+  {
+   "position": 11,
+   "title": "Jollygunj - JP Nagar",
+   "place_id": "ChIJnSaZ0sUVrjsR6ue-lW23OUg",
+   "data_id": "0x3bae15c5d299269d:0x4839b76d95bee7ea",
+   "rating": 4.5,
+   "reviews": 3300,
+   "type": "Bar",
+   "address": "3rd Floor. 71, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.9067745,
+    "longitude": 77.598
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Tales of Flamingo (TOF)",
+   "place_id": "ChIJdS2GvfQVrjsRJ572AQubsjw",
+   "data_id": "0x3bae15f4bd862d75:0x3cb29b0b01f69e27",
+   "rating": 4.4,
+   "reviews": 1700,
+   "type": "Pub",
+   "gps_coordinates": {
+    "latitude": 12.884149,
+    "longitude": 77.60464
+   },
+   "extensions": [
+    "BDA 80 Feet Rd",
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Swarnaloka Bar & Restaurant",
+   "place_id": "ChIJF-EIVA4VrjsRlWNcxapq8iU",
+   "data_id": "0x3bae150e5408e117:0x25f26aaac55c6395",
+   "rating": 3.4,
+   "reviews": 94,
+   "type": "Bar",
+   "gps_coordinates": {
+    "latitude": 12.916834,
+    "longitude": 77.60443
+   },
+   "extensions": [
+    "9th C Main Rd",
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Dolos: Bar and Kitchen",
+   "place_id": "ChIJL5SGfAAVrjsR9v3uCwajcfU",
+   "data_id": "0x3bae15007c86942f:0xf571a3060beefdf6",
+   "rating": 4.5,
+   "reviews": 477,
+   "type": "Pub",
+   "address": "Dalmia circle, 309, 3rd and 4th floor, Above DBS Bank 100ft Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906169,
+    "longitude": 77.59284
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Avon Bar And Kitchen",
+   "place_id": "ChIJyXvqME0UrjsRCgedViv72Y0",
+   "data_id": "0x3bae144d30ea7bc9:0x8dd9fb2b569d070a",
+   "rating": 4,
+   "reviews": 3400,
+   "type": "Bar",
+   "address": "5 2, Hosur Main Road",
+   "gps_coordinates": {
+    "latitude": 12.935865,
+    "longitude": 77.6084
+   }
+  },
+  {
+   "position": 16,
+   "title": "Bob's Bar - JP Nagar",
+   "place_id": "ChIJF5KdUQgVrjsRGg1xnXFWB-M",
+   "data_id": "0x3bae1508519d9217:0xe30756719d710d1a",
+   "rating": 4.2,
+   "reviews": 5200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "Survey 32, 15 And 16, Municipal 3, 4, 5, 14, Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.912032,
+    "longitude": 77.58601
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Millennials",
+   "place_id": "ChIJnRMvkwgVrjsRqAt0wYb_irM",
+   "data_id": "0x3bae1508932f139d:0xb38aff86c1740ba8",
+   "rating": 4.1,
+   "reviews": 1100,
+   "type": "Pub",
+   "address": "46, 100 Feet Ring Rd, opposite mandovi motors",
+   "gps_coordinates": {
+    "latitude": 12.907002,
+    "longitude": 77.6003
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Crumb Together",
+   "place_id": "ChIJhQBGuRsVrjsRGmMDUU9EjH4",
+   "data_id": "0x3bae151bb9460085:0x7e8c444f5103631a",
+   "rating": 3.9,
+   "reviews": 2800,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "45, 100 Feet Ring Rd, opposite to mandovi motors",
+   "gps_coordinates": {
+    "latitude": 12.90695,
+    "longitude": 77.600235
+   },
+   "comment": "Mixed-cuisine gastropub with casual vibe"
+  },
+  {
+   "position": 19,
+   "title": "The Reservoire Koramangala",
+   "place_id": "ChIJH3YpIVsUrjsRJBzG1Im39jc",
+   "data_id": "0x3bae145b2129761f:0x37f6b789d4c61c24",
+   "rating": 4.3,
+   "reviews": 16000,
+   "type": "Pub",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933466,
+    "longitude": 77.62222
+   },
+   "comment": "Chic, bi-level lounge with Indian fare",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Nanjundeshwara Bar And Restaurant",
+   "place_id": "ChIJvbg_zAQVrjsRaQQByzr_h6U",
+   "data_id": "0x3bae1504cc3fb8bd:0xa587ff3acb010469",
+   "rating": 4,
+   "reviews": 108,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Bar",
+   "address": "Shop No.13, 7C, B.G Road",
+   "gps_coordinates": {
+    "latitude": 12.911239,
+    "longitude": 77.600174
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,438 @@
+{
+ "q": "cafes in Sarjapur Road Bangalore",
+ "ll": "@12.901,77.687,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:42:49.955Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Badmaash Sarjapur",
+   "place_id": "ChIJq5kcSAATrjsRZi-NchRSyrQ",
+   "data_id": "0x3bae1300481c99ab:0xb4ca5214728d2f66",
+   "rating": 4,
+   "reviews": 1900,
+   "type": "Family-friendly",
+   "address": "4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump",
+   "gps_coordinates": {
+    "latitude": 12.909308,
+    "longitude": 77.687645
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Chai Days Sarjapur Road",
+   "place_id": "ChIJ18Slnl4TrjsRHdQwKYzQxck",
+   "data_id": "0x3bae135e9ea5c4d7:0xc9c5d08c2930d41d",
+   "rating": 3.9,
+   "reviews": 469,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "No.53/1, Ashrith Aries, Sarjapur Main Rd, near Reliance Fashion Factory",
+   "gps_coordinates": {
+    "latitude": 12.909326,
+    "longitude": 77.687416
+   }
+  },
+  {
+   "position": 3,
+   "title": "The Golden Circle Brewery",
+   "place_id": "ChIJPR-ZhNQTrjsRL5ghswxh8qs",
+   "data_id": "0x3bae13d484991f3d:0xabf2610cb321982f",
+   "rating": 4.5,
+   "reviews": 3800,
+   "type": "Brewery",
+   "address": "Sy. No. 41/9, BBMP No. 154/41/9, Doddakanneli, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908461,
+    "longitude": 77.69023
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "RamSetu Cafe",
+   "place_id": "ChIJtZq0YjcTrjsRZTuyqV6tktM",
+   "data_id": "0x3bae133762b49ab5:0xd392ad5ea9b23b65",
+   "rating": 4.1,
+   "reviews": 2100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "No-58, Sarjapur - Marathahalli Rd, near to spandana hospital",
+   "gps_coordinates": {
+    "latitude": 12.868636,
+    "longitude": 77.76659
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJfVUX93UTrjsRfDOTg7KmX6Q",
+   "data_id": "0x3bae1375f717557d:0xa45fa6b28393337c",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "83&, 84, Sarjapur - Marathahalli Rd, opp. to DSR Woodwinds",
+   "gps_coordinates": {
+    "latitude": 12.909384,
+    "longitude": 77.687225
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Pasta Street - Sarjapur",
+   "place_id": "ChIJpSFpffgTrjsR5-dtOEq1ec4",
+   "data_id": "0x3bae13f87d6921a5:0xce79b54a386de7e7",
+   "rating": 4.4,
+   "reviews": 846,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Italian",
+   "address": "1st Floor, S K Arcade, Sy33/1, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.907164,
+    "longitude": 77.69465
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Byg Brewski Brewing Company",
+   "place_id": "ChIJ6VlNkBETrjsRTQamSEJHQiI",
+   "data_id": "0x3bae1311904d59e9:0x2242474248a6064d",
+   "rating": 4.3,
+   "reviews": 46000,
+   "type": "Brewpub",
+   "address": "10/62/2A/2 & 3, Sarjapur Main Rd, behind MK Retail, near WIpro Corporate Office",
+   "gps_coordinates": {
+    "latitude": 12.913142,
+    "longitude": 77.683075
+   },
+   "comment": "Chic brewpub with an Asian menu",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Street 1522",
+   "place_id": "ChIJhTKgXZkTrjsRFNLSdAsX25Y",
+   "data_id": "0x3bae13995da03285:0x96db170b74d2d214",
+   "rating": 4.2,
+   "reviews": 8700,
+   "type": "North Indian",
+   "address": "Carmelaram Rd",
+   "gps_coordinates": {
+    "latitude": 12.903146,
+    "longitude": 77.70446
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Sarjapur Social",
+   "place_id": "ChIJ8VUwH0ATrjsR1Z2VaSRNiKA",
+   "data_id": "0x3bae13401f3055f1:0xa0884d2469959dd5",
+   "rating": 4.2,
+   "reviews": 13000,
+   "type": "Bar",
+   "address": "Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.90986,
+    "longitude": 77.68555
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "TeaMax Cafe Sarjapura Bengaluru",
+   "place_id": "ChIJ_cCwGa9zrjsRe36FNmWYyHc",
+   "data_id": "0x3bae73af19b0c0fd:0x77c8986536857e7b",
+   "rating": 4.8,
+   "reviews": 52,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Khata No.1095/2, Sarjapura - Attibele Rd, opp. Lavish kitchen Bar",
+   "gps_coordinates": {
+    "latitude": 12.857717,
+    "longitude": 77.78335
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Heartfull Cafe",
+   "place_id": "ChIJ8zrMrZgTrjsRceCatd_CTxU",
+   "data_id": "0x3bae1398adcc3af3:0x154fc2dfb59ae071",
+   "rating": 4.9,
+   "reviews": 186,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "47 Shubh Enclave, Haralur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913993,
+    "longitude": 77.66682
+   },
+   "extensions": [
+    "Closed",
+    "Opens 4 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Murphy's Cafe",
+   "place_id": "ChIJ0UHARzYTrjsResJP_QhlXhU",
+   "data_id": "0x3bae133647c041d1:0x155e6508fd4fc27a",
+   "rating": 4.7,
+   "reviews": 80,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Cafe",
+   "address": "Kodathi JHC, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.896894,
+    "longitude": 77.70618
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "NaNi's Irani Cafe",
+   "place_id": "ChIJ7-fPs8sTrjsR3viJwA4TU18",
+   "data_id": "0x3bae13cbb3cfe7ef:0x5f53130ec089f8de",
+   "rating": 4.9,
+   "reviews": 145,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "No. 65/1A, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912255,
+    "longitude": 77.68179
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Adhira & Appa coffee, Sarjapur",
+   "place_id": "ChIJ26V_JMMTrjsRHTRQkjjFy3w",
+   "data_id": "0x3bae13c3247fa5db:0x7ccbc5389250341d",
+   "rating": 4.3,
+   "reviews": 47,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "WM99+Q7H",
+   "gps_coordinates": {
+    "latitude": 12.919437,
+    "longitude": 77.66819
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Thyme & Whisk | Vegetarian Restaurant in Sarjapur Bangalore",
+   "place_id": "ChIJ7ZlBb5gTrjsRebm6qfgcHdY",
+   "data_id": "0x3bae13986f4199ed:0xd61d1cf8a9bab979",
+   "rating": 4.2,
+   "reviews": 3300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "Ground Floor, Kumar Arcade, Sy No 10/3, Khata no 2055 Kainkondrahalli Village, Varthur Hobli, off, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916079,
+    "longitude": 77.67303
+   },
+   "comment": "Chic choice for global veggie fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Back Post",
+   "place_id": "ChIJL7oAkKATrjsRoePs-IWahRs",
+   "data_id": "0x3bae13a09000ba2f:0x1b859a85f8ece3a1",
+   "rating": 4.6,
+   "reviews": 74,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Hadosiddapura, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.900164,
+    "longitude": 77.70354
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Café Amudham Restaurant Sarjapur",
+   "place_id": "ChIJu_RYDl0TrjsRcyXHHBKBzH4",
+   "data_id": "0x3bae135d0e58f4bb:0x7ecc81121cc72573",
+   "rating": 3.9,
+   "reviews": 528,
+   "price": "₹1–400",
+   "extracted_price": {
+    "min": 1,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "1-2, Suncity Apartments Ln",
+   "gps_coordinates": {
+    "latitude": 12.921994,
+    "longitude": 77.66506
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Dua's Cafe",
+   "place_id": "ChIJB9slFDATrjsR5cOZxXF8e5Y",
+   "data_id": "0x3bae13301425db07:0x967b7c71c599c3e5",
+   "rating": 4.8,
+   "reviews": 39,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "298, Gear School Road, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.910726,
+    "longitude": 77.697784
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Wille's Pet Paradise",
+   "place_id": "ChIJEx_sIaQTrjsRLyjp9JHNiv4",
+   "data_id": "0x3bae13a421ec1f13:0xfe8acd91f4e9282f",
+   "rating": 4.7,
+   "reviews": 2800,
+   "type": "Dog cafe",
+   "address": "55, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.904255,
+    "longitude": 77.721016
+   },
+   "comment": "Sandwiches & tea in a casual dog cafe",
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Chai Sutta Bar Sarjapur",
+   "place_id": "ChIJzUZ0XuwTrjsR43nmsnmWCE0",
+   "data_id": "0x3bae13ec5e7446cd:0x4d089679b2e679e3",
+   "rating": 4.2,
+   "reviews": 90,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Mullur, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.900001,
+    "longitude": 77.71371
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

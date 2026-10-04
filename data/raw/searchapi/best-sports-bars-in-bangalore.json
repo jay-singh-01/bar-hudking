@@ -1,0 +1,1112 @@
+{
+ "q": "best sports bars in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:39:45.338Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJmYFyxAUUrjsRQ2009RsA3cM",
+   "data_id": "0x3bae1405c4728199:0xc3dd001bf5346d43",
+   "title": "Big Pitcher Indiranagar",
+   "description": "Hip brewpub with bar fare & events. Cool, sizable hangout for bar bites and house-brewed beers, plus pub quizzes and stand-up comedy.",
+   "address": "Ward No.88, L R Arcade, No.4121, HAL Old Airport Rd, next to The Leela Palace, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095909 05000",
+   "rating": 4.4,
+   "reviews": 30916,
+   "website": "https://www.bigpitcher.co.in/indiranagar-best-pub-bangalore/",
+   "domain": "bigpitcher.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9602204,
+    "longitude": 77.6468902
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Barbecue restaurant",
+    "Brewpub",
+    "Cocktail bar",
+    "Dance club",
+    "Night club",
+    "Pub",
+    "Restaurant",
+    "Sports bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/big-pitcher-kodihalli-indiranagar-bangalore-19385/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmseT5REnF0QVJeubW0HfWCrRj66k3gpNOgOik8xwxS-XmK6l2bMaOa9wjZ0nhHAap1XhGth9WKHhG-AJGnpkKR014Pqvt6doq9G6xF1g0nmdXxc1IgKAKia-r_9PXvkmrJGb3F=w137-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJjZsmvE0XrjsRnCNWj3DDioc",
+   "data_id": "0x3bae174dbc269b8d:0x878ac3708f56239c",
+   "title": "Amoeba Sports Bar- Church Street",
+   "address": "Amoeba complex, 22, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091872 50251",
+   "rating": 4.6,
+   "reviews": 203,
+   "website": "https://www.instagram.com/amoeba.sportsbar?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9746781,
+    "longitude": 77.60490279999999
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/amoeba-sports-bar-church-street-central-bengaluru-712991",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxqH1jOWdr72i3QCiCi0oKGtV-FGLOWnlrhMRylewab3ieHESb2eeZ_ysKSvGmcmeGC1BHYOu8xVMPHRXi9qBBJuAVTGbQsEYdxH6FHI2qochPR9C0TxOGtwKwRA_5FMdPT3Y33hLLx0_c=w137-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJ2xQQJKsRrjsRaa5O75v2jfo",
+   "data_id": "0x3bae11ab241014db:0xfa8df69bef4eae69",
+   "title": "Underdoggs Whitefield",
+   "address": "Unit No.06, Second Floor No.18, TOWER-B, Primeco Union City, Hobli, Sadara Mangala Industrial Area, Sadaramangala, Krishnarajapuram, Bengaluru, Karnataka 560066",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090028 91008",
+   "rating": 4.7,
+   "reviews": 2535,
+   "website": "https://underdoggs.com/whitefield-bangalore/",
+   "domain": "underdoggs.com",
+   "gps_coordinates": {
+    "latitude": 12.9886121,
+    "longitude": 77.733161
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Bar",
+    "Cafe",
+    "Restaurant",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/underdoggs-whitefield-whitefield-koramangala-bangalore-1276653/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWntDMSmWoC7EUzcHoGdptwi2FkmIfWqSO8gIGcS6aRSjFDuniRYAg3ioQjjzQt0_Qk4Iw6AYgQgNOOLzZJ6V9ZIIPIDDuWwJlqEidgKstijlmwH-zDN-oBpdnjEDKshPqrJW2X8qfFhhE8a=w138-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJNyq8wKUWrjsRRnrVyj_jLOQ",
+   "data_id": "0x3bae16a5c0bc2a37:0xe42ce33fcad57a46",
+   "title": "Doff Estd. 2011",
+   "description": "Lively sports bar with football on TV. High-energy pub with Indian & foreign beers, plus casual bites & lots of TVs showing football.",
+   "address": "Doffpub , 654, 2nd, 10th A Main Rd, above BIBA, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091139 10316",
+   "rating": 4.2,
+   "reviews": 4854,
+   "gps_coordinates": {
+    "latitude": 12.9773763,
+    "longitude": 77.64070339999999
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Bar",
+    "Beer hall",
+    "Coffee store",
+    "Lounge bar",
+    "North Indian restaurant",
+    "Pizza restaurant",
+    "Restaurant",
+    "Pub"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 9:30 am",
+   "open_hours": {
+    "sunday": "9:30 am–12:30 am",
+    "monday": "9:30 am–12:30 am",
+    "tuesday": "9:30 am–12:30 am",
+    "wednesday": "9:30 am–12:30 am",
+    "thursday": "9:30 am–12:30 am",
+    "friday": "9:30 am–12:30 am",
+    "saturday": "9:30 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/doff-pub-and-cafe-indiranagar-bangalore-471044/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktufAqQw33xYF5LR8JGvS_9ZwwOYOa0ODZgRl2PFFe89Zo7iQCjxJHLgH6BfgZ3z3w2ryGFC1n7w-XBQZv8iVSxqM4FbvZVI4mWI5G3GdgZaKeDWqswJ15d3c0sz9fjGCHj9ZkOA=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJ_6HD7QYTrjsRfxrf-ZUSNbA",
+   "data_id": "0x3bae1306edc3a1ff:0xb0351295f9df1a7f",
+   "title": "The Studs Sports Bar: Taproom & All Day Diner ETV",
+   "address": "Unit 3 & 4, BLOCK-E, Embassy TechVillage, GF, Outer Ring Rd, Devarabisanahalli, Kadubeesanahalli, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091646 66652",
+   "rating": 4.6,
+   "reviews": 646,
+   "website": "https://www.thestuds.in/",
+   "domain": "thestuds.in",
+   "gps_coordinates": {
+    "latitude": 12.9276814,
+    "longitude": 77.6918496
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill",
+    "Diner"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "Closed",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-studs-sports-bar-grill-kadubeesanahalli-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gv237pIh6AqOnLcps64wes0r_1_YHL_-mGsSfPyNMFEfS3RuOuNl9uPuumnxUFzpuBMiJZmOBk3Ibw6ZWmqaz4ZK9mAXtEpXmSymV14AlE4JTSMoY%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmQPG4AokaW6XeenVPMUbunALqFYv-CQRpXKNJRWCfpGvdL-aL5YZddr_U7rCn_3G7tOw0fDzYM8hT29CoJQ02BrRtaBN9Su45xQd7dT3Z1tERwUi_25sjW6NUEl1kjZHD0uGBS5y06MZY=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJA7Evn_E_rjsR9mJ_gUo9cwo",
+   "data_id": "0x3bae3ff19f2fb103:0xa733d4a817f62f6",
+   "title": "PATTE SPORTS BENGALURU",
+   "address": "4th Cross Rd, Gowdanapalya, Uttarahalli Hobli, Bengaluru, Karnataka 560061",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 12,
+   "gps_coordinates": {
+    "latitude": 12.9098184,
+    "longitude": 77.55770079999999
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open 24 hours",
+   "open_hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "9 am–9 pm",
+    "sunday": "Open 24 hours"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpTUOTypNRN_ujCuXwHp0-EoSFb43CnamedV528RSugHYKLZodNQoAKEuTb00jgctIIEknHBJwETzHhjBMyO5JujK0KIhszxZkNx5EffQSSoGrVyv0eREAVz7RwwWpbKFduSBtvFRV00s=w80-h106-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJizF6HOURrjsRKMyA0ufalJ8",
+   "data_id": "0x3bae11e51c7a318b:0x9f94dae7d280cc28",
+   "title": "Amoeba Sports Bar",
+   "address": "ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.3,
+   "reviews": 3977,
+   "website": "https://www.zomato.com/bangalore/amoeba-sports-bar-whitefield-bangalore",
+   "domain": "zomato.com",
+   "gps_coordinates": {
+    "latitude": 12.9871443,
+    "longitude": 77.7366557
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Bowling alley"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11 pm",
+    "tuesday": "10 am–11 pm",
+    "wednesday": "10 am–11 pm",
+    "thursday": "10 am–11 pm",
+    "friday": "10 am–11 pm",
+    "saturday": "10 am–11 pm",
+    "sunday": "10 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/amoeba-sports-bar-ascendas-park-square-whitefield-335161",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlqyywPmPQhIjoeNKIR4nd-7csfTKNoXy0qGQm1_0rUSsgDpaAXSjJI_t-_dEF8s2Ks_lzvdDdDocp3IIe4_yZseq-x_HLgYCnRmRK19TMp3-W5v_08AlY5nG0Bgg5wTqbqD8hE=w163-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJMYZlS40XrjsRB_M-a_xVlfw",
+   "data_id": "0x3bae178d4b658631:0xfc9555fc6b3ef307",
+   "title": "RCB Bar and Cafe",
+   "address": "5th & 6 th Floor, Garuda Mall, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099809 99944",
+   "rating": 4.3,
+   "reviews": 3452,
+   "website": "https://www.royalchallengers.com/rcb-bar-cafe",
+   "domain": "royalchallengers.com",
+   "gps_coordinates": {
+    "latitude": 12.970054,
+    "longitude": 77.60960829999999
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12:30 pm",
+   "open_hours": {
+    "sunday": "12:30 pm–12:30 am",
+    "monday": "12:30 pm–12:30 am",
+    "tuesday": "12:30 pm–12:30 am",
+    "wednesday": "12:30 pm–12:30 am",
+    "thursday": "12:30 pm–12:30 am",
+    "friday": "12:30 pm–12:30 am",
+    "saturday": "12:30 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/rcb-bar-cafe-brigade-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g_gZMh7vmWSvOnwzXslV7Wd4tyNyMT9yDIAdIqS4am4RBPmqXi4UyeMPvR5ZtfiRObeQDvkx16xfkRo8f1u0Vv6nBz0Kja1-oQmb9JI4jHPNfiw00%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkbUNckau4pmdDCjXAOgNBu5SgZwZHNDdPNrjbFzVSgXBM4qN5GvLHAF2UKUHVyz_98S80_laIs5h1koTQKbFptvlV7xY0_ifBoNMFIT8tlZygDLFiUlD-4d7ZUWjzQoeCXXEl_eA=w163-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "title": "Just BLR",
+   "description": "Vibrant bar for live music & global eats. International dishes, veggie fare & beer offered in a buzzing bar with live music & karaoke nights.",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "094296 90754",
+   "rating": 4.7,
+   "reviews": 26956,
+   "website": "http://www.justblr.com/",
+   "domain": "justblr.com",
+   "gps_coordinates": {
+    "latitude": 12.9732755,
+    "longitude": 77.6073169
+   },
+   "type": "Gastropub",
+   "types": [
+    "Gastropub",
+    "Bistro",
+    "Cocktail bar",
+    "Live music venue",
+    "Lounge bar",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/just-blr-1-brigade-road-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDl0hOv1tNZUPR2i7tY27X-nuwY35Q4XHmZZBdOGRkNwam1kz4D7aPl38ln8wr4WStBpa6hQITyTmfRld-uKZ9j0J_ru9e6n9WLU0KtbacZSCaM3oqNSifDtGjmXvjFxwF64HuNQ=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJc0JAFaUWrjsRRXSXJPX7YFo",
+   "data_id": "0x3bae16a515404273:0x5a60fbf524977445",
+   "title": "Toit",
+   "description": "Rustic microbrewery with facility tours. Brick-walled microbrewery offering naturally crafted beers, hearty pub grub & brewery tours.",
+   "address": "6/2, 100 Feet Rd, near Drops Total Spirites, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090197 13388",
+   "rating": 4.5,
+   "reviews": 62683,
+   "website": "https://toit.in/restaurant/toit-bangalore/",
+   "domain": "toit.in",
+   "gps_coordinates": {
+    "latitude": 12.9795441,
+    "longitude": 77.6406542
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "American restaurant",
+    "Bar",
+    "Italian restaurant",
+    "Pizza restaurant",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8:30 am",
+   "open_hours": {
+    "sunday": "8:30 am–1 am",
+    "monday": "8:30 am–1 am",
+    "tuesday": "8:30 am–1 am",
+    "wednesday": "8:30 am–1 am",
+    "thursday": "8:30 am–1 am",
+    "friday": "8:30 am–1 am",
+    "saturday": "8:30 am–1 am"
+   },
+   "reservation": {
+    "link": "https://toit.in/bangalore-reservation/",
+    "source": "toit.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnki_KUV0nfb59QwQWQZAwX2noGsWxsNOpQOc6B6g8Xb3EQDPKuOpq_YDyKbgnb9mbOceA8i74k0PGNg7Ru6PPLlZM0iLxg12Rd6kopHSMQRhlY6G8ucPHLcswj2Hd3hl0XFq8D=w126-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJi6qiwBgZrjsR398FlRdlnhg",
+   "data_id": "0x3bae1918c0a2aa8b:0x189e65179505dfdf",
+   "title": "Underdoggs Hebbal",
+   "address": "Ground Floor, Godrej Centre, Sahakar Nagar, Byatarayanapura, Bengaluru, Karnataka 560092",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070907 08555",
+   "rating": 4.8,
+   "reviews": 3070,
+   "website": "https://www.underdoggs.com/",
+   "domain": "underdoggs.com",
+   "gps_coordinates": {
+    "latitude": 13.0605477,
+    "longitude": 77.5921924
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/underdoggs-hebbal-sahakara-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_go-TkeZaJZWU3OJxdCIjxOSxedjTSn-Vv8p8FN-8hsxWF3vIJaPJqzdCaLZLP-xgYr-WsSMcQ9NpHC2yjSugrEeRBuJ__-Fv5aeaou0UvCTPlwL3s%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBj4ABtpgz9OB8P0E7Qfj3_yveEkfeGA00fnYRjH5sND-j4hq7msqtEVX7B0m9kMpTYvtRWTm3esFw8TsewrCyfsB1YrGNTaKBhgx9_tTXqeIZnSUthrz0KSKhnZKTu08WSdHtF4prcxxu=w80-h100-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJQ78BLQQXrjsR_1p9bkb5Fdk",
+   "data_id": "0x3bae17042d01bf43:0xd915f9466e7d5aff",
+   "title": "The Studs: All Day Diner, Taproom & Sports Bar",
+   "address": "No.09, Katha No.304/3, 3rd Flr, 60Ft Road, G Block, Sahakarnagar, Yelahanka, B.B, M.P North, Bengaluru, Karnataka 560092",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099000 16944",
+   "rating": 4.3,
+   "reviews": 237,
+   "website": "https://thestuds.in/sahakarnagar-bangalore-outlet/",
+   "domain": "thestuds.in",
+   "gps_coordinates": {
+    "latitude": 13.0636893,
+    "longitude": 77.5905659
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-studs-sports-bar-sahakara-nagar-north-bengaluru-699117",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-nINxC8rVDByAfUYbZ9PEzck9heYQVJckqyaCX-qf4iGm8UrFl1Ze2zvq76lr11ViYBXh4yzjzayeUJj9i58wO3AHT4EtIdcN9xQymu6RcYdl-EVclDeHif3-vezYs5psA-fwy02zBc8=w138-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJyZ7MK04UrjsRMdiRfgNb3fk",
+   "data_id": "0x3bae144e2bcc9ec9:0xf9dd5b037e91d831",
+   "title": "The Boozy Griffin Bangalore",
+   "description": "Bustling pub with dancing & DJs. Popular nightspot with a smoking area offering DJ nights, a dance floor, a full bar & light bites.",
+   "address": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096115 47239",
+   "rating": 4.1,
+   "reviews": 6417,
+   "gps_coordinates": {
+    "latitude": 12.9344374,
+    "longitude": 77.6159175
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Bar & grill",
+    "Continental restaurant",
+    "Dance club",
+    "European restaurant",
+    "Italian restaurant",
+    "Mexican restaurant",
+    "Musical club",
+    "Pizza restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsHbfOnLMWOFyC8Z_kN8eNVxSS5MewrkTPVkHpahC0drEHs6c3zZ2GWr7CHLOzQB3R7FpqUESKK36zybWhigd0CkXShQCGnVnJzDFvJ-wlG79iz2PL-OciTxN2teLVcdlzMUXJ=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJGUMOmf9trjsRp3vGgY0kbWM",
+   "data_id": "0x3bae6dff990e4319:0x636d248d81c67ba7",
+   "title": "The Godown",
+   "address": "4th Floor, Laa Moonstone Dream Mart Hyper Market, opp. Shriram Summitt, Gollahalli, Electronic City Phase I, Electronic City, Bengaluru, Hebbagodi, Karnataka 560100",
+   "city": "Bengaluru, Hebbagodi, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.7,
+   "reviews": 186,
+   "website": "http://www.thegodown.in/",
+   "domain": "thegodown.in",
+   "gps_coordinates": {
+    "latitude": 12.8360069,
+    "longitude": 77.6651457
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Amusement center",
+    "Event venue",
+    "Lounge bar",
+    "Bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12:30 pm",
+   "open_hours": {
+    "sunday": "12:30 pm–1 am",
+    "monday": "12:30 pm–1 am",
+    "tuesday": "12:30 pm–1 am",
+    "wednesday": "12:30 pm–1 am",
+    "thursday": "12:30 pm–1 am",
+    "friday": "12:30 pm–1 am",
+    "saturday": "12:30 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-godown-electronic-city-koramangala-bangalore-1421892/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDi1Zk4R6gqwqLeFrVrDky8yNm8iYaSjp7Jo4Mo3g6lR-3wWdzesjq7ZCUMn8X6ONd6QHSgEqfoUdp9Ol_EjfDbslsPvqV5VVWYNRYsa0CmWfTM7zrO0H5AhNfaoDst2_9jA-NUovxB7D4=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJV9YdrIEWrjsRyCAygrncHJA",
+   "data_id": "0x3bae1681ac1dd657:0x901cdcb9823220c8",
+   "title": "Arbor Brewing Company",
+   "description": "Lively brewpub with global fast food. American pub fare served with beer & cocktails in a lively microbrewery with outdoor seating.",
+   "address": "Allied Grand Plaza, 3rd, 8, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080501 44477",
+   "rating": 4.4,
+   "reviews": 14439,
+   "website": "https://www.arborbrewing.in/",
+   "domain": "arborbrewing.in",
+   "gps_coordinates": {
+    "latitude": 12.9703756,
+    "longitude": 77.6110025
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Brewpub",
+    "Fast food restaurant",
+    "Pizza restaurant",
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/arbor-brewing-company-mg-road-indiranagar-bangalore-916729/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZQMXajpDbYe7PibMUxCRgqh6fwvl8gRZk2owBC0ygSDj_Ws3TOTiZelQAHlupfVRpId6KTKSiJDCNJmIu5frgn9uzN72gwc8JsSVGNs4FmS9Iu9t3b9ubYkodzv6IHkh3SYY=w154-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJSaulJR0UrjsR2T-ibTmBHfU",
+   "data_id": "0x3bae141d25a5ab49:0xf51d81396da23fd9",
+   "title": "Bob's Bar",
+   "address": "777/I, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 21010,
+   "gps_coordinates": {
+    "latitude": 12.9671312,
+    "longitude": 77.64116709999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11:30 am",
+   "open_hours": {
+    "sunday": "11:30 am–1 am",
+    "monday": "11:30 am–1 am",
+    "tuesday": "11:30 am–1 am",
+    "wednesday": "11:30 am–1 am",
+    "thursday": "11:30 am–1 am",
+    "friday": "11:30 am–1 am",
+    "saturday": "11:30 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/bobs-bar-1-indiranagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hp22ZrJhdYbc5gbxrqRe8J7wy4E_jYhJ5fMAIy_SZ0S4kADIUyomcD0SP9MNPr21HYPGMpVnGRz4f5vOVMvKQ2Iu5KlFsR3QGzs90rk9l9CDQGvQg%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKaKYaQny4b4n1GPWl4uG_fRdegRgXpPpjNne1x1JgZzgSeYG04HBYf6MRgOU-1fFfC6Oa08gfjKOW5aIEErLiZVClEMtJHZwMbfzAKihDoVb0n_ktSu30WFDCdw-SyMtifjoE=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJrShOSFo9rjsRkSy3x8esaVc",
+   "data_id": "0x3bae3d5a484e28ad:0x5769acc7c7b72c91",
+   "title": "Obsidian Sports Bar",
+   "description": "Hotel's art deco cocktail & sports bar. Hotel's stylish art deco bar offering cocktails and sports screenings.",
+   "address": "115, HMR Layout, Gokula Extension, Mathikere, Bengaluru, Karnataka 560054",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4300 1000",
+   "rating": 4.2,
+   "reviews": 67,
+   "is_unclaimed_listing": true,
+   "website": "http://www.gokulamhotels.com/",
+   "domain": "gokulamhotels.com",
+   "gps_coordinates": {
+    "latitude": 13.0421146,
+    "longitude": 77.5546699
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Association / Organization",
+    "Bar",
+    "Club",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/obsidian-movenpick-hotel-spa-bangalore-new-bel-road-330638",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmaf6Xm0zxq2-MtV8J-HvVZMLcsKtTm8OArH4minJCUUDHUc8dsoG0BZcBNAQ4sCABSDFzsLpzflWs9-ioc6sYZ99dUBn1yRy6hn35c5S63_8Zmg2hvingOsjC_JqC8EOjn2Q24Q=w138-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJ5dZ8ewAXrjsRBRGPUhSNh3g",
+   "data_id": "0x3bae17007b7cd6e5:0x78878d14528f1105",
+   "title": "Loco Lane",
+   "address": "No. 20, 21, Prestige Shivaya Site, 2nd Floor, 22, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090360 53321",
+   "rating": 4.8,
+   "reviews": 566,
+   "website": "https://locolane.club/",
+   "domain": "locolane.club",
+   "gps_coordinates": {
+    "latitude": 12.9713018,
+    "longitude": 77.6054119
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Amusement center",
+    "Bowling alley",
+    "Cocktail bar",
+    "Dart bar",
+    "Event venue",
+    "Restaurant",
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 2 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "2–11:30 pm",
+    "tuesday": "2–11:30 pm",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://locolane.club/book-now/",
+    "source": "locolane.club"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhKrhQxPyeowghT35Faq1lus_u0pByakqHUTChjK9R66xgxATsOXDu2mNhi_lPoBZdDGH6O4d6o94EtA2oMWEFwbELeDdnTIuRPZDxdmCLVv5bhj8n2Td57Rj9affpvna544F9cbBB9UBo=w160-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJo9YQrPUTrjsRiBqlGeSMzd8",
+   "data_id": "0x3bae13f5ac10d6a3:0xdfcd8ce419a51a88",
+   "title": "Big Pitcher Sarjapur",
+   "description": "Spacious brewpub with entertainment. Cocktails & global bites served in a multilevel hangout with music, dancing & a rooftop patio.",
+   "address": "Doddakannelli, 116/9, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095909 05000",
+   "rating": 4.5,
+   "reviews": 11995,
+   "website": "https://www.bigpitcher.co.in/sarjapur-best-pub-in-bangalore/index.html",
+   "domain": "bigpitcher.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9097938,
+    "longitude": 77.68851769999999
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Bar & grill",
+    "Barbecue restaurant",
+    "Brewpub",
+    "Cocktail bar",
+    "Dance club",
+    "Lounge bar",
+    "Night club",
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/big-pitcher-sarjapur-road-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmsYEniSdnIyh8Ibkuc4Yvguwb-Amvy0FNMDpLGIQ2JLHwCCABooshwre1mHm1aCRYVTayjmR8he0fcQ9D5Ztmz7HDBqIFulVExKLfx2E0z8sK6HcCVQicaNFL36CiZM7VT6k=w163-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ_____4w9rjsRPo2kOJuIUhg",
+   "data_id": "0x3bae3d8cffffffff:0x1852889b38a48d3e",
+   "title": "White Horse",
+   "address": "Shop No, Lepakshi Building, 1522, 17th Cross Rd, A Block, Milk Colony, Malleshwaram, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2357 7073",
+   "rating": 4.3,
+   "reviews": 1091,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 13.0078092,
+    "longitude": 77.5570977
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 10 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–1 am",
+    "tuesday": "10 am–1 am",
+    "wednesday": "10 am–1 am",
+    "thursday": "10 am–1 am",
+    "friday": "10 am–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8CMfcFmeUUiY2r3Lqf1WMsqxy7GpWec4wW8il70tkqDEOB4Bs2y-N0B47G2TglO6eb-VmAnCciOD0i-Hf7Mj6tLvcJgTTDjgM4RyalrHjgRzqboCuVratfKGrQAdtd_mKtIII=w122-h92-k-no"
+  }
+ ]
+}

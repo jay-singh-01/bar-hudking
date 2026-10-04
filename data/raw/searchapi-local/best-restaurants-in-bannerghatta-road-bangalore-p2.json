@@ -1,0 +1,429 @@
+{
+ "q": "best restaurants in Bannerghatta Road Bangalore",
+ "ll": "@12.8894,77.5972,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:52.873Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "81 Casual Dine",
+   "place_id": "ChIJWZJ3f1cVrjsRBrnjmBVzE-A",
+   "data_id": "0x3bae15577f779259:0xe013731598e3b906",
+   "rating": 4.4,
+   "reviews": 583,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Eclectic",
+   "address": "81, Ground Floor, Sir M Vishweahwaraiah Road BTM",
+   "gps_coordinates": {
+    "latitude": 12.880763,
+    "longitude": 77.61027
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "STORIES BREWERY & KITCHEN",
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "rating": 4.4,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905697,
+    "longitude": 77.60852
+   },
+   "comment": "Beer & quick bites in a hip, stylish bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Krishna Kuteera",
+   "place_id": "ChIJxx8s29FqrjsR6axh03DDvXM",
+   "data_id": "0x3bae6ad1db2c1fc7:0x73bdc370d361ace9",
+   "rating": 4.1,
+   "reviews": 5000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.869444,
+    "longitude": 77.59701
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Neemsi Restaurant | JP Nagar",
+   "place_id": "ChIJjVuXSxoVrjsRS3HXyKoKbAg",
+   "data_id": "0x3bae151a4b975b8d:0x86c0aaac8d7714b",
+   "rating": 4.8,
+   "reviews": 16000,
+   "type": "Vegetarian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.906209,
+    "longitude": 77.58256
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Mahesh Lunch Home J P Nagar",
+   "place_id": "ChIJTSRZhYwVrjsR6An-a8gxByY",
+   "data_id": "0x3bae158c8559244d:0x260731c86bfe09e8",
+   "rating": 4.2,
+   "reviews": 796,
+   "type": "Seafood",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.910718,
+    "longitude": 77.5992
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "The Park Inn",
+   "place_id": "ChIJG-3XZ_JqrjsR7-demu-g1K0",
+   "data_id": "0x3bae6af267d7ed1b:0xadd4a0ef9a5ee7ef",
+   "rating": 4.1,
+   "reviews": 1100,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "Kolifarm gate, Bus Stop, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.842006,
+    "longitude": 77.58818
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "House of Commons",
+   "place_id": "ChIJ50afDbsVrjsR_oHqHPMIQW4",
+   "data_id": "0x3bae15bb0d9f46e7:0x6e4108f31cea81fe",
+   "rating": 4.4,
+   "reviews": 5700,
+   "type": "Restaurant",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.914248,
+    "longitude": 77.586044
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Jewel Sizzle - Luxury Dining | Cocktail Lounge",
+   "place_id": "ChIJJ-5jt-cVrjsR1a8z_EBHybc",
+   "data_id": "0x3bae15e7b763ee27:0xb7c94740fc33afd5",
+   "rating": 4.6,
+   "reviews": 3300,
+   "type": "Modern Indian restaurant",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.900976,
+    "longitude": 77.58578
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Soya Chaap Co.",
+   "place_id": "ChIJpRjpBkcVrjsRS2yPUuzVmb8",
+   "data_id": "0x3bae154706e918a5:0xbf99d5ec528f6c4b",
+   "rating": 4.3,
+   "reviews": 539,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "1, Raghavendra Layout, Arakere, Kothanur Main Road, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.884609,
+    "longitude": 77.59124
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Unalii Brewpark",
+   "place_id": "ChIJzxePPgBrrjsR80UB9klRqTU",
+   "data_id": "0x3bae6b003e8f17cf:0x35a95149f60145f3",
+   "rating": 4.6,
+   "reviews": 630,
+   "type": "Bar",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.8763,
+    "longitude": 77.60932
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Guru Garden",
+   "place_id": "ChIJJTks4iQVrjsRLWiKfTtq7D8",
+   "data_id": "0x3bae1524e22c3925:0x3fec6a3b7d8a682d",
+   "rating": 4,
+   "reviews": 2200,
+   "type": "Indian",
+   "address": "No. 555 No 3, SS Plaza, Arekere Gate, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.891166,
+    "longitude": 77.598175
+   },
+   "comment": "Casual spot for Indian & Chinese fare",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Khandani Rajdhani, Royal Meenakshi Mall, Bannerghatta",
+   "place_id": "ChIJdYNYWs1qrjsRNVaozqTgWow",
+   "data_id": "0x3bae6acd5a588375:0x8c5ae0a4cea85635",
+   "rating": 4.2,
+   "reviews": 3300,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Restaurant",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.87595,
+    "longitude": 77.595245
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Dugguz Delight Multicuisine Restaurant",
+   "place_id": "ChIJs4liRjZrrjsRhWErtyq5SlM",
+   "data_id": "0x3bae6b36466289b3:0x534ab92ab72b6185",
+   "rating": 4.7,
+   "reviews": 1400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Indian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.870195,
+    "longitude": 77.57453
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Crystal Park Restaurant",
+   "place_id": "ChIJR1QwflJrrjsRblKjDs_S8JU",
+   "data_id": "0x3bae6b527e305447:0x95f0d2cf0ea3526e",
+   "rating": 4.1,
+   "reviews": 180,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Hyderabadi",
+   "address": "Sy No 33 Gollahalli Village jelly mission near ambari wedding vvenue, Jigani, Hobli, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.823638,
+    "longitude": 77.58509
+   }
+  },
+  {
+   "position": 15,
+   "title": "Blue Waters-Lounge Bar and Fine Dining",
+   "place_id": "ChIJz2RpErdrrjsRDotHKBjOEBI",
+   "data_id": "0x3bae6bb7126964cf:0x1210ce1828478b0e",
+   "rating": 4,
+   "reviews": 1400,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "North Indian",
+   "address": "3, Bannerghatta Rd, next to Star market",
+   "gps_coordinates": {
+    "latitude": 12.861171,
+    "longitude": 77.58975
+   },
+   "comment": "Informal spot for Indian & Chinese bites",
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Kabbalamma Bannerghatta",
+   "place_id": "ChIJaeUFwshrrjsRo95Iyn3oybA",
+   "data_id": "0x3bae6bc8c205e569:0xb0c9e87dca48dea3",
+   "rating": 4.1,
+   "reviews": 270,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "140",
+   "gps_coordinates": {
+    "latitude": 12.815567,
+    "longitude": 77.58327
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Cafe Baha",
+   "place_id": "ChIJe2wpsxtrrjsROUCF5FZFV-s",
+   "data_id": "0x3bae6b1bb3296c7b:0xeb574556e4854039",
+   "rating": 4.5,
+   "reviews": 284,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.873662,
+    "longitude": 77.61134
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Levels Pub & Kitchen",
+   "place_id": "ChIJ_VCVJ5YVrjsRZgYrogPKBYM",
+   "data_id": "0x3bae1596279550fd:0x8305ca03a22b0666",
+   "rating": 4.3,
+   "reviews": 9700,
+   "type": "Pub",
+   "address": "14, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.905993,
+    "longitude": 77.59407
+   },
+   "comment": "Hip hangout for global eats & cocktails",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Kalpavruksha Veg Restaurant",
+   "place_id": "ChIJL5rjzB4VrjsR27lMVnxWgbc",
+   "data_id": "0x3bae151ecce39a2f:0xb781567c564cb9db",
+   "rating": 4.1,
+   "reviews": 5500,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "173, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.90367,
+    "longitude": 77.602104
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "YouMee Vega City Mall",
+   "place_id": "ChIJ6YQbY4wVrjsRj09qJcZOrLE",
+   "data_id": "0x3bae158c631b84e9:0xb1ac4ec6256a4f8f",
+   "rating": 4.2,
+   "reviews": 415,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Pan Asian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.907702,
+    "longitude": 77.60108
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

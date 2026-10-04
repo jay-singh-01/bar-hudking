@@ -1,0 +1,453 @@
+{
+ "q": "cafes in Basavanagudi Bangalore",
+ "ll": "@12.9422,77.576,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:42:13.608Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Amul (RoyHut) Cafe Basavanagudi",
+   "place_id": "ChIJJZjQjqoVrjsRajYYNFctN7Y",
+   "data_id": "0x3bae15aa8ed09825:0xb6372d573418366a",
+   "rating": 4.8,
+   "reviews": 33,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "No 296, dharani complex, 2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.930892,
+    "longitude": 77.56713
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "MAYURA CAFE",
+   "place_id": "ChIJx_oDo2AVrjsRxudD2FqwbEU",
+   "data_id": "0x3bae1560a303fac7:0x456cb05ad843e7c6",
+   "rating": 4.5,
+   "reviews": 240,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "New no 12, no 52, old, Rashtriya Vidyalaya Rd",
+   "gps_coordinates": {
+    "latitude": 12.938262,
+    "longitude": 77.57975
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:45 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Vidyarthi Bhavan",
+   "place_id": "ChIJNdCK6PIVrjsR3I4feeftf-0",
+   "data_id": "0x3bae15f2e88ad035:0xed7fede7791f8edc",
+   "rating": 4.2,
+   "reviews": 59000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "32, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.945046,
+    "longitude": 77.57138
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Bangalore Cafe",
+   "place_id": "ChIJo0tJmV8VrjsR0vWuyvPK9DM",
+   "data_id": "0x3bae155f99494ba3:0x33f4caf3caaef5d2",
+   "rating": 4.3,
+   "reviews": 13000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "4, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.961559,
+    "longitude": 77.594696
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "1966 - The Mumbai Cafe @Basavanagudi",
+   "place_id": "ChIJGeeaBQAVrjsREbRB4By7Me4",
+   "data_id": "0x3bae1500059ae719:0xee31bb1ce041b411",
+   "rating": 4,
+   "reviews": 213,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Maharashtrian Restaurant",
+   "address": "Ground Floor, nagasandra circle, 68/1, DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.937118,
+    "longitude": 77.571945
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "New Cafe Khaadya",
+   "place_id": "ChIJS4gWCGkVrjsRg-g27pEWupI",
+   "data_id": "0x3bae15690816884b:0x92ba1691ee36e883",
+   "rating": 4.3,
+   "reviews": 562,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Shamanna park, Model House St, opp. Sri Vinayaka ice and juice",
+   "gps_coordinates": {
+    "latitude": 12.937618,
+    "longitude": 77.57193
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "FOOD ADDA BANGALORE",
+   "place_id": "ChIJa3q8a6wVrjsR0LnCOSvjHcU",
+   "data_id": "0x3bae15ac6bbc7a6b:0xc51de32b39c2b9d0",
+   "rating": 4.1,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "18/1 ground floor, BBMP south, Bull Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.946753,
+    "longitude": 77.56798
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am",
+    "On the menu: cafes in basavanagudi"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Atithyaa (Since 1986)",
+   "place_id": "ChIJGQAElvMVrjsR3jk85-1pnnE",
+   "data_id": "0x3bae15f396040019:0x719e69ede73c39de",
+   "rating": 4.4,
+   "reviews": 1700,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "South Indian",
+   "address": "93, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.947241,
+    "longitude": 77.56907
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "SOHO Cafe, Pub & Grill",
+   "place_id": "ChIJhbh8pPIVrjsRPvqqU9mFsr0",
+   "data_id": "0x3bae15f2a47cb885:0xbdb285d953aafa3e",
+   "rating": 3.9,
+   "reviews": 4300,
+   "type": "Restaurant",
+   "address": "198, 4th Floor, Old Soho pub n grill, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944537,
+    "longitude": 77.57279
+   },
+   "comment": "Pub fare in relaxed digs with a terrrace",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Maha Lakshmi Tiffin Room",
+   "place_id": "ChIJbzNR2vIVrjsRLP9V_dvPfNQ",
+   "data_id": "0x3bae15f2da51336f:0xd47ccfdbfd55ff2c",
+   "rating": 4.2,
+   "reviews": 6100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.947018,
+    "longitude": 77.5715
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "1966 - The Mumbai Cafe @ Jayanagar",
+   "place_id": "ChIJj5RMPB0VrjsRZFp6SFqtstA",
+   "data_id": "0x3bae151d3c4c948f:0xd0b2ad5a487a5a64",
+   "rating": 4.4,
+   "reviews": 891,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Maharashtrian Restaurant",
+   "address": "Ground floor, No.19 (Old No.136, 6th A Main Road",
+   "gps_coordinates": {
+    "latitude": 12.929435,
+    "longitude": 77.581665
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "CUBBONPETE TIFFIN ROOM",
+   "place_id": "ChIJgwuR-SkVrjsRP0dxlBTlql0",
+   "data_id": "0x3bae1529f9910b83:0x5daae5149471473f",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "9/46, W Anjaneya Temple St",
+   "gps_coordinates": {
+    "latitude": 12.945944,
+    "longitude": 77.5686
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Prakash Cafe",
+   "place_id": "ChIJ____v_gVrjsRpLdrzXIt0hc",
+   "data_id": "0x3bae15f8bfffffff:0x17d22d72cd6bb7a4",
+   "rating": 3.9,
+   "reviews": 2500,
+   "type": "Cafe",
+   "address": "30, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.960412,
+    "longitude": 77.57105
+   },
+   "comment": "Landmark South Indian restaurant & hall",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Chaha Parampare",
+   "place_id": "ChIJ3526bgAVrjsRIHN5NjL072c",
+   "data_id": "0x3bae15006eba9ddf:0x67eff43236797320",
+   "rating": 5,
+   "reviews": 2,
+   "type": "Coffee shop",
+   "address": "195, Subbarama Chetty Rd",
+   "gps_coordinates": {
+    "latitude": 12.939956,
+    "longitude": 77.57259
+   }
+  },
+  {
+   "position": 15,
+   "title": "Basavanagudi coffee corner. (BC2)",
+   "place_id": "ChIJ68vgNwAVrjsRSH1KppyfwEo",
+   "data_id": "0x3bae150037e0cbeb:0x4ac09f9ca64a7d48",
+   "rating": 4.6,
+   "reviews": 14,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "62, Mount Joy Rd",
+   "gps_coordinates": {
+    "latitude": 12.943603,
+    "longitude": 77.5666
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "SLV Coffee Bar",
+   "place_id": "ChIJ45uQcoEVrjsRUnXS3H8iTR0",
+   "data_id": "0x3bae158172909be3:0x1d4d227fdcd27552",
+   "rating": 4.4,
+   "reviews": 10000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Breakfast",
+   "address": "186, 24th Cross Rd, next to SLV hotel",
+   "gps_coordinates": {
+    "latitude": 12.924078,
+    "longitude": 77.56635
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "WAAW Cafe Jayanagar",
+   "place_id": "ChIJ94FBtCEVrjsR4w5cIh0T9t0",
+   "data_id": "0x3bae1521b44181f7:0xddf6131d225c0ee3",
+   "rating": 4.4,
+   "reviews": 461,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "145, 6th C Main Road",
+   "gps_coordinates": {
+    "latitude": 12.929001,
+    "longitude": 77.581726
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Kamat Bugle Rock",
+   "place_id": "ChIJXbcDkYsVrjsR5NWhoD_aQmI",
+   "data_id": "0x3bae158b9103b75d:0x6242da3fa0a1d5e4",
+   "rating": 3.9,
+   "reviews": 8000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "Kamat Bugle Rock, Bull Temple Rd, near BMS COLLEGE OF ENGINEERING",
+   "gps_coordinates": {
+    "latitude": 12.939971,
+    "longitude": 77.5668
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Sri Lakshmi Venkateshwara Coffee Bar",
+   "place_id": "ChIJd6N4k40VrjsR7YXgmcf90wM",
+   "data_id": "0x3bae158d9378a377:0x3d3fdc799e085ed",
+   "rating": 4.3,
+   "reviews": 104,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Tiffin center",
+   "address": "WHQC+QXP, Nettakallappa Cir",
+   "gps_coordinates": {
+    "latitude": 12.939453,
+    "longitude": 77.57246
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "U D ROTIGHAR (BHARJARI OOTA & PARTY HALL)",
+   "place_id": "ChIJL9oe6vIVrjsR5Y5-CWNUTOc",
+   "data_id": "0x3bae15f2ea1eda2f:0xe74c5463097e8ee5",
+   "rating": 4.1,
+   "reviews": 19000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.944896,
+    "longitude": 77.5718
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  }
+ ]
+}

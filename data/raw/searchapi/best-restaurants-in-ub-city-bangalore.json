@@ -1,0 +1,1154 @@
+{
+ "q": "best restaurants in UB City Bangalore",
+ "ll": "@12.9716,77.596,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:28:28.422Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJNXTA_O4XrjsRsh8xvQkRq-g",
+   "data_id": "0x3bae17eefcc07435:0xe8ab1109bd311fb2",
+   "title": "Badmaash UB City",
+   "address": "2nd Floor, The Collection, UB City, 203, 24, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091081 95397",
+   "rating": 4,
+   "reviews": 1106,
+   "website": "https://badmaashrestaurant.com/",
+   "domain": "badmaashrestaurant.com",
+   "gps_coordinates": {
+    "latitude": 12.9717474,
+    "longitude": 77.59622
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/badmaash-vittal-mallya-road-central-bangalore-bangalore-355181/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOaJlp4t712PqyGRTHpvU7tkTHdINNsOY6uvoEcy9gHMmTAi1cP2u6hbzfV0Z-fhqce0SR_VJql1QITGKUjcxpDPwBmcoYvob-JhhB1HosaRIxdTpp2yyiNRQRblQZvLM_u9Jc=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJk881HPUXrjsR6nmB9d4ucgQ",
+   "data_id": "0x3bae17f51c35cf93:0x4722edef58179ea",
+   "title": "SALT - Indian Restaurant Bar & Grill",
+   "address": "2nd Level, UB City, Concorde & Canberra Blocks, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099027 52362",
+   "rating": 4.5,
+   "reviews": 1194,
+   "website": "https://saltrestaurants.in/",
+   "domain": "saltrestaurants.in",
+   "gps_coordinates": {
+    "latitude": 12.9718595,
+    "longitude": 77.5961667
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/salt-indian-restaurant-lavelle-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hNMqJcwUsRoEg4q3l4IIymjs3rwME96fkZXgySzvSl-nlcnNB8QbJmkPhUNZkhjVTkiOyvvwQN5DNM9ekOPPQr6nf5UeJDbYeA4_jxhc3TNQgkzMY%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMgRC_TleLtdP2ZmCkvy21sdepdBez7gPN1khrnIiV_5MPHRpufu-TRoX6BRuinaV2q0qKsin3Er0bzpBfHzWe8YFCR6HZUqHI2FbJVT8d_NxgpMyowjBZYtcyYiGQhpBhWU0RKMA=w137-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJ897J43kWrjsRwLzr4oSg67c",
+   "data_id": "0x3bae1679e3c9def3:0xb7eba084e2ebbcc0",
+   "title": "Shiro Bengaluru",
+   "description": "High-end venue for diverse Asian dining. Japanese, Balinese & Chinese restaurant with lavish, Buddha-inspired decor & relief carvings.",
+   "address": "3rd Floor, 222, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4173 8861",
+   "rating": 4.5,
+   "reviews": 6785,
+   "website": "https://www.instagram.com/experienceshiro/",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.97185,
+    "longitude": 77.5966162
+   },
+   "type": "Pan-Asian restaurant",
+   "types": [
+    "Pan-Asian restaurant",
+    "Asian restaurant",
+    "Dim sum restaurant",
+    "Restaurant",
+    "Sushi restaurant",
+    "Thai restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/shiro-lavelle-road-central-bangalore-bangalore-7341/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOxbgCeCbMb0-8-yU9CU1lZ2OSKFus-JyjMJlH2cHv8pZ7Zf9-4NtC4NPT52tHcLA1XIofLj9gtVOthxxZyZt_RRUEXODYT8shUv9F3wg0MQq_O7uw9T4yhYCskkpdtTmBoWbAVCs4m8rM2=w80-h106-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJz89YLOAXrjsR7oa1t_OKXYY",
+   "data_id": "0x3bae17e02c58cfcf:0x865d8af3b7b586ee",
+   "title": "Öz by Kebapçi",
+   "address": "Level 2, UB City, Concorde Tower, 1, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070906 77771",
+   "rating": 4.6,
+   "reviews": 3168,
+   "website": "http://ozbykebapci.com/",
+   "domain": "ozbykebapci.com",
+   "gps_coordinates": {
+    "latitude": 12.9718538,
+    "longitude": 77.59558849999999
+   },
+   "type": "Turkish restaurant",
+   "types": [
+    "Turkish restaurant",
+    "Mediterranean restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12 am · Opens 12:30 pm Mon",
+   "open_hours": {
+    "sunday": "12:30 pm–12 am",
+    "monday": "12:30 pm–12 am",
+    "tuesday": "12:30 pm–12 am",
+    "wednesday": "12:30 pm–12 am",
+    "thursday": "12:30 pm–12 am",
+    "friday": "12:30 pm–12 am",
+    "saturday": "12:30 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/oz-by-kebapci-lavelle-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j5poDt7P6rkpdxdXCwGkFXY5SdNkQr2cvUKg0MbIY33EhZKlSnNL-1l1RVVzt-5XE33rnY2gkZA_RRN_HS4C32MdzNXjD1NVzsQIqDr3UDGiCeSNQ%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPhuvhayKs8oFo0JiSJqc01fB7W0jwcYjhnM0GITEWKxKNUP-BbTcFv5Imaet9rib8fw7cjbAErUtIKReTLRQk78pkuE-g1WgrHntQXOEgFOuPLy3kLsTqWaNt3rtlk0VFmVQ=w92-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJicp2X3cWrjsReB1kgBOsQZg",
+   "data_id": "0x3bae16775f76ca89:0x9841ac1380641d78",
+   "title": "Sanchez",
+   "description": "Modern Mexican restaurant with a patio. Mexican classics & cocktails presented in a stylish, light-filled setting with outdoor seating.",
+   "address": "UB City, 204, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070224 22473",
+   "rating": 4.2,
+   "reviews": 3561,
+   "gps_coordinates": {
+    "latitude": 12.9715895,
+    "longitude": 77.5960585
+   },
+   "type": "Mexican restaurant",
+   "types": [
+    "Mexican restaurant",
+    "Bar",
+    "Lounge bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am Mon",
+   "open_hours": {
+    "sunday": "11:30 am–10:30 pm",
+    "monday": "11:30 am–10:30 pm",
+    "tuesday": "11:30 am–10:30 pm",
+    "wednesday": "11:30 am–10:30 pm",
+    "thursday": "11:30 am–10:30 pm",
+    "friday": "11:30 am–1 am",
+    "saturday": "11:30 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/sanchez-vittal-mallya-road-central-bangalore-bangalore-307804/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNUU8icFjswn6aRy7E7OhcJZ011l6hNGSSMLNZkszdF2fPB2tn0q_ClJq3TiZWTD9qI0E3-DAq-pnY13a-5qlhGA3KP-Da2xYCKxHqAPAi9Mpdd92JUgZPL5KurBkio-fyyGY0=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJV_d_X3cWrjsR8jInpYB-MV8",
+   "data_id": "0x3bae16775f7ff757:0x5f317e80a52732f2",
+   "title": "Sriracha",
+   "description": "Airy contemporary pan-Asian chain dining. Modern outlet of a trendy chain, cooking up dishes from across the Asian continent.",
+   "address": "Level 2, 4th Floor, UB City, No. 204, Vittal Mallya Rd, opposite J.W Marriott, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096060 54210",
+   "rating": 4.2,
+   "reviews": 923,
+   "gps_coordinates": {
+    "latitude": 12.9715895,
+    "longitude": 77.5960585
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Cantonese restaurant",
+    "Japanese restaurant",
+    "Pan-Asian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–11:30 pm",
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12–11:30 pm",
+    "thursday": "12–11:30 pm",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveOutlets/661e5b1636ea1ef35c45c736?source=6",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVT-K7KsCrkSZM8Tbjzli1ccZoSsF5_vAIpqas1z0B2skY7dsC08BxtpFLO71SEuK66Pl_N2lWsS9SQ9B84hO5ttYZrKTFYqmrit7UUcliK4tUypeYFtgciYRpufdLFgjFHQJn=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJoxBNS3oXrjsRHLk5dH72Ruc",
+   "data_id": "0x3bae177a4b4d10a3:0xe746f67e7439b91c",
+   "title": "Madras Kitchen",
+   "address": "UB City, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090360 54585",
+   "rating": 4,
+   "reviews": 82,
+   "website": "https://www.marriott.com/en-us/hotels/blrub-marriott-executive-apartments-bengaluru-ub-city/overview/",
+   "domain": "marriott.com",
+   "gps_coordinates": {
+    "latitude": 12.9715895,
+    "longitude": 77.5960585
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "8 am–11 pm",
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.sevenrooms.com/reservations/madraskitchenblrub",
+    "source": "sevenrooms.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM1_-S8sFDLevQkgaG4k7AbRkJmccDR2bdQnKgj3sFP7zDKyO4lJjUq4V7EUCG4kaP_wNagEgDY3D9GuvpFksY6jCNGksTmN2mEJP0guo1sh1yQqiL6-hqs2d7L7E0145FpFBbygqKPjNoy=w138-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJWZ-BA1MXrjsR73qEuiXwOzU",
+   "data_id": "0x3bae175303819f59:0x353bf025ba847aef",
+   "title": "Royal China Bangalore",
+   "address": "2nd Level, UB City, Concorde & Canberra Blocks, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090365 38463",
+   "rating": 4.6,
+   "reviews": 392,
+   "website": "https://royalchinaindia.com/",
+   "domain": "royalchinaindia.com",
+   "gps_coordinates": {
+    "latitude": 12.9716135,
+    "longitude": 77.5958606
+   },
+   "type": "Chinese restaurant",
+   "types": [
+    "Chinese restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–3:30 pm, 7–11:30 pm",
+    "monday": "12–3:30 pm, 7–11:30 pm",
+    "tuesday": "12–3:30 pm, 7–11:30 pm",
+    "wednesday": "12–3:30 pm, 7–11:30 pm",
+    "thursday": "12–3:30 pm, 7–11:30 pm",
+    "friday": "12–3:30 pm, 7–11:30 pm",
+    "saturday": "12–3:30 pm, 7–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://book.bistrochat.com/royal-china-bengaluru?rwg_token=AE37R_hBK2FkOcBwSY0M9c1xJh1VnbuNScB4OjFO0WYXlck8aT1hPjMAswQee7mboSFGiuVKqkZvrU1pAErUmZyRlQ81BYivfL1MO6OtGLJ5VyhFc0L-MY4%3D",
+    "source": "bistrochat.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP8UEdrwv7I0rnlgtD80N0rRj4HA4WR4GxyiMDXTJR3-G6MUiti4HoPL8W-SDnA5FCmNKae1ywnP1NBd7jE2MK3pr-bId7CHDsAJsj1cUJnhsh63NVMQQY2QNhIvGMEw593T07dx5TbLCyf=w138-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJjfOyQ3cWrjsRz_TvsEoOQ0A",
+   "data_id": "0x3bae167743b2f38d:0x40430e4ab0eff4cf",
+   "title": "Skyye",
+   "description": "Sleek rooftop lounge with global cuisine. Upscale, modern rooftop bar with a vibrant scene offering global dishes & inventive cocktails.",
+   "address": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "077608 88899",
+   "rating": 4.3,
+   "reviews": 9724,
+   "website": "http://www.skyye.in/",
+   "domain": "skyye.in",
+   "gps_coordinates": {
+    "latitude": 12.9714272,
+    "longitude": 77.596508
+   },
+   "type": "Lounge bar",
+   "types": [
+    "Lounge bar",
+    "Bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:40 am · Opens 2 pm Mon",
+   "open_hours": {
+    "sunday": "2 pm–12:40 am",
+    "monday": "2 pm–12:30 am",
+    "tuesday": "2 pm–12:30 am",
+    "wednesday": "2 pm–12:30 am",
+    "thursday": "2 pm–12:30 am",
+    "friday": "2 pm–12:40 am",
+    "saturday": "2 pm–12:40 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/skyye-vittal-mallya-road-indiranagar-bangalore-910764/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOJSFmoLWjnnI0aA5IHK_3ZuBDjOnePPUy0EAO4AHT_DsfjPuOU0Soz6RUJmCMf5bYSGRYW6rKcfg_YSZOLVRyi5xDqCcCC-o7DUnjdsoqKVp1zgbfCd9qYf16LinBndVsxXzw=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJ3fTAg1IXrjsR_ABHxrdjeAw",
+   "data_id": "0x3bae175283c0f4dd:0xc7863b7c64700fc",
+   "title": "The Market",
+   "address": "UB City, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.5,
+   "reviews": 46,
+   "website": "https://www.marriott.com/en-us/hotels/blrub-marriott-executive-apartments-bengaluru-ub-city/overview/",
+   "domain": "marriott.com",
+   "gps_coordinates": {
+    "latitude": 12.9722075,
+    "longitude": 77.59647989999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "reservation": {
+    "link": "https://www.sevenrooms.com/reservations/themarketblrub",
+    "source": "sevenrooms.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkrn5t2QRP-VzFKJuDBNMAYisg-BOvEUYDh27tcvyOSdxiTwdF8xmaX25E7j5v0gksTuNn2mbW-FRo8KFcQDX4RFC_aXm1u8oxH-GtyBegKnb57eUgDqbTaCobZ1MsJekdWjkzLa3CfsQ=w138-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJd_D2XncWrjsRSiEU0n0jAOw",
+   "data_id": "0x3bae16775ef6f077:0xec00237dd214214a",
+   "title": "Toscano",
+   "address": "24, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6902 8795",
+   "rating": 4.4,
+   "reviews": 2604,
+   "website": "https://www.toscano.co.in/restaurants/bangalore/ub-city",
+   "domain": "toscano.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9716773,
+    "longitude": 77.59627379999999
+   },
+   "type": "Italian restaurant",
+   "types": [
+    "Italian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN8QnLRo2b8CPKRVL1K22oplw1fxfCweHP28w5ZEEq8v5ULXAYBkWBn-h4Va0vP7JcM0qXglQNTWko_l4QhF4tMuDDDr8Ks_15sQkmq0aCr6C4fG6ICUKyzhQGMAgnTQBq3DYpI30mruXPi=w138-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJbQI8Z3cWrjsRINCtdIXs7GM",
+   "data_id": "0x3bae1677673c026d:0x63ecec8574add020",
+   "title": "Cafe Noir",
+   "description": "Stylish French-style cafe with a patio. This modern cafe with a patio offers changing French menus & coffee from breakfast to dinner.",
+   "address": "Unit No 206, The Collection, UB City, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4098 2050",
+   "rating": 4.2,
+   "reviews": 3347,
+   "website": "https://cafenoir.in/",
+   "domain": "cafenoir.in",
+   "gps_coordinates": {
+    "latitude": 12.9717869,
+    "longitude": 77.5960995
+   },
+   "type": "French restaurant",
+   "types": [
+    "French restaurant",
+    "Bar",
+    "Breakfast restaurant",
+    "Cafe",
+    "Dessert restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10:30 am Mon",
+   "open_hours": {
+    "sunday": "9:30 am–10:45 pm",
+    "monday": "10:30 am–10:45 pm",
+    "tuesday": "10:30 am–10:45 pm",
+    "wednesday": "10:30 am–10:45 pm",
+    "thursday": "10:30 am–10:45 pm",
+    "friday": "10:30 am–10:45 pm",
+    "saturday": "9:30 am–10:45 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/cafe-noir-vittal-mallya-road-central-bangalore-bangalore-53605/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMU39-8RcqOpnNKJH5bjdeCYB-xHQ6QgwWoo8LHRZQ-W8ktQEayFG-8SnMjYkUc03fy-svAgWvVJ1fvUHceZNI8sZNVb7nRdYnCT-3Jy7fhQ6QGuwr2IKHih-O5mkWWtvN0PJjEI_ZkvqG8=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJM9sO4TkXrjsRzawtOIDFW9Y",
+   "data_id": "0x3bae1739e10edb33:0xd65bc580382daccd",
+   "title": "Riko - (South American Cuisine)",
+   "address": "2nd Floor, Concorde Towers, UB City, Vittal Mallya Rd, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099725 40238",
+   "rating": 4.4,
+   "reviews": 844,
+   "website": "http://theriko.com/",
+   "domain": "theriko.com",
+   "gps_coordinates": {
+    "latitude": 12.9716675,
+    "longitude": 77.5959316
+   },
+   "type": "South American restaurant",
+   "types": [
+    "South American restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm Mon",
+   "open_hours": {
+    "sunday": "12:30–4:30 pm, 6:30–11 pm",
+    "monday": "12:30–4:30 pm, 6:30–10:30 pm",
+    "tuesday": "12:30–4:30 pm, 6:30–10:30 pm",
+    "wednesday": "12:30–4:30 pm, 6:30–10:30 pm",
+    "thursday": "12:30–4:30 pm, 6:30–10:30 pm",
+    "friday": "12:30–4:30 pm, 6:30–11 pm",
+    "saturday": "12:30–4:30 pm, 6:30–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/riko-lavelle-road-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO9kzjwKuMr239ZGtZtVstlPnkgi7TsIxr0ZfemzG98mwXu020bVnub_YY5YcP4s7rwD__ll1titKVnFqknGAp_Q1HPohlWdzat6zrsUxUeA4NK_w6O6MWsx9F4If5EOlJ7KxmmjQO66Yg=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJc_4WSHcWrjsR7wdB6_Dms58",
+   "data_id": "0x3bae16774816fe73:0x9fb3e6f0eb4107ef",
+   "title": "Spice Terrace",
+   "description": "Posh hotel's poolside Indian restaurant. Stylish hotel eatery with poolside tables & a menu of classic Indian dishes to pair with craft beer.",
+   "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088846 75454",
+   "rating": 4.3,
+   "reviews": 2169,
+   "website": "https://www.marriott.com/en-us/hotels/blrjw-jw-marriott-hotel-bengaluru/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+   "domain": "marriott.com",
+   "gps_coordinates": {
+    "latitude": 12.9721442,
+    "longitude": 77.594923
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Indian restaurant",
+    "Lounge bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 pm Mon",
+   "open_hours": {
+    "sunday": "7–11:45 pm",
+    "monday": "7–11:45 pm",
+    "tuesday": "7–11:45 pm",
+    "wednesday": "7–11:45 pm",
+    "thursday": "7–11:45 pm",
+    "friday": "7–11:45 pm",
+    "saturday": "7–11:45 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/spice-terrace-jw-marriott-hotel-vittal-mallya-road-indiranagar-bangalore-604091/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM-r1DnSVB0ntxvypgVw8UPSM2AS6mpd0zjGRMpOL9sC0YwYVwNpJpe3d9Z5yB8zjH3DKY5HL-9CQLTIPiscnHYIJgMi5VGe6c2cG2MDz4RXbkmliLZuHSo6ZH0Ok63rIv6VXpZ=w135-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJIRJ0mvYVrjsR0NdUV-4a4Zo",
+   "data_id": "0x3bae15f69a741221:0x9ae11aee5754d7d0",
+   "title": "Kazé Bar & Kitchen",
+   "description": "Refined Pan Asian restaurant. Sophisticated & opulent Pan Asian restaurant in the heart of town, with luxe surrounds.",
+   "address": "21st Floor, SKAV, 909, Lavelle Road, near to Itc Gardenia, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4302 0299",
+   "rating": 4.4,
+   "reviews": 3521,
+   "website": "https://www.kaze.co.in/",
+   "domain": "kaze.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9654907,
+    "longitude": 77.5964235
+   },
+   "type": "Pan-Asian restaurant",
+   "types": [
+    "Pan-Asian restaurant",
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12:30 pm–1 am",
+    "monday": "12:30 pm–1 am",
+    "tuesday": "12:30 pm–1 am",
+    "wednesday": "12:30 pm–1 am",
+    "thursday": "12:30 pm–1 am",
+    "friday": "12:30 pm–1 am",
+    "saturday": "12:30 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/kaz%C3%A9-1-lavelle-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_irIF4rizMcvZO1uWnLJti0GYSqxI6yASm5Qnsin5JsortMdNmgGMiOhhIogFhHQxPIL01uxaaPFGi9e5xq1e8xJTrXX3OrwhbUjIi0zwH7hTzZme8%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOzmmLj_SNhcGucr4NrPUXpPCBuGG8PYhq1vo_WrKvOu86lC67RUhaIulrb3B8RqGo8zpDRRHG7DkdGkvbHazZNtNL174NoQvBrle3iloa7fbSL4aj-7CagQalujiELujb9jq55=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJYSYiS3cWrjsRfVhhipOvAIM",
+   "data_id": "0x3bae16774b222661:0x8300af938a61587d",
+   "title": "Soul City",
+   "description": "Global fare & drinks in an upscale space. Chic bistro with global offerings, including Indian, Continental & Thai dishes with a full bar.",
+   "address": "Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.1,
+   "reviews": 227,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9720355,
+    "longitude": 77.5966701
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Breakfast restaurant",
+    "Buffet restaurant",
+    "Lounge bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am Mon",
+   "open_hours": {
+    "sunday": "7 am–11:30 pm",
+    "monday": "7 am–11:30 pm",
+    "tuesday": "7 am–11:30 pm",
+    "wednesday": "7 am–11:30 pm",
+    "thursday": "7 am–11:30 pm",
+    "friday": "7 am–11:30 pm",
+    "saturday": "7 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmORECeNwaxx0FqVLkb__btmImge_XbXStcqLykRulk-hU1zoqgKMerumOGppzI0cWeW0ouSO8VJRrtDz-rdPpQS2nIJYUqWe6cE5j3_Qs1t8OTZwKI0c7VJqKt_RIxVRxj3zjBV=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJ96tpUHcWrjsRit-gsot2OOE",
+   "data_id": "0x3bae16775069abf7:0xe138768bb2a0df8a",
+   "title": "UB City",
+   "description": "High-end mall with shops & restaurants. Three-level shopping center with luxury, international retailers, plus sophisticated restaurants.",
+   "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097316 00994",
+   "rating": 4.5,
+   "reviews": 69380,
+   "website": "http://www.ubcitybangalore.in/",
+   "domain": "ubcitybangalore.in",
+   "gps_coordinates": {
+    "latitude": 12.9716428,
+    "longitude": 77.5959367
+   },
+   "type": "Shopping mall",
+   "types": [
+    "Shopping mall"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPSDdW29fYh5KfwkZ7KQVeaGKVQXcxBQ5O_xXKuRiyL3CAsTWNoGGgaBCGhMMOOHArk2uktcHcdAgDneB7Z2sLhxF1PxLeuASkfElUm5aVNpl8y82DnNr3qof-giatfS11akurB=w163-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJKaFXNHgWrjsRuoVUhT-DzDY",
+   "data_id": "0x3bae16783457a129:0x36cc833f855485ba",
+   "title": "Glen's Bakehouse",
+   "description": "Destination for baking & cafe dishes. Casual western snacks are available with a range of made-to-order bakes at this casual venue.",
+   "address": "24/1, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.4,
+   "reviews": 11590,
+   "gps_coordinates": {
+    "latitude": 12.9698289,
+    "longitude": 77.597437
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Cafe",
+    "Coffee shop",
+    "Dessert restaurant",
+    "Pizza restaurant",
+    "Bakery and Cake Shop"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "9 am–1 am",
+    "monday": "9 am–1 am",
+    "tuesday": "9 am–1 am",
+    "wednesday": "9 am–1 am",
+    "thursday": "9 am–1 am",
+    "friday": "9 am–1 am",
+    "saturday": "9 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/glens-bakehouse-1-lavelle-road-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hULEJ2-N4KXFWAzhSKhwxhnMLOuo4EsSqH7O2BhXeptq6zufswLqf6XL2cLLQtkxBgQaF9X742Ze0-VtxQpohBLjI81XKYDS2DHMx8RM7yjNiA4OM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPPRNfuzXdsTWe9EG6R7IRre_hAkQMc5Rkg1wImrpbwlsraRnJ47BgFp3WK9R9bnbVtB2xi-8iM_1wMtEV4Abbk_diaOvnIJAilaFweiahntjVXOpLwqDc5b_h94G6Wls9WH-Dj96gTX3I=w80-h106-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJ9cQBXncWrjsRCkvIAqrkwTg",
+   "data_id": "0x3bae16775e01c4f5:0x38c1e4aa02c84b0a",
+   "title": "Ozaa",
+   "address": "XHCW+J95, Oakwood Premier Prestige, UB City, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar, Lavelle Road, Bengaluru, Karnataka 560001",
+   "city": "Lavelle Road, Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095910 77995",
+   "rating": 4.1,
+   "reviews": 54,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.971501,
+    "longitude": 77.595984
+   },
+   "type": "Mediterranean restaurant",
+   "types": [
+    "Mediterranean restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–10:30 pm",
+    "monday": "12–10:30 pm",
+    "tuesday": "12–10:30 pm",
+    "wednesday": "12–10:30 pm",
+    "thursday": "12–10:30 pm",
+    "friday": "12–10:30 pm",
+    "saturday": "12–10:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOV8v57pJkr_ea48GWRCRC8me22-UYR88UWiFwnxZmlXPvXTBFq8EoCV7DyZ1N88itPvLhKDfh4mbRpPOHU2uro_n97weaDwvodqvyRLgxApztjGcpaEiW3NXZgQLKa8aaD0G-o=w80-h106-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ66sSHUMXrjsRnjKiqTfa_F4",
+   "data_id": "0x3bae17431d12abeb:0x5efcda37a9a2329e",
+   "title": "Bo Tai, Bengaluru",
+   "description": "Stylish haunt with Thai & Chinese fare. Chinese & Thai dishes are complemented by cocktails at this hip bar & grill, which has a terrace.",
+   "address": "JW Marriott, 24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "073497 68792",
+   "rating": 4.1,
+   "reviews": 250,
+   "is_unclaimed_listing": true,
+   "website": "http://www.bo-tai.co.in/",
+   "domain": "bo-tai.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9720733,
+    "longitude": 77.59490339999999
+   },
+   "type": "Asian restaurant",
+   "types": [
+    "Asian restaurant"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNoaIgQw-QpZA76hhxXFttfoDjqL7vdDU8Lky8yuIGH_G9Jv2NhlSns_DtzMV7tmMTmVrqzNu4oTCyWzASSJoQd5yXjdCb4HDDFrQJwcZlqnk6HNGX5DAPPulxvVEe4YKaRXVo=w194-h92-k-no"
+  }
+ ]
+}

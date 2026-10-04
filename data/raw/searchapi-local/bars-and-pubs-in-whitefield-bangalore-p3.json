@@ -1,0 +1,445 @@
+{
+ "q": "bars and pubs in Whitefield Bangalore",
+ "ll": "@12.9698,77.75,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:25.214Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Bengaluru Canteen - Kitchen & Bar - EPIP Zone Whitefield",
+   "place_id": "ChIJ48Zk5s8RrjsRTxtRNaS3VZE",
+   "data_id": "0x3bae11cfe664c6e3:0x9155b7a435511b4f",
+   "rating": 4.6,
+   "reviews": 329,
+   "price": "₹1–800",
+   "extracted_price": {
+    "min": 1,
+    "max": 800
+   },
+   "type": "Bar",
+   "address": "Ground Floor, Astra Hotel, Metro Station, 120-A3, Rd Number 3, near Nallurhalli",
+   "gps_coordinates": {
+    "latitude": 12.977256,
+    "longitude": 77.72502
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Bling",
+   "place_id": "ChIJv83fpewRrjsRf261smgZkFA",
+   "data_id": "0x3bae11eca5dfcdbf:0x50901968b2b56e7f",
+   "rating": 4.1,
+   "reviews": 279,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Lounge bar",
+   "address": "244, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.989855,
+    "longitude": 77.7231
+   },
+   "comment": "Elegant hotel cocktail bar & nightclub",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Tease Bar - Vivanta Bengaluru, Whitefield",
+   "place_id": "ChIJmRs_6uQRrjsRPTAdqNyO5bE",
+   "data_id": "0x3bae11e4ea3f1b99:0xb1e58edca81d303d",
+   "rating": 4,
+   "reviews": 35,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Bar",
+   "address": "Vivanta Taj, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.987007,
+    "longitude": 77.737434
+   },
+   "comment": "Hotel lounge for cocktails & bar bites",
+   "extensions": [
+    "Closed",
+    "Opens 3 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Checkered Bar",
+   "place_id": "ChIJD7fOwCASrjsRJJlpDkqjhR4",
+   "data_id": "0x3bae1220c0ceb70f:0x1e85a34a0e699924",
+   "rating": 4,
+   "reviews": 175,
+   "type": "Bar",
+   "address": "MGM Mark, 23, EPIP Zone Whitefield Rd",
+   "gps_coordinates": {
+    "latitude": 12.971697,
+    "longitude": 77.71747
+   },
+   "comment": "Modern lounge bar in a business hotel",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "The Pump House",
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "rating": 4.5,
+   "reviews": 31000,
+   "type": "Brewpub",
+   "address": "607, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.582085
+   },
+   "comment": "Hip modern interiors & craft brews",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "The Oak Tavern- Palm Meadows",
+   "place_id": "ChIJOwesFgcSrjsRz-hj3U5Xgg4",
+   "data_id": "0x3bae120716ac073b:0xe82574edd63e8cf",
+   "rating": 4.1,
+   "reviews": 36,
+   "type": "Bar",
+   "address": "Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.964204,
+    "longitude": 77.73955
+   },
+   "comment": "Old-fashioned bar at a fancy resort",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "LMNO - Let’s Make New Obsessions",
+   "place_id": "ChIJCXXtBNITrjsR8Ypt6gED92Q",
+   "data_id": "0x3bae13d204ed7509:0x64f70301ea6d8af1",
+   "rating": 4.7,
+   "reviews": 197,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Pub",
+   "address": "Astra Hotel 32, 31, Varthur Main Road, Silver Spring Layout, 30, Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.957512,
+    "longitude": 77.70901
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Dizzy Resto bar",
+   "place_id": "ChIJGeVaEuQTrjsRs-xwTJEhRdw",
+   "data_id": "0x3bae13e4125ae519:0xdc4521914c70ecb3",
+   "rating": 3.7,
+   "reviews": 697,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Pub",
+   "address": "125, Kundalahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.967355,
+    "longitude": 77.71468
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "SALT - Indian Restaurant Bar & Grill",
+   "place_id": "ChIJFUa3vL0RrjsRdAwR6JhIB4k",
+   "data_id": "0x3bae11bdbcb74615:0x89074898e8110c74",
+   "rating": 4.2,
+   "reviews": 2800,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Indian",
+   "address": "Nexus, Forum Mall Whitefield",
+   "gps_coordinates": {
+    "latitude": 12.989818,
+    "longitude": 77.72802
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "SAKI - PAN ASIAN KITCHEN & BAR",
+   "place_id": "ChIJVdPtYXwPrjsRXn4TxiW3NnE",
+   "data_id": "0x3bae0f7c61edd355:0x7136b725c6137e5e",
+   "rating": 4.6,
+   "reviews": 41,
+   "type": "Bar",
+   "address": "5th & 6th Floor, Vijayanagar Main Rd, above Addin Spirits, opposite to Gopalan Aqua",
+   "gps_coordinates": {
+    "latitude": 12.978565,
+    "longitude": 77.75735
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "The Chocolate Room, Whitefield",
+   "place_id": "ChIJLVJYDQARrjsRb9zJLllrwoQ",
+   "data_id": "0x3bae11000d58522d:0x84c26b592ec9dc6f",
+   "rating": 4.2,
+   "reviews": 1200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "ITPL Main Road, next to Bhima Jewellers, Whitefield, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.992321,
+    "longitude": 77.71971
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The Fat Chef",
+   "place_id": "ChIJuWG5XQkSrjsRs3o5g5m4PfI",
+   "data_id": "0x3bae12095db961b9:0xf23db89983397ab3",
+   "rating": 4,
+   "reviews": 2200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "No.19, Bright Farm,Thubarahalli Old Airport, Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9547615,
+    "longitude": 77.723335
+   },
+   "comment": "Relaxed European restaurant with a patio",
+   "extensions": [
+    "Closed",
+    "Opens 11 am Tue"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Tight Tiger Resto Pub Marathahalli",
+   "place_id": "ChIJFawcQ5MTrjsROOK5c7_rIMQ",
+   "data_id": "0x3bae1393431cac15:0xc420ebbf73b9e238",
+   "rating": 4.4,
+   "reviews": 207,
+   "type": "Pub",
+   "address": "185, Near, Marathalli Brg, above Bhagini sprits, above Bhagini spirits",
+   "gps_coordinates": {
+    "latitude": 12.957128,
+    "longitude": 77.702
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Sorso Taproom & Kitchen",
+   "place_id": "ChIJuw9O4dYRrjsRqkuBvDQWbxg",
+   "data_id": "0x3bae11d6e14e0fbb:0x186f1634bc814baa",
+   "rating": 4.7,
+   "reviews": 200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "No 5 & 6, 5th Floor Alpine Eco Rd, next to Apollo pharmacy Ferns City, Chinnappanahalli",
+   "gps_coordinates": {
+    "latitude": 12.973013,
+    "longitude": 77.69931
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Sunrise Bar And Resturants",
+   "place_id": "ChIJxfVq2wISrjsRF5mzAKHTIBI",
+   "data_id": "0x3bae1202db6af5c5:0x1220d3a100b39917",
+   "rating": 3.5,
+   "reviews": 405,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bar",
+   "address": "Nallurahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.971505,
+    "longitude": 77.73481
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "The Hangover Resto Bar",
+   "place_id": "ChIJk63rB1sNrjsRLdW8bJOxzZU",
+   "data_id": "0x3bae0d5b07ebad93:0x95cdb1936cbcd52d",
+   "rating": 5,
+   "reviews": 7,
+   "type": "Pub",
+   "address": "1st Floor, 6/2, Whitefield Main Rd, next to Malabar Jewellery",
+   "gps_coordinates": {
+    "latitude": 12.967606,
+    "longitude": 77.7502
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Neeru Bar and Kitchen",
+   "place_id": "ChIJoQJtYQARrjsR8-HqKYBIT3o",
+   "data_id": "0x3bae1100616d02a1:0x7a4f488029eae1f3",
+   "rating": 4.7,
+   "reviews": 18,
+   "price": "₹800–1,800",
+   "extracted_price": {
+    "min": 800,
+    "max": 1800
+   },
+   "type": "Bar",
+   "address": "Plot No 5-PI, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9876995,
+    "longitude": 77.726776
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Layla – An Indian -Terranean Love Story",
+   "place_id": "ChIJS6P5CMYRrjsRovtN9U_8w2M",
+   "data_id": "0x3bae11c608f9a34b:0x63c3fc4ff54dfba2",
+   "rating": 4,
+   "reviews": 700,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.987413,
+    "longitude": 77.73332
+   },
+   "comment": "Chic rooftop locale for drinks & tapas",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Flechazo Gold Buffet Restaurant & Banquets, Whitefield",
+   "place_id": "ChIJmxjeWPQRrjsR9S6-LsS6bhw",
+   "data_id": "0x3bae11f458de189b:0x1c6ebac42ebe2ef5",
+   "rating": 4.1,
+   "reviews": 11000,
+   "price": "₹1,000–1,200",
+   "extracted_price": {
+    "min": 1000,
+    "max": 1200
+   },
+   "type": "Buffet",
+   "address": "Phase 1, 120, 2nd Floor, Santhosh Towers, A3, Rd Number 3",
+   "gps_coordinates": {
+    "latitude": 12.977308,
+    "longitude": 77.72488
+   },
+   "comment": "Mediterranean & Asian buffet dining",
+   "extensions": [
+    "Closed",
+    "Opens 11:45 am"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,462 @@
+{
+ "q": "best restaurants in BTM Layout Bangalore",
+ "ll": "@12.9166,77.6101,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:32:50.913Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Sharief Bhai - Biryani & Mandi | BTM",
+   "place_id": "ChIJM5lBrOEVrjsRBIYtnbg2Bd0",
+   "data_id": "0x3bae15e1ac419933:0xdd0536b89d2d8604",
+   "rating": 4.3,
+   "reviews": 1600,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Biryani",
+   "address": "Shop 320, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914301,
+    "longitude": 77.60634
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Amontron Restaurant",
+   "place_id": "ChIJb_r6_cMVrjsRMv_C4NBIOco",
+   "data_id": "0x3bae15c3fdfafa6f:0xca3948d0e0c2ff32",
+   "rating": 4.2,
+   "reviews": 390,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Bengali",
+   "address": "Ground floor, 16th Main, 24/25, 17th A Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906825,
+    "longitude": 77.61091
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Nagarjuna Restaurant Since 1984 - Bannerghatta Road",
+   "place_id": "ChIJY6gaURkVrjsRHgIKwU5cOUY",
+   "data_id": "0x3bae1519511aa863:0x46395c4ec10a021e",
+   "rating": 4.1,
+   "reviews": 18000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "Meu Square, 174/1, Bannerghatta Rd, above KFC",
+   "gps_coordinates": {
+    "latitude": 12.904902,
+    "longitude": 77.60156
+   },
+   "comment": "Contemporary Andheri restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Namaste",
+   "place_id": "ChIJKUWuni4VrjsRvSAf1GOctOw",
+   "data_id": "0x3bae152e9eae4529:0xecb49c63d41f20bd",
+   "rating": 4.2,
+   "reviews": 7100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "69, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.910546,
+    "longitude": 77.60661
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "New Friends pub and Restaurant",
+   "place_id": "ChIJbSEJGfwUrjsRfESfRwKnsDo",
+   "data_id": "0x3bae14fc1909216d:0x3ab0a702479f447c",
+   "rating": 4.1,
+   "reviews": 3300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Gastropub",
+   "address": "Door No:12/11, 20th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916815,
+    "longitude": 77.61238
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Kongu Parottas & Biryani",
+   "place_id": "ChIJy4QgGjMVrjsRJeD5U8QAvRs",
+   "data_id": "0x3bae15331a2084cb:0x1bbd00c453f9e025",
+   "rating": 4.8,
+   "reviews": 286,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "1st floor, 749, 7th cross, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9138155,
+    "longitude": 77.609215
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Indus Family Restaurant",
+   "place_id": "ChIJe79CpP4UrjsRd-CqWQGlx9k",
+   "data_id": "0x3bae14fea442bf7b:0xd9c7a50159aae077",
+   "rating": 4,
+   "reviews": 2000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.917703,
+    "longitude": 77.61251
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Food Ford Kitchen",
+   "place_id": "ChIJrTzyAB8VrjsRMAnNnU6nE4A",
+   "data_id": "0x3bae151f00f23cad:0x8013a74e9dcd0930",
+   "rating": 4.4,
+   "reviews": 25,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "Residing @ Old No. 19, Corporation No. 45 2nd, Rastrakavi, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90868,
+    "longitude": 77.60655
+   }
+  },
+  {
+   "position": 9,
+   "title": "Kalia’s Kitchen",
+   "place_id": "ChIJRV_H8LYVrjsRuZ3Zej7Ws-U",
+   "data_id": "0x3bae15b6f0c75f45:0xe5b3d63e7ad99db9",
+   "rating": 4.2,
+   "reviews": 268,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Indian Takeout",
+   "address": "Lake road, 90/28 23rd cross, 29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905085,
+    "longitude": 77.61224
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Delhi Chaap Express - BTM | Pure Veg | Best Chaap, Rolls, Starters | Catering, Party orders taken",
+   "place_id": "ChIJo1dK-c4VrjsRkKY8HuJt9RU",
+   "data_id": "0x3bae15cef94a57a3:0x15f56de21e3ca690",
+   "rating": 4.3,
+   "reviews": 184,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "No 248, Third, wave coffee Basement, 7th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.913692,
+    "longitude": 77.60524
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Malgudi's Naati Style @BTM 2nd Stage",
+   "place_id": "ChIJqwvghx8VrjsR4vJPvXQzSgg",
+   "data_id": "0x3bae151f87e00bab:0x84a3374bd4ff2e2",
+   "rating": 4.3,
+   "reviews": 154,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Karnataka restaurant",
+   "address": "15/23, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90785,
+    "longitude": 77.606384
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Shoaling Fish Mangalore Lunch Home @ BTM Layout",
+   "place_id": "ChIJq5fUa10VrjsRbFuXVlN66uc",
+   "data_id": "0x3bae155d6bd497ab:0xe7ea7a5356975b6c",
+   "rating": 4.5,
+   "reviews": 350,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Seafood",
+   "address": "7 7th main, 19th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.907274,
+    "longitude": 77.607185
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Mani's Dum Biryani - BTM Layout",
+   "place_id": "ChIJ26Dj4WEVrjsR2p2yy3DYxeU",
+   "data_id": "0x3bae1561e1e3a0db:0xe5c5d870cbb29dda",
+   "rating": 4.3,
+   "reviews": 837,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "942, 16th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914769,
+    "longitude": 77.61026
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Chulha",
+   "place_id": "ChIJQw_FYecVrjsRsfshMbuLPkU",
+   "data_id": "0x3bae15e761c50f43:0x453e8bbb3121fbb1",
+   "rating": 4.9,
+   "reviews": 85,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "North Indian",
+   "address": "24, shop #2, Ground Floor, 3rd B cross, 18th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91391,
+    "longitude": 77.61093
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Kababish Family Restaurant",
+   "place_id": "ChIJObrubB0VrjsRkQaU_zFRhnk",
+   "data_id": "0x3bae151d6ceeba39:0x79865131ff940691",
+   "rating": 4,
+   "reviews": 1600,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Keralan",
+   "address": "WJ54+QH2, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90938,
+    "longitude": 77.60641
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Sri Vishnu Park",
+   "place_id": "ChIJzUJ8y_sUrjsRBrlyaKsHL3M",
+   "data_id": "0x3bae14fbcb7c42cd:0x732f07ab6872b906",
+   "rating": 4.1,
+   "reviews": 8800,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Karnataka restaurant",
+   "address": "WJ88+P36, 1, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.916726,
+    "longitude": 77.615105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "COORG STYLE PORK CORNER B T M",
+   "place_id": "ChIJM2AYVLQVrjsRBQxslRJvmVU",
+   "data_id": "0x3bae15b454186033:0x55996f12956c0c05",
+   "rating": 4.9,
+   "reviews": 692,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Karnataka restaurant",
+   "address": "168, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.906096,
+    "longitude": 77.60589
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Litti Twist",
+   "place_id": "ChIJqRg7Ua8VrjsRAWNj4MWCEgc",
+   "data_id": "0x3bae15af513b18a9:0x71282c5e0636301",
+   "rating": 4.1,
+   "reviews": 1300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "7/43, 1st floor, 3rd cross, 4th main kaverappa compound",
+   "gps_coordinates": {
+    "latitude": 12.910234,
+    "longitude": 77.603615
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Al Ameerah Hotel",
+   "place_id": "ChIJZxvKlcUVrjsRg4CPCvJw9k4",
+   "data_id": "0x3bae15c595ca1b67:0x4ef670f20a8f8083",
+   "rating": 4.3,
+   "reviews": 29,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Hyderabadi",
+   "address": "28 9 A, main road",
+   "gps_coordinates": {
+    "latitude": 12.917676,
+    "longitude": 77.60544
+   }
+  },
+  {
+   "position": 20,
+   "title": "SWARAN’S Swad Punjab Da",
+   "place_id": "ChIJv97oSAIVrjsR6TXA0rT3jyw",
+   "data_id": "0x3bae150248e8debf:0x2c8ff7b4d2c035e9",
+   "rating": 4.4,
+   "reviews": 1600,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Punjabi",
+   "address": "10, 5th Main Rd, near sbi bank",
+   "gps_coordinates": {
+    "latitude": 12.915214,
+    "longitude": 77.60547
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  }
+ ]
+}

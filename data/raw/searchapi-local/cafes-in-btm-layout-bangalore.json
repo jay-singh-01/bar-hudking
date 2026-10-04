@@ -1,0 +1,442 @@
+{
+ "q": "cafes in BTM Layout Bangalore",
+ "ll": "@12.9166,77.6101,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:36.249Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Downtown Café BTM Layout",
+   "place_id": "ChIJ8aa7ySIVrjsR1LLHeJULOek",
+   "data_id": "0x3bae1522c9bba6f1:0xe9390b9578c7b2d4",
+   "rating": 4.5,
+   "reviews": 119,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "urban vibes, 20th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.920084,
+    "longitude": 77.61314
+   }
+  },
+  {
+   "position": 2,
+   "title": "Olive Street Food Cafe - Btm Layout",
+   "place_id": "ChIJTXf4zPQVrjsR1ByzpbQiQwY",
+   "data_id": "0x3bae15f4ccf8774d:0x64322b4a5b31cd4",
+   "rating": 4.6,
+   "reviews": 12000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913916,
+    "longitude": 77.61046
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Selenophile Cafe ( Takeaway only)",
+   "place_id": "ChIJ9xhs6xUVrjsReNZ3z2G7nrM",
+   "data_id": "0x3bae1515eb6c18f7:0xb39ebb61cf77d678",
+   "rating": 4.7,
+   "reviews": 335,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "1, 5th main road, abbayappa Layout",
+   "gps_coordinates": {
+    "latitude": 12.908842,
+    "longitude": 77.60349
+   }
+  },
+  {
+   "position": 4,
+   "title": "Peep in Cafe",
+   "place_id": "ChIJYyZzBOoVrjsRdlz9-h7eoRM",
+   "data_id": "0x3bae15ea04732663:0x13a1de1efafd5c76",
+   "rating": 4.6,
+   "reviews": 733,
+   "price": "₹1–800",
+   "extracted_price": {
+    "min": 1,
+    "max": 800
+   },
+   "type": "Cafe",
+   "address": "10th main, 7th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.913472,
+    "longitude": 77.607895
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "The BTM Cafe",
+   "place_id": "ChIJ7Sr0AekVrjsRXHkaH1Q4Y7Y",
+   "data_id": "0x3bae15e901f42aed:0xb66338541f1a795c",
+   "rating": 4.8,
+   "reviews": 37,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "ground floor, 357, 29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.909156,
+    "longitude": 77.61396
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJR4ADSoAVrjsReLZl1csRouE",
+   "data_id": "0x3bae15804a038047:0xe1a211cbd565b678",
+   "rating": 4.4,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Shop No 248, 7th Cross, South",
+   "gps_coordinates": {
+    "latitude": 12.913692,
+    "longitude": 77.60524
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "GULHEERA(Coffee + Kitchen)",
+   "place_id": "ChIJ40GKNgAVrjsRePIkNFzm5n8",
+   "data_id": "0x3bae1500368a41e3:0x7fe6e65c3424f278",
+   "rating": 4.2,
+   "reviews": 263,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "289, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914563,
+    "longitude": 77.60605
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "The Watering Hole - BTM Layout Bangalore",
+   "place_id": "ChIJB_48idsVrjsRbhJxwsGW6vE",
+   "data_id": "0x3bae15db893cfe07:0xf1ea96c1c271126e",
+   "rating": 4.2,
+   "reviews": 1500,
+   "type": "Restaurant",
+   "address": "57/5, 6th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.905471,
+    "longitude": 77.60965
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Slurrp Cafe",
+   "place_id": "ChIJ-9yTcgAVrjsRJF59YHVqDW8",
+   "data_id": "0x3bae15007293dcfb:0x6f0d6a75607d5e24",
+   "rating": 4.8,
+   "reviews": 112,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "7th Cross Rd, 439, 6th Main Rd, next to Peter England",
+   "gps_coordinates": {
+    "latitude": 12.913477,
+    "longitude": 77.60587
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Brewing Untold Stories",
+   "place_id": "ChIJTfwm04oVrjsR97JX6AXSx6E",
+   "data_id": "0x3bae158ad326fc4d:0xa1c7d205e857b2f7",
+   "rating": 4.6,
+   "reviews": 434,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "1, 15th cross road, 29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.907174,
+    "longitude": 77.61319
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "STORIES BREWERY & KITCHEN",
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "rating": 4.4,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905697,
+    "longitude": 77.60852
+   },
+   "comment": "Beer & quick bites in a hip, stylish bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Chai Days BTM Layout",
+   "place_id": "ChIJ0RpXw50VrjsRggy1zbSOrcQ",
+   "data_id": "0x3bae159dc3571ad1:0xc4ad8eb4cdb50c82",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Royal Arcade, 902-934, 16th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9157095,
+    "longitude": 77.61023
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Sip and Crisp",
+   "place_id": "ChIJaQbatGIVrjsR1WruLOFkt48",
+   "data_id": "0x3bae1562b4da0669:0x8fb764e12cee6ad5",
+   "rating": 5,
+   "reviews": 92,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "16th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916177,
+    "longitude": 77.61026
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Blooming Tales | Restaurant & Café",
+   "place_id": "ChIJJwrBl1AVrjsRORNid3VVKS0",
+   "data_id": "0x3bae155097c10a27:0x2d29557577621339",
+   "rating": 4.3,
+   "reviews": 242,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "64, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.911185,
+    "longitude": 77.60652
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "happen blr",
+   "place_id": "ChIJ7cHMcgAVrjsR14WT0QFYrgE",
+   "data_id": "0x3bae150072ccc1ed:0x1ae5801d19385d7",
+   "rating": 4.7,
+   "reviews": 233,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "1204, 16th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.911893,
+    "longitude": 77.60994
+   },
+   "extensions": [
+    "Closed",
+    "Opens 3 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Tealogy Cafe Bangalore",
+   "place_id": "ChIJdTgnCqIVrjsRZrGdJ0pdtXY",
+   "data_id": "0x3bae15a20a273875:0x76b55d4a279db166",
+   "rating": 4.9,
+   "reviews": 40,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "No. 93",
+   "gps_coordinates": {
+    "latitude": 12.916723,
+    "longitude": 77.603874
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Coco Barista",
+   "place_id": "ChIJjfA13gYVrjsR5CU_PN7t88s",
+   "data_id": "0x3bae1506de35f08d:0xcbf3edde3c3f25e4",
+   "rating": 4.2,
+   "reviews": 236,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "18th Main Rd, opposite CANARA BANK - BENGALURU BTM LAYOUT",
+   "gps_coordinates": {
+    "latitude": 12.914095,
+    "longitude": 77.610825
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Klayworkz Barista-KlayBar Art Cafe",
+   "place_id": "ChIJD-6Yul8VrjsRRtmayR9vZyY",
+   "data_id": "0x3bae155fba98ee0f:0x26676f1fc99ad946",
+   "rating": 4.7,
+   "reviews": 2800,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Art cafe",
+   "address": "39, 15th Cross, 100 Feet Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906827,
+    "longitude": 77.599556
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Cafe Leo",
+   "place_id": "ChIJy6UfUwAVrjsRn-uoVoKDi9A",
+   "data_id": "0x3bae1500531fa5cb:0xd08b838256a8eb9f",
+   "rating": 4.7,
+   "reviews": 346,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "805/A, Mico employees, 7th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.913989,
+    "longitude": 77.6089
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Brahmagiri Cafe",
+   "place_id": "ChIJBeCLrXYVrjsR6GhwigwOlhY",
+   "data_id": "0x3bae1576ad8be005:0x16960e0c8a7068e8",
+   "rating": 5,
+   "reviews": 56,
+   "type": "Cafe",
+   "address": "7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913499,
+    "longitude": 77.60791
+   }
+  }
+ ]
+}

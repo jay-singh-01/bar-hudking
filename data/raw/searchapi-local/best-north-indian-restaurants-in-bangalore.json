@@ -1,0 +1,439 @@
+{
+ "q": "best north indian restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:33:08.442Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Chulha Chauki da Dhaba | Rajajinagar",
+   "place_id": "ChIJD14-qzM9rjsR7996OC9QvcY",
+   "data_id": "0x3bae3d33ab3e5e0f:0xc6bd502f387adfef",
+   "rating": 4.7,
+   "reviews": 7300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "1st Floor, Industrial Sub Urb, No.3, Joddh Tower, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.01219,
+    "longitude": 77.55419
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Kohinoor Rooftop Indian Restaurant",
+   "place_id": "ChIJA6rgDb0XrjsRglwwvBNzvPk",
+   "data_id": "0x3bae17bd0de0aa03:0xf9bc7313bc305c82",
+   "rating": 4.8,
+   "reviews": 682,
+   "type": "North Indian",
+   "address": "4/1, St Mark's Rd, above St Mark's Hotel",
+   "gps_coordinates": {
+    "latitude": 12.969146,
+    "longitude": 77.60013
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Chulha Chauki Da Dhaba - Indiranagar",
+   "place_id": "ChIJb4MvTvQXrjsRlU0eYKREs6U",
+   "data_id": "0x3bae17f44e2f836f:0xa5b344a4601e4d95",
+   "rating": 4.5,
+   "reviews": 6200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "2nd Floor, 608, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.97046,
+    "longitude": 77.64498
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Amritsari- Truly North Indian Restaurant",
+   "place_id": "ChIJnbLRZUgVrjsR7r-O5Datg-g",
+   "data_id": "0x3bae154865d1b29d:0xe883ad36e48ebfee",
+   "rating": 4.4,
+   "reviews": 1100,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Indian",
+   "address": "House Number 129, 17th Main Rd, opposite California Burrito",
+   "gps_coordinates": {
+    "latitude": 12.934491,
+    "longitude": 77.616875
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "SALT - Indian Restaurant Bar & Grill",
+   "place_id": "ChIJk881HPUXrjsR6nmB9d4ucgQ",
+   "data_id": "0x3bae17f51c35cf93:0x4722edef58179ea",
+   "rating": 4.5,
+   "reviews": 1200,
+   "type": "North Indian",
+   "address": "2nd Level, UB City, Concorde & Canberra Blocks, 24, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.97186,
+    "longitude": 77.59617
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Chulha Chauki da Dhaba | Kalyan Nagar",
+   "place_id": "ChIJaTv6sCIXrjsRKOrhaJKo_e0",
+   "data_id": "0x3bae1722b0fa3b69:0xedfda89268e1ea28",
+   "rating": 4.4,
+   "reviews": 14000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "North Indian",
+   "address": "Masand Esquire, Bus Depot, 1M, near Hennur Main Road",
+   "gps_coordinates": {
+    "latitude": 13.024937,
+    "longitude": 77.63153
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Chulha Chauki da Dhaba | Jayanagar",
+   "place_id": "ChIJgxVxQ5IVrjsRJCAs2BV0RZc",
+   "data_id": "0x3bae159243711583:0x97457415d82c2024",
+   "rating": 4.3,
+   "reviews": 20000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "5th Floor, Jodh Tower. 40, 27th Cross, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93073,
+    "longitude": 77.5808
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Sattva Pure Veg Restaurant",
+   "place_id": "ChIJy0gzUXsXrjsRFPHhnmXtCjQ",
+   "data_id": "0x3bae177b513348cb:0x340aed659ee1f114",
+   "rating": 4.8,
+   "reviews": 4400,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "South Indian",
+   "address": "ground floor, Minerva Mills Compound, No. 19/6, Magadi Main Rd, next to Mysore Sugandh Dhoop Factory",
+   "gps_coordinates": {
+    "latitude": 12.978875,
+    "longitude": 77.56425
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Spice Terrace",
+   "place_id": "ChIJc_4WSHcWrjsR7wdB6_Dms58",
+   "data_id": "0x3bae16774816fe73:0x9fb3e6f0eb4107ef",
+   "rating": 4.3,
+   "reviews": 2200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972144,
+    "longitude": 77.594925
+   },
+   "comment": "Posh hotel's poolside Indian restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 7 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Gufha Restaurant, Jayanagar",
+   "place_id": "ChIJtWPujJcVrjsRQCh66TorJPU",
+   "data_id": "0x3bae15978cee63b5:0xf5242b3ae97a2840",
+   "rating": 4.1,
+   "reviews": 9200,
+   "type": "Indian",
+   "address": "79/8, Diagonal Rd",
+   "gps_coordinates": {
+    "latitude": 12.933236,
+    "longitude": 77.5833
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Bengaluru Restaurant",
+   "place_id": "ChIJf2-y-BwVrjsR0G-Ts_6cAVs",
+   "data_id": "0x3bae151cf8b26f7f:0x5b019cfeb3936fd0",
+   "rating": 4.7,
+   "reviews": 436,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Indian",
+   "address": "Ganigara, C, Gurkar Ramanayak Ln",
+   "gps_coordinates": {
+    "latitude": 12.966572,
+    "longitude": 77.583145
+   }
+  },
+  {
+   "position": 12,
+   "title": "Tandoori Taal - Indiranagar",
+   "place_id": "ChIJxyVVlx4UrjsRESGOX7DbuGs",
+   "data_id": "0x3bae141e975525c7:0x6bb8dbb05f8e2111",
+   "rating": 4.3,
+   "reviews": 9100,
+   "price": "₹400–800",
+   "extracted_price": {
+    "min": 400,
+    "max": 800
+   },
+   "type": "North Indian",
+   "address": "1st Floor, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.96991,
+    "longitude": 77.637985
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Oorjaa - North Indian Cuisine",
+   "place_id": "ChIJGaumDa0XrjsRvuVpiOQ3bV4",
+   "data_id": "0x3bae17ad0da6ab19:0x5e6d37e48869e5be",
+   "rating": 4.9,
+   "reviews": 97,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "North Indian",
+   "address": "IV, 45, high point, 4105/6, Palace Rd",
+   "gps_coordinates": {
+    "latitude": 12.985,
+    "longitude": 77.58804
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "CHAMPAK - Champaran | The best North Indian restaurant in Bangalore",
+   "place_id": "ChIJwyLnQwcVrjsRMv0UiS1Cgos",
+   "data_id": "0x3bae150743e722c3:0x8b82422d8914fd32",
+   "rating": 4.6,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "112, 6th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936959,
+    "longitude": 77.624596
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Chulha Chauki Da Dhaba - Mahadevapura",
+   "place_id": "ChIJczm7iJERrjsRogUVBD_QNg0",
+   "data_id": "0x3bae119188bb3973:0xd36d03f041505a2",
+   "rating": 4.4,
+   "reviews": 18000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "62/2, Chinnappa Reddy Rd",
+   "gps_coordinates": {
+    "latitude": 12.981974,
+    "longitude": 77.69261
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Amma's Legacy",
+   "place_id": "ChIJ2zz1UBAXrjsRxv3zC4Vrcpc",
+   "data_id": "0x3bae171050f53cdb:0x97726b850bf3fdc6",
+   "rating": 4.4,
+   "reviews": 1000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "North Indian",
+   "address": "22, Swami Vivekananda road, Old Madras Rd",
+   "gps_coordinates": {
+    "latitude": 12.973892,
+    "longitude": 77.62333
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Tandoori Chulha, Asli Punjabi Family Restaurant",
+   "place_id": "ChIJzwJpfJkXrjsR9wW-SUOCWrE",
+   "data_id": "0x3bae17997c6902cf:0xb15a824349be05f7",
+   "rating": 4.7,
+   "reviews": 2000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "No.1 3rd Floor, Prem Prasad Complex, New BEL Rd",
+   "gps_coordinates": {
+    "latitude": 13.027292,
+    "longitude": 77.57183
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Indian Durbar",
+   "place_id": "ChIJK_yk-IQXrjsR4JCQdRhZHYI",
+   "data_id": "0x3bae1784f8a4fc2b:0x821d5918759090e0",
+   "rating": 4.6,
+   "reviews": 1100,
+   "type": "Punjabi",
+   "address": "25/3, Kensington Rd",
+   "gps_coordinates": {
+    "latitude": 12.975518,
+    "longitude": 77.62067
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Empire Restaurant Majestic",
+   "place_id": "ChIJRRUYXhAWrjsR6Jxat7CodnA",
+   "data_id": "0x3bae16105e181545:0x7076a8b0b75a9ce8",
+   "rating": 4.5,
+   "reviews": 29000,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "Majestic, ABM Building, 70, 6th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.979764,
+    "longitude": 77.57509
+   }
+  },
+  {
+   "position": 20,
+   "title": "Badmaash UB City",
+   "place_id": "ChIJNXTA_O4XrjsRsh8xvQkRq-g",
+   "data_id": "0x3bae17eefcc07435:0xe8ab1109bd311fb2",
+   "rating": 4,
+   "reviews": 1100,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "2nd Floor, The Collection, UB City, 203, 24, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971747,
+    "longitude": 77.59622
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

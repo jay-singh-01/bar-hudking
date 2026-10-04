@@ -1,0 +1,460 @@
+{
+ "q": "cafes in Indiranagar Bangalore",
+ "ll": "@12.9716,77.6412,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:41:33.012Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "HumbleBean Coffee & Pâtisserie",
+   "place_id": "ChIJ4VinJNMVrjsRGsdRLScN-Po",
+   "data_id": "0x3bae15d324a758e1:0xfaf80d272d51c71a",
+   "rating": 4.4,
+   "reviews": 890,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Coffee shop",
+   "address": "3165, 60 Feet, 12th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.9692,
+    "longitude": 77.63582
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Nanav Cafe",
+   "place_id": "ChIJGQGs7yMVrjsRqqRDoWoc3Pk",
+   "data_id": "0x3bae1523efac0119:0xf9dc1c6aa143a4aa",
+   "rating": 4.2,
+   "reviews": 1900,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "2286, 14th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.967219,
+    "longitude": 77.64222
+   },
+   "comment": "Cafe in support of attached arts centre",
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Muru Muru",
+   "place_id": "ChIJSWysWQAXrjsRsYcjvMPP9fc",
+   "data_id": "0x3bae170059ac6c49:0xf7f5cfc3bc2387b1",
+   "rating": 4.3,
+   "reviews": 426,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Coffee shop",
+   "address": "33, 12th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.982191,
+    "longitude": 77.63787
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Cafe Muziris",
+   "place_id": "ChIJC8MZ42gVrjsR28n5C85sHEM",
+   "data_id": "0x3bae1568e319c30b:0x431c6cce0bf9c9db",
+   "rating": 4.3,
+   "reviews": 614,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Cafe",
+   "address": "49, 9th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.977753,
+    "longitude": 77.63963
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJz4XxU64WrjsR-SX874KhQ2Y",
+   "data_id": "0x3bae16ae53f185cf:0x6643a182effc25f9",
+   "rating": 4.4,
+   "reviews": 4000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "729, Chinmaya Mission Hospital Rd",
+   "gps_coordinates": {
+    "latitude": 12.978675,
+    "longitude": 77.645294
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJmaECDuIXrjsRBV-N3LEeVY8",
+   "data_id": "0x3bae17e20e02a199:0x8f551eb1dc8d5f05",
+   "rating": 4.4,
+   "reviews": 2600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970203,
+    "longitude": 77.63867
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Yogisthaan",
+   "place_id": "ChIJdU1tOrsWrjsRa8hTEg4Fuug",
+   "data_id": "0x3bae16bb3a6d4d75:0xe8ba050e1253c86b",
+   "rating": 4.2,
+   "reviews": 3800,
+   "type": "Cafe",
+   "address": "89, 11th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.980969,
+    "longitude": 77.63841
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Mon Cheri Crafted Continental Dining",
+   "place_id": "ChIJ_5kHPwMXrjsRgTN39KEhEAo",
+   "data_id": "0x3bae17033f0799ff:0xa1021a1f4773381",
+   "rating": 4.7,
+   "reviews": 1000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Italian",
+   "address": "545, jk horizon, Chinmaya Mission Hospital Rd, opposite Bank of Baroda",
+   "gps_coordinates": {
+    "latitude": 12.978065,
+    "longitude": 77.63776
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Coffee Theatre - Indiranagar, Bangalore",
+   "place_id": "ChIJ_ULNqisXrjsReF339zKH1Gk",
+   "data_id": "0x3bae172baacd42fd:0x69d48732f7f75d78",
+   "rating": 4.6,
+   "reviews": 136,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "3rd floor, Bayt Towers, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970249,
+    "longitude": 77.63938
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Café Amudham Restaurant Indiranagar",
+   "place_id": "ChIJ29W9NykXrjsRGxijg9EmARc",
+   "data_id": "0x3bae172937bdd5db:0x170126d183a3181b",
+   "rating": 4.1,
+   "reviews": 410,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Cafe Amudham 46, 9th Main, 80 Feet Rd, opposite to BSNL Office",
+   "gps_coordinates": {
+    "latitude": 12.96951,
+    "longitude": 77.647804
+   }
+  },
+  {
+   "position": 11,
+   "title": "Truffles - Indiranagar",
+   "place_id": "ChIJ-3cMy7oWrjsRu8up6eYKXaI",
+   "data_id": "0x3bae16bacb0c77fb:0xa25d0ae6e9a9cbbb",
+   "rating": 4.4,
+   "reviews": 21000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, K. P Square, 307, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.980727,
+    "longitude": 77.64052
+   },
+   "comment": "Snacks & desserts in bright interiors",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Matteo Coffea",
+   "place_id": "ChIJEdVNhKQWrjsRIJkyIYIKY9s",
+   "data_id": "0x3bae16a4844dd511:0xdb630a8221329920",
+   "rating": 4.3,
+   "reviews": 3900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "Melmat Building, 508, Chinmaya Mission Hospital Rd, beside Puma Building",
+   "gps_coordinates": {
+    "latitude": 12.978193,
+    "longitude": 77.64383
+   },
+   "comment": "Casual spot for fast food & coffee",
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Story Coffee House & Bistro",
+   "place_id": "ChIJv_Jv4H0XrjsRc9yIr1_3w48",
+   "data_id": "0x3bae177de06ff2bf:0x8fc3f75faf88dc73",
+   "rating": 4.3,
+   "reviews": 239,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "East West Building, 13th Street, near Indira Nagar",
+   "gps_coordinates": {
+    "latitude": 12.971849,
+    "longitude": 77.63511
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Glens Bakehouse",
+   "place_id": "ChIJYyvzFKUWrjsRQxHn48rD5T8",
+   "data_id": "0x3bae16a514f32b63:0x3fe5c3cae3e71143",
+   "rating": 4.3,
+   "reviews": 14000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "297, 100 Feet Rd, near Toit Pub",
+   "gps_coordinates": {
+    "latitude": 12.979143,
+    "longitude": 77.64062
+   },
+   "comment": "Global fare & desserts in a relaxed cafe",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Watson's Indiranagar",
+   "place_id": "ChIJiYNImeMVrjsRYpFnzgV1ORk",
+   "data_id": "0x3bae15e399488389:0x19397505ce679162",
+   "rating": 4.5,
+   "reviews": 4700,
+   "type": "Restaurant",
+   "address": "2nd Floor, 777/I, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.967276,
+    "longitude": 77.64127
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Dyu Art Cafe",
+   "place_id": "ChIJ80IECk8UrjsRqCffDjE09lw",
+   "data_id": "0x3bae144f0a0442f3:0x5cf634310edf27a8",
+   "rating": 4.4,
+   "reviews": 21000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Art cafe",
+   "address": "KHB MIG Colony, Dyu art cafe 23, 22, 1st Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.937307,
+    "longitude": 77.61765
+   },
+   "comment": "Mellow global cafe & art gallery",
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Ainmane Cafe and Speciality Store",
+   "place_id": "ChIJrXT8wnMXrjsRmkywvo4rLlY",
+   "data_id": "0x3bae1773c2fc74ad:0x562e2b8ebeb04c9a",
+   "rating": 4.3,
+   "reviews": 900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "420, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.971987,
+    "longitude": 77.64198
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "The Srirangam Cafe",
+   "place_id": "ChIJtS18E3wXrjsRp6ams4onXL4",
+   "data_id": "0x3bae177c137c2db5:0xbe5c278ab3a6a6a7",
+   "rating": 4.4,
+   "reviews": 3100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "332, Paramahansa Yogananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.978633,
+    "longitude": 77.636925
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The Filter Coffee - Indiranagar",
+   "place_id": "ChIJNYfsr5sXrjsRVPc6oYNRIJ0",
+   "data_id": "0x3bae179bafec8735:0x9d205183a13af754",
+   "rating": 4.3,
+   "reviews": 4900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "3050, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.971513,
+    "longitude": 77.647095
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Smoke House Deli Indiranagar",
+   "place_id": "ChIJzyDnxRwUrjsR8A3n-TCW5tE",
+   "data_id": "0x3bae141cc5e720cf:0xd1e69630f9e70df0",
+   "rating": 4.3,
+   "reviews": 11000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "address": "Ward 72, Plot 1209, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.965556,
+    "longitude": 77.641235
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

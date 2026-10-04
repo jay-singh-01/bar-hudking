@@ -1,0 +1,1046 @@
+{
+ "q": "bars and pubs in Domlur/Old Airport Road Bangalore",
+ "ll": "@12.9611,77.6387,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T16:39:23.583Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJmYFyxAUUrjsRQ2009RsA3cM",
+   "data_id": "0x3bae1405c4728199:0xc3dd001bf5346d43",
+   "title": "Big Pitcher Indiranagar",
+   "description": "Hip brewpub with bar fare & events. Cool, sizable hangout for bar bites and house-brewed beers, plus pub quizzes and stand-up comedy.",
+   "address": "Ward No.88, L R Arcade, No.4121, HAL Old Airport Rd, next to The Leela Palace, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095909 05000",
+   "rating": 4.4,
+   "reviews": 30915,
+   "website": "https://www.bigpitcher.co.in/indiranagar-best-pub-bangalore/",
+   "domain": "bigpitcher.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9602204,
+    "longitude": 77.6468902
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Barbecue restaurant",
+    "Brewpub",
+    "Cocktail bar",
+    "Dance club",
+    "Night club",
+    "Pub",
+    "Restaurant",
+    "Sports bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/big-pitcher-kodihalli-indiranagar-bangalore-19385/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmORvYwltEvGMhG4yL5KEp7eR4fHxJk5SWOoufG-SB3uqdjLqkCyGd9W7NIolzE8Q57EcDVjxK8CJXryqORZe--X8ZZqyY-_oXZBwNkLopN5_s9Q4Cv3OIo1bnmUzFs1Gu7TzWbF=w137-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJSaulJR0UrjsR2T-ibTmBHfU",
+   "data_id": "0x3bae141d25a5ab49:0xf51d81396da23fd9",
+   "title": "Bob's Bar",
+   "address": "777/I, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 21010,
+   "gps_coordinates": {
+    "latitude": 12.9671312,
+    "longitude": 77.64116709999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11:30 am–1 am",
+    "monday": "11:30 am–1 am",
+    "tuesday": "11:30 am–1 am",
+    "wednesday": "11:30 am–1 am",
+    "thursday": "11:30 am–1 am",
+    "friday": "11:30 am–1 am",
+    "saturday": "11:30 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/bobs-bar-1-indiranagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_igGuj1IG9UKz61MS3ympzKrm4F0CTe4pQkqimys_bxUAjTfdRo0PtKkQNivrOHtsxRYL4UHSpVW3tZaJuOcjZNpWzYaKgNi-8WGJw__BMC9ZvAMyQ%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPRH_eR-FVZe8y1Gf4XeX4iB6NSY_3r7f5R713gT6DMQ8KPpPwvPr6UTOhmggdmwGhdAbFqVDg_ixOlTf9Zx3FSpar4zSJ-rYcL-4080XNojBW3RdPEHb-DfuJHkuY_iSKNL_n6=w122-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJs6RssRwUrjsRWAxBB6vI-a4",
+   "data_id": "0x3bae141cb16ca4b3:0xaef9c8ab07410c58",
+   "title": "Tipsy Bull",
+   "address": "Domlur Flyover, Dos-Isro Housing Colony, HAL 2nd Stage, ISRO Colony, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074060 90000",
+   "rating": 4.1,
+   "reviews": 13850,
+   "website": "http://www.tipsybull.com/",
+   "domain": "tipsybull.com",
+   "gps_coordinates": {
+    "latitude": 12.9648159,
+    "longitude": 77.6418132
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Bar & grill",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/tipsy-bull-the-bar-exchange-indiranagar-bangalore-184123/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNIFaf5kpPuZQzh9Wd3WQBVdsEpmd7LEeHX6vAf6V2hprCcSPV_AjOYkllTjSXFme26vXG69imdu68ZZoVeFwsTW-eUZusQ7ijQMMze_ZsGqvYz9aA0fiFTiHM94s_UaB5i5Xe-Yg=w137-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJSy6kphYVrjsR6k6k8DboMDk",
+   "data_id": "0x3bae1516a6a42e4b:0x3930e836f0a44eea",
+   "title": "Newton's Resto Bar",
+   "address": "4121/Q, HAL Old Airport Rd, HAL 2nd Stage, Old Bangalore, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 147,
+   "gps_coordinates": {
+    "latitude": 12.9605312,
+    "longitude": 77.64454649999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "11:30 am–11:30 pm",
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMkyifw-AIVKSVW3CRI0fjgkY0yL0r_8wvK4zF3_LI2a3WkUmur74kKu5ePp0tgqxobamBxsedTYIgK3TOXKuclAEbR668864dRaP7OI6yBD3rAH7BNu_Anff9hFfOHTyxa=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJi2jHcRkUrjsR3TkvjPWCX54",
+   "data_id": "0x3bae141971c7688b:0x9e5f82f58c2f39dd",
+   "title": "Blue Nights.6",
+   "address": "6, 7, HAL Old Airport Rd, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.9,
+   "reviews": 275,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9612941,
+    "longitude": 77.63562259999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPFExNxUdtJSSVL-G6MF8R5la4h4bQMmj9P2Qna-713DWhYiDO6oMcIQfk_yHB3jezCh3Le90XOZL7sbp-_8zN1d0JrPsqU-FcdlBwnfOWFOOxM4CS-rpnFY2R8i0kyeZvl4nAS=w80-h142-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJIVihkQ8UrjsR9FhE552-ZDs",
+   "data_id": "0x3bae140f91a15821:0x3b64be9de74458f4",
+   "title": "Jeff's",
+   "description": "Traditional-style theme pub in a hotel. Hotel's theme pub decked out in wood with a circular central bar and screen for sport and music.",
+   "address": "Hotel Royal Orchid, 1, HAL Old Airport Rd, adjoining KGA Golf Course, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091481 46225",
+   "rating": 4,
+   "reviews": 541,
+   "website": "http://www.royalorchidhotels.com/hotel-royal-orchid-bangalore/dine",
+   "domain": "royalorchidhotels.com",
+   "gps_coordinates": {
+    "latitude": 12.9573481,
+    "longitude": 77.6440495
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Lounge bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/jeffs-airport-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_h2gnww89C43Dz6SlTHEPE-DU0cqW2MKxJXkjB3YmSwES4a_B5JjRaN53xoTOOWs2qS-6bLTXnzYi85ehJWfKwKul82bA%3D%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOQ7kkEJ0g0xaNba8hCGfkxSFmTaXFApb_QKNulIDvH46niHtrTCDsdBG8oi0FMLVbqK8RlUWb3imdZmMgldOKSckT8El03LQwA20Dm4mC0lGPlkhhnsnQfbPAaHlVzXq5_lR5k=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJu-m8mBEUrjsREFVZh0GU3Q0",
+   "data_id": "0x3bae141198bce9bb:0xddd944187595510",
+   "title": "Murphy's Brewhouse",
+   "description": "Irish-style pub for microbrews & bites. This wood-paneled Irish bar serves house-brewed beers alongside Indian & global pub grub.",
+   "address": "The Paul, 139/28, 5th floor, off Intermediate Ring Road, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4047 7777",
+   "rating": 4.3,
+   "reviews": 4368,
+   "website": "https://www.thepaulbangalore.in/restaurants/murphys-brewhouse.html",
+   "domain": "thepaulbangalore.in",
+   "gps_coordinates": {
+    "latitude": 12.9537792,
+    "longitude": 77.63968129999999
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Pizza restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/murphys-brewhouse-the-paul-bangalore-domlur-indiranagar-bangalore-688059/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNHcOcU2xacV5R7LQ7qBcLvA5jtrtJZABvh-c93pNu46bLwSjYj-XCN_YiuHcIYf5jr38hLbkZJZQK1Yw8akP-nK0HIgKB2cnw_INHhg7SXJpav7CEtNB3KeOnmeXfCHtqOgoitQg=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJC4jSzucVrjsR_TuLOhxNGCk",
+   "data_id": "0x3bae15e7ced2880b:0x29184d1c3a8b3bfd",
+   "title": "SOKA Cocktail Bar",
+   "address": "No.210, A cross, 1st Main Rd, 2nd stage Indiranagar, Stage 2, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "093530 45053",
+   "rating": 4.3,
+   "reviews": 438,
+   "website": "https://www.sokabar.com/",
+   "domain": "sokabar.com",
+   "gps_coordinates": {
+    "latitude": 12.965116,
+    "longitude": 77.6383883
+   },
+   "type": "Cocktail bar",
+   "types": [
+    "Cocktail bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "5 pm–1 am",
+    "monday": "5 pm–1 am",
+    "tuesday": "5 pm–1 am",
+    "wednesday": "5 pm–1 am",
+    "thursday": "5 pm–1 am",
+    "friday": "5 pm–1 am",
+    "saturday": "5 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/soka-indiranagar-east-bengaluru-706228",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOMSR-JkN1qIabRYO72t0_kMJ2Ujt7l-fyqWIKtVKXRT0QQgcmTEiO07892DCRmQomHxVmovnehhkCDPnd-EDP08fOfSMeHZzBd10x-4fS97BTeSo7q_LcO7soCbcJyvlQjwl7kb3ScpdsW=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJ8wj5DgUUrjsRKAkiEtppSFA",
+   "data_id": "0x3bae14050ef908f3:0x504869da12220928",
+   "title": "Mookambika Bar and Restaurant",
+   "address": "Old Airport Road, Shop No : 22, HAL Old Airport Rd, Old Airport Road, ISRO Colony, Kodihalli, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.6,
+   "reviews": 196,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9601946,
+    "longitude": 77.64459409999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 9:30 am Mon",
+   "open_hours": {
+    "sunday": "9:30 am–11 pm",
+    "monday": "9:30 am–11 pm",
+    "tuesday": "9:30 am–11 pm",
+    "wednesday": "9:30 am–11 pm",
+    "thursday": "9:30 am–11 pm",
+    "friday": "9:30 am–11 pm",
+    "saturday": "9:30 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNZwjUbeYGmxB7_YQHivfJf0Uwh7xiQyDhITygLKJlluUCxiFNaWI2JvrIECbavlv_rzcN76LUHjdHDTUkg-NV5Byrd25arOrbpEKT1oLv1WfRNAXq8iTCWfBAuxpBHNnjwzD678Q=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJHWE-cgYUrjsRh5MmJyc95G0",
+   "data_id": "0x3bae1406723e611d:0x6de43d2727269387",
+   "title": "The Library Bar",
+   "description": "Upscale hotel's colonial bar/restaurant. Opulent, colonial style bar and restaurant in a luxury hotel with a superior whiskey collection.",
+   "address": "The Leela Palace, 23, HAL Old Airport Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090717 18785",
+   "rating": 4.3,
+   "reviews": 134,
+   "website": "https://www.theleela.com/the-leela-palace-bengaluru/restaurants/the-library-bar?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gbp-leela-palace-bengaluru-the-library-bar&utm_content=restaurant-website-click",
+   "domain": "theleela.com",
+   "gps_coordinates": {
+    "latitude": 12.9602118,
+    "longitude": 77.6485167
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Cocktail bar",
+    "Fine dining restaurant",
+    "Pub",
+    "Wine bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.theleela.com/the-leela-palace-bengaluru/restaurants/the-library-bar?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gbp-leela-palace-bengaluru-the-library-bar&utm_content=restaurant-reservation-click",
+    "source": "theleela.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM8f5JbfzmEnQ_pQA3YyIeamys35invFwhyAgPzne5-o3ebXnfFo2d6fzY9QW8ipJoJMM9PQRsqtQ2Bi0H6lJS54mBuIkv4pEAxTsFMlUvhWX2JDCRZibgk8H3nhFTHDZ-TKQvi=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJl9oJgNcVrjsRBODwmhIEzDw",
+   "data_id": "0x3bae15d78009da97:0x3ccc04129af0e004",
+   "title": "Crazy Boys",
+   "address": "XJ6Q+6CR, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.9,
+   "reviews": 206,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9606158,
+    "longitude": 77.6385221
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–1 am",
+    "tuesday": "10 am–1 am",
+    "wednesday": "10 am–1 am",
+    "thursday": "10 am–1 am",
+    "friday": "10 am–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMs-NHg02wearpGUKszEGB6oJLFoKqTe_WFCFPw2ICYs128S3EwlL7-UPJyYk5DG-ZVgEnkSPxsPfulEV2Qjhd9Fh7zcCiWyrMNx471rTj9kw_YkoGgkvqgraWOYM0sSuNRyEIIf6PoiH9u=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJi2hPzhsUrjsRLzwRJRSfAS0",
+   "data_id": "0x3bae141bce4f688b:0x2d019f1425113c2f",
+   "title": "Castle Rock Wines",
+   "address": "20, HAL Old Airport Rd, Domlur I Stage, Domlur Village, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4,
+   "reviews": 51,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9612873,
+    "longitude": 77.6372724
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 10 am Mon",
+   "open_hours": {
+    "sunday": "10 am–11 pm",
+    "monday": "10 am–11 pm",
+    "tuesday": "10 am–11 pm",
+    "wednesday": "10 am–11 pm",
+    "thursday": "10 am–11 pm",
+    "friday": "10 am–11 pm",
+    "saturday": "10 am–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMOLTQ2GdMx9S8rw20SW3mkVQ2VG9764EnpBTO2J4hYhWv1Y2wmspHBZ_puSlG8N7Oh0yg62bFi022mQqsbb6hviwNxDfJqLd9IfEanodOtmEtjCo7gHJ6ENoWqie0cEQMjusXW5A=w80-h106-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJhWhVLr8VrjsR-LuJfKAPCZo",
+   "data_id": "0x3bae15bf2e556885:0x9a090fa07c89bbf8",
+   "title": "Mojo By Vapour Pub",
+   "address": "773, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099000 99721",
+   "rating": 3.8,
+   "reviews": 8177,
+   "website": "http://www.vapour.in/",
+   "domain": "vapour.in",
+   "gps_coordinates": {
+    "latitude": 12.9693695,
+    "longitude": 77.6411332
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/vapour-pub-and-brewery-indiranagar-bangalore-393383/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOZfDi_HqUGrlwOUj6RWvt8TFPyqsn1fzcZOi_lp8PJW0H9fN8Jg76pHA9ZcQIARiuLhz-hIa4eXETVSBgO_2R_rAJ4b4Vg89kh4DD5xA39vI2IjAbnuAahXW2ITnwwJM-3-pTaSg=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJu9-9cQYUrjsRoCstV9isXd0",
+   "data_id": "0x3bae140671bddfbb:0xdd5dacd8572d2ba0",
+   "title": "XU - Fashion|Bar|Kitchen",
+   "description": "Vibrant gastropub with mixed fare. Spacious pub & eatery with live music, sports screenings & global cuisine, plus a lively atmosphere.",
+   "address": "23, Level C, The Leela Palace, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095133 44440",
+   "rating": 3.8,
+   "reviews": 3067,
+   "gps_coordinates": {
+    "latitude": 12.961232,
+    "longitude": 77.6488696
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Cafe",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "7:30 pm–1 am",
+    "monday": "Closed",
+    "tuesday": "Closed",
+    "wednesday": "8 pm–1 am",
+    "thursday": "8 pm–1 am",
+    "friday": "7:30 pm–1 am",
+    "saturday": "8 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/xu-fashion-bar-kitchen-the-leela-palace-hotel-kodihalli-indiranagar-bangalore-698161/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP9HIPPsLrqohLL-7cIb-Cy-Zm_eVTp_AZzwRwoXf5gZBs_RWcicD5AfPaB2TctcEmnmq5azN74LvgW0xh44Uyelp-Vw16-TKbu76dzGudjfgeI3khp4RalUlHKdop6Hc0yhBNW=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJ-7nuGmwUrjsRr6TgD-2Yrds",
+   "data_id": "0x3bae146c1aeeb9fb:0xdbad98ed0fe0a4af",
+   "title": "Sidewalk Cafe & Bar",
+   "description": "Global menus in a hotel lobby space. This village-style restaurant serves a variety of Indian and global food in the lobby of a hotel.",
+   "address": "139/28, off Intermediate Ring Road, opposite Embassy Golf Links, Krishna Reddy Layout, Domlur Layout, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4047 7777",
+   "rating": 4.6,
+   "reviews": 1106,
+   "website": "https://www.thepaulbangalore.in/restaurants/sidewalk-cafe-bar.html",
+   "domain": "thepaulbangalore.in",
+   "gps_coordinates": {
+    "latitude": 12.9537895,
+    "longitude": 77.6394572
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Eclectic restaurant",
+    "Cafe"
+   ],
+   "open_state": "Open",
+   "hours": "Open 24 hours",
+   "open_hours": {
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-sidewalk-cafe-the-paul-bangalore-domlur-indiranagar-bangalore-687331/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPrThYGaKUDieZgQwyrJKIT2IcbJpUnNmofgDC_fQyxl8up4SkEPKiR71sMfMLPIb0qt9YwsXU1tuN74CllBDjkmG8vJ5xKDNedMBmAyAkUkM2ZB9BaJuayPNwDkLK9WIza6psg=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJc0JAFaUWrjsRRXSXJPX7YFo",
+   "data_id": "0x3bae16a515404273:0x5a60fbf524977445",
+   "title": "Toit",
+   "description": "Rustic microbrewery with facility tours. Brick-walled microbrewery offering naturally crafted beers, hearty pub grub & brewery tours.",
+   "address": "6/2, 100 Feet Rd, near Drops Total Spirites, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090197 13388",
+   "rating": 4.5,
+   "reviews": 62681,
+   "website": "https://toit.in/restaurant/toit-bangalore/",
+   "domain": "toit.in",
+   "gps_coordinates": {
+    "latitude": 12.9795441,
+    "longitude": 77.6406542
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "American restaurant",
+    "Bar",
+    "Italian restaurant",
+    "Pizza restaurant",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "8:30 am–1 am",
+    "monday": "8:30 am–1 am",
+    "tuesday": "8:30 am–1 am",
+    "wednesday": "8:30 am–1 am",
+    "thursday": "8:30 am–1 am",
+    "friday": "8:30 am–1 am",
+    "saturday": "8:30 am–1 am"
+   },
+   "reservation": {
+    "link": "https://toit.in/bangalore-reservation/",
+    "source": "toit.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO_X7SI6PYfq_JSnkOpkApz7O9UdeIPls3MgX4mXgfq-lgpW0uo_VhcVylNoH8dLIaAa6SiGXgOCFrO2gteih-U9NGyacLGS_5FoVt8Z0RCDorc6GQoaKn1Ry_Xl69KnC5dUWqP=w126-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJnbPrX9oXrjsRzzoVa_Wpa9o",
+   "data_id": "0x3bae17da5febb39d:0xda6ba9f56b153acf",
+   "title": "Daddy Bangalore",
+   "description": "Lively gastropub with mixed fare. Vibrant pub & restaurant with multicuisine options & sports screenings, plus outdoor seating.",
+   "address": "963, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095139 13341",
+   "rating": 4.3,
+   "reviews": 11548,
+   "website": "http://daddyeverydaybar.com/",
+   "domain": "daddyeverydaybar.com",
+   "gps_coordinates": {
+    "latitude": 12.9700136,
+    "longitude": 77.6400748
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/daddy-indiranagar-bangalore-320543/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNxd0XiA3BVIiaHKW641q5DUC8fmquF6xtGHVGFVNneikL6vI314arPrxKmHfe-RMoIRNYYlzrqmxB17UXmOwGxLa12LujNs1lFOV1GSyVEIbuiNbHUlvMhGb7FJc3vz_PK4qKb=w137-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJxcoyZ1MVrjsRMYBwmeyU4mY",
+   "data_id": "0x3bae15536732cac5:0x66e294ec99708031",
+   "title": "Gawky Goose",
+   "address": "#77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout, Bengaluru, Karnataka 560017",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099017 87273",
+   "rating": 4.2,
+   "reviews": 3558,
+   "website": "https://www.gawkygoose.com/",
+   "domain": "gawkygoose.com",
+   "gps_coordinates": {
+    "latitude": 12.9540402,
+    "longitude": 77.65277999999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/gawky-goose-airport-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hwdj81C4-xusblp_Z7BvrPUZxj_m5G9Aw--jqnt62fywM5kZw0qH7WR7b5VEraopzuHys6RWZeB7NRXss4-eLsz8DknF5TjL7M7QsNnrQnTqaN-mo%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMdjC20XRTxnrKRXW9j_XDtElQvsrCSIRsrp-HPHJ74npw9dWeMdV_aCPrk2cBNSi-ZF_Qo7FBg9NT-zFNgxOu3h10fHff5h7lYL-1LnA3OUpMA35MGGj54Ek712snE-z0OaqAx=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJ6yFfbSgVrjsRwo0BV__u0tY",
+   "data_id": "0x3bae15286d5f21eb:0xd6d2eeff57018dc2",
+   "title": "GD Bar and Restaurant",
+   "address": "4121/Q, HAL Old Airport Rd, HAL 2nd Stage, Old Bangalore, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.4,
+   "reviews": 30,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9604956,
+    "longitude": 77.64454599999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "hours": "Open now",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPC1Tdk0skHk1AZ8XX9NKRG4yjM298qvPDUgVGz6AO0lTYyrXNVjAWzUpKwPr74A_T6pBWj7OiedBlLBnJZvncsG2S3jS6rJO2-rwbF5I9smyTdkobc_mpA8oephSkvZqqyL5gJAg=w80-h106-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJm2d5GgUUrjsRk6oJpMR0RlU",
+   "data_id": "0x3bae14051a79679b:0x554674c4a409aa93",
+   "title": "Suri Bar and Restaurant",
+   "address": "XJ6V+6H5, HAL Old Airport Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098456 85554",
+   "rating": 3.6,
+   "reviews": 215,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9605187,
+    "longitude": 77.6439965
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "10 am–12 am",
+    "monday": "10 am–12 am",
+    "tuesday": "10 am–12 am",
+    "wednesday": "10 am–12 am",
+    "thursday": "10 am–12 am",
+    "friday": "10 am–12 am",
+    "saturday": "10 am–12 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN1g5fn-6lGELJAoE5KmoEBGU8gQ3j95MHUIC4i2cZrbu7fVNyOxoHar-Uzrs2fITigqH7tNPmJQ_VjLguYgVRM_Ab7LxhEtpZQ7mk656suRvqUbV5xCguXfVVCdX4k4Pk7uyCBIw=w122-h92-k-no"
+  }
+ ]
+}

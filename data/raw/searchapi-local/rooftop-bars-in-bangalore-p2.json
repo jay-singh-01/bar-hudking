@@ -1,0 +1,411 @@
+{
+ "q": "rooftop bars in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:44:07.601Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Rooftop Dinning",
+   "place_id": "ChIJ75iUjQIXrjsRSxMnjT8eadY",
+   "data_id": "0x3bae17028d9498ef:0xd6691e3f8d27134b",
+   "rating": 4.1,
+   "reviews": 87,
+   "type": "Grill",
+   "address": "34, Cunningham Rd, opp. Prestige Center Point",
+   "gps_coordinates": {
+    "latitude": 12.986066,
+    "longitude": 77.59536
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "12 Degree Rooftop Pub & Lounge",
+   "place_id": "ChIJ-a0C2xM_rjsRWN2QQTiB7kQ",
+   "data_id": "0x3bae3f13db02adf9:0x44ee81384190dd58",
+   "rating": 4,
+   "reviews": 443,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Pub",
+   "address": "41, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.886685,
+    "longitude": 77.53777
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Proxy Rooftop Bar & Kitchen",
+   "place_id": "ChIJVQIvWRARrjsR3KcSWmaz8cc",
+   "data_id": "0x3bae1110592f0255:0xc7f1b3665a12a7dc",
+   "rating": 3.9,
+   "reviews": 1200,
+   "type": "Bar",
+   "address": "5th Floor, XMRQ+97R Icon Select by Bhagini 22/3, Outer Ring Rd, near More Mega Store",
+   "gps_coordinates": {
+    "latitude": 12.990969,
+    "longitude": 77.68811
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Skygarden Bar & Kitchen Koramangala",
+   "place_id": "ChIJf_tTLwAVrjsRSWJoNaPJv5g",
+   "data_id": "0x3bae15002f53fb7f:0x98bfc9a335686249",
+   "rating": 4.3,
+   "reviews": 2500,
+   "type": "Bar",
+   "address": "14, 1st Cross, 17th A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93368,
+    "longitude": 77.62216
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Kazé Bar & Kitchen",
+   "place_id": "ChIJIRJ0mvYVrjsR0NdUV-4a4Zo",
+   "data_id": "0x3bae15f69a741221:0x9ae11aee5754d7d0",
+   "rating": 4.4,
+   "reviews": 3500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan Asian",
+   "address": "21st Floor, SKAV, 909, Lavelle Road, near to Itc Gardenia",
+   "gps_coordinates": {
+    "latitude": 12.96549,
+    "longitude": 77.59642
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Daddy Bangalore",
+   "place_id": "ChIJnbPrX9oXrjsRzzoVa_Wpa9o",
+   "data_id": "0x3bae17da5febb39d:0xda6ba9f56b153acf",
+   "rating": 4.3,
+   "reviews": 12000,
+   "type": "Bar",
+   "address": "963, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970014,
+    "longitude": 77.640076
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Kensho Rooftop Pub",
+   "place_id": "ChIJx5pwoSE9rjsRN85LtkC9C7U",
+   "data_id": "0x3bae3d21a1709ac7:0xb50bbd40b64bce37",
+   "rating": 4.4,
+   "reviews": 241,
+   "type": "Bar",
+   "address": "44/1-3, Tumkur Rd, opp. Vaishnavi Sapphire",
+   "gps_coordinates": {
+    "latitude": 13.024359,
+    "longitude": 77.5468
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Monkey Bar",
+   "place_id": "ChIJzWN9rSoUrjsRiR5_FDQyN5k",
+   "data_id": "0x3bae142aad7d63cd:0x99373234147f1e89",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "First Floor, The Museum, No.1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975082,
+    "longitude": 77.60288
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   },
+   "comment": "Vibrant bar for live music & global eats",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Flyover Drinkery",
+   "place_id": "ChIJbW0WRP0XrjsRmrg4xOlbSP4",
+   "data_id": "0x3bae17fd44166d6d:0xfe485be9c438b89a",
+   "rating": 4.3,
+   "reviews": 7600,
+   "type": "Pub",
+   "address": "4th Floor, Esteem Mall",
+   "gps_coordinates": {
+    "latitude": 13.049226,
+    "longitude": 77.59317
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Kohinoor Rooftop Indian Restaurant",
+   "place_id": "ChIJA6rgDb0XrjsRglwwvBNzvPk",
+   "data_id": "0x3bae17bd0de0aa03:0xf9bc7313bc305c82",
+   "rating": 4.8,
+   "reviews": 682,
+   "type": "North Indian",
+   "address": "4/1, St Mark's Rd, above St Mark's Hotel",
+   "gps_coordinates": {
+    "latitude": 12.969146,
+    "longitude": 77.60013
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Sanctuary Rooftop Bar & Kitchen",
+   "place_id": "ChIJd1SzuyQXrjsRlKazrfVxsyw",
+   "data_id": "0x3bae1724bbb35477:0x2cb371f5adb3a694",
+   "rating": 4.6,
+   "reviews": 5,
+   "type": "Grill",
+   "address": "19, 3rd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.976082,
+    "longitude": 77.57846
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Ebony",
+   "place_id": "ChIJHx8ds30WrjsRJH5BpF51Snk",
+   "data_id": "0x3bae167db31d1f1f:0x794a755ea4417e24",
+   "rating": 4.2,
+   "reviews": 6700,
+   "type": "Restaurant",
+   "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975422,
+    "longitude": 77.60511
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Boche & Shakesbierre - Brewpub & Club",
+   "place_id": "ChIJVfZAnQwXrjsRuKZfPXAxiI4",
+   "data_id": "0x3bae170c9d40f655:0x8e8831703d5fa6b8",
+   "rating": 4.5,
+   "reviews": 7900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "Level 5, EVA Mall, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.970871,
+    "longitude": 77.60732
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "AQUA - Poolside Grill & Lounge",
+   "place_id": "ChIJ67AqrJwWrjsRKwix2zjFOYA",
+   "data_id": "0x3bae169cac2ab0eb:0x8039c538dbb1082b",
+   "rating": 4.1,
+   "reviews": 3200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "14/7, THE Park, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.973981,
+    "longitude": 77.61989
+   },
+   "comment": "Refined lounge within an upscale hotel",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "The Ritz-Carlton Bar",
+   "place_id": "ChIJha3d0R4VrjsR2YTNXtXW2GU",
+   "data_id": "0x3bae151ed1ddad85:0x65d8d6d55ecd84d9",
+   "rating": 4.5,
+   "reviews": 106,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "99, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.968079,
+    "longitude": 77.60132
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Aakasha Lounge | Aakasha Rooftop Lounge",
+   "place_id": "ChIJPXp90JcXrjsR9TaKv2Ij-GM",
+   "data_id": "0x3bae1797d07d7a3d:0x63f82362bf8a36f5",
+   "rating": 3.5,
+   "reviews": 27,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Lounge bar",
+   "address": "Subedar Chatram Rd",
+   "gps_coordinates": {
+    "latitude": 12.977879,
+    "longitude": 77.57533
+   }
+  },
+  {
+   "position": 18,
+   "title": "Olive Beach",
+   "place_id": "ChIJ03xVrSoUrjsRfYzAUhym4eY",
+   "data_id": "0x3bae142aad557cd3:0xe6e1a61c52c08c7d",
+   "rating": 4.5,
+   "reviews": 8200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Mediterranean",
+   "address": "16, Wood St, near Karnataka Bank",
+   "gps_coordinates": {
+    "latitude": 12.966852,
+    "longitude": 77.60807
+   },
+   "comment": "Stylish, white-walled Mediterranean spot",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Pangeo",
+   "place_id": "ChIJz9zsYtIXrjsRMXdex-y8XxE",
+   "data_id": "0x3bae17d262ecdccf:0x115fbcecc75e7731",
+   "rating": 4.5,
+   "reviews": 4500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972639,
+    "longitude": 77.6066
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Alchemy",
+   "place_id": "ChIJifjDfooXrjsRDOT2aCsp79A",
+   "data_id": "0x3bae178a7ec3f889:0xd0ef292b68f6e40c",
+   "rating": 4.3,
+   "reviews": 2000,
+   "type": "Restaurant",
+   "address": "The Chancery Pavilion, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.965867,
+    "longitude": 77.59875
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1062 @@
+{
+ "q": "bars and pubs in Indiranagar Bangalore",
+ "ll": "@12.9716,77.6412,14z",
+ "page": 3,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:42:53.446Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJKSfMkacWrjsRSoI2f6aETsA",
+   "data_id": "0x3bae16a791cc2729:0xc04e84a67f36824a",
+   "title": "PlanB",
+   "description": "Casual international eatery & bar. Relaxed, brick-walled diner & bar serving international fare like burgers, nachos & tacos.",
+   "address": "1136, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096200 08498",
+   "rating": 4.1,
+   "reviews": 7266,
+   "gps_coordinates": {
+    "latitude": 12.9690828,
+    "longitude": 77.6415774
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill",
+    "Beer hall",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/plan-b-indiranagar/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hBmyM40tLWufsYW7xk6wslHCA37XkJdCtoHqk2i5zjyDOT31LdaiKliWeli3Y-crztwz-XniTsgMB97yhlVzFe9rajZQ%3D%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QoIe4_ic9lg1iQudMtYVxN2O3AksWFWMQ5XIKqtJg8WK_mFU3aa7mghMka5a_Mnmm177HwYM5R7Sr236_vkiJbEC6S9ZezJl7YpSaSh1-gD5sbbOuO5Dgd-GSSnmm1YiPqM40w=w92-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJh7c4QJgWrjsRWzEymhh43ts",
+   "data_id": "0x3bae16984038b787:0xdbde78189a32315b",
+   "title": "SGR Bar",
+   "address": "Chinmaya Mission Hospital Rd, laksmipuram, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081238 07658",
+   "rating": 3.9,
+   "reviews": 154,
+   "gps_coordinates": {
+    "latitude": 12.9783516,
+    "longitude": 77.6294486
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:45 am · Reopens 10 am",
+   "open_hours": {
+    "sunday": "10 am–12:45 am",
+    "monday": "10 am–12:45 am",
+    "tuesday": "10 am–12:45 am",
+    "wednesday": "10 am–12:45 am",
+    "thursday": "10 am–12:45 am",
+    "friday": "10 am–12:45 am",
+    "saturday": "10 am–12:45 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjvKdEzbolKUadDdH9RbPpWXg5m4jnJWn_5wR2kkifqcOV5eBPPUZvhwZYbOcjQGGBbqOOxbjNED1w0OfY3JnU7blMmqPVszGbWoQ1oqLujVPkI5yu9AmEk0LO0wurViu4EnXbDA=w122-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJCy73P3wVrjsR1ZYB9XTD10E",
+   "data_id": "0x3bae157c3ff72e0b:0x41d7c374f50196d5",
+   "title": "Bohemians",
+   "address": "966, 12th Main Rd, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098866 53000",
+   "rating": 4.1,
+   "reviews": 3833,
+   "is_unclaimed_listing": true,
+   "website": "https://www.instagram.com/bohemiansbengaluru/",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9699919,
+    "longitude": 77.6395209
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Bar & grill",
+    "Cafe",
+    "Pizza restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 11:30 am",
+   "open_hours": {
+    "sunday": "11:30 am–12:30 am",
+    "monday": "11:30 am–12:30 am",
+    "tuesday": "11:30 am–12:30 am",
+    "wednesday": "11:30 am–12:30 am",
+    "thursday": "11:30 am–12:30 am",
+    "friday": "11:30 am–12:30 am",
+    "saturday": "11:30 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/bohemians-indiranagar-bangalore-296737/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TP-fhBJqmIGJTUYVaAB8cjEPI5zJP6iBtGFZ11jvW88L6LHWkv-j5BC2BRpAO0IkPdpq9fyuGj-TAL4841sV3_kn7jBJkjSOGo5w3-nPbaC4mTCnTZzG4TeWg2hADI61Lkumw=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJacHQhMIVrjsRYVXhvG8qA6Y",
+   "data_id": "0x3bae15c284d0c169:0xa6032a6fbce15561",
+   "title": "Amigoo Bistro Bar",
+   "address": "5th Floor, No 765, 100 Feet Rd, near to Sony Center Signal, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "076764 41388",
+   "rating": 3.7,
+   "reviews": 104,
+   "gps_coordinates": {
+    "latitude": 12.9709123,
+    "longitude": 77.6410118
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 11:30 am",
+   "open_hours": {
+    "sunday": "11:30 am–12:30 am",
+    "monday": "11:30 am–12:30 am",
+    "tuesday": "11:30 am–12:30 am",
+    "wednesday": "11:30 am–12:30 am",
+    "thursday": "11:30 am–12:30 am",
+    "friday": "11:30 am–12:30 am",
+    "saturday": "11:30 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/amigoo-bistro-bar-indiranagar-bangalore-426976/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tb1nbqKYW-gCc2FskbUfL89VC5JpkMscPb_SAjfLQ-yrVv5TYNqVpapgDZf2ExAkw_KkbVOcT4YcIgk3B0zTcYSpC4XWqUdMvf5WNQJyH2K3mQf7GQxS_7IgE64Fz1P1JBKj_X=w170-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJ85IJkKcWrjsRDcVh5mERk6s",
+   "data_id": "0x3bae16a7900992f3:0xab931161e661c50d",
+   "title": "Chianti, Indiranagar",
+   "description": "Chic & classic Italian restaurant. Stylish Italian with a wooden floor & beamed ceiling serving Italian classics & pizzas.",
+   "address": "960, 12th Main Rd, near Gold Gym, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4126 5000",
+   "rating": 4.5,
+   "reviews": 8702,
+   "website": "http://chiantiristorante.in/",
+   "domain": "chiantiristorante.in",
+   "gps_coordinates": {
+    "latitude": 12.9699611,
+    "longitude": 77.6402246
+   },
+   "type": "Italian restaurant",
+   "types": [
+    "Italian restaurant",
+    "Dessert restaurant",
+    "Fine dining restaurant",
+    "Pizza restaurant",
+    "Wine bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–3:30 pm, 6:30–10:30 pm",
+    "tuesday": "12–3:30 pm, 6:30–10:30 pm",
+    "wednesday": "12–3:30 pm, 6:30–10:30 pm",
+    "thursday": "12–3:30 pm, 6:30–10:30 pm",
+    "friday": "12–3:30 pm, 6:30–11:30 pm",
+    "saturday": "12–11:30 pm",
+    "sunday": "12–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.chiantiristorante.in/reservations",
+    "source": "chiantiristorante.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBCCZ19121ysoOMHOPMly83l1sAOyp46-GelGD1QOLNIwwWplAQV0ibWv6DpUqEATERLCrKpzodFBvPXzmBrFR8FXqSnMDUKFZ1qhfx9BlJab9MUicXJPK8gXWRfsoRUbuh_jVJg=w163-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJny1G2KkWrjsRj_INv9hxCTg",
+   "data_id": "0x3bae16a9d8462d9f:0x380971d8bf0df28f",
+   "title": "The Fatty Bao",
+   "description": "Bright Pan-Asian hot spot with a patio. Buzzy Pan-Asian restaurant & cocktail bar with a colorful, bohemian style serving sushi & more.",
+   "address": "Third Floor, 610, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "077383 15848",
+   "rating": 4.3,
+   "reviews": 6792,
+   "gps_coordinates": {
+    "latitude": 12.9705121,
+    "longitude": 77.64528349999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Asian restaurant",
+    "Pan-Asian restaurant",
+    "Dessert restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-fatty-bao-indiranagar-east-bengaluru-656352",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXUeMmM1JqInmbu6vGb1BDujxmStijKglELvCsXf4FoG_DiD_zwKWA4Wv-xm0HduiQKxBYrOvzwXjyQEhBFK8PziRdjwRF9q9Er_kxQiqgYUejmVNK2rvrSYj1JcW74FEWFMzd=w163-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJJyjgxDIVrjsRnbh73SsXbwk",
+   "data_id": "0x3bae1532c4e02827:0x96f172bdd7bb89d",
+   "title": "AnTeRa Kitchen and Bar - Indiranagar",
+   "address": "Plot No .4006, 100 Feet Rd, HAL 2nd Stage, Stage 2, Domlur, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088866 07066",
+   "rating": 4.3,
+   "reviews": 1437,
+   "gps_coordinates": {
+    "latitude": 12.9624852,
+    "longitude": 77.6413839
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "South Indian restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/antera-kitchen-and-bar-indiranagar-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmgF3jQ5dBo879VnRpUIPz-L4R0He5sb5Qa2jFqDP46yyczjxenckR7EEuTQSLxZTJKrIiS45Gkrx2EjX15Q6ak00e6wb3UVR2F8fOUzoOuAmUSN8HDHsEprvUtscsQPN6LMCa6N_fctGAd=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJu-m8mBEUrjsREFVZh0GU3Q0",
+   "data_id": "0x3bae141198bce9bb:0xddd944187595510",
+   "title": "Murphy's Brewhouse",
+   "description": "Irish-style pub for microbrews & bites. This wood-paneled Irish bar serves house-brewed beers alongside Indian & global pub grub.",
+   "address": "The Paul, 139/28, 5th floor, off Intermediate Ring Road, Domlur, Bengaluru, Karnataka 560071",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4047 7777",
+   "rating": 4.3,
+   "reviews": 4368,
+   "website": "https://www.thepaulbangalore.in/restaurants/murphys-brewhouse.html",
+   "domain": "thepaulbangalore.in",
+   "gps_coordinates": {
+    "latitude": 12.9537792,
+    "longitude": 77.63968129999999
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Pizza restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/murphys-brewhouse-the-paul-bangalore-domlur-indiranagar-bangalore-688059/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TvB50UrA2EvJ-M3KOmqXuGCpx0hfTNT_6y2IfKre2Tdl7bj3SBofdM6mHsYtknig8UiFDgSsJ38bkzRg-KPYsFyHmCyexEXm7clS64GynvYDJsbquvshprowzxnrvVlbWL0EIGhA=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJSy6kphYVrjsR6k6k8DboMDk",
+   "data_id": "0x3bae1516a6a42e4b:0x3930e836f0a44eea",
+   "title": "Newton's Resto Bar",
+   "address": "4121/Q, HAL Old Airport Rd, HAL 2nd Stage, Old Bangalore, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 147,
+   "gps_coordinates": {
+    "latitude": 12.9605312,
+    "longitude": 77.64454649999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm",
+    "sunday": "11:30 am–11:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWklE8OmZRNdJkpCBVVhBERVqICx5hF0I4WbCAnOYVLwn9vII5u7wr_PTcrfh3He15sqilyoyGkiU2_j87Abj-uVM9sk7Atd1gfgmJEYXmMWdg-UCoOq8nFoFfgyuv-bEv4d=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJ7VssrhwUrjsRsUVHewyWzbM",
+   "data_id": "0x3bae141cae2c5bed:0xb3cd960c7b4745b1",
+   "title": "Pasta Street - Indiranagar",
+   "address": "2022, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099725 80776",
+   "rating": 4.4,
+   "reviews": 8093,
+   "website": "http://www.pastastreet.co.in/",
+   "domain": "pastastreet.co.in",
+   "gps_coordinates": {
+    "latitude": 12.967053,
+    "longitude": 77.64171639999999
+   },
+   "type": "Italian restaurant",
+   "types": [
+    "Italian restaurant",
+    "European restaurant",
+    "Pizza restaurant",
+    "Wine bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveBrands/65dd72924825a20196a0d098?source=6",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qae-XhZmGazRpos2tUW4x3vp8iomrD_Vz8pl__43WCUupROdlUK1X9GAlTi2_9458YDnC55XlDJYZb5lNrWkCsopurdbOriry3LE0GCG-b7BZJlqtKYCjJ687VnpHy3SRl81IJsA=w133-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJ14DjjaQWrjsR11zEA7HFRrI",
+   "data_id": "0x3bae16a48de380d7:0xb246c5b103c45cd7",
+   "title": "Shalimar Restaurant And Bar",
+   "address": "3RD Floor, 322/2, Chinmaya Mission Hospital Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2525 1328",
+   "rating": 4.1,
+   "reviews": 2251,
+   "website": "https://shalimarblr.com/",
+   "domain": "shalimarblr.com",
+   "gps_coordinates": {
+    "latitude": 12.9784581,
+    "longitude": 77.6372674
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "North Indian restaurant",
+    "Bar & grill",
+    "Chicken restaurant",
+    "Seafood restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm",
+    "sunday": "11:30 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcL4O8iyUaB8y003fRi6ym8h3Fd13RkLB61cAQv0ND_qn0mOqDh36y4ZT1zirn0IFY8l156wYpRZ1olXEWt7PMsGqAtFDyo26sB0XSWYt2Pxl9M_OADfMPsmmo5bDEKicQvOcni1FJofiM=w130-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "title": "Just BLR",
+   "description": "Vibrant bar for live music & global eats. International dishes, veggie fare & beer offered in a buzzing bar with live music & karaoke nights.",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "094296 90754",
+   "rating": 4.7,
+   "reviews": 26956,
+   "website": "http://www.justblr.com/",
+   "domain": "justblr.com",
+   "gps_coordinates": {
+    "latitude": 12.9732755,
+    "longitude": 77.6073169
+   },
+   "type": "Gastropub",
+   "types": [
+    "Gastropub",
+    "Bistro",
+    "Cocktail bar",
+    "Live music venue",
+    "Lounge bar",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/just-blr-1-brigade-road-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TKLo8gBpX8HfchwcTGGp7A13dhcpln9WWmhNR3pBJ6amd2ZgFCttdJdo0skQ7k77ayPnoN3Ss4GjGU_Ko9hxq1HEpdB9iTv47sDVY_i9ukjJ8e_yMvag1LzkdPwLvv3f9mVMI=w163-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJS0-f6nQRrjsRK7hxMqGryww",
+   "data_id": "0x3bae1174ea9f4f4b:0xccbaba13271b82b",
+   "title": "Three Monkeys Brewpub",
+   "address": "4th floor, Gopalan Signature Mall, Swami Vivekananda Rd, Rahat Bagh, Nagavarapalya, Bennigana Halli, Bengaluru, Karnataka 560093",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096064 51603",
+   "rating": 4.5,
+   "reviews": 1169,
+   "website": "https://threemonkeys.pub/",
+   "domain": "threemonkeys.pub",
+   "gps_coordinates": {
+    "latitude": 12.9929276,
+    "longitude": 77.6615764
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12–11:30 pm",
+    "thursday": "12–11:30 pm",
+    "friday": "12–11:30 pm",
+    "saturday": "12–11:30 pm",
+    "sunday": "12–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://threemonkeys.pub/contact_us/reservation.php",
+    "source": "threemonkeys.pub"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RnvIBpNPByDzsa3j7AZIstaX5BzwAoJEuaamdRllIT6fkMmXoniKJlSO9HCINMjA07YHkn-67XBOgv2GDAurCWua06cpM5nKgTxof_XOPMNcL0EKC_T9jt2Xt5AOTiOCAQmYqa=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJYYBK2LsXrjsRXWvSAX68Es4",
+   "data_id": "0x3bae17bbd84a8061:0xce12bc7e01d26b5d",
+   "title": "Circa 11",
+   "address": "957, 12th Main Rd, Sodepur, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080955 11011",
+   "rating": 4.4,
+   "reviews": 186,
+   "website": "https://www.circa11.in/",
+   "domain": "circa11.in",
+   "gps_coordinates": {
+    "latitude": 12.9702618,
+    "longitude": 77.6401843
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Cocktail bar",
+    "Coffee shop"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am Tue",
+   "open_hours": {
+    "monday": "Closed",
+    "tuesday": "10 am–11 pm",
+    "wednesday": "10 am–11 pm",
+    "thursday": "10 am–11 pm",
+    "friday": "10 am–11 pm",
+    "saturday": "10 am–11 pm",
+    "sunday": "9:30 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://bookings.airmenus.in/circa11/order",
+    "source": "airmenus.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnlyn16js_FmT3smcK5PZ0qgg3-6G9fyycsVJygwpF8_vYUkKtjODK0FoNekqGpvuXA0cWfCWkoXR2ugHsm4lFnocm5bvxVXG0aTwfsYhRqjx2My0YinUbTUGsGBc6c9G_nTslS8-_cknI=w163-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJr7rVPJYXrjsRD6OOrxp7EoM",
+   "data_id": "0x3bae17963cd5baaf:0x83127b1aaf8ea30f",
+   "title": "M S CORNER Bar & Restaurant",
+   "address": "114/7, Chinmaya Mission Hospital Rd, Ulsoor, Lakshipuram, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.8,
+   "reviews": 28,
+   "gps_coordinates": {
+    "latitude": 12.9786549,
+    "longitude": 77.6290387
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–12 am",
+    "tuesday": "10 am–12 am",
+    "wednesday": "10 am–12 am",
+    "thursday": "10 am–12 am",
+    "friday": "10 am–12 am",
+    "saturday": "10 am–12 am",
+    "sunday": "10 am–12 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q4pvsiPc9djTpgmarlDIEgzhvtEAWZxwMPBL29lTiKU3dgdsiDk0bb_s-AifmlJbwJXNMlVD5R9F5B8LDDqMhA4C36cUh54X1iMv1I7p4BR0s32nhRc_DkgokSN-M-6iJb636L0Q=w203-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJaSgAu6kWrjsRtbqg8UbuOLE",
+   "data_id": "0x3bae16a9bb002869:0xb138ee46f1a0bab5",
+   "title": "Norebang Karaoke Private Booths",
+   "address": "2nd Floor, Norebang, Srinivasam Towers, HAL 2nd Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063628 45769",
+   "rating": 4.7,
+   "reviews": 102,
+   "website": "https://norebangkaraokebooths.com/",
+   "domain": "norebangkaraokebooths.com",
+   "gps_coordinates": {
+    "latitude": 12.9702794,
+    "longitude": 77.6358243
+   },
+   "type": "Karaoke bar",
+   "types": [
+    "Karaoke bar",
+    "Korean grocery store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 3 pm",
+   "open_hours": {
+    "monday": "3–11 pm",
+    "tuesday": "3–11 pm",
+    "wednesday": "3–11 pm",
+    "thursday": "3–11 pm",
+    "friday": "3–11 pm",
+    "saturday": "3–11 pm",
+    "sunday": "3–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rvii0A6ue3a8Z6mPnwcv3u8F09JmE-JKR-KbpCQ9Z7J1BAECuxYxlFeeZyTTtON81I94c2ao-_nR1JS9bSo0AlMZXP_ZhjVnCmbOOUpxFxg0o_q1GB8e7_jTHNSKQ8nxv76dG93C35m4jE=w80-h142-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJl1xq87YXrjsRQu7DoQL_TmQ",
+   "data_id": "0x3bae17b6f36a5c97:0x644eff02a1c3ee42",
+   "title": "Night Owl Sky Lounge",
+   "address": "opp. Hotel Cunrad, Halasuru, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "093424 12040",
+   "rating": 4.5,
+   "reviews": 1249,
+   "gps_coordinates": {
+    "latitude": 12.9750995,
+    "longitude": 77.6199716
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 4 pm",
+   "open_hours": {
+    "sunday": "4 pm–1 am",
+    "monday": "4 pm–1 am",
+    "tuesday": "4 pm–1 am",
+    "wednesday": "4 pm–1 am",
+    "thursday": "4 pm–1 am",
+    "friday": "4 pm–1 am",
+    "saturday": "4 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/night-owl-sky-lounge-ulsoor-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gMjBbOIWYN-skXzbRO2vVNJNJiCm872iO6lrh_wxkEeIyW7Hsx8sx9jT2_fVAvmIxjM56g9Bpk5zEz6MTSI8K3qm6o3npsjjPO6IrYQbi9bqIb-gU%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R-X-JSXcGMWZC216Wa5D5ge1MK7fvJSjhq_rWRXD13pf1InvLcmrDsagcLMKB93y7mp9aSgKbsZGHiRJXGKYKL8uUgDHCDbDJSHzn5reHCXMYC4ei0_s_d1xqrN1AtjS1XNlwY6Q=w136-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJu9-9cQYUrjsRoCstV9isXd0",
+   "data_id": "0x3bae140671bddfbb:0xdd5dacd8572d2ba0",
+   "title": "XU - Fashion|Bar|Kitchen",
+   "description": "Vibrant gastropub with mixed fare. Spacious pub & eatery with live music, sports screenings & global cuisine, plus a lively atmosphere.",
+   "address": "23, Level C, The Leela Palace, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095133 44440",
+   "rating": 3.8,
+   "reviews": 3067,
+   "gps_coordinates": {
+    "latitude": 12.961232,
+    "longitude": 77.6488696
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Cafe",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Opens 8 pm Wed",
+   "open_hours": {
+    "sunday": "7:30 pm–1 am",
+    "monday": "Closed",
+    "tuesday": "Closed",
+    "wednesday": "8 pm–1 am",
+    "thursday": "8 pm–1 am",
+    "friday": "7:30 pm–1 am",
+    "saturday": "8 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/xu-fashion-bar-kitchen-the-leela-palace-hotel-kodihalli-indiranagar-bangalore-698161/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_CSBwu7if_-22HX-umNxf0l_V1KKOdowIRRB0WL-W5sYHbg4pAJ6T44PeO6A9TRXy9y9nfcMYTTP7LV5jocM7ESIJnMqffCrVNEZCsJjJRSvxpdNsxgZZsJnI0nkN_Y-n2XSy=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJvwsRmpgXrjsRk2q-kSf45qU",
+   "data_id": "0x3bae17989a110bbf:0xa5e6f82791be6a93",
+   "title": "Taiki",
+   "description": "Asian & veggie dishes in a modern eatery. Contemporary destination offering Asian specialties, veggie options & mocktails.",
+   "address": "656, 100 Feet Rd, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4370 3820",
+   "rating": 4.2,
+   "reviews": 4316,
+   "website": "https://www.facebook.com/Taiki.Indiranagar/",
+   "domain": "facebook.com",
+   "gps_coordinates": {
+    "latitude": 12.9769721,
+    "longitude": 77.6406962
+   },
+   "type": "Asian restaurant",
+   "types": [
+    "Asian restaurant",
+    "Japanese restaurant",
+    "Korean restaurant",
+    "Sushi restaurant",
+    "Wine bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30–11 pm",
+    "tuesday": "12:30–11 pm",
+    "wednesday": "12:30–11 pm",
+    "thursday": "12:30–11 pm",
+    "friday": "12:30–11 pm",
+    "saturday": "12:30–11:30 pm",
+    "sunday": "12:30–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/taiki-indiranagar-bangalore-98760/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QPo2MU9aqGN9Pb1BdsigvfDvVwCXuUjp81GX2am79JaUhOgomPNtz8eOQSPHc-rQWcuODVbEWExMi9a5Le1wXoFFTQT5IOGiwEGsvqbgelzMllI2GeY4_SQcxGNBnsR5q_Zn6q=w138-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ12YWgZIWrjsRmwJz9aYeWYA",
+   "data_id": "0x3bae1692811666d7:0x80591ea6f573029b",
+   "title": "Watson's Ulsoor",
+   "description": "Gastropub serving international food. Relaxed gastro pub with views over greenery serving international food, wines & cocktails.",
+   "address": "4th Floor, Skywalk, Building, Assaye Rd, R T Nagar, Sindhi Colony, Fraser Town, Bengaluru, Karnataka 560042",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "077609 88922",
+   "rating": 4.4,
+   "reviews": 6224,
+   "website": "https://www.watsons.org.in/",
+   "domain": "watsons.org.in",
+   "gps_coordinates": {
+    "latitude": 12.9909147,
+    "longitude": 77.6192652
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveBrands/68343dbdbf5ab5a8d1284cf3?source=6",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUBBJcPlQ7dijnhn_ip-WRZrKhK7B3pl0e8SgPnG2qzs3aiGrpqE0lzsejDi0InF9oHil5VLBzjjKfJzvHvqgDmI9MuT5BWzCvfe03BvvvleQfIKV25RDPkA3AQ7l7RAhPMbnS=w160-h92-k-no"
+  }
+ ]
+}

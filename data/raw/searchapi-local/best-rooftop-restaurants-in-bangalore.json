@@ -1,0 +1,403 @@
+{
+ "q": "best rooftop restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:44:21.944Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Terrace Bar & Kitchen",
+   "place_id": "ChIJZXvOXFwVrjsRk-jaxpxk-II",
+   "data_id": "0x3bae155c5cce7b65:0x82f8649cc6dae893",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Eclectic",
+   "address": "No 1, (old 141/37), Rooftop, 24th main, Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.914251,
+    "longitude": 77.58596
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "MARBELLA MULTICUISINE ROOFTOP",
+   "place_id": "ChIJO89RSo8VrjsRaJh1NVkz09E",
+   "data_id": "0x3bae158f4a51cf3b:0xd1d3335935759868",
+   "rating": 4.6,
+   "reviews": 3700,
+   "type": "Eclectic",
+   "address": "17, 24th Main Rd, opp. HDFC BANK",
+   "gps_coordinates": {
+    "latitude": 12.90105,
+    "longitude": 77.585785
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "The 13th Floor",
+   "place_id": "ChIJXZGjsn0WrjsRcqfimwGhocs",
+   "data_id": "0x3bae167db2a3915d:0xcba1a1019be2a772",
+   "rating": 4.3,
+   "reviews": 11000,
+   "type": "Restaurant",
+   "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975323,
+    "longitude": 77.60505
+   },
+   "comment": "Cocktails & Asian cuisine with city view",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Skyye",
+   "place_id": "ChIJjfOyQ3cWrjsRz_TvsEoOQ0A",
+   "data_id": "0x3bae167743b2f38d:0x40430e4ab0eff4cf",
+   "rating": 4.3,
+   "reviews": 9700,
+   "type": "Lounge bar",
+   "address": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971427,
+    "longitude": 77.596504
+   },
+   "extensions": [
+    "Closes soon",
+    "12:40 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "SkyLine Rooftop Bar & Kitchen 2.0",
+   "place_id": "ChIJ_cIDwu8RrjsRtY7PoH3_5IE",
+   "data_id": "0x3bae11efc203c2fd:0x81e4ff7da0cf8eb5",
+   "rating": 4.5,
+   "reviews": 1800,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.979435,
+    "longitude": 77.69538
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Kohinoor Rooftop Indian Restaurant",
+   "place_id": "ChIJA6rgDb0XrjsRglwwvBNzvPk",
+   "data_id": "0x3bae17bd0de0aa03:0xf9bc7313bc305c82",
+   "rating": 4.8,
+   "reviews": 682,
+   "type": "North Indian",
+   "address": "4/1, St Mark's Rd, above St Mark's Hotel",
+   "gps_coordinates": {
+    "latitude": 12.969146,
+    "longitude": 77.60013
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "TOCA Brigade and Terrace",
+   "place_id": "ChIJ62siEjQXrjsRoy7xHOObj_c",
+   "data_id": "0x3bae173412226beb:0xf78f9be31cf12ea3",
+   "rating": 4.4,
+   "reviews": 2800,
+   "type": "Restaurant",
+   "address": "3rd and 4th floor, 25, Brigade Rd, above Levi’s showroom",
+   "gps_coordinates": {
+    "latitude": 12.973753,
+    "longitude": 77.607704
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "High Ultra Lounge",
+   "place_id": "ChIJAauS2Io9rjsR1nsLNuuOMw4",
+   "data_id": "0x3bae3d8ad892ab01:0xe338eeb360b7bd6",
+   "rating": 4.1,
+   "reviews": 7900,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Lounge bar",
+   "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.012283,
+    "longitude": 77.556145
+   },
+   "comment": "Chic rooftop bar & Asian restaurant",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Rooftop At Raw - All Day Drinkery",
+   "place_id": "ChIJMaroAEAVrjsRQ4VWTxrs02k",
+   "data_id": "0x3bae154000e8aa31:0x69d3ec1a4f568543",
+   "rating": 4.4,
+   "reviews": 366,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "No 36, 3rd Floor, 4th B, Main Road",
+   "gps_coordinates": {
+    "latitude": 12.933656,
+    "longitude": 77.61489
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "KA.01 Rooftop Bar and Eats",
+   "place_id": "ChIJCfkzPMwXrjsRNNEdJA0k7NA",
+   "data_id": "0x3bae17cc3c33f909:0xd0ec240d241dd134",
+   "rating": 4.3,
+   "reviews": 1400,
+   "type": "Restaurant",
+   "address": "ibis Bengaluru City Centre, 08th Floor,, Plot No 30, Raja Ram Mohan Roy Rd",
+   "gps_coordinates": {
+    "latitude": 12.96714,
+    "longitude": 77.59382
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Skygarden Best Rooftop Bar & Kitchen Restaurant",
+   "place_id": "ChIJvRAdyG4RrjsRpyqCLtwHgTs",
+   "data_id": "0x3bae116ec81d10bd:0x3b8107dc2e822aa7",
+   "rating": 4.3,
+   "reviews": 7300,
+   "type": "Restaurant",
+   "address": "Metro station, 3rd floor HVP Aster, ITPL Main Rd, near Garudacharpalya",
+   "gps_coordinates": {
+    "latitude": 12.993829,
+    "longitude": 77.70318
+   },
+   "comment": "Upscale rooftop spot with fusion fare",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Night Owl Sky Lounge",
+   "place_id": "ChIJl1xq87YXrjsRQu7DoQL_TmQ",
+   "data_id": "0x3bae17b6f36a5c97:0x644eff02a1c3ee42",
+   "rating": 4.5,
+   "reviews": 1200,
+   "type": "Restaurant",
+   "address": "opp. Hotel Cunrad",
+   "gps_coordinates": {
+    "latitude": 12.9751,
+    "longitude": 77.61997
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Shelby Rooftop-Taproom-Kitchen",
+   "place_id": "ChIJcZfEwp4_rjsRing6tomkC6M",
+   "data_id": "0x3bae3f9ec2c49771:0xa30ba489b63a788a",
+   "rating": 4.5,
+   "reviews": 1300,
+   "type": "Pub",
+   "address": "No 626, 100 feet road",
+   "gps_coordinates": {
+    "latitude": 12.961094,
+    "longitude": 77.50936
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "TBC Sky Lounge - Kadubisanahalli- Marathahalli Outer Ring Road | Fabulous Terrace Lounge- Rooftop Restaurant & Bar",
+   "place_id": "ChIJMaqAe7ETrjsRNIPc6ouBw4Y",
+   "data_id": "0x3bae13b17b80aa31:0x86c3818beadc8334",
+   "rating": 4.3,
+   "reviews": 9500,
+   "type": "Restaurant",
+   "address": "5th Floor, Berry's Hotel, 36/1, Marathahalli - Sarjapur Outer Ring Rd, opposite JP Morgan",
+   "gps_coordinates": {
+    "latitude": 12.941811,
+    "longitude": 77.697105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "The Rooftop",
+   "place_id": "ChIJT-2a1VEUrjsRJyq25gRnqmc",
+   "data_id": "0x3bae1451d59aed4f:0x67aa6704e6b62a27",
+   "rating": 4.3,
+   "reviews": 279,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Continental restaurant",
+   "address": "47, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934219,
+    "longitude": 77.61607
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Spice Terrace",
+   "place_id": "ChIJc_4WSHcWrjsR7wdB6_Dms58",
+   "data_id": "0x3bae16774816fe73:0x9fb3e6f0eb4107ef",
+   "rating": 4.3,
+   "reviews": 2200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972144,
+    "longitude": 77.594925
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Gardenwoods Rooftop Kitchen Budget Buffet Whitefield, Bengaluru",
+   "place_id": "ChIJERm391ERrjsRkKGlUlvK3-I",
+   "data_id": "0x3bae1151f7b71911:0xe2dfca5b52a5a190",
+   "rating": 4.4,
+   "reviews": 442,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Buffet",
+   "address": "3rd Floor, Plot No 74 EPIP, Rd Number 3",
+   "gps_coordinates": {
+    "latitude": 12.980076,
+    "longitude": 77.7246
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Barrys Sky Lounge - Bar & Kitchen",
+   "place_id": "ChIJ2atmjJ8RrjsRb-38Zd2-D3M",
+   "data_id": "0x3bae119f8c66abd9:0x730fbedd65fced6f",
+   "rating": 4.5,
+   "reviews": 3900,
+   "type": "Pub",
+   "address": "Banaswadi outer ring road, 9th C Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.018824,
+    "longitude": 77.654976
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Mykos Craft Kitchen & Bar",
+   "place_id": "ChIJq9vDfwAVrjsRmI7oo0vLnJc",
+   "data_id": "0x3bae15007fc3dbab:0x979ccb4ba3e88e98",
+   "rating": 4.5,
+   "reviews": 6500,
+   "type": "Continental restaurant",
+   "address": "SRK Towers, 448/338, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.897574,
+    "longitude": 77.599686
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Pangeo",
+   "place_id": "ChIJz9zsYtIXrjsRMXdex-y8XxE",
+   "data_id": "0x3bae17d262ecdccf:0x115fbcecc75e7731",
+   "rating": 4.5,
+   "reviews": 4500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972639,
+    "longitude": 77.6066
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

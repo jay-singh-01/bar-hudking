@@ -1,0 +1,301 @@
+{
+ "q": "bars and pubs in Whitefield Bangalore",
+ "ll": "@12.9698,77.75,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:39:40.810Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Underdoggs Whitefield",
+   "place_id": "ChIJ2xQQJKsRrjsRaa5O75v2jfo",
+   "data_id": "0x3bae11ab241014db:0xfa8df69bef4eae69",
+   "rating": 4.7,
+   "reviews": 2500,
+   "type": "Pub",
+   "address": "Unit No.06, Second Floor No.18, TOWER-B, Primeco Union City, Hobli",
+   "gps_coordinates": {
+    "latitude": 12.988612,
+    "longitude": 77.73316
+   }
+  },
+  {
+   "position": 2,
+   "title": "The Pump House, Whitefield",
+   "place_id": "ChIJ69qKHosPrjsRFdrhyp9XVWo",
+   "data_id": "0x3bae0f8b1e8adaeb:0x6a55579fcae1da15",
+   "rating": 4.7,
+   "reviews": 13000,
+   "type": "Brewpub",
+   "address": "SH - 35, 87/2A & 87/3 Whitefield, Whitefield - Hoskote Rd",
+   "gps_coordinates": {
+    "latitude": 13.010582,
+    "longitude": 77.759796
+   }
+  },
+  {
+   "position": 3,
+   "title": "Dock 66",
+   "place_id": "ChIJccImr2gTrjsRgHqqvhNKl6U",
+   "data_id": "0x3bae1368af26c271:0xa5974a13beaa7a80",
+   "rating": 4.5,
+   "reviews": 3500,
+   "type": "Gastropub",
+   "address": "Doddanakundi Post, LITBOX, G-21, Sy. No. 36/2 and 36/3,, Kundanahalli Village",
+   "gps_coordinates": {
+    "latitude": 12.970976,
+    "longitude": 77.72516
+   }
+  },
+  {
+   "position": 4,
+   "title": "BLR Brewing Co - Whitefield",
+   "place_id": "ChIJq_MCZPQRrjsRR82tjOEMQpg",
+   "data_id": "0x3bae11f46402f3ab:0x98420ce18cadcd47",
+   "rating": 4.6,
+   "reviews": 15000,
+   "type": "Brewpub",
+   "address": "2, behind HDFC Bank",
+   "gps_coordinates": {
+    "latitude": 12.982122,
+    "longitude": 77.70896
+   }
+  },
+  {
+   "position": 5,
+   "title": "Roxie & Barry",
+   "place_id": "ChIJKbuoVGcNrjsRPLzGdk2J2_8",
+   "data_id": "0x3bae0d6754a8bb29:0xffdb894d76c6bc3c",
+   "rating": 4.4,
+   "reviews": 2200,
+   "type": "Bar",
+   "address": "101 & 45, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.967002,
+    "longitude": 77.74956
+   }
+  },
+  {
+   "position": 6,
+   "title": "Celeb's Rooftop Pub and Kitchen - Whitefield",
+   "place_id": "ChIJTZb9o4QTrjsRozlth0-eCkQ",
+   "data_id": "0x3bae1384a3fd964d:0x440a9e4f876d39a3",
+   "rating": 4.4,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "Siddhapura Main Rd, above Chowki Multi Cuisine Bar and Kitchen",
+   "gps_coordinates": {
+    "latitude": 12.968828,
+    "longitude": 77.73541
+   }
+  },
+  {
+   "position": 7,
+   "title": "2 Pints Brewing Taproom & Kitchen",
+   "place_id": "ChIJGUD8fP8NrjsRW69mgUBed1U",
+   "data_id": "0x3bae0dff7cfc4019:0x55775e408166af5b",
+   "rating": 4.6,
+   "reviews": 285,
+   "type": "Brewpub",
+   "address": "131/B",
+   "gps_coordinates": {
+    "latitude": 12.975968,
+    "longitude": 77.71775
+   }
+  },
+  {
+   "position": 8,
+   "title": "Yuki - Cocktail Bar and Kitchen | Whitefield",
+   "place_id": "ChIJoV_5h4YRrjsR7WRYjorwAUY",
+   "data_id": "0x3bae118687f95fa1:0x4601f08a8e5864ed",
+   "rating": 4.5,
+   "reviews": 868,
+   "type": "Cocktail bar",
+   "address": "Unit No. 3, Second Floor Tower B, PrimeCo Union City, Whitefield Sadaramangala Industrial Area, SY No 76 & 87, Krishnarajapura, hobli",
+   "gps_coordinates": {
+    "latitude": 12.989009,
+    "longitude": 77.73307
+   }
+  },
+  {
+   "position": 9,
+   "title": "4 Friends Pub, Bar and Kitchen",
+   "place_id": "ChIJFxvVD9UNrjsRGR0U4HDSEr0",
+   "data_id": "0x3bae0dd50fd51b17:0xbd12d270e0141d19",
+   "rating": 4.1,
+   "reviews": 756,
+   "type": "Pub",
+   "address": "6/2, 1st Floor, Whitefield Main Rd, opposite Bank Of Baroda",
+   "gps_coordinates": {
+    "latitude": 12.967968,
+    "longitude": 77.74977
+   }
+  },
+  {
+   "position": 10,
+   "title": "153 Biere Street | Best Microbrewery in Whitefield",
+   "place_id": "ChIJmW76IqYNrjsRLzqM4cTcevM",
+   "data_id": "0x3bae0da622fa6e99:0xf37adcc4e18c3a2f",
+   "rating": 4.2,
+   "reviews": 2500,
+   "type": "Brewpub",
+   "address": "XP5X+JR6 Biere Street, 153/1, Hagadur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.963289,
+    "longitude": 77.75096
+   }
+  },
+  {
+   "position": 11,
+   "title": "Bengaluru Umbaa 2.0 Pub & Kitchen",
+   "place_id": "ChIJUXeimFQPrjsR6oH1BeGMTfo",
+   "data_id": "0x3bae0f5498a27751:0xfa4d8ce105f581ea",
+   "rating": 4.1,
+   "reviews": 1600,
+   "type": "Pub",
+   "address": "Channasandra Main Road, Whitefield",
+   "gps_coordinates": {
+    "latitude": 12.983399,
+    "longitude": 77.75289
+   }
+  },
+  {
+   "position": 12,
+   "title": "Bob's Bar - Whitefield",
+   "place_id": "ChIJV_kxGwANrjsRPDXTPnmwr18",
+   "data_id": "0x3bae0d001b31f957:0x5fafb0793ed3353c",
+   "rating": 4,
+   "reviews": 248,
+   "type": "Bar",
+   "address": "167, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.96672,
+    "longitude": 77.748856
+   }
+  },
+  {
+   "position": 13,
+   "title": "The Brewseum",
+   "place_id": "ChIJ6UPSWjoPrjsRx3YV19mUjU8",
+   "data_id": "0x3bae0f3a5ad243e9:0x4f8d94d9d71576c7",
+   "rating": 4.7,
+   "reviews": 269,
+   "type": "Pub",
+   "address": "Hope farm signal, 13B, 12/2, above Vishal Mega Mart",
+   "gps_coordinates": {
+    "latitude": 12.98373,
+    "longitude": 77.75174
+   }
+  },
+  {
+   "position": 14,
+   "title": "Skygarden Best Rooftop Bar & Kitchen Restaurant",
+   "place_id": "ChIJvRAdyG4RrjsRpyqCLtwHgTs",
+   "data_id": "0x3bae116ec81d10bd:0x3b8107dc2e822aa7",
+   "rating": 4.3,
+   "reviews": 7300,
+   "type": "Bar",
+   "address": "Metro station, 3rd floor HVP Aster, ITPL Main Rd, near Garudacharpalya",
+   "gps_coordinates": {
+    "latitude": 12.993829,
+    "longitude": 77.70318
+   }
+  },
+  {
+   "position": 15,
+   "title": "The Pallet Club.",
+   "place_id": "ChIJTe9PWusRrjsRXwrgcXl2vnY",
+   "data_id": "0x3bae11eb5a4fef4d:0x76be767971e00a5f",
+   "rating": 4.1,
+   "reviews": 16000,
+   "type": "Bar",
+   "address": "The Pallet , ABV-Artisanal Bier Village Hoodi, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.991761,
+    "longitude": 77.71987
+   },
+   "comment": "Microbrewery with chic interiors"
+  },
+  {
+   "position": 16,
+   "title": "Windmills Craftworks [Whitefield]",
+   "place_id": "ChIJd5CMLo0RrjsRboHwm9XNEzg",
+   "data_id": "0x3bae118d2e8c9077:0x3813cdd59bf0816e",
+   "rating": 4.4,
+   "reviews": 22000,
+   "type": "Brewpub",
+   "address": "6th Floor, Craftworks, 331, 5B Rd",
+   "gps_coordinates": {
+    "latitude": 12.9825325,
+    "longitude": 77.72177
+   },
+   "comment": "Arty brewery, jazz venue & Indian eatery"
+  },
+  {
+   "position": 17,
+   "title": "BOHO Rooftop Restaurant & Bar",
+   "place_id": "ChIJBcyctC8TrjsRgkxoUNWDzvM",
+   "data_id": "0x3bae132fb49ccc05:0xf3ce83d550684c82",
+   "rating": 4,
+   "reviews": 4600,
+   "type": "Restaurant",
+   "address": "Brookefield Mall, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.965916,
+    "longitude": 77.71812
+   },
+   "comment": "Their website mentions bars and pubs",
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Hard Rock Cafe Whitefield",
+   "place_id": "ChIJAwl7EnoRrjsR62wk66pFEH4",
+   "data_id": "0x3bae117a127b0903:0x7e1045aaeb246ceb",
+   "rating": 4.5,
+   "reviews": 6200,
+   "type": "Bar",
+   "address": "Ground Floor, 40, ITPL Main Rd Unit no.G, 25 & 26",
+   "gps_coordinates": {
+    "latitude": 12.987126,
+    "longitude": 77.73648
+   },
+   "comment": "Music-themed chain with an American menu"
+  },
+  {
+   "position": 19,
+   "title": "The Diner Restobar",
+   "place_id": "ChIJgTnXCPARrjsR1YQAYohb77U",
+   "data_id": "0x3bae11f008d73981:0xb5ef5b88620084d5",
+   "rating": 4.4,
+   "reviews": 2500,
+   "type": "Pub",
+   "address": "107/4, Pattandur Agrahara Village Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.984292,
+    "longitude": 77.733444
+   },
+   "comment": "Multi-cuisine restaurant & takeaway"
+  },
+  {
+   "position": 20,
+   "title": "Maize & Malt - Craft Brewery & Kitchen",
+   "place_id": "ChIJIdMdBZ4RrjsRe7S7WtbDCfs",
+   "data_id": "0x3bae119e051dd321:0xfb09c3d65abbb47b",
+   "rating": 4.7,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "3, 4th Cross Rd, near Whitefield",
+   "gps_coordinates": {
+    "latitude": 12.995542,
+    "longitude": 77.7011
+   }
+  }
+ ]
+}

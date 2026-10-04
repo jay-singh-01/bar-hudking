@@ -1,0 +1,448 @@
+{
+ "q": "best pure veg restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:44:27.971Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Sattva Pure Veg Restaurant",
+   "place_id": "ChIJy0gzUXsXrjsRFPHhnmXtCjQ",
+   "data_id": "0x3bae177b513348cb:0x340aed659ee1f114",
+   "rating": 4.8,
+   "reviews": 4400,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "South Indian",
+   "address": "ground floor, Minerva Mills Compound, No. 19/6, Magadi Main Rd, next to Mysore Sugandh Dhoop Factory",
+   "gps_coordinates": {
+    "latitude": 12.978875,
+    "longitude": 77.56425
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "White Garden - Vegetarian Artisan Kitchen",
+   "place_id": "ChIJozYa81sXrjsRmQJ_o6gWrks",
+   "data_id": "0x3bae175bf31a36a3:0x4bae16a8a37f0299",
+   "rating": 4.6,
+   "reviews": 5900,
+   "type": "Vegetarian",
+   "address": "425, 2nd Block, 7th Main, 80, ft. Road",
+   "gps_coordinates": {
+    "latitude": 13.02376,
+    "longitude": 77.64315
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "KAILASH PARBAT - Pure Vegetarian Restaurant",
+   "place_id": "ChIJt1pAtzgXrjsRIbRneYW7-40",
+   "data_id": "0x3bae1738b7405ab7:0x8dfbbb857967b421",
+   "rating": 4.5,
+   "reviews": 5000,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "381, 13th Cross Rd, near Just Be",
+   "gps_coordinates": {
+    "latitude": 13.007472,
+    "longitude": 77.57961
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Bangalore Cafe",
+   "place_id": "ChIJo0tJmV8VrjsR0vWuyvPK9DM",
+   "data_id": "0x3bae155f99494ba3:0x33f4caf3caaef5d2",
+   "rating": 4.3,
+   "reviews": 13000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Vegetarian",
+   "address": "4, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.961559,
+    "longitude": 77.594696
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Green Theory",
+   "place_id": "ChIJX0zjWn8WrjsRsRSeStSoGD0",
+   "data_id": "0x3bae167f5ae34c5f:0x3d18a8d44a9e14b1",
+   "rating": 4.1,
+   "reviews": 6000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "Green Theory, 15, Convent Rd",
+   "gps_coordinates": {
+    "latitude": 12.968317,
+    "longitude": 77.60279
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Neemsi Restaurant | JP Nagar",
+   "place_id": "ChIJjVuXSxoVrjsRS3HXyKoKbAg",
+   "data_id": "0x3bae151a4b975b8d:0x86c0aaac8d7714b",
+   "rating": 4.8,
+   "reviews": 16000,
+   "type": "Vegetarian",
+   "address": "Ground Floor, Sai Panorama, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906209,
+    "longitude": 77.58256
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Go Native Jayanagar",
+   "place_id": "ChIJQTZA9p8VrjsRQxak6CEZqAU",
+   "data_id": "0x3bae159ff6403641:0x5a81921e8a41643",
+   "rating": 4.3,
+   "reviews": 10000,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "#64, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.922555,
+    "longitude": 77.584785
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "PHURR | Jayanagar",
+   "place_id": "ChIJ05c7FwAVrjsR6MdIv_EE_E4",
+   "data_id": "0x3bae1500173b97d3:0x4efc04f1bf48c7e8",
+   "rating": 4.7,
+   "reviews": 20000,
+   "type": "Vegetarian",
+   "address": "40, 22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.932811,
+    "longitude": 77.58301
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Moai, Jayanagar - Redefined Vegetarian Dining",
+   "place_id": "ChIJUS3ryxsVrjsR8-zbliXVuvQ",
+   "data_id": "0x3bae151bcbeb2d51:0xf4bad52596dbecf3",
+   "rating": 4.6,
+   "reviews": 6700,
+   "type": "Vegetarian",
+   "address": "790/43, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.925025,
+    "longitude": 77.583954
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Kailash Parbat- Pure Veg",
+   "place_id": "ChIJExNw0hQXrjsRye8zpLvAhCI",
+   "data_id": "0x3bae1714d2701313:0x2284c0bba433efc9",
+   "rating": 4.7,
+   "reviews": 435,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Vegetarian",
+   "address": "Ground Floor, Chaman Business Centre, No 35/2, SRT Road, Cunningham Rd",
+   "gps_coordinates": {
+    "latitude": 12.986367,
+    "longitude": 77.59538
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Gramin | Veg Restaurant",
+   "place_id": "ChIJdQAA0E0UrjsRHtoB5yuQoIg",
+   "data_id": "0x3bae144dd0000075:0x88a0902be701da1e",
+   "rating": 4.3,
+   "reviews": 12000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Vegetarian",
+   "address": "140, Ground, Raheja Arcade, 139, Ganapathi Temple Rd, near The Forum (Nexus) Mall",
+   "gps_coordinates": {
+    "latitude": 12.934462,
+    "longitude": 77.61343
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "SOMA Kitchen and Cafe - A Lifetree Concept",
+   "place_id": "ChIJ1-kCR-oVrjsRqEPHpT_3Rh4",
+   "data_id": "0x3bae15ea4702e9d7:0x1e46f73fa5c743a8",
+   "rating": 4.3,
+   "reviews": 1800,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "4th Floor, Melange Astris, 1, Langford Gardens",
+   "gps_coordinates": {
+    "latitude": 12.964791,
+    "longitude": 77.59862
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Pakwan - Royal Vegetarian Restaurant Indiranagar",
+   "place_id": "ChIJc2s5jusXrjsRs02dxR6Atl8",
+   "data_id": "0x3bae17eb8e396b73:0x5fb6801ec59d4db3",
+   "rating": 4.2,
+   "reviews": 874,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "276, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.974146,
+    "longitude": 77.64083
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "KAILASH PARBAT Indiranagar Pure Veg Restaurant",
+   "place_id": "ChIJOajrRYkXrjsRtSy37mcXHdw",
+   "data_id": "0x3bae178945eba839:0xdc1d1767eeb72cb5",
+   "rating": 4.3,
+   "reviews": 5000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "North Indian",
+   "address": "30, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.971765,
+    "longitude": 77.64735
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Sattvam Restaurant",
+   "place_id": "ChIJm1G1mDYWrjsRvmk1hrhV21Y",
+   "data_id": "0x3bae163698b5519b:0x56db55b8863569be",
+   "rating": 4.3,
+   "reviews": 13000,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Vegetarian",
+   "address": "35, Sankey Rd, opposite Shell Petrol Bunk",
+   "gps_coordinates": {
+    "latitude": 13.00569,
+    "longitude": 77.58062
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Trayam Vegetarian Creations",
+   "place_id": "ChIJA5_4sAQZrjsRS99uTWrcfw0",
+   "data_id": "0x3bae1904b0f89f03:0xd7fdc6a4d6edf4b",
+   "rating": 4.5,
+   "reviews": 4700,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "28/3 AND 28/4, K Narayanapura Main Rd, opp. to Kriyashila Hospital",
+   "gps_coordinates": {
+    "latitude": 13.064738,
+    "longitude": 77.64678
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Saffron By Sanmanaa - Pure Veg Restaurant",
+   "place_id": "ChIJmVIgq2Q9rjsRcX2vudGQ138",
+   "data_id": "0x3bae3d64ab205299:0x7fd790d1b9af7d71",
+   "rating": 4.5,
+   "reviews": 916,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Vegetarian",
+   "address": "10 old no 104/b 1 st Main Road, Dr Rajkumar Rd, beside Saptagiri Suzuki Showroom",
+   "gps_coordinates": {
+    "latitude": 12.985003,
+    "longitude": 77.56001
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Go Native Lavelle Road",
+   "place_id": "ChIJAcKKAhIXrjsRs8FGWBEZ-uo",
+   "data_id": "0x3bae1712028ac201:0xeafa19115846c1b3",
+   "rating": 4.6,
+   "reviews": 1900,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "25, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.968846,
+    "longitude": 77.597015
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Go Native HSR",
+   "place_id": "ChIJv6dxP_UVrjsRM3WLfv9Yh5Y",
+   "data_id": "0x3bae15f53f71a7bf:0x968758ff7e8b7533",
+   "rating": 4.4,
+   "reviews": 5600,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Vegetarian",
+   "address": "29, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913355,
+    "longitude": 77.63831
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Konark Vegetarian Restaurant",
+   "place_id": "ChIJU2aoTH8WrjsRkRnJ0O58Qgc",
+   "data_id": "0x3bae167f4ca86653:0x7427ceed0c91991",
+   "rating": 4.2,
+   "reviews": 15000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "After Ritz Carlton Hotel, No. 50, Field Marshal Cariappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.968829,
+    "longitude": 77.60217
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  }
+ ]
+}

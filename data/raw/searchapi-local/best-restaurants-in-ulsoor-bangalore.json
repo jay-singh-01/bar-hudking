@@ -1,0 +1,369 @@
+{
+ "q": "best restaurants in Ulsoor Bangalore",
+ "ll": "@12.9817,77.6286,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:28.340Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Tiamo",
+   "place_id": "ChIJ8RWqB4EXrjsRMEW-l-nNeRM",
+   "data_id": "0x3bae178107aa15f1:0x1379cde997be4530",
+   "rating": 4.4,
+   "reviews": 1700,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Italian",
+   "address": "25/3, Kensington Rd",
+   "gps_coordinates": {
+    "latitude": 12.975491,
+    "longitude": 77.62057
+   }
+  },
+  {
+   "position": 2,
+   "title": "Carnival de Goa",
+   "place_id": "ChIJ3arIR5sWrjsR-jmHYz4LQio",
+   "data_id": "0x3bae169b47c8aadd:0x2a420b3e638739fa",
+   "rating": 4.3,
+   "reviews": 4000,
+   "type": "Seafood",
+   "address": "No:8/6, Kensington Point, Ulsoor Rd",
+   "gps_coordinates": {
+    "latitude": 12.975054,
+    "longitude": 77.619965
+   },
+   "comment": "Relaxed Goan bistro with a full bar"
+  },
+  {
+   "position": 3,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   }
+  },
+  {
+   "position": 4,
+   "title": "Night Owl Sky Lounge",
+   "place_id": "ChIJl1xq87YXrjsRQu7DoQL_TmQ",
+   "data_id": "0x3bae17b6f36a5c97:0x644eff02a1c3ee42",
+   "rating": 4.5,
+   "reviews": 1200,
+   "type": "Restaurant",
+   "address": "opp. Hotel Cunrad",
+   "gps_coordinates": {
+    "latitude": 12.9751,
+    "longitude": 77.61997
+   }
+  },
+  {
+   "position": 5,
+   "title": "KAARA By The Lake",
+   "place_id": "ChIJiX-yXjYXrjsRo7ghDsnb2mw",
+   "data_id": "0x3bae17365eb27f89:0x6cdadbc90e21b8a3",
+   "rating": 4.3,
+   "reviews": 3000,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "119, Annaswamy Mudaliar Rd, opposite Ulsoor",
+   "gps_coordinates": {
+    "latitude": 12.986494,
+    "longitude": 77.61943
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Mikusu",
+   "place_id": "ChIJyZfTcd8XrjsRzw0Uk--HeXU",
+   "data_id": "0x3bae17df71d397c9:0x757987ef93140dcf",
+   "rating": 4.5,
+   "reviews": 338,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan Asian",
+   "address": "25 3, Kensington Rd",
+   "gps_coordinates": {
+    "latitude": 12.97548,
+    "longitude": 77.620544
+   }
+  },
+  {
+   "position": 7,
+   "title": "2Moons (1 MG Mall)",
+   "place_id": "ChIJ8TRXM2YXrjsR_6oIRqfZguA",
+   "data_id": "0x3bae1766335734f1:0xe082d9a74608aaff",
+   "rating": 4.4,
+   "reviews": 396,
+   "type": "Restaurant",
+   "address": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.973466,
+    "longitude": 77.62041
+   }
+  },
+  {
+   "position": 8,
+   "title": "The Grill House - Steaks & Sizzlers",
+   "place_id": "ChIJr5-ZRZsWrjsRruvFW-TLIp8",
+   "data_id": "0x3bae169b45999faf:0x9f22cbe45bc5ebae",
+   "rating": 4.3,
+   "reviews": 3000,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Steak",
+   "address": "8/6, Kensington Road, Near-Kensington Point",
+   "gps_coordinates": {
+    "latitude": 12.974984,
+    "longitude": 77.61995
+   },
+   "comment": "American style grill & diner"
+  },
+  {
+   "position": 9,
+   "title": "Amma's Legacy",
+   "place_id": "ChIJ2zz1UBAXrjsRxv3zC4Vrcpc",
+   "data_id": "0x3bae171050f53cdb:0x97726b850bf3fdc6",
+   "rating": 4.4,
+   "reviews": 1000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "North Indian",
+   "address": "22, Swami Vivekananda road, Old Madras Rd",
+   "gps_coordinates": {
+    "latitude": 12.973892,
+    "longitude": 77.62333
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Naachiyar's",
+   "place_id": "ChIJx4q2LIUWrjsRls1AXXc44Gs",
+   "data_id": "0x3bae16852cb68ac7:0x6be038775d40cd96",
+   "rating": 4.2,
+   "reviews": 3600,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Chettinad",
+   "address": "36/2, Haudin Rd",
+   "gps_coordinates": {
+    "latitude": 12.977291,
+    "longitude": 77.619064
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Toit",
+   "place_id": "ChIJc0JAFaUWrjsRRXSXJPX7YFo",
+   "data_id": "0x3bae16a515404273:0x5a60fbf524977445",
+   "rating": 4.5,
+   "reviews": 63000,
+   "type": "Brewpub",
+   "address": "6/2, 100 Feet Rd, near Drops Total Spirites",
+   "gps_coordinates": {
+    "latitude": 12.979544,
+    "longitude": 77.640656
+   },
+   "comment": "Rustic microbrewery with facility tours"
+  },
+  {
+   "position": 12,
+   "title": "The Bengaluru Brasserie",
+   "place_id": "ChIJbVUziYgXrjsRL7_G3APYR6U",
+   "data_id": "0x3bae17888933556d:0xa547d803dcc6bf2f",
+   "rating": 4.2,
+   "reviews": 712,
+   "type": "Coffee shop",
+   "address": "1/1, Hyatt Centric MG Road Bangalore, Swami Vivekananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.973071,
+    "longitude": 77.62045
+   },
+   "comment": "Modern spot for international fare"
+  },
+  {
+   "position": 13,
+   "title": "Urban Solace",
+   "place_id": "ChIJIXWsCY4WrjsR74tXL5mbQ7Y",
+   "data_id": "0x3bae168e09ac7521:0xb6439b992f578bef",
+   "rating": 4.4,
+   "reviews": 2900,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "American",
+   "address": "32, Annaswamy Mudaliar Rd, Ulsoor",
+   "gps_coordinates": {
+    "latitude": 12.984991,
+    "longitude": 77.61839
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Indian Durbar",
+   "place_id": "ChIJK_yk-IQXrjsR4JCQdRhZHYI",
+   "data_id": "0x3bae1784f8a4fc2b:0x821d5918759090e0",
+   "rating": 4.6,
+   "reviews": 1100,
+   "type": "Punjabi",
+   "address": "25/3, Kensington Rd",
+   "gps_coordinates": {
+    "latitude": 12.975518,
+    "longitude": 77.62067
+   },
+   "comment": "Elegant eatery with traditional cuisine"
+  },
+  {
+   "position": 15,
+   "title": "Watson's Ulsoor",
+   "place_id": "ChIJ12YWgZIWrjsRmwJz9aYeWYA",
+   "data_id": "0x3bae1692811666d7:0x80591ea6f573029b",
+   "rating": 4.4,
+   "reviews": 6200,
+   "type": "Restaurant",
+   "address": "4th Floor, Skywalk, Building, Assaye Rd",
+   "gps_coordinates": {
+    "latitude": 12.990914,
+    "longitude": 77.61926
+   },
+   "comment": "Gastropub serving international food"
+  },
+  {
+   "position": 16,
+   "title": "Kari Theory",
+   "place_id": "ChIJryzbzT0XrjsRxcur6H4swmc",
+   "data_id": "0x3bae173dcddb2caf:0x67c22c7ee8abcbc5",
+   "rating": 4.3,
+   "reviews": 67,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "South Indian",
+   "address": "1-5, Halasuru Rd, near Shanthi",
+   "gps_coordinates": {
+    "latitude": 12.976142,
+    "longitude": 77.6194
+   }
+  },
+  {
+   "position": 17,
+   "title": "Muro",
+   "place_id": "ChIJG4hY5igXrjsRcU9IFbg9Www",
+   "data_id": "0x3bae1728e658881b:0xc5b3db815484f71",
+   "rating": 4.6,
+   "reviews": 3000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "5, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.974621,
+    "longitude": 77.60315
+   }
+  },
+  {
+   "position": 18,
+   "title": "Rim Naam",
+   "place_id": "ChIJC95nWoMWrjsR5xI0H01yZLA",
+   "data_id": "0x3bae16835a67de0b:0xb064724d1f3412e7",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Thai",
+   "address": "M G, The Oberoi Bengaluru, 37-39, Mahatma Gandhi Road, Road",
+   "gps_coordinates": {
+    "latitude": 12.973455,
+    "longitude": 77.618706
+   },
+   "comment": "Upscale hotel's garden Thai dining room"
+  },
+  {
+   "position": 19,
+   "title": "Boteco Restaurante Brasileiro",
+   "place_id": "ChIJaT2h0OEXrjsRvgVi1BkUvvk",
+   "data_id": "0x3bae17e1d0a13d69:0xf9be1419d46205be",
+   "rating": 4.4,
+   "reviews": 1700,
+   "type": "Brazilian",
+   "address": "Unit 6, IndiQube Symphony, 25, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.973363,
+    "longitude": 77.614494
+   }
+  },
+  {
+   "position": 20,
+   "title": "Yauatcha Bengaluru",
+   "place_id": "ChIJyUumo5wWrjsRHLBqk6Vi9XI",
+   "data_id": "0x3bae169ca3a64bc9:0x72f562a5936ab01c",
+   "rating": 4.4,
+   "reviews": 3000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cantonese",
+   "address": "Level 5, Lido Mall, 1 Mg, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.973222,
+    "longitude": 77.62037
+   },
+   "comment": "Elegant dining option for Asian fare",
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  }
+ ]
+}

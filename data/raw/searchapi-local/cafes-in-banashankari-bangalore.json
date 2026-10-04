@@ -1,0 +1,459 @@
+{
+ "q": "cafes in Banashankari Bangalore",
+ "ll": "@12.925,77.5567,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:46.636Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Midnight Coffee House",
+   "place_id": "ChIJeyEtUwA_rjsR6xqifxmYogU",
+   "data_id": "0x3bae3f00532d217b:0x5a298197fa21aeb",
+   "rating": 4,
+   "reviews": 319,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "1st Block, Bharath Housing Society Layout, 9, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.8861265,
+    "longitude": 77.53845
+   }
+  },
+  {
+   "position": 2,
+   "title": "Iris Café & Kitchen, JP Nagar",
+   "place_id": "ChIJ_1emfJ8VrjsRlA1C2tIHeDg",
+   "data_id": "0x3bae159f7ca657ff:0x387807d2da420d94",
+   "rating": 4.5,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "735, 16th Cross, 29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905674,
+    "longitude": 77.58318
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Coffee Brewery - Banashankari 6th Stage",
+   "place_id": "ChIJASRW-NU_rjsRmxM5ECvQN70",
+   "data_id": "0x3bae3fd5f8562401:0xbd37d02b1039139b",
+   "rating": 4.5,
+   "reviews": 106,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "VGG9+RCJ",
+   "gps_coordinates": {
+    "latitude": 12.877083,
+    "longitude": 77.5185
+   }
+  },
+  {
+   "position": 4,
+   "title": "Old Bangalore Cafe",
+   "place_id": "ChIJ0cCyFLUVrjsRFjEfBfI3nzk",
+   "data_id": "0x3bae15b514b2c0d1:0x399f37f2051f3116",
+   "rating": 4,
+   "reviews": 618,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "70, 21st Main Rd, opp. BDA Shopping Complex",
+   "gps_coordinates": {
+    "latitude": 12.926399,
+    "longitude": 77.564545
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Evya cafe",
+   "place_id": "ChIJZW0WTwA_rjsRpToPPcj4BTw",
+   "data_id": "0x3bae3f004f166d65:0x3c05f8c83d0f3aa5",
+   "rating": 4.5,
+   "reviews": 266,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "KK Plaza, circle, 150, Nehru Rd",
+   "gps_coordinates": {
+    "latitude": 12.940604,
+    "longitude": 77.54546
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Cafe Down The Alley",
+   "place_id": "ChIJX5qHBEQ-rjsREstvPRF0nn8",
+   "data_id": "0x3bae3e4404879a5f:0x7f9e74113d6fcb12",
+   "rating": 4.1,
+   "reviews": 2000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "12,29, main road",
+   "gps_coordinates": {
+    "latitude": 12.935314,
+    "longitude": 77.5329
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Eywa - Bakehouse",
+   "place_id": "ChIJhwiEmfUVrjsRO_SIcLkQohA",
+   "data_id": "0x3bae15f599840887:0x10a210b97088f43b",
+   "rating": 4.5,
+   "reviews": 791,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "3786, 13th Cross",
+   "gps_coordinates": {
+    "latitude": 12.92926,
+    "longitude": 77.564674
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Sukino Cafe & Kitchen",
+   "place_id": "ChIJU6rxXgAVrjsR8CgzC5dBWSE",
+   "data_id": "0x3bae15005ef1aa53:0x215941970b3328f0",
+   "rating": 4.3,
+   "reviews": 313,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Coffee shop",
+   "address": "sukino cafe, 183, 17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.923795,
+    "longitude": 77.5661
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Tea Villa Cafe Jayanagar",
+   "place_id": "ChIJJ9p7sAcVrjsRpAgXeEDhTlI",
+   "data_id": "0x3bae1507b07bda27:0x524ee140781708a4",
+   "rating": 4,
+   "reviews": 6500,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "183, 16, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.927573,
+    "longitude": 77.58081
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Coffee Brewery - Banashankari 3rd Stage",
+   "place_id": "ChIJUQ2RcgA_rjsRvCVzYT1XdKo",
+   "data_id": "0x3bae3f0072910d51:0xaa74573d617325bc",
+   "rating": 4.4,
+   "reviews": 230,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "609, 80 Feet Rd, next to Dmart",
+   "gps_coordinates": {
+    "latitude": 12.923095,
+    "longitude": 77.56025
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "SLV Coffee Bar",
+   "place_id": "ChIJ45uQcoEVrjsRUnXS3H8iTR0",
+   "data_id": "0x3bae158172909be3:0x1d4d227fdcd27552",
+   "rating": 4.4,
+   "reviews": 10000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Breakfast",
+   "address": "186, 24th Cross Rd, next to SLV hotel",
+   "gps_coordinates": {
+    "latitude": 12.924078,
+    "longitude": 77.56635
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The Studio Cafe",
+   "place_id": "ChIJw1c_BpcVrjsRHhI3aDdBGHs",
+   "data_id": "0x3bae1597063f57c3:0x7b1841376837121e",
+   "rating": 4.7,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "street, south end circle, 16-25, Pattalamma Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.937351,
+    "longitude": 77.57984
+   },
+   "comment": "Cosy locale for snacks & desserts",
+   "extensions": [
+    "Closed",
+    "Opens 11 am Tue"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Nakshatra Cafe",
+   "place_id": "ChIJr0iZAwAVrjsRwXijAWj56GI",
+   "data_id": "0x3bae1500039948af:0x62e8f96801a378c1",
+   "rating": 5,
+   "reviews": 27,
+   "price": "₹1–600",
+   "extracted_price": {
+    "min": 1,
+    "max": 600
+   },
+   "type": "Coffee shop",
+   "address": "2303, 21st Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.924605,
+    "longitude": 77.57346
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJXR4Kbh8_rjsRKoHs3aona9Y",
+   "data_id": "0x3bae3f1f6e0a1e5d:0xd66b27aaddec812a",
+   "rating": 4.5,
+   "reviews": 630,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Shop No 4, 30th Main Road, South, opposite Kempegowda Institute Of Medical Science",
+   "gps_coordinates": {
+    "latitude": 12.926795,
+    "longitude": 77.561195
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "The Mark Café",
+   "place_id": "ChIJzat8H6E_rjsR0Fn_kLs3peU",
+   "data_id": "0x3bae3fa11f7cabcd:0xe5a537bb90ff59d0",
+   "rating": 4.9,
+   "reviews": 62,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "31, 5th cross, next to PES University 100 feet ring road, hosakerehalli",
+   "gps_coordinates": {
+    "latitude": 12.934965,
+    "longitude": 77.536514
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Chaayos cafe at Banashankari",
+   "place_id": "ChIJ09gVefA_rjsRWoRgMp2Jcmc",
+   "data_id": "0x3bae3ff07915d8d3:0x6772899d3260845a",
+   "rating": 4.9,
+   "reviews": 42,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Property no. 1184, G Flr",
+   "gps_coordinates": {
+    "latitude": 12.925835,
+    "longitude": 77.5608
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Brahmins' Coffee Bar",
+   "place_id": "ChIJ44pbo_AVrjsRZLlc5NF2IcA",
+   "data_id": "0x3bae15f0a35b8ae3:0xc02176d1e45cb964",
+   "rating": 4.5,
+   "reviews": 23000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Pushp Kiran, 19, Ranga Rao Rd, near Shankar Mutt Road",
+   "gps_coordinates": {
+    "latitude": 12.953973,
+    "longitude": 77.56885
+   },
+   "comment": "Bustling spot for coffee & breakfast",
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "LEMAIRE PATISSERIE & COFFEE BREW",
+   "place_id": "ChIJJ1gyewAVrjsRkYsaMCMBOec",
+   "data_id": "0x3bae15007b325827:0xe7390123301a8b91",
+   "rating": 4.8,
+   "reviews": 3300,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 31/2, Bull Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.945477,
+    "longitude": 77.568
+   }
+  },
+  {
+   "position": 19,
+   "title": "Now Boarding Café (Board Game Café)",
+   "place_id": "ChIJrfYaTuMVrjsRh87szDumUOs",
+   "data_id": "0x3bae15e34e1af6ad:0xeb50a63bccecce87",
+   "rating": 4.4,
+   "reviews": 1900,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "Second Floor, 68/150/4, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933847,
+    "longitude": 77.58379
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Board 4 Bored",
+   "place_id": "ChIJQ3KCpPMVrjsRjBpYLmd9xZo",
+   "data_id": "0x3bae15f3a4827243:0x9ac57d672e581a8c",
+   "rating": 4.6,
+   "reviews": 4000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "3rd Floor, Chaitanya Plaza, No 52, DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.9405,
+    "longitude": 77.571495
+   },
+   "comment": "Funky cafe boasting over 200 board games",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

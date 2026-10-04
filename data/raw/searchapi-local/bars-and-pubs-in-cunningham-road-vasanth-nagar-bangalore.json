@@ -1,0 +1,343 @@
+{
+ "q": "bars and pubs in Cunningham Road/Vasanth Nagar Bangalore",
+ "ll": "@12.9861,77.5954,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:38:56.931Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Watson’s Vasanth Nagar",
+   "place_id": "ChIJux5Jh0EWrjsR5I4-v2273lk",
+   "data_id": "0x3bae164187491ebb:0x59debb6dbf3e8ee4",
+   "rating": 4.3,
+   "reviews": 3200,
+   "type": "Bar",
+   "address": "KODAVA SAMAJA, 1st Floor, Kodava Samaja Building",
+   "gps_coordinates": {
+    "latitude": 12.994294,
+    "longitude": 77.59466
+   }
+  },
+  {
+   "position": 2,
+   "title": "Rooftop Dinning",
+   "place_id": "ChIJ75iUjQIXrjsRSxMnjT8eadY",
+   "data_id": "0x3bae17028d9498ef:0xd6691e3f8d27134b",
+   "rating": 4.1,
+   "reviews": 87,
+   "type": "Grill",
+   "address": "34, Cunningham Rd, opp. Prestige Center Point",
+   "gps_coordinates": {
+    "latitude": 12.986066,
+    "longitude": 77.59536
+   }
+  },
+  {
+   "position": 3,
+   "title": "Dublin",
+   "place_id": "ChIJ5fcSzCEXrjsRt8ju2vtR6TM",
+   "data_id": "0x3bae1721cc12f7e5:0x33e951fbdaeec8b7",
+   "rating": 4.2,
+   "reviews": 54,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "ITC WINDSOR",
+   "gps_coordinates": {
+    "latitude": 12.994197,
+    "longitude": 77.58574
+   }
+  },
+  {
+   "position": 4,
+   "title": "Watson's Cantina",
+   "place_id": "ChIJwz-skFsXrjsRftrvVtvVZ74",
+   "data_id": "0x3bae175b90ac3fc3:0xbe67d5db56efda7e",
+   "rating": 4.7,
+   "reviews": 164,
+   "type": "Restaurant",
+   "address": "KODAVA SAMAJA",
+   "gps_coordinates": {
+    "latitude": 12.994391,
+    "longitude": 77.59445
+   }
+  },
+  {
+   "position": 5,
+   "title": "Monkey Bar",
+   "place_id": "ChIJzWN9rSoUrjsRiR5_FDQyN5k",
+   "data_id": "0x3bae142aad7d63cd:0x99373234147f1e89",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "First Floor, The Museum, No.1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975082,
+    "longitude": 77.60288
+   }
+  },
+  {
+   "position": 6,
+   "title": "Eden Park Restaurant",
+   "place_id": "ChIJY3_dw2UWrjsRkKrPwas-Dvg",
+   "data_id": "0x3bae1665c3dd7f63:0xf80e3eabc1cfaa90",
+   "rating": 4,
+   "reviews": 8800,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "21 1, Cunningham Rd, near The Hindu",
+   "gps_coordinates": {
+    "latitude": 12.983426,
+    "longitude": 77.59851
+   }
+  },
+  {
+   "position": 7,
+   "title": "Bar Cameo",
+   "place_id": "ChIJj0k5BgUXrjsRTmRanJtqxxo",
+   "data_id": "0x3bae17050639498f:0x1ac76a9b9c5a644e",
+   "rating": 4.6,
+   "reviews": 53,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "XHFW+RP8, 22, Kasturba Rd",
+   "gps_coordinates": {
+    "latitude": 12.974563,
+    "longitude": 77.59681
+   }
+  },
+  {
+   "position": 8,
+   "title": "The Burrow",
+   "place_id": "ChIJMfOhtRwXrjsRPvnPevvitIc",
+   "data_id": "0x3bae171cb5a1f331:0x87b4e2fb7acff93e",
+   "rating": 4.4,
+   "reviews": 166,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Bar",
+   "address": "37th, Crescent Hotel, Crescent Rd",
+   "gps_coordinates": {
+    "latitude": 12.984943,
+    "longitude": 77.58081
+   }
+  },
+  {
+   "position": 9,
+   "title": "Millers 46 Steak House & Bar",
+   "place_id": "ChIJh4b88UIWrjsRKglx-wZGnRw",
+   "data_id": "0x3bae1642f1fc8687:0x1c9d4606fb71092a",
+   "rating": 4.4,
+   "reviews": 7000,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Bar",
+   "address": "46, Millers Rd",
+   "gps_coordinates": {
+    "latitude": 12.9915285,
+    "longitude": 77.59425
+   },
+   "comment": "Rustic ranch-style restaurant & bar"
+  },
+  {
+   "position": 10,
+   "title": "Mollys Courtyard",
+   "place_id": "ChIJb2K6kc4XrjsRbi_guv5-10A",
+   "data_id": "0x3bae17ce91ba626f:0x40d77efebae02f6e",
+   "rating": 4.3,
+   "reviews": 343,
+   "type": "Bar",
+   "address": "18, Ali Asker Rd",
+   "gps_coordinates": {
+    "latitude": 12.986425,
+    "longitude": 77.594925
+   }
+  },
+  {
+   "position": 11,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   }
+  },
+  {
+   "position": 12,
+   "title": "Bar Spirit Forward",
+   "place_id": "ChIJk1UT0hoXrjsRnVPEieFPPfQ",
+   "data_id": "0x3bae171ad2135593:0xf43d4fe189c4539d",
+   "rating": 4.4,
+   "reviews": 377,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "Ground Floor, Hotel Southern Star, 40/2, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974637,
+    "longitude": 77.59935
+   }
+  },
+  {
+   "position": 13,
+   "title": "Pegs N Bottles - The Standing bar",
+   "place_id": "ChIJj0BBcPsXrjsR104D_bZoARU",
+   "data_id": "0x3bae17fb7041408f:0x150168b6fd034ed7",
+   "rating": 4.3,
+   "reviews": 1800,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "30, Church St, opposite to SBI",
+   "gps_coordinates": {
+    "latitude": 12.975158,
+    "longitude": 77.60371
+   }
+  },
+  {
+   "position": 14,
+   "title": "Skyye",
+   "place_id": "ChIJjfOyQ3cWrjsRz_TvsEoOQ0A",
+   "data_id": "0x3bae167743b2f38d:0x40430e4ab0eff4cf",
+   "rating": 4.3,
+   "reviews": 9700,
+   "type": "Lounge bar",
+   "address": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971427,
+    "longitude": 77.596504
+   },
+   "comment": "Sleek rooftop lounge with global cuisine"
+  },
+  {
+   "position": 15,
+   "title": "Be Luru - Craft Kitchen & Bar",
+   "place_id": "ChIJFUTnd94XrjsR5sRu1-13cCs",
+   "data_id": "0x3bae17de77e74415:0x2b7077edd76ec4e6",
+   "rating": 4.4,
+   "reviews": 434,
+   "type": "Bar",
+   "address": "8th Floor, 10, Sankey Rd, next to BDA Head Office",
+   "gps_coordinates": {
+    "latitude": 12.997589,
+    "longitude": 77.584305
+   },
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Church Street SOCIAL",
+   "place_id": "ChIJa96pe3wWrjsR0GMgr64hzXw",
+   "data_id": "0x3bae167c7ba9de6b:0x7ccd21aeaf2063d0",
+   "rating": 4.2,
+   "reviews": 17000,
+   "type": "Bar",
+   "address": "Cobalt, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975645,
+    "longitude": 77.60268
+   },
+   "comment": "Hip global cafe, meeting place & bar",
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "LIT Gastropub Church Street",
+   "place_id": "ChIJYX6pwO8XrjsRR8TKgEDnrg8",
+   "data_id": "0x3bae17efc0a97e61:0xfaee74080cac447",
+   "rating": 4.2,
+   "reviews": 1300,
+   "type": "Pub",
+   "address": "29, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975066,
+    "longitude": 77.60401
+   }
+  },
+  {
+   "position": 18,
+   "title": "PEBBLE The Jungle Lounge",
+   "place_id": "ChIJLxh4XLUXrjsRfmwZH2yjQN0",
+   "data_id": "0x3bae17b55c78182f:0xdd40a36c1f196c7e",
+   "rating": 3.9,
+   "reviews": 2800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Lounge bar",
+   "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd",
+   "gps_coordinates": {
+    "latitude": 13.004424,
+    "longitude": 77.58484
+   },
+   "comment": "Lounge & club with a chilled out cafe"
+  },
+  {
+   "position": 19,
+   "title": "Le Rock",
+   "place_id": "ChIJ0w3T4n0WrjsRfJAwzRWW7pE",
+   "data_id": "0x3bae167de2d30dd3:0x91ee9615cd30907c",
+   "rating": 4.2,
+   "reviews": 4300,
+   "type": "Pub",
+   "address": "3, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973636,
+    "longitude": 77.60724
+   }
+  },
+  {
+   "position": 20,
+   "title": "The 13th Floor",
+   "place_id": "ChIJXZGjsn0WrjsRcqfimwGhocs",
+   "data_id": "0x3bae167db2a3915d:0xcba1a1019be2a772",
+   "rating": 4.3,
+   "reviews": 11000,
+   "type": "Bar",
+   "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975323,
+    "longitude": 77.60505
+   },
+   "comment": "Cocktails & Asian cuisine with city view"
+  }
+ ]
+}

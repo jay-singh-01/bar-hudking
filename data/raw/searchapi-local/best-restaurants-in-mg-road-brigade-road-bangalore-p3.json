@@ -1,0 +1,443 @@
+{
+ "q": "best restaurants in MG Road/Brigade Road Bangalore",
+ "ll": "@12.9752,77.6065,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:40:29.864Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Kaippunnyam Kerala Restaurant",
+   "place_id": "ChIJ4UyTzKgXrjsRa608o15f12E",
+   "data_id": "0x3bae17a8cc934ce1:0x61d75f5ea33cad6b",
+   "rating": 4.1,
+   "reviews": 1300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "2nd Floor, St. Patrick's complex, Brigade Rd, above Kanti Sweets",
+   "gps_coordinates": {
+    "latitude": 12.970705,
+    "longitude": 77.60661
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "PlanB",
+   "place_id": "ChIJf9j-qyoUrjsRDfrYFyNGTmk",
+   "data_id": "0x3bae142aabfed87f:0x694e462317d8fa0d",
+   "rating": 4.1,
+   "reviews": 5100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Chicken Wings",
+   "address": "St Thomas Building, No 148 & 149, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.969447,
+    "longitude": 77.60622
+   },
+   "comment": "Relaxed eatery for American grill fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Hard Rock Cafe Bengaluru",
+   "place_id": "ChIJ3f5vgnsWrjsRhDkIjzW274o",
+   "data_id": "0x3bae167b826ffedd:0x8aefb6358f083984",
+   "rating": 4.4,
+   "reviews": 17000,
+   "type": "American",
+   "address": "40, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.976179,
+    "longitude": 77.60154
+   },
+   "comment": "Music-themed chain with an American menu",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Muro",
+   "place_id": "ChIJG4hY5igXrjsRcU9IFbg9Www",
+   "data_id": "0x3bae1728e658881b:0xc5b3db815484f71",
+   "rating": 4.6,
+   "reviews": 3000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "5, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.974621,
+    "longitude": 77.60315
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "2Moons (1 MG Mall)",
+   "place_id": "ChIJ8TRXM2YXrjsR_6oIRqfZguA",
+   "data_id": "0x3bae1766335734f1:0xe082d9a74608aaff",
+   "rating": 4.4,
+   "reviews": 396,
+   "type": "Restaurant",
+   "address": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.973466,
+    "longitude": 77.62041
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Salvadores Fine Dining",
+   "place_id": "ChIJVbe_KylprjsREFDPNebaZOQ",
+   "data_id": "0x3bae69292bbfb755:0xe464dae635cf5010",
+   "rating": 4.3,
+   "reviews": 1300,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Fine Dining",
+   "address": "5th Floor, Bangalore Central Mall, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.973377,
+    "longitude": 77.61122
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am",
+    "On the menu: best restaurants"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Dindigul Thalappakatti - MG Road",
+   "place_id": "ChIJz2mar4MXrjsRCwGjZYVdndo",
+   "data_id": "0x3bae1783af9a69cf:0xda9d5d8565a3010b",
+   "rating": 4.5,
+   "reviews": 8900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Biryani",
+   "address": "1st floor, Ramanashree Arcade, Old Kids Kemp, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.972375,
+    "longitude": 77.61859
+   },
+   "comment": "Classic fare in a relaxed environment"
+  },
+  {
+   "position": 8,
+   "title": "Pixi",
+   "place_id": "ChIJm4CoRC0XrjsREjM4w38N7vs",
+   "data_id": "0x3bae172d44a8809b:0xfbee0d7fc3383312",
+   "rating": 4.4,
+   "reviews": 262,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "address": "Ground floor, Amoeba complex, 22, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974678,
+    "longitude": 77.604904
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Mainland China",
+   "place_id": "ChIJe142h3sWrjsRszhIFzW20mU",
+   "data_id": "0x3bae167b87365e7b:0x65d2b635174838b3",
+   "rating": 4.1,
+   "reviews": 3000,
+   "type": "Pan Asian",
+   "address": "Mainland China Church Street Bangalore Church Street 1st Floor,14, Church Street, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975234,
+    "longitude": 77.603455
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "TASTE OF TIBET (BRIGADE ROAD)",
+   "place_id": "ChIJKa3bM34WrjsR3tHSO_n5OYE",
+   "data_id": "0x3bae167e33dbad29:0x8139f9f93bd2d1de",
+   "rating": 4.2,
+   "reviews": 1900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Tibetan",
+   "address": "5, Rest House Rd",
+   "gps_coordinates": {
+    "latitude": 12.973654,
+    "longitude": 77.6068
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Tottos pizza -Brigade road",
+   "place_id": "ChIJ42t8CDEXrjsRQWN7wYeim1Y",
+   "data_id": "0x3bae1731087c6be3:0x569ba287c17b6341",
+   "rating": 4.7,
+   "reviews": 1800,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Pizza",
+   "address": "5th Avenue mall, Brigade Rd, next to Big boba",
+   "gps_coordinates": {
+    "latitude": 12.973193,
+    "longitude": 77.60701
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Green Theory",
+   "place_id": "ChIJX0zjWn8WrjsRsRSeStSoGD0",
+   "data_id": "0x3bae167f5ae34c5f:0x3d18a8d44a9e14b1",
+   "rating": 4.1,
+   "reviews": 6000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "Green Theory, 15, Convent Rd",
+   "gps_coordinates": {
+    "latitude": 12.968317,
+    "longitude": 77.60279
+   },
+   "comment": "Quaint vegetarian choice with a patio",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "IDC Kitchen",
+   "place_id": "ChIJmXnJZdYXrjsRocsapvZXZjo",
+   "data_id": "0x3bae17d665c97999:0x3a6657f6a61acba1",
+   "rating": 4.3,
+   "reviews": 3200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "17, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.968685,
+    "longitude": 77.60127
+   },
+   "comment": "Simple eatery serving dosa & rice plates",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "CHA Hong Kong Eating House",
+   "place_id": "ChIJncI6k5IXrjsRkzUNciEsYxc",
+   "data_id": "0x3bae1792933ac29d:0x17632c21720d3593",
+   "rating": 4.7,
+   "reviews": 348,
+   "type": "Asian",
+   "address": "Unit No.F3, 1st Floor, Sobha Mall, S.Y. No. 76-20-50",
+   "gps_coordinates": {
+    "latitude": 12.975388,
+    "longitude": 77.60194
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "THAI HUB",
+   "place_id": "ChIJJeF3Fv4XrjsRJUpT3cQz1ww",
+   "data_id": "0x3bae17fe1677e125:0xcd733c4dd534a25",
+   "rating": 4.2,
+   "reviews": 267,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Thai",
+   "address": "Ground floor, 5th Avenue mall, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973193,
+    "longitude": 77.60701
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Juliet",
+   "place_id": "ChIJzXaFTasXrjsR7Y82SwF2XFg",
+   "data_id": "0x3bae17ab4d8576cd:0x585c76014b368fed",
+   "rating": 4,
+   "reviews": 893,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan Asian",
+   "address": "5th Floor, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall",
+   "gps_coordinates": {
+    "latitude": 12.973466,
+    "longitude": 77.62041
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Kenzai - Asian Kitchen & Lounge",
+   "place_id": "ChIJw5aprPAXrjsRgrIMGSfwxFQ",
+   "data_id": "0x3bae17f0aca996c3:0x54c4f027190cb282",
+   "rating": 4.2,
+   "reviews": 290,
+   "type": "Asian",
+   "address": "5th floor, Garuda Mall, 22, Markham Rd",
+   "gps_coordinates": {
+    "latitude": 12.97021,
+    "longitude": 77.60951
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Memories of China",
+   "place_id": "ChIJLU6lP4cWrjsRYAJI7poLDIw",
+   "data_id": "0x3bae16873fa54e2d:0x8c0c0b9aee480260",
+   "rating": 4.4,
+   "reviews": 529,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Chinese",
+   "address": "No. 41/3, Taj MG Road, 41/3, Mahatma Gandhi Rd, near Memories of China",
+   "gps_coordinates": {
+    "latitude": 12.97326,
+    "longitude": 77.61981
+   },
+   "comment": "Hotel's contemporary Chinese restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "ITALIA, M G Road",
+   "place_id": "ChIJW8yOqZwWrjsR2Uy7MByZoCs",
+   "data_id": "0x3bae169ca98ecc5b:0x2ba0991c30bb4cd9",
+   "rating": 4.7,
+   "reviews": 266,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Italian",
+   "address": "ITALIA at, The PARK, 14/7, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.974037,
+    "longitude": 77.61931
+   },
+   "comment": "Polished restaurant for Italian fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Kerala Pavilion Restaurant, MG Road",
+   "place_id": "ChIJr5JVmuQXrjsRfdEm-YhuONk",
+   "data_id": "0x3bae17e49a5592af:0xd9386e88f926d17d",
+   "rating": 4.1,
+   "reviews": 716,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Keralan",
+   "address": "Ramanashree Arcade, &, Mahatma Gandhi Rd, opp. The Oberoi Bengaluru, behind Starbucks",
+   "gps_coordinates": {
+    "latitude": 12.972337,
+    "longitude": 77.618385
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  }
+ ]
+}

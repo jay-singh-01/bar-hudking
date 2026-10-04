@@ -1,0 +1,376 @@
+{
+ "q": "best restaurants in Church Street/Lavelle Road Bangalore",
+ "ll": "@12.9718,77.5985,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:16.618Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Dolci - Lavelle Road",
+   "place_id": "ChIJX5IXDZoXrjsRo7lA59Phnnc",
+   "data_id": "0x3bae179a0d17925f:0x779ee1d3e740b9a3",
+   "rating": 4.6,
+   "reviews": 639,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "55/2-1, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.970536,
+    "longitude": 77.59773
+   }
+  },
+  {
+   "position": 2,
+   "title": "Go Native Lavelle Road",
+   "place_id": "ChIJAcKKAhIXrjsRs8FGWBEZ-uo",
+   "data_id": "0x3bae1712028ac201:0xeafa19115846c1b3",
+   "rating": 4.6,
+   "reviews": 1900,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "25, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.968846,
+    "longitude": 77.597015
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Ishaara",
+   "place_id": "ChIJc-XKIPcXrjsRVzq-WOYAoF4",
+   "data_id": "0x3bae17f720cae573:0x5ea000e658be3a57",
+   "rating": 4.8,
+   "reviews": 970,
+   "type": "Modern Indian restaurant",
+   "address": "1st Floor, located in-1, Sobha Mall, Shop No, F-3, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975338,
+    "longitude": 77.60228
+   }
+  },
+  {
+   "position": 4,
+   "title": "PARAGON RESTAURANT",
+   "place_id": "ChIJvz4VJW8XrjsRriPDGjNnXdQ",
+   "data_id": "0x3bae176f25153ebf:0xd45d67331ac323ae",
+   "rating": 4.4,
+   "reviews": 7000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "South Indian",
+   "address": "1, Sobha Mall, Church St",
+   "gps_coordinates": {
+    "latitude": 12.97508,
+    "longitude": 77.60253
+   }
+  },
+  {
+   "position": 5,
+   "title": "Pixi",
+   "place_id": "ChIJm4CoRC0XrjsREjM4w38N7vs",
+   "data_id": "0x3bae172d44a8809b:0xfbee0d7fc3383312",
+   "rating": 4.4,
+   "reviews": 262,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "address": "Ground floor, Amoeba complex, 22, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974678,
+    "longitude": 77.604904
+   }
+  },
+  {
+   "position": 6,
+   "title": "Hatti Kaapi Signature",
+   "place_id": "ChIJuw1cSAAXrjsRWWYA7lw90VQ",
+   "data_id": "0x3bae1700485c0dbb:0x54d13d5cee006659",
+   "rating": 4.9,
+   "reviews": 1600,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Coffee shop",
+   "address": "55-1, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.970707,
+    "longitude": 77.59777
+   }
+  },
+  {
+   "position": 7,
+   "title": "Empire Restaurant Church Street",
+   "place_id": "ChIJm5oHs_kXrjsRVO3G5cYesNI",
+   "data_id": "0x3bae17f9b3079a9b:0xd2b01ec6e5c6ed54",
+   "rating": 4.8,
+   "reviews": 491,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "36, Church St, opposite Sobha Mall, off Mahatma Gandhi Road",
+   "gps_coordinates": {
+    "latitude": 12.975409,
+    "longitude": 77.602776
+   }
+  },
+  {
+   "position": 8,
+   "title": "Smoke House Deli Lavelle Road",
+   "place_id": "ChIJJ3R_vXkWrjsRIGNMeGY0Ylc",
+   "data_id": "0x3bae1679bd7f7427:0x57623466784c6320",
+   "rating": 4.3,
+   "reviews": 5300,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "Shop 52, Ground Floor, 52/53, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.971606,
+    "longitude": 77.59842
+   }
+  },
+  {
+   "position": 9,
+   "title": "Sunnys Restaurant",
+   "place_id": "ChIJTWDVw3kWrjsRNHolmSx5oH0",
+   "data_id": "0x3bae1679c3d5604d:0x7da0792c99257a34",
+   "rating": 4.1,
+   "reviews": 2400,
+   "type": "Italian",
+   "address": "50, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.9718485,
+    "longitude": 77.598595
+   },
+   "comment": "Contemporary European & Italian outlet",
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Highgarten Pub",
+   "place_id": "ChIJc-ysbm8XrjsRByAhLTcXFQ8",
+   "data_id": "0x3bae176f6eacec73:0xf1517372d212007",
+   "rating": 4.5,
+   "reviews": 405,
+   "type": "Restaurant",
+   "address": "3rd floor, 53, Church St, above Starbucks",
+   "gps_coordinates": {
+    "latitude": 12.974516,
+    "longitude": 77.60742
+   }
+  },
+  {
+   "position": 11,
+   "title": "Cahoots Bangalore",
+   "place_id": "ChIJFYVV3yQXrjsRqi1mVonAZAc",
+   "data_id": "0x3bae1724df558515:0x764c08956662daa",
+   "rating": 4.7,
+   "reviews": 648,
+   "type": "Restaurant",
+   "address": "Ground Floor, No 48/1, Brigade Rd, near McDonald's",
+   "gps_coordinates": {
+    "latitude": 12.973239,
+    "longitude": 77.60748
+   }
+  },
+  {
+   "position": 12,
+   "title": "KLING BREWERY",
+   "place_id": "ChIJd3g0dCoXrjsR4fKZe_ND-cQ",
+   "data_id": "0x3bae172a74347877:0xc4f943f37b99f2e1",
+   "rating": 4.6,
+   "reviews": 1500,
+   "type": "Brewery",
+   "address": "27, Ground Floor, Sattva Auro, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974998,
+    "longitude": 77.60454
+   }
+  },
+  {
+   "position": 13,
+   "title": "Matsuri",
+   "place_id": "ChIJo3WXuZMXrjsRMjNOBmfbXq8",
+   "data_id": "0x3bae1793b99775a3:0xaf5edb67064e3332",
+   "rating": 4.5,
+   "reviews": 445,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Japanese",
+   "address": "10-6, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.975672,
+    "longitude": 77.59922
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Levista Gourmet Studio",
+   "place_id": "ChIJb5mgV00XrjsRZU9Gn79LH8w",
+   "data_id": "0x3bae174d57a0996f:0xcc1f4bbf9f464f65",
+   "rating": 4.6,
+   "reviews": 2000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Metro Station, Church Street, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.974659,
+    "longitude": 77.60662
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Blini Bistro",
+   "place_id": "ChIJY2geOR4XrjsRc-2Ezb3jriQ",
+   "data_id": "0x3bae171e391e6863:0x24aee3bdcd84ed73",
+   "rating": 4.6,
+   "reviews": 331,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "Ground Floor, City Centre, 28, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975132,
+    "longitude": 77.604065
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "The Konkan (Est. 2017)",
+   "place_id": "ChIJwfCbgXsWrjsReNaPJ-moZEg",
+   "data_id": "0x3bae167b819bf0c1:0x4864a8e9278fd678",
+   "rating": 4.4,
+   "reviews": 1400,
+   "type": "Seafood",
+   "address": "No. 48, 1st Floor Saint Marks Road, Church St, above KC Das",
+   "gps_coordinates": {
+    "latitude": 12.975856,
+    "longitude": 77.601814
+   },
+   "comment": "Casual spot for Mangalorean cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Muro",
+   "place_id": "ChIJG4hY5igXrjsRcU9IFbg9Www",
+   "data_id": "0x3bae1728e658881b:0xc5b3db815484f71",
+   "rating": 4.6,
+   "reviews": 3000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "5, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.974621,
+    "longitude": 77.60315
+   }
+  },
+  {
+   "position": 18,
+   "title": "Church Street SOCIAL",
+   "place_id": "ChIJa96pe3wWrjsR0GMgr64hzXw",
+   "data_id": "0x3bae167c7ba9de6b:0x7ccd21aeaf2063d0",
+   "rating": 4.2,
+   "reviews": 17000,
+   "type": "Bar",
+   "address": "Cobalt, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975645,
+    "longitude": 77.60268
+   },
+   "comment": "Hip global cafe, meeting place & bar",
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The Pizza Bakery - Church Street",
+   "place_id": "ChIJPSz8Ad8XrjsRNIKfO02g6mE",
+   "data_id": "0x3bae17df01fc2c3d:0x61eaa04d3b9f8234",
+   "rating": 4.4,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pizza",
+   "address": "86, Spencer Building, Coconut Grove, 16, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975201,
+    "longitude": 77.60461
+   }
+  },
+  {
+   "position": 20,
+   "title": "Talli Terrace Church Street",
+   "place_id": "ChIJzcYhRJkXrjsR-DtiiAVW6Lw",
+   "data_id": "0x3bae17994421c6cd:0xbce8560588623bf8",
+   "rating": 4,
+   "reviews": 651,
+   "type": "Grill",
+   "address": "29, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975066,
+    "longitude": 77.60396
+   }
+  }
+ ]
+}

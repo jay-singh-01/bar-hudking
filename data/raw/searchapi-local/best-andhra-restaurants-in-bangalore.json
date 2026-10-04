@@ -1,0 +1,449 @@
+{
+ "q": "best andhra restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:33:45.312Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Andhra Ruchulu, Kumarapark",
+   "place_id": "ChIJ8-NnpRQXrjsR-zxDN2aEskU",
+   "data_id": "0x3bae1714a567e3f3:0x45b2846637433cfb",
+   "rating": 4.7,
+   "reviews": 4000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Andhra",
+   "address": "101, Railway Parallel Rd",
+   "gps_coordinates": {
+    "latitude": 12.996235,
+    "longitude": 77.58388
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Nagarjuna Restaurant - Residency Road",
+   "place_id": "ChIJ-2WNtoAWrjsRtXDAJnU_8AI",
+   "data_id": "0x3bae1680b68d65fb:0x2f03f7526c070b5",
+   "rating": 4.2,
+   "reviews": 22000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "44/1, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.973203,
+    "longitude": 77.60913
+   },
+   "comment": "Andhra cuisine in a contemporary space",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Andhra Vilas",
+   "place_id": "ChIJP-xMj3oVrjsRBGWYBhgd1lw",
+   "data_id": "0x3bae157a8f4cec3f:0x5cd61d1806986504",
+   "rating": 4.4,
+   "reviews": 4000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, Andhra vilas 245, 245, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914001,
+    "longitude": 77.64457
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Sitara Dakshin Andhra Style Restaurant",
+   "place_id": "ChIJK5B1vrIXrjsRmDGgmdeUjLA",
+   "data_id": "0x3bae17b2be75902b:0xb08c94d799a03198",
+   "rating": 4.6,
+   "reviews": 1200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Ground Floor, Opposite: Empire Hotel & Bsnl office, 43, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.969936,
+    "longitude": 77.64772
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Andhra Ruchulu, JP Nagar",
+   "place_id": "ChIJBz077gsVrjsRwBxrmpvirEc",
+   "data_id": "0x3bae150bee3b3d07:0x47ace29b9a6b1cc0",
+   "rating": 4.3,
+   "reviews": 4700,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Andhra",
+   "address": "Pai Comforts Hotel, 1319, 100 Feet Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.916734,
+    "longitude": 77.59012
+   },
+   "comment": "Casual eatery for classic Asian fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Narmada Chain Of Restaurant [Koramangala]",
+   "place_id": "ChIJVxlbHwsVrjsRxPPTIzrmEtE",
+   "data_id": "0x3bae150b1f5b1957:0xd112e63a23d3f3c4",
+   "rating": 4.5,
+   "reviews": 3300,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "60 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.9338255,
+    "longitude": 77.61774
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Andhra Vantakam",
+   "place_id": "ChIJqZH-BmAXrjsRAxCyvTqY9c0",
+   "data_id": "0x3bae176006fe91a9:0xcdf5983abdb21003",
+   "rating": 4.5,
+   "reviews": 972,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "4th floor, Andhra Vantakam, Chinmaya Mission Hospital Rd, near Metro Station Indira Nagar",
+   "gps_coordinates": {
+    "latitude": 12.978099,
+    "longitude": 77.637726
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "The Andhra Grand",
+   "place_id": "ChIJ53ro6BgTrjsRCVfxjBVfkzo",
+   "data_id": "0x3bae1318e8e87ae7:0x3a935f158cf15709",
+   "rating": 4.6,
+   "reviews": 606,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Andhra",
+   "address": "68, Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.955389,
+    "longitude": 77.71583
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Anmay Restaurant",
+   "place_id": "ChIJQ0LU_D8VrjsRj1Jc1NICM2E",
+   "data_id": "0x3bae153ffcd44243:0x613302d2d45c528f",
+   "rating": 4.7,
+   "reviews": 5500,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Andhra",
+   "address": "1st Floor, 2631, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915565,
+    "longitude": 77.651535
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "The Andhra Kitchen",
+   "place_id": "ChIJHQwNEAA9rjsRl7yL_ycTqhI",
+   "data_id": "0x3bae3d00100d0c1d:0x12aa1327ff8bbc97",
+   "rating": 4.6,
+   "reviews": 280,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Indian",
+   "address": "2nd, 3rd,4th Floor, Jodh Tower, No 03, Dr Rajkumar Rd, opp. Sheraton Hotel",
+   "gps_coordinates": {
+    "latitude": 13.012227,
+    "longitude": 77.55414
+   }
+  },
+  {
+   "position": 11,
+   "title": "Narmada Restaurant Bannerghatta",
+   "place_id": "ChIJ96qrVtoVrjsRhND9ZkxHEVw",
+   "data_id": "0x3bae15da56abaaf7:0x5c11474c66fdd084",
+   "rating": 4.4,
+   "reviews": 1100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Andhra",
+   "address": "No. 193/4A, 193/4B, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.911489,
+    "longitude": 77.60014
+   }
+  },
+  {
+   "position": 12,
+   "title": "Bheema's Restaurant",
+   "place_id": "ChIJlVo5T3wWrjsRUyNXkqtWdUc",
+   "data_id": "0x3bae167c4f395a95:0x477556ab92572353",
+   "rating": 4,
+   "reviews": 7100,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "31, Asha Building, Ground Floor, Church Street",
+   "gps_coordinates": {
+    "latitude": 12.9751835,
+    "longitude": 77.6036
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Nandhana Palace - Andhra Style Restaurant - Mahadevapura",
+   "place_id": "ChIJRX55XtQRrjsRu52t_NlCw60",
+   "data_id": "0x3bae11d45e797e45:0xadc342d9fcad9dbb",
+   "rating": 4.5,
+   "reviews": 5400,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Andhra",
+   "address": "No 1,2nd Floor, Shreyas Complex, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.994056,
+    "longitude": 77.70041
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Andhra Table - Biryani & Meals",
+   "place_id": "ChIJzVrNQDQXrjsRsArzc9ymJWA",
+   "data_id": "0x3bae173440cd5acd:0x6025a6dc73f30ab0",
+   "rating": 4.8,
+   "reviews": 105,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Family-friendly",
+   "address": "24, 6th Cross Rd, above Extra Chutney Hotel",
+   "gps_coordinates": {
+    "latitude": 12.979003,
+    "longitude": 77.5775
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Narmada Restaurant | Kammanahalli",
+   "place_id": "ChIJWbbAx9IXrjsR2IQKNmDw2DQ",
+   "data_id": "0x3bae17d2c7c0b659:0x34d8f060360a84d8",
+   "rating": 4.4,
+   "reviews": 2100,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Andhra",
+   "address": "Shop no. 1&2, Ground floor, Kammanahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.018926,
+    "longitude": 77.63688
+   }
+  },
+  {
+   "position": 16,
+   "title": "BHEEMARJUNA ANDHRA SPICE",
+   "place_id": "ChIJuayyeMIXrjsRI4YlqrawLh0",
+   "data_id": "0x3bae17c278b2acb9:0x1d2eb0b6aa258623",
+   "rating": 4.7,
+   "reviews": 320,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "1st Floor, Annapurna Complex, No 20, New BEL Rd",
+   "gps_coordinates": {
+    "latitude": 13.033108,
+    "longitude": 77.56911
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Nandhana Palace - Andhra Style Restaurant - Koramangala",
+   "place_id": "ChIJq6o2UGAUrjsRhsOrNB1QNgg",
+   "data_id": "0x3bae14605036aaab:0x836501d34abc386",
+   "rating": 4.4,
+   "reviews": 11000,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Andhra",
+   "address": "7, Mahakavi Vemana Rd",
+   "gps_coordinates": {
+    "latitude": 12.931744,
+    "longitude": 77.62288
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Narmada Restaurant Marathahalli",
+   "place_id": "ChIJC1Y1C6sTrjsRGn_tv6XkHuo",
+   "data_id": "0x3bae13ab0b35560b:0xea1ee4a5bfed7f1a",
+   "rating": 4.5,
+   "reviews": 2000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Andhra",
+   "address": "88, Outer Ring Rd, opp. to MORE MEGA",
+   "gps_coordinates": {
+    "latitude": 12.948577,
+    "longitude": 77.69963
+   }
+  },
+  {
+   "position": 19,
+   "title": "Hotel Navayuga",
+   "place_id": "ChIJE8R9PncWrjsRfeO-Kw5lqHU",
+   "data_id": "0x3bae16773e7dc413:0x75a8650e2bbee37d",
+   "rating": 4.2,
+   "reviews": 7200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Andhra",
+   "address": "Anupama Theater Complex, No:1, Subedar Chatram Rd",
+   "gps_coordinates": {
+    "latitude": 12.976185,
+    "longitude": 77.57555
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Nandhini Deluxe - Andhra Restaurant - St. Marks Road",
+   "place_id": "ChIJm0cm6ngWrjsRQp1oIU4cVlg",
+   "data_id": "0x3bae1678ea26479b:0x58561c4e21689d42",
+   "rating": 4.4,
+   "reviews": 3400,
+   "type": "Andhra",
+   "address": "01, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.971754,
+    "longitude": 77.600975
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  }
+ ]
+}

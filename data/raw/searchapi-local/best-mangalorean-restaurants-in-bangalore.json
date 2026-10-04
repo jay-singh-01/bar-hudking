@@ -1,0 +1,455 @@
+{
+ "q": "best mangalorean restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:39:07.036Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Mangalore Pearl",
+   "place_id": "ChIJ1bMIu_MWrjsRXm_f4HOBxug",
+   "data_id": "0x3bae16f3bb08b3d5:0xe8c68173e0df6f5e",
+   "rating": 4.4,
+   "reviews": 5700,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Seafood",
+   "address": "Assaye Road Skywalk Building, 2nd Floor, Sindhi Colony, Frazer Town, next to YMIA Club",
+   "gps_coordinates": {
+    "latitude": 12.990831,
+    "longitude": 77.619286
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Mangalore in Bangalore",
+   "place_id": "ChIJj6mVKOs_rjsRZHDYsQAhv34",
+   "data_id": "0x3bae3feb2895a98f:0x7ebf2100b1d87064",
+   "rating": 4.5,
+   "reviews": 1400,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Seafood",
+   "address": "233 80ft road Banashankari 6th Stage , 11th block, Srinivaspura",
+   "gps_coordinates": {
+    "latitude": 12.902671,
+    "longitude": 77.51071
+   },
+   "comment": "Bustling food truck spotlighting seafood",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 pm Tue"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Maravanthe Coastal Cuisine",
+   "place_id": "ChIJ5dErjqQWrjsRG-_GKhhGD0I",
+   "data_id": "0x3bae16a48e2bd1e5:0x420f46182ac6ef1b",
+   "rating": 4.3,
+   "reviews": 4700,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Seafood",
+   "address": "322/1, Chinmaya Mission Hospital Rd, Near Indiranagar Metro Station",
+   "gps_coordinates": {
+    "latitude": 12.978394,
+    "longitude": 77.63725
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Mangalore Sea Palate",
+   "place_id": "ChIJh9IVRJgVrjsR5vH2w57E73k",
+   "data_id": "0x3bae15984415d287:0x79efc49ec3f6f1e6",
+   "rating": 4.2,
+   "reviews": 3800,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Seafood",
+   "address": "197/F, 27th A Cross Road Jayanagar East",
+   "gps_coordinates": {
+    "latitude": 12.930969,
+    "longitude": 77.583046
+   },
+   "comment": "Mangalorean cuisine in a polished setup",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Tue"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Mangalore Kitchen",
+   "place_id": "ChIJE6TrTpYVrjsR3AAji8_xVfs",
+   "data_id": "0x3bae15964eeba413:0xfb55f1cf8b2300dc",
+   "rating": 4.4,
+   "reviews": 600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "513, 1st floor, New Thippasandra, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9683,
+    "longitude": 77.65136
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Anupam's Coast to Coast | Authentic Mangalorean Cuisine Restaurant",
+   "place_id": "ChIJF5Ram0QUrjsRde9aU7tXMO8",
+   "data_id": "0x3bae14449b5a9417:0xef3057bb535aef75",
+   "rating": 4.1,
+   "reviews": 3300,
+   "type": "Seafood",
+   "address": "Anupams Coast to Coast, 113, 6th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.936922,
+    "longitude": 77.624626
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Mangalore Kitchen",
+   "place_id": "ChIJI2pfdaw_rjsRjgjIn4qlmLs",
+   "data_id": "0x3bae3fac755f6a23:0xbb98a58a9fc8088e",
+   "rating": 4.5,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "No 222, 100 Feet Rd, next to Domino's Pizza",
+   "gps_coordinates": {
+    "latitude": 12.874693,
+    "longitude": 77.538994
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "New Mangalore Kitchen",
+   "place_id": "ChIJdWkrHPsVrjsRkmcU0WbEE4s",
+   "data_id": "0x3bae15fb1c2b6975:0x8b13c466d1146792",
+   "rating": 4.8,
+   "reviews": 69,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Seafood",
+   "address": "shop number 29, Shariff Mansion, Bannerghatta Rd, opp. Gopalan Mall",
+   "gps_coordinates": {
+    "latitude": 12.914886,
+    "longitude": 77.6002
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Mangalore Oota",
+   "place_id": "ChIJM-i9JQAVrjsRa5M_QKPA2v8",
+   "data_id": "0x3bae150025bde833:0xffdac0a3403f936b",
+   "rating": 4.5,
+   "reviews": 234,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "South Indian",
+   "address": "6th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.937334,
+    "longitude": 77.62462
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Anupam’s Coast To Coast",
+   "place_id": "ChIJ5Vq59FwXrjsRrloyQHiKDsM",
+   "data_id": "0x3bae175cf4b95ae5:0xc30e8a7840325aae",
+   "rating": 4.3,
+   "reviews": 2400,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Seafood",
+   "address": "#56, Above Star bucks, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974534,
+    "longitude": 77.60735
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "ಹೋಟೆಲ್ ಕರಾವಳಿ ಮಂಗಳೂರು ಸ್ಟೈಲ್ (Karavali Mangalore style Hotel restaurant)",
+   "place_id": "ChIJ8zvIpdwXrjsRjf-qLVHul1A",
+   "data_id": "0x3bae17dca5c83bf3:0x5097ee512daaff8d",
+   "rating": 4.4,
+   "reviews": 259,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Seafood",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.977665,
+    "longitude": 77.574905
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Kudla Restaurant",
+   "place_id": "ChIJ2xy5bNgVrjsRSQAjA0Dfakg",
+   "data_id": "0x3bae15d86cb91cdb:0x486adf4003230049",
+   "rating": 4.3,
+   "reviews": 2300,
+   "type": "Seafood",
+   "address": "Ramanashree Richmond, 16, Raja Ram Mohan Roy Rd",
+   "gps_coordinates": {
+    "latitude": 12.9661875,
+    "longitude": 77.59485
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:15 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Konkan (Est. 2017)",
+   "place_id": "ChIJwfCbgXsWrjsReNaPJ-moZEg",
+   "data_id": "0x3bae167b819bf0c1:0x4864a8e9278fd678",
+   "rating": 4.4,
+   "reviews": 1400,
+   "type": "Seafood",
+   "address": "No. 48, 1st Floor Saint Marks Road, Church St, above KC Das",
+   "gps_coordinates": {
+    "latitude": 12.975856,
+    "longitude": 77.601814
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Boat House Sea Food Kitchen",
+   "place_id": "ChIJaQ1UT7AXrjsR9cGzZdtp59w",
+   "data_id": "0x3bae17b04f540d69:0xdce769db65b3c1f5",
+   "rating": 4.6,
+   "reviews": 489,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Seafood",
+   "address": "3rd Cross, 6th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.977489,
+    "longitude": 77.576836
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "COASTAL MACHALI CO.",
+   "place_id": "ChIJu5rHPpcVrjsRjd5INIBJ3NA",
+   "data_id": "0x3bae15973ec79abb:0xd0dc49803448de8d",
+   "rating": 4.2,
+   "reviews": 1400,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Seafood",
+   "address": "136, Ground Floor, Cears Plaza Residency Road, Richmond Rd, beside Chancery Pavilion",
+   "gps_coordinates": {
+    "latitude": 12.965647,
+    "longitude": 77.59825
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Namma Kudla Veg Restaurant - Mangalore & Konkani Restaurant",
+   "place_id": "ChIJFwcuLKMXrjsRQ8R5hQ7-EZI",
+   "data_id": "0x3bae17a32c2e0717:0x9211fe0e8579c443",
+   "rating": 4.4,
+   "reviews": 283,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "9, 3rd Temple Rd, near 8th Cross Road",
+   "gps_coordinates": {
+    "latitude": 12.999994,
+    "longitude": 77.57241
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Tue"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Coast at JP Nagar",
+   "place_id": "ChIJ8Y9b2wIVrjsRcGITX3kuHxc",
+   "data_id": "0x3bae1502db5b8ff1:0x171f2e795f136270",
+   "rating": 4.5,
+   "reviews": 2500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Seafood",
+   "address": "35/4",
+   "gps_coordinates": {
+    "latitude": 12.893211,
+    "longitude": 77.58622
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Namma Kudla Restaurant",
+   "place_id": "ChIJAZlOHw0VrjsRvrwmngQ1cpM",
+   "data_id": "0x3bae150d1f4e9901:0x937235049e26bcbe",
+   "rating": 4.2,
+   "reviews": 2800,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Seafood",
+   "address": "18, 5th A Cross Rd, near R V Dental College",
+   "gps_coordinates": {
+    "latitude": 12.912688,
+    "longitude": 77.58619
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Mangalore Lunch Home",
+   "place_id": "ChIJa74DQqE9rjsRazEjcdJe4ZQ",
+   "data_id": "0x3bae3da14203be6b:0x94e15ed27123316b",
+   "rating": 4.2,
+   "reviews": 1600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Karnataka restaurant",
+   "address": "#675/A, 11th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.998245,
+    "longitude": 77.54645
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "The Mangalorean Restaurant",
+   "place_id": "ChIJTVUAoSAXrjsRUq6EGChej3o",
+   "data_id": "0x3bae1720a100554d:0x7a8f5e281884ae52",
+   "rating": 4,
+   "reviews": 848,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Seafood",
+   "address": "32,inside Sena Vihar office Complex Kammanahalli Main Road, and, opp. sukh Sagar",
+   "gps_coordinates": {
+    "latitude": 13.020829,
+    "longitude": 77.63821
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

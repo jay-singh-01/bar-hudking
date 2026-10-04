@@ -1,0 +1,458 @@
+{
+ "q": "best restaurants in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:31:11.261Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Suku - HSR Layout",
+   "place_id": "ChIJWbFN05YVrjsRC3xqZhjpjfo",
+   "data_id": "0x3bae1596d34db159:0xfa8de918666a7c0b",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Japanese",
+   "address": "3nd Floor, Building, 1329, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.903913,
+    "longitude": 77.648994
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "AL-DAAZ HSR LAYOUT",
+   "place_id": "ChIJA-bOvIEUrjsRjroC8F7zvpk",
+   "data_id": "0x3bae1481bccee603:0x99bef35ef002ba8e",
+   "rating": 4.1,
+   "reviews": 27000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "64 & 65, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.920787,
+    "longitude": 77.65144
+   },
+   "comment": "Mixed cuisine in simple surrounds",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "The Spicy Plate - HSR Layout | Authentic North Indian Food",
+   "place_id": "ChIJMX1sg3UVrjsRg4gboDJhY1g",
+   "data_id": "0x3bae1575836c7d31:0x58636132a01b8883",
+   "rating": 4.5,
+   "reviews": 983,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "North Indian",
+   "address": "4th Floor, 95, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912467,
+    "longitude": 77.63929
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Rasoiya Street | Pure Veg Restaurant In HSR Layout",
+   "place_id": "ChIJRR5KsJoUrjsRT8iB6r8A8N0",
+   "data_id": "0x3bae149ab04a1e45:0xddf000bfea81c84f",
+   "rating": 4.1,
+   "reviews": 8100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "3rd floor, 441 anantha, 17th Cross Rd, above madhuloka liquor boutique",
+   "gps_coordinates": {
+    "latitude": 12.912461,
+    "longitude": 77.64297
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Kebarbiq",
+   "place_id": "ChIJSc8hzMYVrjsRZVwXTUUcZwE",
+   "data_id": "0x3bae15c6cc21cf49:0x1671c454d175c65",
+   "rating": 4.3,
+   "reviews": 11000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Barbecue",
+   "address": "FFK Towers, 445, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912415,
+    "longitude": 77.64247
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Sadda Punjabi Dhaba - Veg (HSR Layout)",
+   "place_id": "ChIJkRN5LeEVrjsR8PuiL60qy3g",
+   "data_id": "0x3bae15e12d791391:0x78cb2aad2fa2fbf0",
+   "rating": 4.5,
+   "reviews": 3600,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Vegetarian",
+   "address": "4th Floor, Sadda Punjabi Dhaba, 2631",
+   "gps_coordinates": {
+    "latitude": 12.915343,
+    "longitude": 77.651634
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "CoalSpark Restaurant",
+   "place_id": "ChIJp_lBrbAVrjsR4QlnHFexCHU",
+   "data_id": "0x3bae15b0ad41f9a7:0x7508b1571c6709e1",
+   "rating": 4.6,
+   "reviews": 7800,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Link Rd",
+   "gps_coordinates": {
+    "latitude": 12.9037075,
+    "longitude": 77.64996
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:40 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Broadway - The Gourmet Theatre",
+   "place_id": "ChIJOzcbvJ0UrjsR-TvWCd5kBg0",
+   "data_id": "0x3bae149dbc1b373b:0xd0664de09d63bf9",
+   "rating": 4.2,
+   "reviews": 2400,
+   "type": "Japanese",
+   "address": "4th Floor, 2802, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.923777,
+    "longitude": 77.651566
+   },
+   "comment": "Airy eatery serving global cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Cosmo Dhaba ( Pure Vegeterian North Indian )",
+   "place_id": "ChIJ51L7DIoVrjsRE6twU331INw",
+   "data_id": "0x3bae158a0cfb52e7:0xdc20f57d5370ab13",
+   "rating": 4.2,
+   "reviews": 1500,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "North Indian",
+   "address": "2nd floor, 2633, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915792,
+    "longitude": 77.651596
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Si Nonna's - The Original Sourdough Pizza | HSR Layout | Bengaluru",
+   "place_id": "ChIJsSTrjqwVrjsROOOv0ly5mn8",
+   "data_id": "0x3bae15ac8eeb24b1:0x7f9ab95cd2afe338",
+   "rating": 4.5,
+   "reviews": 1200,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Pizza",
+   "address": "Ground Floor, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915395,
+    "longitude": 77.63243
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Aligarh House Restaurant - HSR",
+   "place_id": "ChIJn1So13AVrjsRD_XRfph-ED0",
+   "data_id": "0x3bae1570d7a8549f:0x3d107e987ed1f50f",
+   "rating": 4.2,
+   "reviews": 1700,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "383, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908396,
+    "longitude": 77.63514
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Iris Cafe HSR",
+   "place_id": "ChIJiYt8EzQVrjsRx0MMG_iklCo",
+   "data_id": "0x3bae1534137c8b89:0x2a94a4f81b0c43c7",
+   "rating": 4.2,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "17/J, 18th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.911791,
+    "longitude": 77.642815
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Mughal Treat - HSR Layout",
+   "place_id": "ChIJKROxXIIUrjsRjRi-nsXaj9M",
+   "data_id": "0x3bae14825cb11329:0xd38fdac59ebe188d",
+   "rating": 4.1,
+   "reviews": 12000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Biryani",
+   "address": "27th, Main, Link Rd, opposite KEB Power Station",
+   "gps_coordinates": {
+    "latitude": 12.9036665,
+    "longitude": 77.64953
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Once Upon A Flame",
+   "place_id": "ChIJ3e66wpEUrjsRFqtn3deRr-M",
+   "data_id": "0x3bae1491c2baeedd:0xe3af91d7dd67ab16",
+   "rating": 4.3,
+   "reviews": 3700,
+   "price": "₹600–1,200",
+   "extracted_price": {
+    "min": 600,
+    "max": 1200
+   },
+   "type": "Steak",
+   "address": "No.36, 1st Floor, 80 Feet Road, 14th Main Rd, beside Mc Donald's",
+   "gps_coordinates": {
+    "latitude": 12.911893,
+    "longitude": 77.63794
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "House of Commons",
+   "place_id": "ChIJxalH0JEUrjsR9ZZLrQDrQdg",
+   "data_id": "0x3bae1491d047a9c5:0xd841eb00ad4b96f5",
+   "rating": 4.2,
+   "reviews": 20000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Grill",
+   "address": "Ground 1085, 14th Main Rd, near McDonalds",
+   "gps_coordinates": {
+    "latitude": 12.911869,
+    "longitude": 77.63884
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "HSR Coastal Curry",
+   "place_id": "ChIJs9eXAwAVrjsRxc8J6XjdWbg",
+   "data_id": "0x3bae15000397d7b3:0xb859dd78e909cfc5",
+   "rating": 4.4,
+   "reviews": 206,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Fine Dining",
+   "address": "172, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.911055,
+    "longitude": 77.63531
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Xin Den",
+   "place_id": "ChIJ_VVRNmEVrjsRIYhA3RN_wqM",
+   "data_id": "0x3bae1561365155fd:0xa3c27f13dd408821",
+   "rating": 4.7,
+   "reviews": 407,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Pan Asian",
+   "address": "10, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.917439,
+    "longitude": 77.63803
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Aromas of Biryani, HSR Layout",
+   "place_id": "ChIJc7ha9gEVrjsRF9tUWFzu8Jk",
+   "data_id": "0x3bae1501f65ab873:0x99f0ee5c5854db17",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Biryani",
+   "address": "219, Ground and First Floor, 9th Main, 15th A Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.9132805,
+    "longitude": 77.63519
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:15 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Parika Coastal Village Bar & Kitchen",
+   "place_id": "ChIJG8SKzJEUrjsRvRM0Be-emHE",
+   "data_id": "0x3bae1491cc8ac41b:0x71989eef053413bd",
+   "rating": 4.1,
+   "reviews": 3000,
+   "type": "Seafood",
+   "address": "1086/A, Twin Tulips, 18th Cross, 14th Main, Road Opp. To McDonalds, 3rd Sector, near BDA Complex",
+   "gps_coordinates": {
+    "latitude": 12.911977,
+    "longitude": 77.63914
+   },
+   "comment": "Relaxed bistro for upmarket global fare",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Gochick, HSR Layout",
+   "place_id": "ChIJx57KuDwVrjsRog6ENmI07Gc",
+   "data_id": "0x3bae153cb8ca9ec7:0x67ec346236840ea2",
+   "rating": 4.4,
+   "reviews": 475,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "American",
+   "address": "495, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.911682,
+    "longitude": 77.64952
+   }
+  }
+ ]
+}

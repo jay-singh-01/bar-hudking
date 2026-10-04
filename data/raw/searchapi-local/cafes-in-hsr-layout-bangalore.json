@@ -1,0 +1,432 @@
+{
+ "q": "cafes in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:43:57.835Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Dome Cafe - HSR Layout",
+   "place_id": "ChIJ2a3bnVcVrjsRaESTIVZS5Kg",
+   "data_id": "0x3bae15579ddbadd9:0xa8e4525621934468",
+   "rating": 4.1,
+   "reviews": 1800,
+   "type": "Eclectic",
+   "address": "5th floor, #16, 9th main, 17th Cross Rd, above Lenskart",
+   "gps_coordinates": {
+    "latitude": 12.912226,
+    "longitude": 77.63595
+   }
+  },
+  {
+   "position": 2,
+   "title": "LE KENE",
+   "place_id": "ChIJAZFNHiYVrjsRWJmQx4fB7bY",
+   "data_id": "0x3bae15261e4d9101:0xb6edc187c7909958",
+   "rating": 4.4,
+   "reviews": 833,
+   "type": "Cafe",
+   "address": "174/A, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915734,
+    "longitude": 77.64454
+   }
+  },
+  {
+   "position": 3,
+   "title": "Casa Fresco, HSR: All-Day Dining & Café",
+   "place_id": "ChIJO9TiHSoVrjsRpCHSXSDGHbQ",
+   "data_id": "0x3bae152a1de2d43b:0xb41dc6205dd221a4",
+   "rating": 4.2,
+   "reviews": 3400,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "73, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9207535,
+    "longitude": 77.65051
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Faith Cafe",
+   "place_id": "ChIJ1--lgBMVrjsRnhBpMx3p2k8",
+   "data_id": "0x3bae151380a5efd7:0x4fdae91d3369109e",
+   "rating": 4.5,
+   "reviews": 786,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912359,
+    "longitude": 77.642
+   }
+  },
+  {
+   "position": 5,
+   "title": "Silaa The Garden Cafe HSR LAYOUT",
+   "place_id": "ChIJM1oaOgsVrjsRHSns3Xr8U24",
+   "data_id": "0x3bae150b3a1a5a33:0x6e53fc7addec291d",
+   "rating": 4.8,
+   "reviews": 2300,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "3rd Floor, Lotus Building, 95, 17th Cross Rd, above Haldirams",
+   "gps_coordinates": {
+    "latitude": 12.9124365,
+    "longitude": 77.63933
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Marseli - Cafe & Patisserie",
+   "place_id": "ChIJv2bQbJgVrjsRJESE9pxBv0A",
+   "data_id": "0x3bae15986cd066bf:0x40bf419cf6844424",
+   "rating": 4.5,
+   "reviews": 2300,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916336,
+    "longitude": 77.64912
+   }
+  },
+  {
+   "position": 7,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJjZuc3oYVrjsRi2h9U-hoIfM",
+   "data_id": "0x3bae1586de9c9b8d:0xf32168e8537d688b",
+   "rating": 4.4,
+   "reviews": 1900,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.9117775,
+    "longitude": 77.650215
+   }
+  },
+  {
+   "position": 8,
+   "title": "Cafe Hustle",
+   "place_id": "ChIJf9_M_n4VrjsRCpCUExTD7OU",
+   "data_id": "0x3bae157efeccdf7f:0xe5ecc3141394900a",
+   "rating": 4.5,
+   "reviews": 1700,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "188/A, 22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.909124,
+    "longitude": 77.6426
+   },
+   "comment": "Relaxed haunt for casual dining & drinks",
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Beanlore - HSR Layout",
+   "place_id": "ChIJM9VC-P8VrjsRcJuz256sv7A",
+   "data_id": "0x3bae15fff842d533:0xb0bfac9edbb39b70",
+   "rating": 4.1,
+   "reviews": 1200,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Coffee shop",
+   "address": "450, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.9123125,
+    "longitude": 77.6416
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Iris Cafe HSR",
+   "place_id": "ChIJiYt8EzQVrjsRx0MMG_iklCo",
+   "data_id": "0x3bae1534137c8b89:0x2a94a4f81b0c43c7",
+   "rating": 4.2,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "17/J, 18th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.911791,
+    "longitude": 77.642815
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Nivys Resto Cafe & Garden Centre",
+   "place_id": "ChIJ_R2Vf7wTrjsRaN4pbGMdhaM",
+   "data_id": "0x3bae13bc7f951dfd:0xa3851d636c29de68",
+   "rating": 4.6,
+   "reviews": 4000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "SY No. 98/1, 98/4, Haralur Main Rd, opposite to PNR Felicity / Reliance / Cinephile Birla Circle",
+   "gps_coordinates": {
+    "latitude": 12.89592,
+    "longitude": 77.65827
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Amintiri - Cafe | Patisserie | Gifting",
+   "place_id": "ChIJeRdfdQAVrjsRk11Qr0Uhdww",
+   "data_id": "0x3bae1500755f1779:0xc772145af505d93",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "85/1",
+   "gps_coordinates": {
+    "latitude": 12.9118595,
+    "longitude": 77.6448
+   }
+  },
+  {
+   "position": 13,
+   "title": "Teatings",
+   "place_id": "ChIJicTvMnYVrjsRAwNp4iSA3DQ",
+   "data_id": "0x3bae157632efc489:0x34dc8024e2690303",
+   "rating": 4.5,
+   "reviews": 1400,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 152, 9th Main Rd, opp. to HSR High Street",
+   "gps_coordinates": {
+    "latitude": 12.912918,
+    "longitude": 77.635414
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "BANOFFEE",
+   "place_id": "ChIJg1_ln8QVrjsRaPA1olqWLm8",
+   "data_id": "0x3bae15c49fe55f83:0x6f2e965aa235f068",
+   "rating": 4.1,
+   "reviews": 2000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "2",
+   "gps_coordinates": {
+    "latitude": 12.914805,
+    "longitude": 77.63834
+   },
+   "comment": "Bright stop for coffee & global eats",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Olive Street Food Cafe - HSR LAYOUT",
+   "place_id": "ChIJQ3bQq8UVrjsRaWFXJ7hwcv0",
+   "data_id": "0x3bae15c5abd07643:0xfd7270b827576169",
+   "rating": 4.5,
+   "reviews": 2300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "2727/1, 16th Cross, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91263,
+    "longitude": 77.653046
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "The Amrith Cafe",
+   "place_id": "ChIJdYPiLMIVrjsRz00CCBWZGHg",
+   "data_id": "0x3bae15c22ce28375:0x7818991508024dcf",
+   "rating": 4.6,
+   "reviews": 1100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Uma Arcade, 169, 9th Main Rd, next to Hotel Empire",
+   "gps_coordinates": {
+    "latitude": 12.915052,
+    "longitude": 77.6355
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Tribes Coffee",
+   "place_id": "ChIJ4zvpwekVrjsRuVl1lhsqAUk",
+   "data_id": "0x3bae15e9c1e93be3:0x49012a1b967559b9",
+   "rating": 4.8,
+   "reviews": 1100,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "22nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.909102,
+    "longitude": 77.64353
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Blue Tokai Coffee Roasters | HSR Layout",
+   "place_id": "ChIJlWMXff0VrjsRjBmmWgHsTMA",
+   "data_id": "0x3bae15fd7d176395:0xc04cec015aa6198c",
+   "rating": 4.2,
+   "reviews": 1000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, NO.-780, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912799,
+    "longitude": 77.64481
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJX4W559QVrjsRrodbeit77tA",
+   "data_id": "0x3bae15d4e7b9855f:0xd0ee7b2b7a5b87ae",
+   "rating": 4.3,
+   "reviews": 4000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "249, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.909947,
+    "longitude": 77.63785
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Shelby The Barista",
+   "place_id": "ChIJqWXfVgAVrjsRrM5duYrhldo",
+   "data_id": "0x3bae150056df65a9:0xda95e18ab95dceac",
+   "rating": 4.3,
+   "reviews": 386,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "358, 25th B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908742,
+    "longitude": 77.650986
+   }
+  }
+ ]
+}

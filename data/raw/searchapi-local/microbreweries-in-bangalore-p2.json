@@ -1,0 +1,382 @@
+{
+ "q": "microbreweries in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:57.768Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Old Mill Brewing Co.",
+   "place_id": "ChIJAbQKMaQTrjsRwS7phCvFEIo",
+   "data_id": "0x3bae13a4310ab401:0x8a10c52b84e92ec1",
+   "rating": 4.5,
+   "reviews": 3200,
+   "type": "Brewery",
+   "address": "Gunjur Rd",
+   "gps_coordinates": {
+    "latitude": 12.9245825,
+    "longitude": 77.736885
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "BLR Brewing Co - Kanakapura Road",
+   "place_id": "ChIJLRPU0XdBrjsRPBcMTRN2ViI",
+   "data_id": "0x3bae4177d1d4132d:0x225676134d0c173c",
+   "rating": 4.6,
+   "reviews": 12000,
+   "type": "Brewery",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.868093,
+    "longitude": 77.5433
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "BLR Brewing Co - HSR Layout",
+   "place_id": "ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+   "data_id": "0x3bae15804ad3fe67:0x722e32f9dba764b1",
+   "rating": 4.4,
+   "reviews": 3700,
+   "type": "Brewery",
+   "address": "1st Floor, 450, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912324,
+    "longitude": 77.6416
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Biergarten Brewery & Kitchen (Manyata)",
+   "place_id": "ChIJVTKP8W8XrjsRnbA6ElWJqaQ",
+   "data_id": "0x3bae176ff18f3255:0xa4a98955123ab09d",
+   "rating": 4.7,
+   "reviews": 1600,
+   "type": "Brewery",
+   "address": "BLOCK-U, MANYATA TECH PARK-1",
+   "gps_coordinates": {
+    "latitude": 13.042249,
+    "longitude": 77.619865
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "ABV - Artisanal Bier Village",
+   "place_id": "ChIJ5_oQVQARrjsRDL2vUqYjzwI",
+   "data_id": "0x3bae11005510fae7:0x2cf23a652afbd0c",
+   "rating": 4.6,
+   "reviews": 5900,
+   "type": "Brewery",
+   "address": "ABV, Previously known as The Pallet Brewhouse & Kitchen, Hoodi, Whitefield Main Road, Thigalarapalya",
+   "gps_coordinates": {
+    "latitude": 12.991833,
+    "longitude": 77.71991
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "BLR Brewing Co - Marathahalli",
+   "place_id": "ChIJAbF6jicTrjsRZnQ5opIDQTk",
+   "data_id": "0x3bae13278e7ab101:0x39410392a2397466",
+   "rating": 4.6,
+   "reviews": 564,
+   "type": "Brewery",
+   "address": "Gravity at, Prestige Tech Park",
+   "gps_coordinates": {
+    "latitude": 12.944435,
+    "longitude": 77.69495
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Peepai Brewery & Kitchen",
+   "place_id": "ChIJ8biIVHEXrjsRgN5HRGvabx4",
+   "data_id": "0x3bae17715488b8f1:0x1e6fda6b4447de80",
+   "rating": 4.5,
+   "reviews": 5500,
+   "type": "Brewpub",
+   "address": "102/1 & 102/2, Ground Floor, GM Arcade Service Road - Bellary Road, Hebbal, North",
+   "gps_coordinates": {
+    "latitude": 13.055678,
+    "longitude": 77.59313
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "La Casa Brewery + Kitchen",
+   "place_id": "ChIJFWKvqmwTrjsRgu5YOEqOaRg",
+   "data_id": "0x3bae136caaaf6215:0x18698e4a3858ee82",
+   "rating": 4.2,
+   "reviews": 10000,
+   "type": "Pub",
+   "address": "Amrutha Engineering collage, NO 877/1/2&895/19/20, 1st Cross Rd, near ICICI BANK, opp. KFC",
+   "gps_coordinates": {
+    "latitude": 12.904262,
+    "longitude": 77.67584
+   },
+   "comment": "Homely continental restaurant & takeaway",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Brew Mill Brewery",
+   "place_id": "ChIJd1HfAwBrrjsRZwM8aJ00y0U",
+   "data_id": "0x3bae6b0003df5177:0x45cb349d683c0367",
+   "rating": 4.8,
+   "reviews": 824,
+   "type": "Brewery",
+   "address": "Shop No 4 Sy No 331 Hulimangala Main Road, Neeladri Rd, near Sai Baba Temple",
+   "gps_coordinates": {
+    "latitude": 12.8323345,
+    "longitude": 77.64787
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Geist Brewing Co. Rajajinagar",
+   "place_id": "ChIJ9U4P4j49rjsRtI-gNgfLpV4",
+   "data_id": "0x3bae3d3ee20f4ef5:0x5ea5cb0736a08fb4",
+   "rating": 4.3,
+   "reviews": 673,
+   "type": "Brewpub",
+   "address": "UG - 09 C, Upper Ground Floor, Orion Mall, Brigade Gateway 26 / 1 Dr Rajkumar Road, Malleswaram, West",
+   "gps_coordinates": {
+    "latitude": 13.0115185,
+    "longitude": 77.555374
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "33&Brew Brewery",
+   "place_id": "ChIJFxk0sjMRrjsRCHhkJ2G9Nzw",
+   "data_id": "0x3bae1133b2341917:0x3c37bd6127647808",
+   "rating": 4.6,
+   "reviews": 646,
+   "type": "Brewery",
+   "address": "Prestige Technostar",
+   "gps_coordinates": {
+    "latitude": 12.972827,
+    "longitude": 77.71117
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Candles Brewhouse",
+   "place_id": "ChIJQXOLJE4XrjsRkXhZKKbpINY",
+   "data_id": "0x3bae174e248b7341:0xd620e9a628597891",
+   "rating": 4.5,
+   "reviews": 4900,
+   "type": "Brewery",
+   "address": "12th Floor, Azure, Bellary Rd, next to Godrej Apartments",
+   "gps_coordinates": {
+    "latitude": 13.055432,
+    "longitude": 77.59399
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Float Brewery",
+   "place_id": "ChIJ0TA3WpIXrjsR_0PuO90sGRw",
+   "data_id": "0x3bae17925a3730d1:0x1c192cdd3bee43ff",
+   "rating": 4.3,
+   "reviews": 9200,
+   "type": "Brewpub",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 13.022394,
+    "longitude": 77.64345
+   },
+   "comment": "Multi-level microbrewery with city views",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Deck of Brews- Brewery & Kitchen",
+   "place_id": "ChIJPduVcHETrjsRS0EL_cMmaFE",
+   "data_id": "0x3bae13717095db3d:0x516826c3fd0b414b",
+   "rating": 4.2,
+   "reviews": 4000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "Gear School Rd",
+   "gps_coordinates": {
+    "latitude": 12.932716,
+    "longitude": 77.69659
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "The Golden Circle Brewery",
+   "place_id": "ChIJPR-ZhNQTrjsRL5ghswxh8qs",
+   "data_id": "0x3bae13d484991f3d:0xabf2610cb321982f",
+   "rating": 4.5,
+   "reviews": 3800,
+   "type": "Brewery",
+   "address": "Sy. No. 41/9, BBMP No. 154/41/9, Doddakanneli, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908461,
+    "longitude": 77.69023
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "STORIES BREWERY & KITCHEN",
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "rating": 4.4,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905697,
+    "longitude": 77.60852
+   },
+   "comment": "Beer & quick bites in a hip, stylish bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Biergarten Brewery & Kitchen",
+   "place_id": "ChIJbXU-r70VrjsRpcnDtFDq5w0",
+   "data_id": "0x3bae15bdaf3e756d:0xde7ea50b4c3c9a5",
+   "rating": 4.3,
+   "reviews": 5000,
+   "type": "Brewery",
+   "gps_coordinates": {
+    "latitude": 12.933502,
+    "longitude": 77.61426
+   },
+   "extensions": [
+    "4th B Cross Rd",
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Mannheim Craft Brewery Whitefield",
+   "place_id": "ChIJdfVpXwARrjsRk9bQzIdFe1Y",
+   "data_id": "0x3bae11005f69f575:0x567b4587ccd0d693",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Brewery",
+   "address": "40H, Whitefield Road",
+   "gps_coordinates": {
+    "latitude": 12.991042,
+    "longitude": 77.707695
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The Bier Library Brewery & Kitchen, Sarjapur Road",
+   "place_id": "ChIJRTk2E0ITrjsRQagEw7TGkZA",
+   "data_id": "0x3bae134213363945:0x9091c6b4c304a841",
+   "rating": 4.5,
+   "reviews": 7900,
+   "type": "Brewpub",
+   "address": "138/52, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90881,
+    "longitude": 77.689
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "MAC Brew Farm",
+   "place_id": "ChIJOyGmagBtrjsRq4xfwUMts5I",
+   "data_id": "0x3bae6d006aa6213b:0x92b32d43c15f8cab",
+   "rating": 4.7,
+   "reviews": 205,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Brewpub",
+   "address": "Gottamaranahalli, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.841646,
+    "longitude": 77.698524
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

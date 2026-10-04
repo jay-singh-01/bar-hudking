@@ -1,0 +1,369 @@
+{
+ "q": "best restaurants in MG Road/Brigade Road Bangalore",
+ "ll": "@12.9752,77.6065,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:10.562Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   },
+   "comment": "Vibrant bar for live music & global eats"
+  },
+  {
+   "position": 2,
+   "title": "Foo Brigade Road",
+   "place_id": "ChIJZ7erNjIXrjsR5Ticr5bhjMQ",
+   "data_id": "0x3bae173236abb767:0xc48ce196af9c38e5",
+   "rating": 4.4,
+   "reviews": 2200,
+   "type": "Pan Asian",
+   "address": "Ground Floor, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972899,
+    "longitude": 77.60637
+   }
+  },
+  {
+   "position": 3,
+   "title": "NChef Restaurant Brigade Road",
+   "place_id": "ChIJk3RqVuQXrjsRJU3zMndnMSM",
+   "data_id": "0x3bae17e4566a7493:0x2331677732f34d25",
+   "rating": 4.7,
+   "reviews": 3200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "181, Brigade Rd, opp. selec hyper mart",
+   "gps_coordinates": {
+    "latitude": 12.973011,
+    "longitude": 77.60713
+   }
+  },
+  {
+   "position": 4,
+   "title": "Kake Di Hatti Brigade Road",
+   "place_id": "ChIJi3tty1MXrjsR1ljnLikBz9k",
+   "data_id": "0x3bae1753cb6d7b8b:0xd9cf01292ee758d6",
+   "rating": 4.4,
+   "reviews": 1400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "above Mochi Shoes, Brigade Rd, opposite to Nike store",
+   "gps_coordinates": {
+    "latitude": 12.974353,
+    "longitude": 77.607864
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "TOCA Brigade and Terrace",
+   "place_id": "ChIJ62siEjQXrjsRoy7xHOObj_c",
+   "data_id": "0x3bae173412226beb:0xf78f9be31cf12ea3",
+   "rating": 4.4,
+   "reviews": 2800,
+   "type": "Restaurant",
+   "address": "3rd and 4th floor, 25, Brigade Rd, above Levi’s showroom",
+   "gps_coordinates": {
+    "latitude": 12.973753,
+    "longitude": 77.607704
+   }
+  },
+  {
+   "position": 6,
+   "title": "LUPA",
+   "place_id": "ChIJwWzHW5cXrjsRSUYk6pvrsjU",
+   "data_id": "0x3bae17975bc76cc1:0x35b2eb9bea244649",
+   "rating": 4.3,
+   "reviews": 1500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Modern European",
+   "address": "Ground Floor, NO.86, SPENCER'S TOWERS, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975749,
+    "longitude": 77.60462
+   }
+  },
+  {
+   "position": 7,
+   "title": "Communiti",
+   "place_id": "ChIJGfvrpIAWrjsRGGKh9a3WQ2I",
+   "data_id": "0x3bae1680a4ebfb19:0x6243d6adf5a16218",
+   "rating": 4.4,
+   "reviews": 31000,
+   "type": "Brewery",
+   "address": "Brigade Solitare, 67/68, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.972421,
+    "longitude": 77.608246
+   },
+   "comment": "Spacious, upscale pub with a patio"
+  },
+  {
+   "position": 8,
+   "title": "Yumm Keralam Brigade Road",
+   "place_id": "ChIJUSJu0RMXrjsRFcEB7xiIOXc",
+   "data_id": "0x3bae1713d16e2251:0x77398818ef01c115",
+   "rating": 4.9,
+   "reviews": 198,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Keralan",
+   "address": "B Block, Brigade Road, 6th Level, Forum Rex Walk",
+   "gps_coordinates": {
+    "latitude": 12.9726,
+    "longitude": 77.60707
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "VINTAGE ADDA RESTOBAR",
+   "place_id": "ChIJcQInu0IXrjsR_0LcIFqpz2s",
+   "data_id": "0x3bae1742bb270271:0x6bcfa95a20dc42ff",
+   "rating": 4.9,
+   "reviews": 969,
+   "type": "Grill",
+   "address": "6/2, Brigade Road, 1st floor, Geetha mall building, Rest House Rd",
+   "gps_coordinates": {
+    "latitude": 12.973766,
+    "longitude": 77.60668
+   }
+  },
+  {
+   "position": 10,
+   "title": "Punjab Grill Forum Rex Walk",
+   "place_id": "ChIJQRHgr4IXrjsR8ORt61yQk4U",
+   "data_id": "0x3bae1782afe01141:0x8593905ceb6de4f0",
+   "rating": 4.7,
+   "reviews": 3300,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Punjabi",
+   "address": "Unit No. 204 and 205, Located in Forum Rex Walk, 169, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.97285,
+    "longitude": 77.606575
+   }
+  },
+  {
+   "position": 11,
+   "title": "Burma Burma Restaurant & Tea Room",
+   "place_id": "ChIJkY8XCnQXrjsRQCzue4dubcg",
+   "data_id": "0x3bae17740a178f91:0xc86d6e877bee2c40",
+   "rating": 4.5,
+   "reviews": 1700,
+   "price": "₹800–1,800",
+   "extracted_price": {
+    "min": 800,
+    "max": 1800
+   },
+   "type": "Burmese",
+   "address": "Unit No 109, Ground Floor, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.97304,
+    "longitude": 77.60614
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The 13th Floor",
+   "place_id": "ChIJXZGjsn0WrjsRcqfimwGhocs",
+   "data_id": "0x3bae167db2a3915d:0xcba1a1019be2a772",
+   "rating": 4.3,
+   "reviews": 11000,
+   "type": "Restaurant",
+   "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975323,
+    "longitude": 77.60505
+   }
+  },
+  {
+   "position": 13,
+   "title": "Pangeo",
+   "place_id": "ChIJz9zsYtIXrjsRMXdex-y8XxE",
+   "data_id": "0x3bae17d262ecdccf:0x115fbcecc75e7731",
+   "rating": 4.5,
+   "reviews": 4500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972639,
+    "longitude": 77.6066
+   }
+  },
+  {
+   "position": 14,
+   "title": "Ebony",
+   "place_id": "ChIJHx8ds30WrjsRJH5BpF51Snk",
+   "data_id": "0x3bae167db31d1f1f:0x794a755ea4417e24",
+   "rating": 4.2,
+   "reviews": 6700,
+   "type": "Restaurant",
+   "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975422,
+    "longitude": 77.60511
+   },
+   "comment": "Pan-Indian meals with city views"
+  },
+  {
+   "position": 15,
+   "title": "Cafe Azzure",
+   "place_id": "ChIJHR1AZocWrjsRoTaqyTLJvCw",
+   "data_id": "0x3bae168766401d1d:0x2cbcc932c9aa36a1",
+   "rating": 4.1,
+   "reviews": 8700,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "52, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975012,
+    "longitude": 77.60766
+   },
+   "comment": "Casual cafe with a large terrace"
+  },
+  {
+   "position": 16,
+   "title": "Karavalli",
+   "place_id": "ChIJ5QD7Rn4WrjsRH_yAmEEDe3c",
+   "data_id": "0x3bae167e46fb00e5:0x777b03419880fc1f",
+   "rating": 4.5,
+   "reviews": 4600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "South Indian",
+   "address": "Vivanta, 66, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.972447,
+    "longitude": 77.60865
+   },
+   "comment": "Classy venue for regional Indian cuisine"
+  },
+  {
+   "position": 17,
+   "title": "Paakashala @ MG Road | Veg Restaurant in MG Road",
+   "place_id": "ChIJf9kRnwwXrjsRwGRAaDj0CT8",
+   "data_id": "0x3bae170c9f11d97f:0x3f09f438684064c0",
+   "rating": 4.3,
+   "reviews": 4500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "Shop No. 104, Dhavanam Emporium, 46, Mahatma Gandhi Rd, next to Cauvery Handicrafts Emporium",
+   "gps_coordinates": {
+    "latitude": 12.97484,
+    "longitude": 77.60834
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am Mon"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "We:Neighborhood",
+   "place_id": "ChIJiUfMjSAXrjsRGvFZeLpuGiQ",
+   "data_id": "0x3bae17208dcc4789:0x241a6eba7859f11a",
+   "rating": 4.3,
+   "reviews": 2000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Brewpub",
+   "address": "No. 67/1, Brigade Solitare, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.9724245,
+    "longitude": 77.60825
+   }
+  },
+  {
+   "position": 19,
+   "title": "HOMIGA",
+   "place_id": "ChIJn5_VL2kXrjsRZ6No6gHrulM",
+   "data_id": "0x3bae17692fd59f9f:0x53baeb01ea68a367",
+   "rating": 4.8,
+   "reviews": 2200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Korean BBQ",
+   "address": "2nd Floor, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972491,
+    "longitude": 77.60694
+   }
+  },
+  {
+   "position": 20,
+   "title": "Cahoots Bangalore",
+   "place_id": "ChIJFYVV3yQXrjsRqi1mVonAZAc",
+   "data_id": "0x3bae1724df558515:0x764c08956662daa",
+   "rating": 4.7,
+   "reviews": 648,
+   "type": "Restaurant",
+   "address": "Ground Floor, No 48/1, Brigade Rd, near McDonald's",
+   "gps_coordinates": {
+    "latitude": 12.973239,
+    "longitude": 77.60748
+   }
+  }
+ ]
+}

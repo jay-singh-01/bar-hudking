@@ -1,0 +1,994 @@
+{
+ "q": "best restaurants in BTM Layout Bangalore",
+ "ll": "@12.9166,77.6101,14z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:32:48.618Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJv97oSAIVrjsR6TXA0rT3jyw",
+   "data_id": "0x3bae150248e8debf:0x2c8ff7b4d2c035e9",
+   "title": "SWARAN’S Swad Punjab Da",
+   "address": "10, 5th Main Rd, near sbi bank, Abbaappa Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074111 14571",
+   "rating": 4.4,
+   "reviews": 1578,
+   "gps_coordinates": {
+    "latitude": 12.9152132,
+    "longitude": 77.6054669
+   },
+   "type": "Punjabi restaurant",
+   "types": [
+    "Punjabi restaurant",
+    "North Indian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 9 am",
+   "open_hours": {
+    "monday": "9 am–11 pm",
+    "tuesday": "9 am–11 pm",
+    "wednesday": "9 am–11 pm",
+    "thursday": "9 am–11 pm",
+    "friday": "9 am–11 pm",
+    "saturday": "9 am–11 pm",
+    "sunday": "9 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ql_jPAQzTabF-aNURsUVXx27Gh7gIXQFLCqwmUHxMk2VgRgI2RL0poIrYKoeOcN2xwH8e45gLThtzQb7GjUWMAOh4gPtmyqGEw1PSlYpLd-IJCkXLychZNHTeyBwBGUBNLRgcc9Q=w80-h106-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJq9vDfwAVrjsRmI7oo0vLnJc",
+   "data_id": "0x3bae15007fc3dbab:0x979ccb4ba3e88e98",
+   "title": "Mykos Craft Kitchen & Bar",
+   "address": "SRK Towers, 448/338, Bannerghatta Rd, Krishnaraju Layout, Amalodbhavi Nagar, Bilekahalli, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072044 70378",
+   "rating": 4.5,
+   "reviews": 6465,
+   "website": "https://www.mykosbangalore.com/",
+   "domain": "mykosbangalore.com",
+   "gps_coordinates": {
+    "latitude": 12.8975741,
+    "longitude": 77.5996845
+   },
+   "type": "Continental restaurant",
+   "types": [
+    "Continental restaurant",
+    "Bar",
+    "Dance restaurant",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/mykos-bannerghatta-road-south-bengaluru-692407",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RlkWpZA3dg3zjqEpkaOok42v3xbtjOjF3yR7rz5-AtuAfRqDXYhU9hmr9P61eSTGtXcw6tZOdQIaxDATJk4M_wf9ZB5h-YYOg2Tz9461qyfuze0kKtWwlJIsoUd1xVlHYTCGKQ=w115-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJqwvghx8VrjsR4vJPvXQzSgg",
+   "data_id": "0x3bae151f87e00bab:0x84a3374bd4ff2e2",
+   "title": "Malgudi's Naati Style @BTM 2nd Stage",
+   "address": "15/23, 7th Main Rd, New Extension, NS Palya, Pushpa Layout, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090191 47825",
+   "rating": 4.3,
+   "reviews": 154,
+   "gps_coordinates": {
+    "latitude": 12.9078507,
+    "longitude": 77.6063865
+   },
+   "type": "Karnataka restaurant",
+   "types": [
+    "Karnataka restaurant",
+    "Biryani restaurant",
+    "Chicken restaurant",
+    "Fish restaurant",
+    "Indian restaurant",
+    "Takeout restaurant",
+    "Mutton barbecue restaurant",
+    "North Indian restaurant",
+    "South Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SI5u6aHAjF39hxY6JWqyK0HDyZAMEs-2_ubw6ZkFrJ7hFb44mxMtEW6GGUqnZH2jP6iX0kY04luNDN-erBVRIwkjsEy_LKOsvan4rwmvaLhcSqTFDxVc35i2idu8OXnuKuzWnKLw3H_wT9=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJM5lBrOEVrjsRBIYtnbg2Bd0",
+   "data_id": "0x3bae15e1ac419933:0xdd0536b89d2d8604",
+   "title": "Sharief Bhai - Biryani & Mandi | BTM",
+   "address": "Shop 320, 7th Main Rd, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080957 52222",
+   "rating": 4.3,
+   "reviews": 1565,
+   "website": "https://www.shariefbhai.com/",
+   "domain": "shariefbhai.com",
+   "gps_coordinates": {
+    "latitude": 12.9143009,
+    "longitude": 77.6063365
+   },
+   "type": "Biryani restaurant",
+   "types": [
+    "Biryani restaurant",
+    "Kebab shop",
+    "Shawarma restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–12 am",
+    "tuesday": "11:30 am–12 am",
+    "wednesday": "11:30 am–12 am",
+    "thursday": "11:30 am–12 am",
+    "friday": "11:30 am–12 am",
+    "saturday": "11:30 am–12 am",
+    "sunday": "11:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/sharief-bhai-biryani-btm-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jMX-jVM1CDfhULExthy8Hd0Be9Qt7a0NztFSlO1uYOdRZdSJ0xQjd_aRlDl6qdzlXTjcKlV9301GP6DVyQR1iYvc-YjfhxuBpnY5EDQGr8sFQGlf4%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QE5z5YR6mvAWPqB6V6opzhJ-fQ1uPUqj_vMc1TjiFBNGs7QQCl296GUII3eCNqlpfZoKjNIO_q_SULgKpZ7-aPY_Tes9JorWLFtvYpjv9b1lhKfY4DdprI-YUrlvo3x6jytPsQ=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJzyNUX3MVrjsRBRjVa4N3TTA",
+   "data_id": "0x3bae15735f5423cf:0x304d77836bd51805",
+   "title": "PIZZA GALLERIA BTM LAYOUT",
+   "address": "69, 7th main, 2nd Stage BTM Layout, NS Palyam extension, B.B, M.P south, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "077952 27999",
+   "rating": 4.5,
+   "reviews": 330,
+   "website": "https://www.pizzagalleria.in/",
+   "domain": "pizzagalleria.in",
+   "gps_coordinates": {
+    "latitude": 12.9105106,
+    "longitude": 77.6066297
+   },
+   "type": "Pizza restaurant",
+   "types": [
+    "Pizza restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–12 am",
+    "tuesday": "10 am–12 am",
+    "wednesday": "10 am–12 am",
+    "thursday": "10 am–12 am",
+    "friday": "10 am–12 am",
+    "saturday": "10 am–12 am",
+    "sunday": "10 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/pizza-galleria-btm-bangalore-1252452/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0AWewRbS4Thc17FLZSRt-iJrSS4_Xh1rrCPeSrvzF-DtfqgrhGifEbQ0C1aBbo1iOhMq9onJqPGmf2OEGjOwUgYjdYSGdGKTXqrGHfEWLP3ASFPisueKnJOxhyF08X0XGR_tGWvTQICuN=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJ3QZxKf8UrjsRaQHjD8WJq-g",
+   "data_id": "0x3bae14ff297106dd:0xe8ab89c50fe30169",
+   "title": "Muthashy's Restaurant",
+   "address": "3/1 1st main 2nd cross maruthi Nagar, Madiwala, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098441 62560",
+   "rating": 4.1,
+   "reviews": 6777,
+   "gps_coordinates": {
+    "latitude": 12.9266082,
+    "longitude": 77.6157719
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Breakfast restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–12 am",
+    "tuesday": "8 am–12 am",
+    "wednesday": "8 am–12 am",
+    "thursday": "8 am–12 am",
+    "friday": "8 am–12 am",
+    "saturday": "8 am–12 am",
+    "sunday": "8 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-ScUI2mBQbfLnR6lsEil0HPzB7SeyLLLNCzj_9kBfAQ3NakXH7uEJajZQRpxK5TN9zM3MS6jis_I5vUsl6fkKZlG9KHdXkNGiokpaepvU1Qr-8j2O9jQTqpa0EZt2XD1a35jK=w80-h106-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJBcNVkXkVrjsRkaoetbuuUrs",
+   "data_id": "0x3bae15799155c305:0xbb52aebbb51eaa91",
+   "title": "Castle Restaurant",
+   "address": "11/7, Maruti nagar, 1st Cross Rd, Zuzuvadi, Madiwala, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080504 50604",
+   "rating": 4.3,
+   "reviews": 2633,
+   "gps_coordinates": {
+    "latitude": 12.9268792,
+    "longitude": 77.6157781
+   },
+   "type": "Biryani restaurant",
+   "types": [
+    "Biryani restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12–11:30 pm",
+    "thursday": "12–11:30 pm",
+    "friday": "12–11:30 pm",
+    "saturday": "12–11:30 pm",
+    "sunday": "12–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R-RVLM8Pt0v4bTHap9AvnRCBkRbd1nTonZtgAeBGTg5nRkcj5tdgWLhUSK-Xt6bk7K8ASjc81gTVvQaE_fGDPy6EDkv6Jsh4gP8Jh7Y9_e18zXTV40wbe-wKkhpYFaey1nMA8g8A=w80-h106-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJY6gaURkVrjsRHgIKwU5cOUY",
+   "data_id": "0x3bae1519511aa863:0x46395c4ec10a021e",
+   "title": "Nagarjuna Restaurant Since 1984 - Bannerghatta Road",
+   "description": "Contemporary Andheri restaurant. Smart dining room with chic, modern decor and a menu of classic southern Indian and Andheri dishes.",
+   "address": "Meu Square, 174/1, Bannerghatta Rd, above KFC, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4140 0500",
+   "rating": 4.1,
+   "reviews": 18185,
+   "website": "http://www.nagarjunarestaurants.com/",
+   "domain": "nagarjunarestaurants.com",
+   "gps_coordinates": {
+    "latitude": 12.9049026,
+    "longitude": 77.6015639
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant",
+    "Buffet restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–4 pm, 7–11 pm",
+    "tuesday": "12–4 pm, 7–11 pm",
+    "wednesday": "12–4 pm, 7–11 pm",
+    "thursday": "12–4 pm, 7–11 pm",
+    "friday": "12–4 pm, 7–11 pm",
+    "saturday": "12–4 pm, 7–11 pm",
+    "sunday": "12–4 pm, 7–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RDzzbXt4FYOR01UQqyS09xahoygL2u-f16X-Qan3LWixpenUyYlg6Isw0n52SGIMAjeKcCUuO_scmZd7fkSr9lwx24_oluRyII5iKkTYbTBHNQDDcRml26hlDQIbTugVAJkL0BXQ=w163-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJyVnUQOsVrjsRo-unaWwzxwU",
+   "data_id": "0x3bae15eb40d459c9:0x5c7336c69a7eba3",
+   "title": "Hotel BTM",
+   "address": "bus stop, Outer Ring Rd, KEB Colony, Vysya Bank Colony, mico layout, BTM 1st Stage, Bengaluru, Karnataka 560029",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098451 09273",
+   "rating": 4.5,
+   "reviews": 26,
+   "gps_coordinates": {
+    "latitude": 12.9168474,
+    "longitude": 77.6032796
+   },
+   "type": "Biryani restaurant",
+   "types": [
+    "Biryani restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–10:30 pm",
+    "tuesday": "10 am–10:30 pm",
+    "wednesday": "10 am–10:30 pm",
+    "thursday": "10 am–10:30 pm",
+    "friday": "10 am–10:30 pm",
+    "saturday": "10 am–10:30 pm",
+    "sunday": "10 am–10:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QF0QPNTn5vevZjUS-bsm0bAGnim5i7FictMh402v-zFOczE6UNYiH5HfkNTsCsN0hZOpyf8rmffR8_7zuPywb1-KsEUFAalYfR_HL38FwYSG9N8iwossIuazLvg_tEbcxq7lrR=w163-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJRV_H8LYVrjsRuZ3Zej7Ws-U",
+   "data_id": "0x3bae15b6f0c75f45:0xe5b3d63e7ad99db9",
+   "title": "Kalia’s Kitchen",
+   "address": "Lake road, 90/28 23rd cross, 29th Main Rd, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 268,
+   "gps_coordinates": {
+    "latitude": 12.9050843,
+    "longitude": 77.6122431
+   },
+   "type": "Indian takeaway",
+   "types": [
+    "Indian takeaway"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm",
+    "sunday": "11:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/kalias-kitchen-btm-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gc1_zOsUwmHTnCJ3rbojbFOK4LEFZ-boD_hUgxRQsUcn-caDvs7RZ-YTpa9_4kQYnZVugIVGOK-fn6SrZSWNHoAFTEzdeiZtw12FKJ2JmO8qSAtCc%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SHt5hdcrnqirQuOChTVM5hg1Kfelcny0qUaZRhL_BV2vZuyTJ-en0K6IqFOVNcCFcTUK0l-600dh-dyRXco3dAqmmyY3HNTJyTKpXc0iLTRm9ZV5aHpAdNawYOjma7R1TX8RkQ=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJb_r6_cMVrjsRMv_C4NBIOco",
+   "data_id": "0x3bae15c3fdfafa6f:0xca3948d0e0c2ff32",
+   "title": "Amontron Restaurant",
+   "address": "Ground floor, 16th Main, 24/25, 17th A Cross Rd, Mahadeshwara Nagar, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097423 26196",
+   "rating": 4.2,
+   "reviews": 390,
+   "gps_coordinates": {
+    "latitude": 12.9068251,
+    "longitude": 77.6109062
+   },
+   "type": "Bengali restaurant",
+   "types": [
+    "Bengali restaurant",
+    "Biryani restaurant",
+    "Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 9 am",
+   "open_hours": {
+    "sunday": "9 am–1 am",
+    "monday": "9 am–1 am",
+    "tuesday": "9 am–1 am",
+    "wednesday": "9 am–1 am",
+    "thursday": "9 am–1 am",
+    "friday": "9 am–1 am",
+    "saturday": "9 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/amontron-btm/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j0WaTGnYXmrwEIypPWFKtYMW-kDRAxcMujjomDZxvNoBuP0EEF3jaQDcXbDukDYOxPWdpB35jxxjMdKl8kpKUdCgYcixxTp0f02Hf0L0DQCAGpqo0%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkhSpZQJXiiS-R2rk1t7YU5Z22yBjeuajToCSljCoiaPXdA-pUZrTkE6FYEJJShJ6ieKCLDY8XNIPelBby-kQmJpGJshJ5w8R-mxL5yywjr7MTJGgDJ7ve341XXS7EVPEz_DFzSs0PzR5r=w80-h106-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJZxvKlcUVrjsRg4CPCvJw9k4",
+   "data_id": "0x3bae15c595ca1b67:0x4ef670f20a8f8083",
+   "title": "Al Ameerah Hotel",
+   "address": "28 9 A, main road, KEB Colony, New Gurappana Palya, Tiles lane, BTM 1st Stage, Bengaluru, Karnataka 560029",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074835 72626",
+   "rating": 4.3,
+   "reviews": 29,
+   "gps_coordinates": {
+    "latitude": 12.9176764,
+    "longitude": 77.6054345
+   },
+   "type": "Hyderabadi restaurant",
+   "types": [
+    "Hyderabadi restaurant",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Indian restaurant",
+    "Non Vegetarian Restaurant",
+    "North Indian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1:30 am · Reopens 9:30 am",
+   "open_hours": {
+    "sunday": "9:30 am–1:30 am",
+    "monday": "9:30 am–1:30 am",
+    "tuesday": "9:30 am–1:30 am",
+    "wednesday": "9:30 am–1:30 am",
+    "thursday": "9:30 am–1:30 am",
+    "friday": "9:30 am–1:30 am",
+    "saturday": "9:30 am–1:30 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rm9ewI8qpbHj752YHVvb0fB9AlYoZ6aHuAvvTiqeMtypjLUKYGjHAFp_68Y_Jnkg2C4M5AIlhmB6PSjm_N4ABx9BH_CNjbezR5sAVMSE0Vz8m6sF6TT9kFMY0iku8BMhP7B0cKPrWXKwJw=w80-h110-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJqRg7Ua8VrjsRAWNj4MWCEgc",
+   "data_id": "0x3bae15af513b18a9:0x71282c5e0636301",
+   "title": "Litti Twist",
+   "address": "7/43, 1st floor, 3rd cross, 4th main kaverappa compound, NS Palya, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088842 70523",
+   "rating": 4.1,
+   "reviews": 1303,
+   "gps_coordinates": {
+    "latitude": 12.9102341,
+    "longitude": 77.6036149
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Delivery service"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SmIYAd_lPBwE996RbB0IdZCab6fLQjkbHNPMsInNZ4G-BNKeM_an82i7AkJBNxambVxPnV7HaeuBpsaYL9CUQrKjffNpH6G_gOJPCmWBA1Z4XAnowisNXLKHPZ9JTkhUMR50Ik=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJ26Dj4WEVrjsR2p2yy3DYxeU",
+   "data_id": "0x3bae1561e1e3a0db:0xe5c5d870cbb29dda",
+   "title": "Mani's Dum Biryani - BTM Layout",
+   "address": "942, 16th Main Rd, BTM 2nd Stage, Kuvempu Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089714 61964",
+   "rating": 4.3,
+   "reviews": 837,
+   "website": "http://www.manis.in/",
+   "domain": "manis.in",
+   "gps_coordinates": {
+    "latitude": 12.9147689,
+    "longitude": 77.6102574
+   },
+   "type": "Biryani restaurant",
+   "types": [
+    "Biryani restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QGBRcdCMLkYoG1icnsUt2VbMzms13u_c6pnMqnJxUJZLFcQuSG9BOHk5url5CIUduqNfK71FEhRJ0GTyY2RUNFTsHXDE-1Hn_At2ST_rRUEUN8-a5Legzk10tbgpZfVSd_7iG41A=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJzUJ8y_sUrjsRBrlyaKsHL3M",
+   "data_id": "0x3bae14fbcb7c42cd:0x732f07ab6872b906",
+   "title": "Sri Vishnu Park",
+   "address": "WJ88+P36, 1, Outer Ring Rd, Old Madiwala, Jay Bheema Nagar, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097419 75166",
+   "rating": 4.1,
+   "reviews": 8813,
+   "gps_coordinates": {
+    "latitude": 12.9167265,
+    "longitude": 77.6151033
+   },
+   "type": "Karnataka restaurant",
+   "types": [
+    "Karnataka restaurant",
+    "Breakfast restaurant",
+    "Chinese restaurant",
+    "Fast food restaurant",
+    "North Indian restaurant",
+    "South Indian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–11 pm",
+    "tuesday": "7 am–11 pm",
+    "wednesday": "7 am–11 pm",
+    "thursday": "7 am–11 pm",
+    "friday": "7 am–11 pm",
+    "saturday": "7 am–11 pm",
+    "sunday": "7 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REFEWo0u3WKW4Ts2PfETP4bq54L-ij5HbmhVrpDvruy83woTuvj6LhVkdpP624tcw2ZAk2oPtyTb2YcLZKZvIT7JxutPRrpzJhPemrUAMDSjV3BUXeQqVhavI7gFExg5HBbuxEmw=w200-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJL9PuENUVrjsRDEHXILcI1JI",
+   "data_id": "0x3bae15d510eed32f:0x92d408b720d7410c",
+   "title": "Boom Pizza - Wood-fired Pizzas (BTM Layout)",
+   "address": "10th Main Rd, opposite Bola's, Stage 2, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.6,
+   "reviews": 182,
+   "website": "https://gastronomix.life/",
+   "domain": "gastronomix.life",
+   "gps_coordinates": {
+    "latitude": 12.9140204,
+    "longitude": 77.6079323
+   },
+   "type": "Pizza restaurant",
+   "types": [
+    "Pizza restaurant",
+    "Pizza delivery",
+    "Pizza takeaway"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/boom-pizza-woodfired-pizzeria-btm-bangalore-1326767/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfQMDE3xToqmPRHbPrlhgqeN2Op5SxWiehxp7PfTybV8xGuybEbkn5dOMEYQq7Su7UH94Csw8QfqPreZQro-2teuwLOEz7i11VWJefkTcHEbAmuvYlLEWeHsZlBAQS0A8R8rLStOxtuKA=w163-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJY9kGApEVrjsRl3YB39xOTM0",
+   "data_id": "0x3bae15910206d963:0xcd4c4edcdf017697",
+   "title": "Elays restaurants",
+   "address": "982, 7th Cross Rd, Lakshmi Layout, EWS Colony, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089516 79956",
+   "rating": 4.4,
+   "reviews": 25,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9094065,
+    "longitude": 77.6108551
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TK8PygxSyyREh1MVkvrWQtA7iWnRcKAU3C89-xutSVvwCN68DRIwWl5Z7Nmm0xzSlfYOahm4-jMq5QIEtj7mPVQDTVa6WkyV54Ho6BIHd8HMOvfTZakrh1Qzp0A3grrT-YTqOzzA=w80-h106-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJLU60yLoVrjsR9QOY5wzBpg0",
+   "data_id": "0x3bae15bac8b44e2d:0xda6c10ce79803f5",
+   "title": "Bengali fun foods Bengaluru",
+   "address": "100 Feet Ring Road, 67, 35th Main Rd, BTM Layout 2nd Stage, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091769 90202",
+   "rating": 4,
+   "reviews": 1635,
+   "website": "http://www.bengalifunfoods.com/",
+   "domain": "bengalifunfoods.com",
+   "gps_coordinates": {
+    "latitude": 12.9159852,
+    "longitude": 77.6186463
+   },
+   "type": "Bengali restaurant",
+   "types": [
+    "Bengali restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–3:30 pm, 6:30–10:30 pm",
+    "tuesday": "11:30 am–3:30 pm, 6:30–10:30 pm",
+    "wednesday": "11:30 am–3:30 pm, 6:30–10:30 pm",
+    "thursday": "11:30 am–3:30 pm, 6:30–10:30 pm",
+    "friday": "11:30 am–3:30 pm, 6:30–10:30 pm",
+    "saturday": "11:30 am–3:30 pm, 6:30–10:30 pm",
+    "sunday": "11:30 am–3:30 pm, 6:30–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THInnFuQIbTZEWzwLeKFlEsHNkuMGBALnIbEA8f77lR0HHH7FrcX6oF8UyV0t-qZkUCv9lBzzwI36YKVjEZAeqZ-So2iAM34ABYTYSLqSvYQd7yzHoMHnalUT9uzOdAJpL8efr=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJqVbqagcVrjsRDCkD75rFOWE",
+   "data_id": "0x3bae15076aea56a9:0x6139c59aef03290c",
+   "title": "Madeena Hotel - Gurappanapalya",
+   "address": "2/1, Bannerghatta Rd, Gurappana Palya, New Gurappana Palya, BTM 1st Stage, Bengaluru, Karnataka 560029",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "081236 87635",
+   "rating": 4.2,
+   "reviews": 6878,
+   "gps_coordinates": {
+    "latitude": 12.9209965,
+    "longitude": 77.600743
+   },
+   "type": "Indian Muslim restaurant",
+   "types": [
+    "Indian Muslim restaurant",
+    "Biryani restaurant",
+    "Breakfast restaurant",
+    "Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11:30 pm",
+    "tuesday": "10 am–11:30 pm",
+    "wednesday": "10 am–11:30 pm",
+    "thursday": "10 am–11:30 pm",
+    "friday": "10 am–11:30 pm",
+    "saturday": "10 am–11:30 pm",
+    "sunday": "10:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/madeena-hotel-bannerghatta-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gs1wL_gT_lQ5u8VCN9HMYtjhmf4b7KpCyVQ-0eMFEt1H3X90AgeCF60kwiKomD72BG85d1nIC-kz1oW7vT5PcE5UWnBg%3D%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QFWjGMVcKMv94M6Htrt_RdLpU14-jFydP3_Xki3F_1yeDXRyuG5SzZiugrqKRjLQ3q-gcLnpOvBA7RdPQxQKIpKN6EJ3Ti9eN_N5gXpQRgwpXaJaS_y7HjeDn1DwWd-2BOzauT=w163-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJx_Tbav4VrjsR6W8VUYxLgLI",
+   "data_id": "0x3bae15fe6adbf4c7:0xb2804b8c51156fe9",
+   "title": "Sri Aakash Punjabi Dhaba",
+   "address": "NGR Layout, KAS Officers Colony, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089511 38453",
+   "rating": 4.4,
+   "reviews": 166,
+   "gps_coordinates": {
+    "latitude": 12.912773,
+    "longitude": 77.623842
+   },
+   "type": "Dhaba",
+   "types": [
+    "Dhaba"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–4 pm, 6–11 pm",
+    "tuesday": "10 am–4 pm, 6–11 pm",
+    "wednesday": "10 am–4 pm, 6–11 pm",
+    "thursday": "10 am–4 pm, 6–11 pm",
+    "friday": "10 am–4 pm, 6–11 pm",
+    "saturday": "10 am–4 pm, 6–11 pm",
+    "sunday": "10 am–4 pm, 6–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/sri-aakash-panjabi-dhaba-layout-btm-bangalore-350199/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tn4NI1pkdr7BFXIqgmgi1ZQrCjiX_voSp4Fiar0_8yASjroo4fqnMqUyTNyNv4WFtT7sNV1e95UcKNSpxsptFFFpnwZ8vciYopQTGNzh657VMPqD2YwIj-o3ocwfkB9QOr2OVy=w80-h142-k-no"
+  }
+ ]
+}

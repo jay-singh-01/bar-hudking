@@ -1,0 +1,340 @@
+{
+ "q": "bars and pubs in Kammanahalli/Banaswadi Bangalore",
+ "ll": "@13.0158,77.6394,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:40:40.195Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Barrys Sky Lounge - Bar & Kitchen",
+   "place_id": "ChIJ2atmjJ8RrjsRb-38Zd2-D3M",
+   "data_id": "0x3bae119f8c66abd9:0x730fbedd65fced6f",
+   "rating": 4.5,
+   "reviews": 3900,
+   "type": "Pub",
+   "address": "Banaswadi outer ring road, 9th C Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.018824,
+    "longitude": 77.654976
+   }
+  },
+  {
+   "position": 2,
+   "title": "1522 The Pub Kammanahalli",
+   "place_id": "ChIJeRE7Bu4XrjsRj1O79LUX0yA",
+   "data_id": "0x3bae17ee063b1179:0x20d317b5f4bb538f",
+   "rating": 4.3,
+   "reviews": 1600,
+   "type": "Pub",
+   "address": "Floor 1 & 2, Building, No: 30, CMR Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.02153,
+    "longitude": 77.640526
+   }
+  },
+  {
+   "position": 3,
+   "title": "Bob's Bar - Kalyan Nagar",
+   "place_id": "ChIJP68m-jwXrjsRRFfc9qh5Yl4",
+   "data_id": "0x3bae173cfa26af3f:0x5e6279a8f6dc5744",
+   "rating": 4.4,
+   "reviews": 3300,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "3rd Floor, No. 7M-322, Landmark, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.0196085,
+    "longitude": 77.64356
+   }
+  },
+  {
+   "position": 4,
+   "title": "Parka Restobar",
+   "place_id": "ChIJBbAYf0UXrjsRNyBpPZs2t0g",
+   "data_id": "0x3bae17457f18b005:0x48b7369b3d692037",
+   "rating": 4.4,
+   "reviews": 769,
+   "type": "Pub",
+   "address": "Level 1, Vihaari 24 Business Hotel, 417, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.023222,
+    "longitude": 77.63961
+   }
+  },
+  {
+   "position": 5,
+   "title": "Float Brewery",
+   "place_id": "ChIJ0TA3WpIXrjsR_0PuO90sGRw",
+   "data_id": "0x3bae17925a3730d1:0x1c192cdd3bee43ff",
+   "rating": 4.3,
+   "reviews": 9200,
+   "type": "Brewpub",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 13.022394,
+    "longitude": 77.64345
+   },
+   "comment": "Multi-level microbrewery with city views"
+  },
+  {
+   "position": 6,
+   "title": "The Local",
+   "place_id": "ChIJn7MB8iUXrjsRcTs6A1670IM",
+   "data_id": "0x3bae1725f201b39f:0x83d0bb5e033a3b71",
+   "rating": 4.2,
+   "reviews": 8300,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "4th cross, 6th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.021221,
+    "longitude": 77.641495
+   }
+  },
+  {
+   "position": 7,
+   "title": "Pecos Mojo",
+   "place_id": "ChIJC8N0B34WrjsRPRdoua4dgsk",
+   "data_id": "0x3bae167e0774c30b:0xc9821daeb968173d",
+   "rating": 4.1,
+   "reviews": 2000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "No 1, 1st Floor, Dodda Banaswadi Main Rd, above More Super Market",
+   "gps_coordinates": {
+    "latitude": 13.012724,
+    "longitude": 77.648186
+   },
+   "comment": "Music-focused pub & Indian eatery"
+  },
+  {
+   "position": 8,
+   "title": "Jack’s Bar",
+   "place_id": "ChIJNdti9zgXrjsRP9JIxo5cCOY",
+   "data_id": "0x3bae1738f762db35:0xe6085c8ec648d23f",
+   "rating": 4.5,
+   "reviews": 352,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "4th floor, 408, 5th Main Rd, above pizza bakery",
+   "gps_coordinates": {
+    "latitude": 13.022975,
+    "longitude": 77.63953
+   }
+  },
+  {
+   "position": 9,
+   "title": "9T Restobar",
+   "place_id": "ChIJS_Q7sSwXrjsRL9rN78ZkA6A",
+   "data_id": "0x3bae172cb13bf44b:0xa00364c6efcdda2f",
+   "rating": 4.2,
+   "reviews": 59,
+   "type": "Pub",
+   "address": "714",
+   "gps_coordinates": {
+    "latitude": 13.023412,
+    "longitude": 77.64438
+   }
+  },
+  {
+   "position": 10,
+   "title": "Knowhere",
+   "place_id": "ChIJM2TS2AMXrjsRraj9l2SYatI",
+   "data_id": "0x3bae1703d8d26433:0xd26a986497fda8ad",
+   "rating": 4.4,
+   "reviews": 2200,
+   "type": "Grill",
+   "address": "Favourite Plaza, 15, Dodda Banaswadi Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.001152,
+    "longitude": 77.62922
+   },
+   "comment": "Lively rooftop bar & grill with karaoke"
+  },
+  {
+   "position": 11,
+   "title": "Brew Square Craft Brewery",
+   "place_id": "ChIJFQJ7rLcXrjsRo31KjqWq-SU",
+   "data_id": "0x3bae17b7ac7b0215:0x25f9aaa58e4a7da3",
+   "rating": 4.4,
+   "reviews": 88,
+   "type": "Pub",
+   "address": "7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.023137,
+    "longitude": 77.64303
+   }
+  },
+  {
+   "position": 12,
+   "title": "NoBa - Cocktail. Culture. Cuisine.",
+   "place_id": "ChIJkekEEoUXrjsR0GAU16m6DYM",
+   "data_id": "0x3bae17851204e991:0x830dbaa9d71460d0",
+   "rating": 4.5,
+   "reviews": 170,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "714, 5th A Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.02342,
+    "longitude": 77.644394
+   }
+  },
+  {
+   "position": 13,
+   "title": "Wolves Lair",
+   "place_id": "ChIJmQzauvMXrjsROpk6p4eeaLo",
+   "data_id": "0x3bae17f3bada0c99:0xba689e87a73a993a",
+   "rating": 4.9,
+   "reviews": 91,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "3rd floor, 714",
+   "gps_coordinates": {
+    "latitude": 13.02346,
+    "longitude": 77.644394
+   }
+  },
+  {
+   "position": 14,
+   "title": "The Roxbury Bar and Kitchen",
+   "place_id": "ChIJvz5xdNEXrjsRLjqflGexwkE",
+   "data_id": "0x3bae17d174713ebf:0x41c2b167949f3a2e",
+   "rating": 4.5,
+   "reviews": 252,
+   "type": "Pub",
+   "address": "4th floor, balaji complex, 487/31, Hennur Main Rd, opposite DMart",
+   "gps_coordinates": {
+    "latitude": 13.033101,
+    "longitude": 77.63777
+   }
+  },
+  {
+   "position": 15,
+   "title": "Wanderers Craft Brewery",
+   "place_id": "ChIJzdaEnS8XrjsR7PY3TKsc19Y",
+   "data_id": "0x3bae172f9d84d6cd:0xd6d71cab4c37f6ec",
+   "rating": 4,
+   "reviews": 2000,
+   "type": "Brewery",
+   "address": "417, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.023143,
+    "longitude": 77.643036
+   },
+   "comment": "Minimalist brewery with craft beers"
+  },
+  {
+   "position": 16,
+   "title": "Brick & Brew Kalyan Nagar",
+   "place_id": "ChIJVVQ85DsXrjsRRRhlzgdDFXs",
+   "data_id": "0x3bae173be43c5455:0x7b154307ce651845",
+   "rating": 4.6,
+   "reviews": 35,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bar",
+   "address": "4th and 5th Floor, Plot No. 408, 5th Main Rd, above Pizza Bakery",
+   "gps_coordinates": {
+    "latitude": 13.02297,
+    "longitude": 77.63953
+   }
+  },
+  {
+   "position": 17,
+   "title": "The Shack - Restopub",
+   "place_id": "ChIJZ42fUKIRrjsRb_M_OgSKTeY",
+   "data_id": "0x3bae11a2509f8d67:0xe64d8a043a3ff36f",
+   "rating": 3.9,
+   "reviews": 1200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "gps_coordinates": {
+    "latitude": 13.012587,
+    "longitude": 77.665535
+   },
+   "extensions": [
+    "Ramamurthi Nagar Main Rd",
+    "On the menu: bars and pubs"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Garland's Garden Bar",
+   "place_id": "ChIJn-PJyNUWrjsR57F1TNbg8Rw",
+   "data_id": "0x3bae16d5c8c9e39f:0x1cf1e0d64c75b1e7",
+   "rating": 3.7,
+   "reviews": 312,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "Rammurthy Nagar, Main Road Dodda Banaswadi",
+   "gps_coordinates": {
+    "latitude": 13.015039,
+    "longitude": 77.65388
+   }
+  },
+  {
+   "position": 19,
+   "title": "We Neighborhood Banaswadi",
+   "place_id": "ChIJhR4OffgXrjsRJBvoUZW_osI",
+   "data_id": "0x3bae17f87d0e1e85:0xc2a2bf9551e81b24",
+   "rating": 4.4,
+   "reviews": 405,
+   "type": "Brewery",
+   "address": "Do. No. 201 to 220, Orion Avenue Mall, Dodda Banaswadi Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.001739,
+    "longitude": 77.63276
+   }
+  },
+  {
+   "position": 20,
+   "title": "46 Ounces Brewhouse,Old Madras Road",
+   "place_id": "ChIJy8oCrlQRrjsREkHE0tGWUSI",
+   "data_id": "0x3bae1154ae02cacb:0x225196d1d2c44112",
+   "rating": 4.5,
+   "reviews": 1400,
+   "type": "Restaurant",
+   "address": "No 3, RMZ Infinity, Old Madras Rd, opposite GOPALAN GRAND MALL",
+   "gps_coordinates": {
+    "latitude": 12.993989,
+    "longitude": 77.66141
+   }
+  }
+ ]
+}

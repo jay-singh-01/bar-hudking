@@ -1,0 +1,465 @@
+{
+ "q": "best restaurants in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:41:05.570Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Pet People Cafe",
+   "place_id": "ChIJLx3B02cVrjsRoik-WW8W0Lk",
+   "data_id": "0x3bae1567d3c11d2f:0xb9d0166f593e29a2",
+   "rating": 4.7,
+   "reviews": 1500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912486,
+    "longitude": 77.64442
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Guru's Tiffin",
+   "place_id": "ChIJCx1L3U0VrjsRVMMZjuw8Urw",
+   "data_id": "0x3bae154ddd4b1d0b:0xbc523cec8e19c354",
+   "rating": 4.3,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "1152, 22nd Cross, 22nd B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90872,
+    "longitude": 77.64765
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "BHARTIYA JALPAN",
+   "place_id": "ChIJuY_bvJ4VrjsRk_BQtIlvDJM",
+   "data_id": "0x3bae159ebcdb8fb9:0x930c6f89b450f093",
+   "rating": 4,
+   "reviews": 6100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "2631, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9155655,
+    "longitude": 77.6516
+   },
+   "comment": "Casual space for North Indian cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Kolhapur Cha Rassa - Authentic Maharashtrian Resturant. ಕೊಲ್ಹಾಪುರ ಚಾ ರಸ್ಸಾ ಪ್ರಾಮಾಣಿಕ ಮಹಾರಾಷ್ಟ್ರೀಯ ಊಟಾಲಯ",
+   "place_id": "ChIJ81OHe2ITrjsRIKk-QcJQFaY",
+   "data_id": "0x3bae13627b8753f3:0xa61550c2413ea920",
+   "rating": 4,
+   "reviews": 627,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Maharashtrian Restaurant",
+   "address": "Rooftop, MBN Arcade, 8th A Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.903064,
+    "longitude": 77.641365
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Hanji Paji",
+   "place_id": "ChIJC6MQPgAVrjsRqemyJYfpfVE",
+   "data_id": "0x3bae15003e10a30b:0x517de98725b2e9a9",
+   "rating": 4.5,
+   "reviews": 635,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Punjabi",
+   "address": "1018, 13th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.91592,
+    "longitude": 77.64925
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Copper n Pepper Restaurant",
+   "place_id": "ChIJ21IT3gMVrjsR2DItvr3IiWI",
+   "data_id": "0x3bae1503de1352db:0x6289c8bdbe2d32d8",
+   "rating": 4.2,
+   "reviews": 899,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Chettinad",
+   "address": "No. 1677, Ground Floor 22nd Cross Road, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908435,
+    "longitude": 77.6515
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Cafe Hustle",
+   "place_id": "ChIJf9_M_n4VrjsRCpCUExTD7OU",
+   "data_id": "0x3bae157efeccdf7f:0xe5ecc3141394900a",
+   "rating": 4.5,
+   "reviews": 1700,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "188/A, 22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.909124,
+    "longitude": 77.6426
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "SHREE MUTHAHALLI VEG RESTAURANT",
+   "place_id": "ChIJ31IiGYUUrjsRaE5B7YwHG6U",
+   "data_id": "0x3bae1485192252df:0xa51b078ced414e68",
+   "rating": 4.2,
+   "reviews": 15000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "239/A, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914876,
+    "longitude": 77.64467
+   },
+   "comment": "Airy veggie eatery with rustic surrounds",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "UCV HSR",
+   "place_id": "ChIJS4E5jbkVrjsRIxtwjQxhiVc",
+   "data_id": "0x3bae15b98d39814b:0x5789610c8d701b23",
+   "rating": 4.5,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Fast Food",
+   "address": "2733, 16th Cross Rd, opposite nifd college",
+   "gps_coordinates": {
+    "latitude": 12.912726,
+    "longitude": 77.652534
+   }
+  },
+  {
+   "position": 10,
+   "title": "Bihar Junction- Litti Chokha, Parathas and Chinese Specialist.",
+   "place_id": "ChIJuzNSWTAVrjsRNzE3L2HUCFE",
+   "data_id": "0x3bae1530595233bb:0x5108d4612f373137",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "1086/A, Twin tulips 18th cross, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.911792,
+    "longitude": 77.642426
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "The Pizza Bakery - HSR Layout",
+   "place_id": "ChIJiw8FH0MVrjsRxMxSBIFeax8",
+   "data_id": "0x3bae15431f050f8b:0x1f6b5e810452ccc4",
+   "rating": 4.5,
+   "reviews": 1100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pizza",
+   "address": "Ward No 174, No. 2345",
+   "gps_coordinates": {
+    "latitude": 12.912019,
+    "longitude": 77.64717
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "MTR",
+   "place_id": "ChIJn8o17U4VrjsRSMVgVifZXMM",
+   "data_id": "0x3bae154eed35ca9f:0xc35cd9275660c548",
+   "rating": 4.1,
+   "reviews": 8100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "169, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916488,
+    "longitude": 77.64459
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Tue"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Daily Sushi - HSR Layout",
+   "place_id": "ChIJGdFQtWUVrjsRVB21YEfp4E8",
+   "data_id": "0x3bae1565b550d119:0x4fe0e94760b51d54",
+   "rating": 4.5,
+   "reviews": 2800,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Asian",
+   "address": "No.1212, SBM Fortune, 4th Floor, 22nd Cross Road, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.909358,
+    "longitude": 77.63871
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Arogya Ahaara HSR",
+   "place_id": "ChIJSfvQytoVrjsRqhNwtmXVZFU",
+   "data_id": "0x3bae15dacad0fb49:0x5564d565b67013aa",
+   "rating": 4.5,
+   "reviews": 10000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Brunch",
+   "address": "4, 14th Main Rd, next to HDFC Bank",
+   "gps_coordinates": {
+    "latitude": 12.916705,
+    "longitude": 77.63812
+   },
+   "comment": "Relaxed eatery offering regional fare",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Mast Marathi Restaurant | HSR Layout",
+   "place_id": "ChIJ8by0gTAVrjsRsMF4xXiqtqI",
+   "data_id": "0x3bae153081b4bcf1:0xa2b6aa78c578c1b0",
+   "rating": 4.1,
+   "reviews": 4100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "Ground Floor, 555, 14th Main Rd, next to Hello World HQ",
+   "gps_coordinates": {
+    "latitude": 12.907825,
+    "longitude": 77.63786
+   },
+   "comment": "Casual eatery for veggie Marathi dishes",
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Hebe's Cafe_HSR Layout",
+   "place_id": "ChIJM10vhY4VrjsRixYFIl5-DK0",
+   "data_id": "0x3bae158e852f5d33:0xad0c7e5e2205168b",
+   "rating": 4.2,
+   "reviews": 718,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Continental restaurant",
+   "address": "Shop No. 764,HSR club Road",
+   "gps_coordinates": {
+    "latitude": 12.909184,
+    "longitude": 77.640205
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available)",
+   "place_id": "ChIJ2cTTofQVrjsRhdG7UJ_kSxE",
+   "data_id": "0x3bae15f4a1d3c4d9:0x114be49f50bbd185",
+   "rating": 4.8,
+   "reviews": 585,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "218, Shop # 1, 15th Cross, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914045,
+    "longitude": 77.63497
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "My Affair With Food - Chaat Attack",
+   "place_id": "ChIJC24tS7QVrjsRjI-83k4oz5A",
+   "data_id": "0x3bae15b44b2d6e0b:0x90cf284edebc8f8c",
+   "rating": 4.2,
+   "reviews": 777,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "89, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912484,
+    "longitude": 77.63855
+   }
+  },
+  {
+   "position": 19,
+   "title": "Teatings",
+   "place_id": "ChIJicTvMnYVrjsRAwNp4iSA3DQ",
+   "data_id": "0x3bae157632efc489:0x34dc8024e2690303",
+   "rating": 4.5,
+   "reviews": 1400,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "Ground Floor, 152, 9th Main Rd, opp. to HSR High Street",
+   "gps_coordinates": {
+    "latitude": 12.912918,
+    "longitude": 77.635414
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "BANOFFEE",
+   "place_id": "ChIJg1_ln8QVrjsRaPA1olqWLm8",
+   "data_id": "0x3bae15c49fe55f83:0x6f2e965aa235f068",
+   "rating": 4.1,
+   "reviews": 2000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "2",
+   "gps_coordinates": {
+    "latitude": 12.914805,
+    "longitude": 77.63834
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  }
+ ]
+}

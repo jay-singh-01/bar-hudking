@@ -1,0 +1,443 @@
+{
+ "q": "cafes in Malleshwaram Bangalore",
+ "ll": "@13.0077,77.5694,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:27:44.994Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Brown Table",
+   "place_id": "ChIJZQ8x8k0XrjsR1Tr9gd5_XrE",
+   "data_id": "0x3bae174df2310f65:0xb15e7fde81fd3ad5",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "238, Dr CV Raman Road, RMV extension",
+   "gps_coordinates": {
+    "latitude": 13.014541,
+    "longitude": 77.57432
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Silaa The Garden Cafe Malleshwara",
+   "place_id": "ChIJczn5N3YXrjsRnW811ldGgNg",
+   "data_id": "0x3bae177637f93973:0xd8804657d6356f9d",
+   "rating": 4.7,
+   "reviews": 5700,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "1/2,14th cross road, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 13.004442,
+    "longitude": 77.57097
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Bengaluru Cafe",
+   "place_id": "ChIJ5WPtPgAXrjsRQ5HAEKVT1Cc",
+   "data_id": "0x3bae17003eed63e5:0x27d453a510c09143",
+   "rating": 4.3,
+   "reviews": 3200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "242, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.0067,
+    "longitude": 77.571045
+   }
+  },
+  {
+   "position": 4,
+   "title": "The World Cafe",
+   "place_id": "ChIJ9ZtCL5Q9rjsRyTcp2IjIdVc",
+   "data_id": "0x3bae3d942f429bf5:0x5775c888d82937c9",
+   "rating": 4.4,
+   "reviews": 224,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Lobby Level, World Trade Center, Brigade Gateway, Malleswara, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.011899,
+    "longitude": 77.556526
+   },
+   "comment": "Cool hangout for global bites & coffee",
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Enne",
+   "place_id": "ChIJq5nfHMUXrjsR_l6XfL8J4y8",
+   "data_id": "0x3bae17c51cdf99ab:0x2fe309bf7c975efe",
+   "rating": 4,
+   "reviews": 4100,
+   "type": "South Indian",
+   "address": "3rd floor, #30, 1st cross road, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.994254,
+    "longitude": 77.57121
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Clean Slate Café",
+   "place_id": "ChIJN4y9YS4WrjsRrNGYWo0KXto",
+   "data_id": "0x3bae162e61bd8c37:0xda5e0a8d5a98d1ac",
+   "rating": 4.3,
+   "reviews": 1500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Shop No.2, 14th Cross Road, Malleshwaram West",
+   "gps_coordinates": {
+    "latitude": 13.004405,
+    "longitude": 77.57067
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Hermitage India",
+   "place_id": "ChIJ30QB03o9rjsRAJTog856uCI",
+   "data_id": "0x3bae3d7ad30144df:0x22b87ace83e89400",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "Infront of Harmakki Coffee, 58 ,8th main, 17th A Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.0085535,
+    "longitude": 77.56335
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Benji’s Coffee",
+   "place_id": "ChIJKUJlTAAXrjsRlof4XcjM_b8",
+   "data_id": "0x3bae17004c654229:0xbffdccc85df88796",
+   "rating": 4.7,
+   "reviews": 147,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "Ground floor, Benji’s Coffee, 127, 10th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.000978,
+    "longitude": 77.56961
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Rameshwaram Cafe",
+   "place_id": "ChIJe9qj3xs9rjsRDN6CamLC-Co",
+   "data_id": "0x3bae3d1bdfa3da7b:0x2af8c2626a82de0c",
+   "rating": 4.1,
+   "reviews": 17000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "27, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.008381,
+    "longitude": 77.55472
+   }
+  },
+  {
+   "position": 10,
+   "title": "Harmakki Coffee Company",
+   "place_id": "ChIJ97gfaKEXrjsRnmZLqzINCJg",
+   "data_id": "0x3bae17a1681fb8f7:0x98080d32ab4b669e",
+   "rating": 4.5,
+   "reviews": 156,
+   "type": "Coffee roastery",
+   "address": "111,8th main, 18th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.008633,
+    "longitude": 77.563515
+   }
+  },
+  {
+   "position": 11,
+   "title": "Old School Cafe",
+   "place_id": "ChIJ-TFJLF4XrjsRCQ8lF_CsW5g",
+   "data_id": "0x3bae175e2c4931f9:0x985bacf017250f09",
+   "rating": 4.5,
+   "reviews": 54,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "16th Cross, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.006751,
+    "longitude": 77.56404
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJY5DDvOwXrjsRqoEfkYKD-po",
+   "data_id": "0x3bae17ecbcc39063:0x9afa8382911f81aa",
+   "rating": 4.5,
+   "reviews": 1200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Spearhead Towers, 57, Margosa Rd",
+   "gps_coordinates": {
+    "latitude": 13.006806,
+    "longitude": 77.568985
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Tealogy Cafe Malleshwaram",
+   "place_id": "ChIJi_wJFXEXrjsRPxDbZNqEvvo",
+   "data_id": "0x3bae17711509fc8b:0xfabe84da64db103f",
+   "rating": 4.7,
+   "reviews": 58,
+   "price": "₹1–400",
+   "extracted_price": {
+    "min": 1,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Shop no G-8, Building 494, 4th cross, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.996236,
+    "longitude": 77.57178
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Suvai coffee",
+   "place_id": "ChIJRYFgD4UXrjsRL41Tr9PmwHA",
+   "data_id": "0x3bae17850f608145:0x70c0e6d3af538d2f",
+   "rating": 4.6,
+   "reviews": 54,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "112 Margosa road, 13th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.0033,
+    "longitude": 77.569466
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "By 2 Coffee-Temple Meals",
+   "place_id": "ChIJRUa3vSUWrjsR-pv3UihhGeo",
+   "data_id": "0x3bae1625bdb74645:0xea19612852f79bfa",
+   "rating": 4.1,
+   "reviews": 4200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "No-151, 3rd Main, 7th Cross, Malleshwaram",
+   "gps_coordinates": {
+    "latitude": 12.998321,
+    "longitude": 77.56959
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "The Bangalore Cafe",
+   "place_id": "ChIJo0tJmV8VrjsR0vWuyvPK9DM",
+   "data_id": "0x3bae155f99494ba3:0x33f4caf3caaef5d2",
+   "rating": 4.3,
+   "reviews": 13000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "4, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.961559,
+    "longitude": 77.594696
+   }
+  },
+  {
+   "position": 17,
+   "title": "The illusion Cafe",
+   "place_id": "ChIJcx5ZaAE9rjsRK3AASayHGeI",
+   "data_id": "0x3bae3d0168591e73:0xe21987ac4900702b",
+   "rating": 3.9,
+   "reviews": 2900,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "720,9th cross, Modi Hospital Rd",
+   "gps_coordinates": {
+    "latitude": 12.99739,
+    "longitude": 77.54822
+   },
+   "comment": "Casual spot for global comfort food",
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Cafe Stone",
+   "place_id": "ChIJSQgmGboXrjsRNfwUSxCnb4I",
+   "data_id": "0x3bae17ba19260849:0x826fa7104b14fc35",
+   "rating": 4,
+   "reviews": 537,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "24, Gangadhar Chetty Rd",
+   "gps_coordinates": {
+    "latitude": 12.981332,
+    "longitude": 77.6127
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "ANANTHAM CAFE",
+   "place_id": "ChIJYeoyBQAXrjsRpBCu15gXY9g",
+   "data_id": "0x3bae17000532ea61:0xd8631798d7ae10a4",
+   "rating": 3.2,
+   "reviews": 81,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "25 4th Cross, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.996213,
+    "longitude": 77.57131
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Central Tiffin Room",
+   "place_id": "ChIJ82NqvCUWrjsRC33A4yTYQWk",
+   "data_id": "0x3bae1625bc6a63f3:0x6941d824e3c07d0b",
+   "rating": 4.3,
+   "reviews": 38000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "7th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.998233,
+    "longitude": 77.56954
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  }
+ ]
+}

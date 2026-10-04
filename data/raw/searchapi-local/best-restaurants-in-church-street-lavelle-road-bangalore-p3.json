@@ -1,0 +1,434 @@
+{
+ "q": "best restaurants in Church Street/Lavelle Road Bangalore",
+ "ll": "@12.9718,77.5985,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:40:22.311Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Biere Club | Lavelle Road",
+   "place_id": "ChIJMYFexnkWrjsRMszkT3qrDa0",
+   "data_id": "0x3bae1679c65e8131:0xad0dab7a4fe4cc32",
+   "rating": 4.2,
+   "reviews": 17000,
+   "type": "Restaurant",
+   "address": "20/2, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.970886,
+    "longitude": 77.59759
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "South Parade",
+   "place_id": "ChIJ3aU6sqsXrjsRjE8tJlnX2K8",
+   "data_id": "0x3bae17abb23aa5dd:0xafd8d759262d4f8c",
+   "rating": 4.7,
+   "reviews": 7,
+   "type": "North Indian",
+   "address": "Lavelle Road, next to Kotak Mahindra Bank",
+   "gps_coordinates": {
+    "latitude": 12.975662,
+    "longitude": 77.599304
+   }
+  },
+  {
+   "position": 3,
+   "title": "Pangeo",
+   "place_id": "ChIJz9zsYtIXrjsRMXdex-y8XxE",
+   "data_id": "0x3bae17d262ecdccf:0x115fbcecc75e7731",
+   "rating": 4.5,
+   "reviews": 4500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972639,
+    "longitude": 77.6066
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Zed The Baker @ Bowring Club",
+   "place_id": "ChIJ4ymiSl8XrjsRMHanTvAO4wY",
+   "data_id": "0x3bae175f4aa229e3:0x6e30ef04ea77630",
+   "rating": 4.2,
+   "reviews": 49,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.9742775,
+    "longitude": 77.600136
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Bheema's Restaurant",
+   "place_id": "ChIJlVo5T3wWrjsRUyNXkqtWdUc",
+   "data_id": "0x3bae167c4f395a95:0x477556ab92572353",
+   "rating": 4,
+   "reviews": 7100,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "31, Asha Building, Ground Floor, Church Street",
+   "gps_coordinates": {
+    "latitude": 12.9751835,
+    "longitude": 77.6036
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Toscano",
+   "place_id": "ChIJd_D2XncWrjsRSiEU0n0jAOw",
+   "data_id": "0x3bae16775ef6f077:0xec00237dd214214a",
+   "rating": 4.4,
+   "reviews": 2600,
+   "type": "Italian",
+   "address": "24, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971677,
+    "longitude": 77.596275
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "HOMIGA",
+   "place_id": "ChIJn5_VL2kXrjsRZ6No6gHrulM",
+   "data_id": "0x3bae17692fd59f9f:0x53baeb01ea68a367",
+   "rating": 4.8,
+   "reviews": 2200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Korean BBQ",
+   "address": "2nd Floor, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972491,
+    "longitude": 77.60694
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Green Theory",
+   "place_id": "ChIJX0zjWn8WrjsRsRSeStSoGD0",
+   "data_id": "0x3bae167f5ae34c5f:0x3d18a8d44a9e14b1",
+   "rating": 4.1,
+   "reviews": 6000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Vegetarian",
+   "address": "Green Theory, 15, Convent Rd",
+   "gps_coordinates": {
+    "latitude": 12.968317,
+    "longitude": 77.60279
+   },
+   "comment": "Quaint vegetarian choice with a patio",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Anupam’s Coast To Coast",
+   "place_id": "ChIJ5Vq59FwXrjsRrloyQHiKDsM",
+   "data_id": "0x3bae175cf4b95ae5:0xc30e8a7840325aae",
+   "rating": 4.3,
+   "reviews": 2400,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Seafood",
+   "address": "#56, Above Star bucks, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974534,
+    "longitude": 77.60735
+   },
+   "comment": "Relaxed eatery for seafood & curries",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "No.10 Fort Cochin - Seafood Restaurant in St.Marks Road, Bangalore",
+   "place_id": "ChIJCUL3I3kWrjsRo35CiShzJiE",
+   "data_id": "0x3bae167923f74209:0x2126732889427ea3",
+   "rating": 4.4,
+   "reviews": 5000,
+   "type": "Seafood",
+   "address": "21, First Floor, Vasavi Complex, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.971777,
+    "longitude": 77.60085
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Sanchez",
+   "place_id": "ChIJicp2X3cWrjsReB1kgBOsQZg",
+   "data_id": "0x3bae16775f76ca89:0x9841ac1380641d78",
+   "rating": 4.2,
+   "reviews": 3600,
+   "type": "Mexican",
+   "address": "UB City, 204, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971589,
+    "longitude": 77.59606
+   },
+   "comment": "Modern Mexican restaurant with a patio",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The White Room Coffee & Kitchen",
+   "place_id": "ChIJb6vjaHwWrjsR3EQYgm4n-y4",
+   "data_id": "0x3bae167c68e3ab6f:0x2efb276e821844dc",
+   "rating": 4.1,
+   "reviews": 2500,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "33, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975119,
+    "longitude": 77.60331
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Truffles St. Marks",
+   "place_id": "ChIJWXKnRHkWrjsRh3kh6fY55pg",
+   "data_id": "0x3bae167944a77259:0x98e639f6e9217987",
+   "rating": 4.5,
+   "reviews": 21000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Fast Food",
+   "address": "XJC2+M9M, 22, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.971823,
+    "longitude": 77.60089
+   },
+   "comment": "Hip cafe for classic American eats",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Kuuraku",
+   "place_id": "ChIJlc4a42AXrjsRmxOvhd194fA",
+   "data_id": "0x3bae1760e31ace95:0xf0e17ddd85af139b",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Japanese",
+   "address": "1st Floor, Forum Rex Walk",
+   "gps_coordinates": {
+    "latitude": 12.972673,
+    "longitude": 77.60688
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "MTR",
+   "place_id": "ChIJ3ZIMQ3kWrjsR50bc0zsS8Lg",
+   "data_id": "0x3bae1679430c92dd:0xb8f0123bd3dc46e7",
+   "rating": 4.1,
+   "reviews": 9500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "29, Ground Floor, White House, St Mark's Rd, opposite SBI HQ",
+   "gps_coordinates": {
+    "latitude": 12.9722185,
+    "longitude": 77.60105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Matteo Coffea",
+   "place_id": "ChIJd1HW9X0WrjsRlH0QQRJMAwk",
+   "data_id": "0x3bae167df5d65177:0x9034c1241107d94",
+   "rating": 4.3,
+   "reviews": 7200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "2, Church Street, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.974276,
+    "longitude": 77.607025
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Bengaluru Restaurant",
+   "place_id": "ChIJf2-y-BwVrjsR0G-Ts_6cAVs",
+   "data_id": "0x3bae151cf8b26f7f:0x5b019cfeb3936fd0",
+   "rating": 4.7,
+   "reviews": 436,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Indian",
+   "address": "Ganigara, C, Gurkar Ramanayak Ln",
+   "gps_coordinates": {
+    "latitude": 12.966572,
+    "longitude": 77.583145
+   }
+  },
+  {
+   "position": 18,
+   "title": "Chutney Chang",
+   "place_id": "ChIJmdCwoH4WrjsR_qhTuMyAxAo",
+   "data_id": "0x3bae167ea0b0d099:0xac480ccb853a8fe",
+   "rating": 4,
+   "reviews": 11000,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "HM Eleganza, 31 & 31/1, Museum Rd, near Church Street",
+   "gps_coordinates": {
+    "latitude": 12.97377,
+    "longitude": 77.60303
+   },
+   "comment": "Chinese & Indian buffet with many dishes",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "JW Kitchen",
+   "place_id": "ChIJ_x_iR3cWrjsRwrvKa9lpKMA",
+   "data_id": "0x3bae167747e21fff:0xc02869d96bcabbc2",
+   "rating": 4.3,
+   "reviews": 3800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Fine Dining",
+   "address": "24/1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972067,
+    "longitude": 77.59487
+   },
+   "comment": "Global restaurant at a luxury hotel",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Karavalli",
+   "place_id": "ChIJ5QD7Rn4WrjsRH_yAmEEDe3c",
+   "data_id": "0x3bae167e46fb00e5:0x777b03419880fc1f",
+   "rating": 4.5,
+   "reviews": 4600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "South Indian",
+   "address": "Vivanta, 66, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.972447,
+    "longitude": 77.60865
+   },
+   "comment": "Classy venue for regional Indian cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

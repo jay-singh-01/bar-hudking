@@ -1,0 +1,422 @@
+{
+ "q": "best seafood restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:33:29.320Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Boat House Sea Food Kitchen",
+   "place_id": "ChIJaQ1UT7AXrjsR9cGzZdtp59w",
+   "data_id": "0x3bae17b04f540d69:0xdce769db65b3c1f5",
+   "rating": 4.6,
+   "reviews": 489,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Seafood",
+   "address": "3rd Cross, 6th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.977489,
+    "longitude": 77.576836
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "COASTAL MACHALI CO.",
+   "place_id": "ChIJu5rHPpcVrjsRjd5INIBJ3NA",
+   "data_id": "0x3bae15973ec79abb:0xd0dc49803448de8d",
+   "rating": 4.2,
+   "reviews": 1400,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Seafood",
+   "address": "136, Ground Floor, Cears Plaza Residency Road, Richmond Rd, beside Chancery Pavilion",
+   "gps_coordinates": {
+    "latitude": 12.965647,
+    "longitude": 77.59825
+   },
+   "comment": "Polished eatery specialising in seafood",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "No.10 Fort Cochin - Seafood Restaurant in Indiranagar, Bangalore",
+   "place_id": "ChIJTTNpriwVrjsRblO-da6xAXE",
+   "data_id": "0x3bae152cae69334d:0x7101b1ae75be536e",
+   "rating": 4.5,
+   "reviews": 4800,
+   "type": "Seafood",
+   "address": "1st Floor, 2020, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.966852,
+    "longitude": 77.64164
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Fisherman's Wharf",
+   "place_id": "ChIJOzXHkaIZrjsRwC9CSqlrClk",
+   "data_id": "0x3bae19a291c7353b:0x590a6ba94a422fc0",
+   "rating": 4.4,
+   "reviews": 3500,
+   "type": "Seafood",
+   "address": "Sy.no-77, Land mark, Aerodrome, 2 & 77/1B, hobli",
+   "gps_coordinates": {
+    "latitude": 13.078928,
+    "longitude": 77.59266
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Mangalore Pearl",
+   "place_id": "ChIJ1bMIu_MWrjsRXm_f4HOBxug",
+   "data_id": "0x3bae16f3bb08b3d5:0xe8c68173e0df6f5e",
+   "rating": 4.4,
+   "reviews": 5700,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Seafood",
+   "address": "Assaye Road Skywalk Building, 2nd Floor, Sindhi Colony, Frazer Town, next to YMIA Club",
+   "gps_coordinates": {
+    "latitude": 12.990831,
+    "longitude": 77.619286
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "The Konkan (Est. 2017)",
+   "place_id": "ChIJwfCbgXsWrjsReNaPJ-moZEg",
+   "data_id": "0x3bae167b819bf0c1:0x4864a8e9278fd678",
+   "rating": 4.4,
+   "reviews": 1400,
+   "type": "Seafood",
+   "address": "No. 48, 1st Floor Saint Marks Road, Church St, above KC Das",
+   "gps_coordinates": {
+    "latitude": 12.975856,
+    "longitude": 77.601814
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Karavalli",
+   "place_id": "ChIJ5QD7Rn4WrjsRH_yAmEEDe3c",
+   "data_id": "0x3bae167e46fb00e5:0x777b03419880fc1f",
+   "rating": 4.5,
+   "reviews": 4600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "South Indian",
+   "address": "Vivanta, 66, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.972447,
+    "longitude": 77.60865
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Lobster Blush Coastal Kitchen",
+   "place_id": "ChIJ91wlmT0XrjsRLbekNt7E6U8",
+   "data_id": "0x3bae173d99255cf7:0x4fe9c4de36a4b72d",
+   "rating": 4.4,
+   "reviews": 1500,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Seafood",
+   "address": "29, Dr Rajgopal Rd",
+   "gps_coordinates": {
+    "latitude": 13.036353,
+    "longitude": 77.57463
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Sea Meen Restaurant",
+   "place_id": "ChIJH-vpL9MVrjsRTmRCWnsxm6o",
+   "data_id": "0x3bae15d32fe9eb1f:0xaa9b317b5a42644e",
+   "rating": 4.5,
+   "reviews": 714,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Seafood",
+   "address": "Ground Floor, 410, 1st C Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.935247,
+    "longitude": 77.612915
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "The Fisherman's Wharf",
+   "place_id": "ChIJjy3YH3ATrjsRm2pRI8P87bM",
+   "data_id": "0x3bae13701fd82d8f:0xb3edfcc323516a9b",
+   "rating": 4.2,
+   "reviews": 22000,
+   "type": "Seafood",
+   "address": "Hobli, FWB- #26, Opp. Shub Enclave Harulur Road, Ambalipura Village, Varthur, Off Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.914445,
+    "longitude": 77.66628
+   },
+   "comment": "Alfresco bar & Goan seafood restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "No.10 Fort Cochin - Seafood Restaurant in St.Marks Road, Bangalore",
+   "place_id": "ChIJCUL3I3kWrjsRo35CiShzJiE",
+   "data_id": "0x3bae167923f74209:0x2126732889427ea3",
+   "rating": 4.4,
+   "reviews": 5000,
+   "type": "Seafood",
+   "address": "21, First Floor, Vasavi Complex, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.971777,
+    "longitude": 77.60085
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Coast at JP Nagar",
+   "place_id": "ChIJ8Y9b2wIVrjsRcGITX3kuHxc",
+   "data_id": "0x3bae1502db5b8ff1:0x171f2e795f136270",
+   "rating": 4.5,
+   "reviews": 2500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Seafood",
+   "address": "35/4",
+   "gps_coordinates": {
+    "latitude": 12.893211,
+    "longitude": 77.58622
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "No.10 Fort Cochin - Seafood Restaurant in Marathahalli, Bangalore",
+   "place_id": "ChIJ_7inyncTrjsRgMv46mZxH64",
+   "data_id": "0x3bae1377caa7b8ff:0xae1f7166eaf8cb80",
+   "rating": 4.5,
+   "reviews": 1900,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Seafood",
+   "address": "20/5, 2nd floor, Panathur, Junction, Kadubeesanahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.93881,
+    "longitude": 77.69504
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Maravanthe Coastal Cuisine",
+   "place_id": "ChIJ5dErjqQWrjsRG-_GKhhGD0I",
+   "data_id": "0x3bae16a48e2bd1e5:0x420f46182ac6ef1b",
+   "rating": 4.3,
+   "reviews": 4700,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Seafood",
+   "address": "322/1, Chinmaya Mission Hospital Rd, Near Indiranagar Metro Station",
+   "gps_coordinates": {
+    "latitude": 12.978394,
+    "longitude": 77.63725
+   },
+   "comment": "Coastal fare with a street view",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Kudla Restaurant",
+   "place_id": "ChIJ2xy5bNgVrjsRSQAjA0Dfakg",
+   "data_id": "0x3bae15d86cb91cdb:0x486adf4003230049",
+   "rating": 4.3,
+   "reviews": 2300,
+   "type": "Seafood",
+   "address": "Ramanashree Richmond, 16, Raja Ram Mohan Roy Rd",
+   "gps_coordinates": {
+    "latitude": 12.9661875,
+    "longitude": 77.59485
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:15 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Sanadige Bengaluru",
+   "place_id": "ChIJN0JP2y4UrjsRKtIq4iotKWE",
+   "data_id": "0x3bae142edb4f4237:0x61292d2ae22ad22a",
+   "rating": 4.2,
+   "reviews": 1500,
+   "type": "Seafood",
+   "address": "32, Crescent Rd, Goldfinch Hotel, Race Course Road, 3, Crescent Rd, off Race Course Road",
+   "gps_coordinates": {
+    "latitude": 12.9854,
+    "longitude": 77.57944
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Carnival de Goa",
+   "place_id": "ChIJ3arIR5sWrjsR-jmHYz4LQio",
+   "data_id": "0x3bae169b47c8aadd:0x2a420b3e638739fa",
+   "rating": 4.3,
+   "reviews": 4000,
+   "type": "Seafood",
+   "address": "No:8/6, Kensington Point, Ulsoor Rd",
+   "gps_coordinates": {
+    "latitude": 12.975054,
+    "longitude": 77.619965
+   },
+   "comment": "Relaxed Goan bistro with a full bar",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Anupam’s Coast To Coast",
+   "place_id": "ChIJ5Vq59FwXrjsRrloyQHiKDsM",
+   "data_id": "0x3bae175cf4b95ae5:0xc30e8a7840325aae",
+   "rating": 4.3,
+   "reviews": 2400,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Seafood",
+   "address": "#56, Above Star bucks, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974534,
+    "longitude": 77.60735
+   },
+   "comment": "Relaxed eatery for seafood & curries",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Fresh Catch Seafood Restaurant & Market",
+   "place_id": "ChIJ8aNgDwAZrjsRILjOfgqVAv4",
+   "data_id": "0x3bae19000f60a3f1:0xfe02950a7eceb820",
+   "rating": 4.6,
+   "reviews": 639,
+   "type": "Seafood",
+   "address": "05, K, 36 & 35/30, K Narayanapura Main Rd, opposite Vishal Mega Mart",
+   "gps_coordinates": {
+    "latitude": 13.064597,
+    "longitude": 77.64838
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Mahesh Lunch Home",
+   "place_id": "ChIJY6ZvudcVrjsRg7K8LCEkIK4",
+   "data_id": "0x3bae15d7b96fa663:0xae2024212cbcb283",
+   "rating": 4.1,
+   "reviews": 5500,
+   "type": "Seafood",
+   "address": "2011, 1st Floor",
+   "gps_coordinates": {
+    "latitude": 12.965359,
+    "longitude": 77.64169
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

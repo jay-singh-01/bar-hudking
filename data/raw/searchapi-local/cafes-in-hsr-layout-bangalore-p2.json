@@ -1,0 +1,451 @@
+{
+ "q": "cafes in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:42:31.015Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "L81 Cafe",
+   "place_id": "ChIJlcEO7SQVrjsR054mHjIi-Dc",
+   "data_id": "0x3bae1524ed0ec195:0x37f822321e269ed3",
+   "rating": 4.2,
+   "reviews": 965,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "L-81, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.914009,
+    "longitude": 77.631096
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Cafe Here & Now",
+   "place_id": "ChIJndRvO44UrjsRkpHMwlTTxUU",
+   "data_id": "0x3bae148e3b6fd49d:0x45c5d354c2cc9192",
+   "rating": 4.3,
+   "reviews": 4500,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "Second Floor, Liss Arcade, L-149/A, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915412,
+    "longitude": 77.632095
+   },
+   "comment": "Casual spot for burgers & fast food",
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "The Pet People Cafe",
+   "place_id": "ChIJLx3B02cVrjsRoik-WW8W0Lk",
+   "data_id": "0x3bae1567d3c11d2f:0xb9d0166f593e29a2",
+   "rating": 4.7,
+   "reviews": 1500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912486,
+    "longitude": 77.64442
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Katha Kavana",
+   "place_id": "ChIJkf8WPxIVrjsRxWo7sMOQ7t8",
+   "data_id": "0x3bae15123f16ff91:0xdfee90c3b03b6ac5",
+   "rating": 4.1,
+   "reviews": 567,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Coffee shop",
+   "address": "243, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912524,
+    "longitude": 77.63487
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Nerlu Cafe",
+   "place_id": "ChIJ55QNXQAVrjsRIv73dbq2fYw",
+   "data_id": "0x3bae15005d0d94e7:0x8c7db6ba75f7fe22",
+   "rating": 4.1,
+   "reviews": 112,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Coffee shop",
+   "address": "L149,Eshwari Mansion 5th Main Road, Sector 6, HSR Layout, opposite Cult Gym",
+   "gps_coordinates": {
+    "latitude": 12.915288,
+    "longitude": 77.63214
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Hebe's Cafe_HSR Layout",
+   "place_id": "ChIJM10vhY4VrjsRixYFIl5-DK0",
+   "data_id": "0x3bae158e852f5d33:0xad0c7e5e2205168b",
+   "rating": 4.2,
+   "reviews": 718,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Shop No. 764,HSR club Road",
+   "gps_coordinates": {
+    "latitude": 12.909184,
+    "longitude": 77.640205
+   },
+   "comment": "Cosy hangout for snacks & bowl food",
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Shelby The Barista",
+   "place_id": "ChIJqWXfVgAVrjsRrM5duYrhldo",
+   "data_id": "0x3bae150056df65a9:0xda95e18ab95dceac",
+   "rating": 4.3,
+   "reviews": 386,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "358, 25th B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908742,
+    "longitude": 77.650986
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "To Be Continued Sky Lounge TBC",
+   "place_id": "ChIJd9DFZ4AUrjsRMvg9cEl-fJM",
+   "data_id": "0x3bae148067c5d077:0x937c7e49703df832",
+   "rating": 4.4,
+   "reviews": 15000,
+   "type": "Restaurant",
+   "address": "2795, 27th Main Rd, near Sony Center",
+   "gps_coordinates": {
+    "latitude": 12.922893,
+    "longitude": 77.65145
+   },
+   "comment": "Global eats & a stylish greenhouse vibe",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Dyu Art Cafe",
+   "place_id": "ChIJ80IECk8UrjsRqCffDjE09lw",
+   "data_id": "0x3bae144f0a0442f3:0x5cf634310edf27a8",
+   "rating": 4.4,
+   "reviews": 21000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Art cafe",
+   "address": "KHB MIG Colony, Dyu art cafe 23, 22, 1st Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.937307,
+    "longitude": 77.61765
+   },
+   "comment": "Mellow global cafe & art gallery",
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "The Chaitini",
+   "place_id": "ChIJ_cGm3fkVrjsRk56laUSzJ2o",
+   "data_id": "0x3bae15f9dda6c1fd:0x6a27b34469a59e93",
+   "rating": 4.3,
+   "reviews": 754,
+   "type": "Cafe",
+   "address": "Chaitini, 681, 13th cross road, 25th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91594,
+    "longitude": 77.64968
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Chai Sutta Bar HSR Bangalore",
+   "place_id": "ChIJ10XkXIoVrjsRBT-sPStSxBc",
+   "data_id": "0x3bae158a5ce445d7:0x17c4522b3dac3f05",
+   "rating": 3.9,
+   "reviews": 577,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "119/543, 7th Cross, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.919689,
+    "longitude": 77.64985
+   }
+  },
+  {
+   "position": 12,
+   "title": "Café Amudham Restaurant HSR Layout",
+   "place_id": "ChIJwW3vWEkVrjsR2sjB9b83Kjo",
+   "data_id": "0x3bae154958ef6dc1:0x3a2a37bff5c1c8da",
+   "rating": 3.9,
+   "reviews": 1200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "ground floor, 17/N, 18th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.911733,
+    "longitude": 77.64417
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Hole In The Wall Cafe",
+   "place_id": "ChIJy9Ry9GcUrjsRlAT3TuW94lE",
+   "data_id": "0x3bae1467f472d4cb:0x51e2bde54ef70494",
+   "rating": 4.3,
+   "reviews": 21000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "3, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.93474,
+    "longitude": 77.62547
+   },
+   "comment": "Laid-back cafe serving hearty breakfasts",
+   "extensions": [
+    "Closed",
+    "Opens 8 am Tue"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Essentials Cafe",
+   "place_id": "ChIJlXgNEgQVrjsRfJW_-0tBiHo",
+   "data_id": "0x3bae1504120d7895:0x7a88414bfbbf957c",
+   "rating": 4.9,
+   "reviews": 241,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "1194, 22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.908528,
+    "longitude": 77.649956
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "ON THE GO cafe - HSR LAYOUT",
+   "place_id": "ChIJF3L01qwVrjsRiLYwCziCVpU",
+   "data_id": "0x3bae15acd6f47217:0x955682380b30b688",
+   "rating": 4.8,
+   "reviews": 68,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "No 824, ground floor, 27th Main Rd, below printo",
+   "gps_coordinates": {
+    "latitude": 12.9189205,
+    "longitude": 77.651375
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Coffee makers",
+   "place_id": "ChIJBSsVgvgVrjsR7Qf8jT8ZFAI",
+   "data_id": "0x3bae15f882152b05:0x214193f8dfc07ed",
+   "rating": 4.5,
+   "reviews": 892,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.903697,
+    "longitude": 77.64868
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "BOOT CAMP - HSR LAYOUT",
+   "place_id": "ChIJv5WzImcVrjsR454dHvJLY94",
+   "data_id": "0x3bae156722b395bf:0xde634bf21e1d9ee3",
+   "rating": 4.7,
+   "reviews": 564,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "266 16th cross, 18th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913952,
+    "longitude": 77.64425
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Kapoor's Cafe - HSR Branch",
+   "place_id": "ChIJF5IG3J0UrjsR1eIOcyjF60U",
+   "data_id": "0x3bae149ddc069217:0x45ebc528730ee2d5",
+   "rating": 3.9,
+   "reviews": 10000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Punjabi",
+   "address": "WM42+62M, 337, 27th Main, Sector 2 HSR Layout Opposite KLM Shopping Mall",
+   "gps_coordinates": {
+    "latitude": 12.908018,
+    "longitude": 77.65195
+   },
+   "comment": "Indian decor & classic Punjabi food",
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Don't Tell Mama | Rooftop Bar & Kitchen",
+   "place_id": "ChIJnX46NIwUrjsRKyiFX2itWzo",
+   "data_id": "0x3bae148c343a7e9d:0x3a5bad685f85282b",
+   "rating": 4.1,
+   "reviews": 2200,
+   "type": "Restaurant",
+   "address": "13th Cross Rd, below The Elite Royale",
+   "gps_coordinates": {
+    "latitude": 12.915755,
+    "longitude": 77.63453
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "BLR Brewing Co - HSR Layout",
+   "place_id": "ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+   "data_id": "0x3bae15804ad3fe67:0x722e32f9dba764b1",
+   "rating": 4.4,
+   "reviews": 3700,
+   "type": "Brewery",
+   "address": "1st Floor, 450, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912324,
+    "longitude": 77.6416
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  }
+ ]
+}

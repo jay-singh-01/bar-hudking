@@ -1,0 +1,397 @@
+{
+ "q": "cafes in MG Road/Brigade Road Bangalore",
+ "ll": "@12.9752,77.6065,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:27:37.393Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "T'ART Cafe",
+   "place_id": "ChIJ290JVbcVrjsRK4IVxNG5ur8",
+   "data_id": "0x3bae15b75509dddb:0xbfbab9d1c415822b",
+   "rating": 4.5,
+   "reviews": 616,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "Unit 104, Ground floor, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972745,
+    "longitude": 77.606766
+   },
+   "comment": "Artisanal sweet treats & baked goods"
+  },
+  {
+   "position": 2,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Gastropub",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   },
+   "comment": "Vibrant bar for live music & global eats"
+  },
+  {
+   "position": 3,
+   "title": "Pangeo",
+   "place_id": "ChIJz9zsYtIXrjsRMXdex-y8XxE",
+   "data_id": "0x3bae17d262ecdccf:0x115fbcecc75e7731",
+   "rating": 4.5,
+   "reviews": 4500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972639,
+    "longitude": 77.6066
+   }
+  },
+  {
+   "position": 4,
+   "title": "Cafe Azzure",
+   "place_id": "ChIJHR1AZocWrjsRoTaqyTLJvCw",
+   "data_id": "0x3bae168766401d1d:0x2cbcc932c9aa36a1",
+   "rating": 4.1,
+   "reviews": 8700,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "52, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975012,
+    "longitude": 77.60766
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Trippy Goat Cafe",
+   "place_id": "ChIJibah5rEXrjsRBqh68oiwMcM",
+   "data_id": "0x3bae17b1e6a1b689:0xc331b088f27aa806",
+   "rating": 4.3,
+   "reviews": 992,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "Indicube Symphony, Shankarnarayan Building, Mahatma Gandhi Rd, opposite East Parade Church",
+   "gps_coordinates": {
+    "latitude": 12.973179,
+    "longitude": 77.61495
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Levista Gourmet Studio",
+   "place_id": "ChIJb5mgV00XrjsRZU9Gn79LH8w",
+   "data_id": "0x3bae174d57a0996f:0xcc1f4bbf9f464f65",
+   "rating": 4.6,
+   "reviews": 2000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Metro Station, Church Street, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.974659,
+    "longitude": 77.60662
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Cafe Stone",
+   "place_id": "ChIJSQgmGboXrjsRNfwUSxCnb4I",
+   "data_id": "0x3bae17ba19260849:0x826fa7104b14fc35",
+   "rating": 4,
+   "reviews": 537,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "24, Gangadhar Chetty Rd",
+   "gps_coordinates": {
+    "latitude": 12.981332,
+    "longitude": 77.6127
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Communiti",
+   "place_id": "ChIJGfvrpIAWrjsRGGKh9a3WQ2I",
+   "data_id": "0x3bae1680a4ebfb19:0x6243d6adf5a16218",
+   "rating": 4.4,
+   "reviews": 31000,
+   "type": "Brewery",
+   "address": "Brigade Solitare, 67/68, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.972421,
+    "longitude": 77.608246
+   }
+  },
+  {
+   "position": 9,
+   "title": "Hey Habibi - M G Road",
+   "place_id": "ChIJ7yMzHF8XrjsRESkSSl-BkrA",
+   "data_id": "0x3bae175f1c3323ef:0xb092815f4a122911",
+   "rating": 4.2,
+   "reviews": 578,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Mediterranean",
+   "address": "Pillar Number 192, Rangoli Metro Art Center, Boulevard, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975781,
+    "longitude": 77.6056
+   }
+  },
+  {
+   "position": 10,
+   "title": "TOCA Brigade and Terrace",
+   "place_id": "ChIJ62siEjQXrjsRoy7xHOObj_c",
+   "data_id": "0x3bae173412226beb:0xf78f9be31cf12ea3",
+   "rating": 4.4,
+   "reviews": 2800,
+   "type": "Restaurant",
+   "address": "3rd and 4th floor, 25, Brigade Rd, above Levi’s showroom",
+   "gps_coordinates": {
+    "latitude": 12.973753,
+    "longitude": 77.607704
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "We:Neighborhood",
+   "place_id": "ChIJiUfMjSAXrjsRGvFZeLpuGiQ",
+   "data_id": "0x3bae17208dcc4789:0x241a6eba7859f11a",
+   "rating": 4.3,
+   "reviews": 2000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Brewpub",
+   "address": "No. 67/1, Brigade Solitare, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.9724245,
+    "longitude": 77.60825
+   }
+  },
+  {
+   "position": 12,
+   "title": "Matteo Coffea",
+   "place_id": "ChIJd1HW9X0WrjsRlH0QQRJMAwk",
+   "data_id": "0x3bae167df5d65177:0x9034c1241107d94",
+   "rating": 4.3,
+   "reviews": 7200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "2, Church Street, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.974276,
+    "longitude": 77.607025
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Cahoots Bangalore",
+   "place_id": "ChIJFYVV3yQXrjsRqi1mVonAZAc",
+   "data_id": "0x3bae1724df558515:0x764c08956662daa",
+   "rating": 4.7,
+   "reviews": 648,
+   "type": "Restaurant",
+   "address": "Ground Floor, No 48/1, Brigade Rd, near McDonald's",
+   "gps_coordinates": {
+    "latitude": 12.973239,
+    "longitude": 77.60748
+   }
+  },
+  {
+   "position": 14,
+   "title": "The Good Food Cafe",
+   "place_id": "ChIJQ2PbUwAXrjsRb_G7t7Yqgfg",
+   "data_id": "0x3bae170053db6343:0xf8812ab6b7bbf16f",
+   "rating": 4.8,
+   "reviews": 184,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "XJF9+PW5, Nature's Basket Artisan Pantry, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.974255,
+    "longitude": 77.619865
+   }
+  },
+  {
+   "position": 15,
+   "title": "Tea & Talks Café",
+   "place_id": "ChIJ2Qhvc7YVrjsR4iM2oqF7KFs",
+   "data_id": "0x3bae15b6736f08d9:0x5b287ba1a23623e2",
+   "rating": 4.3,
+   "reviews": 854,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "Brigade Road, 23/1, Wood St, off Brigade Road",
+   "gps_coordinates": {
+    "latitude": 12.967569,
+    "longitude": 77.60674
+   }
+  },
+  {
+   "position": 16,
+   "title": "NChef Restaurant Brigade Road",
+   "place_id": "ChIJk3RqVuQXrjsRJU3zMndnMSM",
+   "data_id": "0x3bae17e4566a7493:0x2331677732f34d25",
+   "rating": 4.7,
+   "reviews": 3200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "181, Brigade Rd, opp. selec hyper mart",
+   "gps_coordinates": {
+    "latitude": 12.973011,
+    "longitude": 77.60713
+   }
+  },
+  {
+   "position": 17,
+   "title": "Foo Brigade Road",
+   "place_id": "ChIJZ7erNjIXrjsR5Ticr5bhjMQ",
+   "data_id": "0x3bae173236abb767:0xc48ce196af9c38e5",
+   "rating": 4.4,
+   "reviews": 2200,
+   "type": "Pan Asian",
+   "address": "Ground Floor, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972899,
+    "longitude": 77.60637
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Hard Rock Cafe Bengaluru",
+   "place_id": "ChIJ3f5vgnsWrjsRhDkIjzW274o",
+   "data_id": "0x3bae167b826ffedd:0x8aefb6358f083984",
+   "rating": 4.4,
+   "reviews": 17000,
+   "type": "Cafe",
+   "address": "40, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.976179,
+    "longitude": 77.60154
+   },
+   "comment": "Music-themed chain with an American menu"
+  },
+  {
+   "position": 19,
+   "title": "Klava - Turkish Patisserie - Forum Rex",
+   "place_id": "ChIJj4vBm3gXrjsRt9yyT9l6VKQ",
+   "data_id": "0x3bae17789bc18b8f:0xa4547ad94fb2dcb7",
+   "rating": 4.4,
+   "reviews": 1200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "Unit No 103, Forum Rex Walk, 12th, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972371,
+    "longitude": 77.606766
+   }
+  },
+  {
+   "position": 20,
+   "title": "The White Room Coffee & Kitchen",
+   "place_id": "ChIJb6vjaHwWrjsR3EQYgm4n-y4",
+   "data_id": "0x3bae167c68e3ab6f:0x2efb276e821844dc",
+   "rating": 4.1,
+   "reviews": 2500,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "33, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975119,
+    "longitude": 77.60331
+   },
+   "comment": "Stylish international cafe dining",
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  }
+ ]
+}

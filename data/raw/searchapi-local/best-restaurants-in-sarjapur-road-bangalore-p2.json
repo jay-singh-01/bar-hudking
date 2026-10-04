@@ -1,0 +1,453 @@
+{
+ "q": "best restaurants in Sarjapur Road Bangalore",
+ "ll": "@12.901,77.687,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:32:01.615Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "STEAMIO - SARJAPUR",
+   "place_id": "ChIJ8zDtNYkTrjsRoWLADG8oaHo",
+   "data_id": "0x3bae138935ed30f3:0x7a68286f0cc062a1",
+   "rating": 4.8,
+   "reviews": 111,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Asian",
+   "address": "Ground Floor, No 83/23, & Prop, 83/22, vilage",
+   "gps_coordinates": {
+    "latitude": 12.910176,
+    "longitude": 77.68653
+   },
+   "extensions": [
+    "Closed",
+    "Opens 5 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Khanna's Sarjapur",
+   "place_id": "ChIJY-tVi88TrjsRzqFYGqLisjw",
+   "data_id": "0x3bae13cf8b55eb63:0x3cb2e2a21a58a1ce",
+   "rating": 4.3,
+   "reviews": 793,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "North Indian",
+   "address": "65/1C, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912982,
+    "longitude": 77.68032
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Pind Balluchi",
+   "place_id": "ChIJjwkxUQATrjsRdYOLuoXNjQo",
+   "data_id": "0x3bae13005131098f:0xa8dcd85ba8b8375",
+   "rating": 4.5,
+   "reviews": 952,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "North Indian",
+   "address": "2nd Floor, KGPR Square, Bus Stop, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914404,
+    "longitude": 77.67668
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "La Casa Brewery + Kitchen",
+   "place_id": "ChIJFWKvqmwTrjsRgu5YOEqOaRg",
+   "data_id": "0x3bae136caaaf6215:0x18698e4a3858ee82",
+   "rating": 4.2,
+   "reviews": 10000,
+   "type": "Restaurant",
+   "address": "Amrutha Engineering collage, NO 877/1/2&895/19/20, 1st Cross Rd, near ICICI BANK, opp. KFC",
+   "gps_coordinates": {
+    "latitude": 12.904262,
+    "longitude": 77.67584
+   },
+   "comment": "Homely continental restaurant & takeaway",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Nenis Andhra Vantakam",
+   "place_id": "ChIJIan-FF8TrjsRf-OkPrg7gYQ",
+   "data_id": "0x3bae135f14fea921:0x84813bb83ea4e37f",
+   "rating": 4.3,
+   "reviews": 775,
+   "price": "₹1–400",
+   "extracted_price": {
+    "min": 1,
+    "max": 400
+   },
+   "type": "Indian",
+   "address": "Plot No: 23, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.919363,
+    "longitude": 77.67104
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "The True North Multi Cuisine Family Restaurant",
+   "place_id": "ChIJF9LgKqMTrjsRmjQScKGnPSk",
+   "data_id": "0x3bae13a32ae0d217:0x293da7a17012349a",
+   "rating": 4.9,
+   "reviews": 67,
+   "price": "₹1–1,000",
+   "extracted_price": {
+    "min": 1,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "100 Feet Road, CDP Road Sarjapur Main Road",
+   "gps_coordinates": {
+    "latitude": 12.91243,
+    "longitude": 77.71293
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Highway 35 Restro",
+   "place_id": "ChIJF-ZCA0hzrjsRR61L7gOZPyg",
+   "data_id": "0x3bae73480342e617:0x283f9903ee4bad47",
+   "rating": 4.5,
+   "reviews": 1400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "SH 35, Sarjapura - Attibele Rd",
+   "gps_coordinates": {
+    "latitude": 12.829244,
+    "longitude": 77.78604
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Jeev cafe - Under the cherry tree (Made with pure ghee, finest cold-pressed oils, hand made spices)",
+   "place_id": "ChIJmV4ATvITrjsRGxDxra1MtUA",
+   "data_id": "0x3bae13f24e005e99:0x40b54cadadf1101b",
+   "rating": 4.6,
+   "reviews": 723,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "Jeev Cafe- Under The Cherry Tree, KRS Avenue, Sarjapur Main Rd, behind airtel office",
+   "gps_coordinates": {
+    "latitude": 12.913274,
+    "longitude": 77.680534
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Thanjavur Kitchen",
+   "place_id": "ChIJU-3tJH8TrjsRZ2ZR-ZNkX0k",
+   "data_id": "0x3bae137f24eded53:0x495f6493f9516667",
+   "rating": 4.4,
+   "reviews": 1800,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "BBMP East, 124/B. Doddakanelli, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.907818,
+    "longitude": 77.693886
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Dhaba Stories",
+   "place_id": "ChIJ1834fkoTrjsRk5jRT_IqFW0",
+   "data_id": "0x3bae134a7ef8cdd7:0x6d152af24fd19893",
+   "rating": 4.4,
+   "reviews": 1200,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "Mullur, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.899305,
+    "longitude": 77.71324
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Meghana Foods Sarjapur Road",
+   "place_id": "ChIJ9xwllIQTrjsR5T7jkeK6PNs",
+   "data_id": "0x3bae138494251cf7:0xdb3cbae291e33ee5",
+   "rating": 4.5,
+   "reviews": 4700,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Hyderabadi",
+   "address": "SY No 1st Floor, GRS Tower, 18/2A, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.918672,
+    "longitude": 77.670334
+   }
+  },
+  {
+   "position": 12,
+   "title": "Via Milano",
+   "place_id": "ChIJ5UTeH8ETrjsRNCupU2bmhYw",
+   "data_id": "0x3bae13c11fde44e5:0x8c85e66653a92b34",
+   "rating": 4.2,
+   "reviews": 1800,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Italian",
+   "address": "Mullur, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.900763,
+    "longitude": 77.7112
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Bacchan Gari Biryani / Sarjapura Main Road",
+   "place_id": "ChIJe87pxj4TrjsRx6bG6YjZNVQ",
+   "data_id": "0x3bae133ec6e9ce7b:0x5435d988e9c6a6c7",
+   "rating": 4.6,
+   "reviews": 102,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "Ground Floor, Shop No. 6, 71/1A, Sarjapur Main Rd, opposite Swarnamukhi Hospital, beside Med Plus",
+   "gps_coordinates": {
+    "latitude": 12.913071,
+    "longitude": 77.67945
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Bhartiya Jalpan",
+   "place_id": "ChIJ28ZPOrQTrjsRvT2NTEwP3Zc",
+   "data_id": "0x3bae13b43a4fc6db:0x97dd0f4c4c8d3dbd",
+   "rating": 4.1,
+   "reviews": 3300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "1023, 51, Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.914348,
+    "longitude": 77.67693
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Therpup Cafe & Resort, Sarjapur",
+   "place_id": "ChIJg9db_G1trjsRdsf-FrTt-jQ",
+   "data_id": "0x3bae6d6dfc5bd783:0x34faedb416fec776",
+   "rating": 4.6,
+   "reviews": 681,
+   "type": "Restaurant",
+   "address": "Sy No 163/2, Kommasandra Village, Sarjapur Hobli, Anekal Taluk, beside Bethany High School",
+   "gps_coordinates": {
+    "latitude": 12.864374,
+    "longitude": 77.73341
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Vapour Brewpub and Diner",
+   "place_id": "ChIJwSXQpRITrjsRMR9USpPyAg8",
+   "data_id": "0x3bae1312a5d025c1:0xf02f2934a541f31",
+   "rating": 4.1,
+   "reviews": 18000,
+   "type": "Brewpub",
+   "address": "7th Bren Mercury, Sarjapur - Marathahalli Rd, Above Reliance Digital",
+   "gps_coordinates": {
+    "latitude": 12.914341,
+    "longitude": 77.67735
+   },
+   "comment": "Chic lounge bar & international dining",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Thyme & Whisk | Vegetarian Restaurant in Sarjapur Bangalore",
+   "place_id": "ChIJ7ZlBb5gTrjsRebm6qfgcHdY",
+   "data_id": "0x3bae13986f4199ed:0xd61d1cf8a9bab979",
+   "rating": 4.2,
+   "reviews": 3300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "Ground Floor, Kumar Arcade, Sy No 10/3, Khata no 2055 Kainkondrahalli Village, Varthur Hobli, off, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916079,
+    "longitude": 77.67303
+   },
+   "comment": "Chic choice for global veggie fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "The Nosh House [Cloud Kitchen]",
+   "place_id": "ChIJyYU2ChQTrjsRe3LYGoNlJWk",
+   "data_id": "0x3bae13140a3685c9:0x692565831ad8727b",
+   "rating": 4.2,
+   "reviews": 799,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Continental restaurant",
+   "address": "2nd Floor, No. 1, 4th Cross, Kasavanhalli Main Road, Road, off Sarjapur",
+   "gps_coordinates": {
+    "latitude": 12.908989,
+    "longitude": 77.68087
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "SALT N PEPPER",
+   "place_id": "ChIJ0UIope9zrjsRhZSpRavOdEw",
+   "data_id": "0x3bae73efa52842d1:0x4c74ceab45a99485",
+   "rating": 4.3,
+   "reviews": 127,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "Bagalur - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.856014,
+    "longitude": 77.80143
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "The Punjabi Rasoi Sarjapur Road",
+   "place_id": "ChIJrVu91BATrjsRvP4nB9_zcA8",
+   "data_id": "0x3bae1310d4bd5bad:0xf70f3df0727febc",
+   "rating": 4.1,
+   "reviews": 4400,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "4th Floor, Saket Callipolis 404, Doddakannhalli, 3, Sarjapur - Marathahalli Rd, opposite WIpro Corporate Office",
+   "gps_coordinates": {
+    "latitude": 12.909866,
+    "longitude": 77.68578
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

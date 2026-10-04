@@ -1,0 +1,988 @@
+{
+ "q": "bars and pubs in Banashankari Bangalore",
+ "ll": "@12.925,77.5567,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:32:16.761Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJJ8VK978_rjsRCsjieUw-Zno",
+   "data_id": "0x3bae3fbff74ac527:0x7a663e4c79e2c80a",
+   "title": "GULP - Pub | Bar | Restaurant",
+   "address": "16, Outer Ring Rd, beside dominos pizza, 3rd Phase, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098459 67899",
+   "rating": 4.4,
+   "reviews": 3575,
+   "website": "https://gulpbarpubrestaurant.localo.site/",
+   "domain": "localo.site",
+   "gps_coordinates": {
+    "latitude": 12.9250141,
+    "longitude": 77.5510927
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant",
+    "Fine dining restaurant",
+    "Karnataka restaurant",
+    "Lounge bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12–11:30 pm",
+    "thursday": "12–11:30 pm",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/gulp-cocktails-and-kitchen-banashankari-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf79B9HQPwuvgdJFH4CtC9N4M-4M_USvfSg0p6Fy5XopPTKK0S60--FwPuOqcodbhH9fn60lgMPQGi5WzJ9OHR1-b6_lhXt7C83nigHxA00iWmpLZJLFG4EApWBChKQiqKU3H0M6-1iBNyr=w138-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJH2fVqqwVrjsRXUjDeHNGC2o",
+   "data_id": "0x3bae15acaad5671f:0x6a0b467378c3485d",
+   "title": "K27 THE PUB",
+   "address": "27, 27th Cross, opp. Monotype, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "086600 19690",
+   "rating": 3.9,
+   "reviews": 200,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9216033,
+    "longitude": 77.5701749
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm",
+    "sunday": "11 am–11:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXOSL1PuL6kZ9Tx6KaPdrS_BNN120rfLH-KYf7go15kqiSMRBgMtUprFDf4CsJ4HM2HYOCTDoDi4Vbuqjp4B_zeHOqlzDPzlj09CRr01TcbqARSqWhwjwd3D7xvoKB53f1oOJvAA=w122-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJIfEOzoAVrjsR_yApnlDLpwg",
+   "data_id": "0x3bae1580ce0ef121:0x8a7cb509e2920ff",
+   "title": "Jcubez",
+   "address": "22nd Cross Rd, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "087460 06497",
+   "rating": 4,
+   "reviews": 5162,
+   "gps_coordinates": {
+    "latitude": 12.9257295,
+    "longitude": 77.5640742
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am",
+    "sunday": "11 am–11:15 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpy3tSLRZ9OMw_YrcrYmSbWN05kowuL7ngLxsNdm9PFCFJThFhtislJ3D_F15XbtWRQTLm_sk1bosEdi1z0YPrAevO4fjB6_Ew9zzCnKEpooeyhMOL7g6UwX-Knr0pn5MEIdjd=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJwaAaxBcVrjsRa3TH8m9izBg",
+   "data_id": "0x3bae1517c41aa0c1:0x18cc626ff2c7746b",
+   "title": "HighDrate Restopub Banashankari",
+   "address": "631, Master Hirannaiah Rd, Siddanna Layout, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 558,
+   "website": "https://www.instagram.com/highdrate_blr/",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9244989,
+    "longitude": 77.5655251
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/highdrate-resto-pub-banashankari-south-bengaluru-686118",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdallIe4rDbrB8kZwu35YpwD3ZXJ6lOf2fp16n9RSwiyCY4pCE1l_7xx1rymVCD6GVR_zJAzFYp71JN8r5MVfT_T-FJkl6SKNFAwSH-fHrhUm-QYkIoi-6wLFxrf2ZTFCT2pfs=w137-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJaRB6fr8_rjsR2SgqLEEcNhE",
+   "data_id": "0x3bae3fbf7e7a1069:0x11361c412c2a28d9",
+   "title": "Secret Sip | Best Restobar in Banashankari",
+   "address": "7th Block, 309, 4th Floor, 100 Feet Road, BSK 3rd Stage, 4th Phase, Gururaja Layout, Bengaluru, Karnataka 560085",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096069 80045",
+   "rating": 4.6,
+   "reviews": 268,
+   "gps_coordinates": {
+    "latitude": 12.9221179,
+    "longitude": 77.5582992
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Bar & grill"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/secret-sip-resto-bar-banashankari-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gwyMFTMvAEommrS4RXem2mQKcwwCM-q1DC4T1b4jS9hs3c4HszDoKJIkY3PP0rpsKJlldeYB1lFAAqw5kLLz3mhivKBReeGA2Ywvk1-Xnd-UhcgdE%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBcv8_KoSmT6kUkaZtEzo3B9VWDwB_KMc-OCxoA-LGtyN2F5tHRUyfuF3rznUzspDHcMQaH9juimkleFeg5gEeqLdtA9mOmoNrfPYCqidgROqsSg-rMhNN8kRWwH9xDbmSBcjYULz0QT35=w138-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJc1Bp6z0_rjsRjDJksR5qiq0",
+   "data_id": "0x3bae3f3deb695073:0xad8a6a1eb164328c",
+   "title": "Topic Craft Bar & Kitchen",
+   "address": "No. 901, Martyrs Street, NICE Road Junction, near Clover Leaf Toll, Banashankari Stage 6, Sompura, Bengaluru, Karnataka 560060",
+   "city": "Sompura, Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098441 66866",
+   "rating": 4.7,
+   "reviews": 2778,
+   "website": "http://www.topicblr.com/",
+   "domain": "topicblr.com",
+   "gps_coordinates": {
+    "latitude": 12.884697,
+    "longitude": 77.5006851
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar & grill",
+    "Hotel",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/topic-craft-bar-kitchen-2-kanakapura-road-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gt4n3o1wck9JX17XelLtTKeTCays9lz-ukWM-DClswzNgyz2p4vulcv6P2xPxgslyvOOwc_qE5QabngMHts_PcKb2awGExOmocGX-5h-xXHFHrByo%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSAXmltuz11PnDUQHVs45qU5avFKVns98MoALhqMafH_CUwD1AAL0YI_OkRsPJtsdzTO_2Ji4XpzydE57xV7BJTFMuw8xN_axfTBysbdrki2zT_HJGwV0bgugSrjzTlViKjrel=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJw38xmIIVrjsRQbCatGpSNpM",
+   "data_id": "0x3bae158298317fc3:0x9336526ab49ab041",
+   "title": "Kadamba Restaurant And Bar",
+   "address": "27th Cross Road, Banashankari 2nd stage, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099800 97472",
+   "rating": 3.9,
+   "reviews": 1063,
+   "gps_coordinates": {
+    "latitude": 12.921628,
+    "longitude": 77.570138
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill",
+    "Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLew6rsGO_Pc6hWtY29-Lv284T_zVXE7szs-9_JqdB05x5vIdXEBAF3EJWRWUihteO3DFSvLN4Fg1SaUXR2yU42HciK_yQB_w3r1OIn6QcaqS02L8WlASSerI1GeRzSx2ym9OSMA=w163-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJD8hby90VrjsR4-f0ATF6S6g",
+   "data_id": "0x3bae15ddcb5bc80f:0xa84b7a3101f4e7e3",
+   "title": "DILUTE Barmen Kitchen",
+   "address": "632, 19th Main Rd, Siddanna Layout, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080959 74747",
+   "rating": 4.1,
+   "reviews": 527,
+   "gps_coordinates": {
+    "latitude": 12.9244957,
+    "longitude": 77.5653504
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–12:30 am",
+    "monday": "11 am–12:30 am",
+    "tuesday": "11 am–12:30 am",
+    "wednesday": "11 am–12:30 am",
+    "thursday": "11 am–12:30 am",
+    "friday": "11 am–12:30 am",
+    "saturday": "11 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/dilute-barmen-kitchen-banashankari-jayanagar-bangalore-607357/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrSz78VSGQUBl8PNhcZE7spGEIyYIln2j4Rg3zVjzd1k7myjx_jti4SFpebV4sFAWuJoj36cK32WiLHzpzILY6Zp9IiXu0bbSBJu76bVWIzCk68Vhye4o13aWIPhhNQJCRlqHYEQ=w163-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJsUHP8iM-rjsR30z-PK4dQog",
+   "data_id": "0x3bae3e23f2cf41b1:0x88421dae3cfe4cdf",
+   "title": "Blue Wings Bar & Restaurant",
+   "address": "7th Main Road, 488, 50 Feet Main Rd, Hanumanthnagar, Bengaluru, Karnataka 560050",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4976 8963",
+   "rating": 3.8,
+   "reviews": 1457,
+   "gps_coordinates": {
+    "latitude": 12.9418126,
+    "longitude": 77.56172
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10:30 am",
+   "open_hours": {
+    "monday": "10:30 am–11 pm",
+    "tuesday": "10:30 am–11 pm",
+    "wednesday": "10:30 am–11 pm",
+    "thursday": "10:30 am–11 pm",
+    "friday": "10:30 am–11 pm",
+    "saturday": "10:30 am–11 pm",
+    "sunday": "10:30 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/blue-wings-bar-and-restaurant-banashankari-indiranagar-bangalore-840790/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLchhfIZOGW9CxuxW49Jyo-VUSHPiSsQEWWg0gDdk8iALpAVYJ84ECcc6eXaCTw9HYMTUfnmnyh2z_c_OahZx1rOCZv1cQ-U1trKq9dVG2Ot3Kb8s8zBejx8k9xZPT29xT2nh5jC=w174-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJyR9CGYEVrjsR5S8pJ66axpQ",
+   "data_id": "0x3bae158119421fc9:0x94c69aae27292fe5",
+   "title": "Dar-Bar",
+   "address": "Shop No. 01, 24th Main Rd, Siddanna Layout, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096113 23434",
+   "rating": 3.9,
+   "reviews": 1329,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9245345,
+    "longitude": 77.5652605
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/darbar-restaurant-banashankari-bangalore-151399/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfI_vROOaacITJTADqNEMVS8EEnY3g8S0KSD__rh9wIQDlpYfXwUMUWz4ORm0DUFn2SFU4oibEWfhN0w2z9KzpCknLNkbf0N6PDoM4wD2DP2Jczn8DojL-XreYyb6ZnWlJHZqru=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJuxV4dy8-rjsR0RSurt_3w3Q",
+   "data_id": "0x3bae3e2f777815bb:0x74c3f7dfaeae14d1",
+   "title": "M. M. Bar & Restaurant",
+   "address": "WHJ3+6CC, Kathriguppe Main Rd, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "087926 35518",
+   "rating": 3.8,
+   "reviews": 895,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9305743,
+    "longitude": 77.5535282
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 10 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–1 am",
+    "tuesday": "10 am–1 am",
+    "wednesday": "10 am–1 am",
+    "thursday": "10 am–1 am",
+    "friday": "10 am–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRYJEyMl1NlIbJKOYDjVv1Mr-KRMJVNCrDVct7pQifh3cEuf4igPn39sa7il4f8zAY9fkkm069RPlNgejXh7sjixhlBk5dVPpMBKDpUASU0ZPlMN_5HgNLeCftUmV6r4lChdhP=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJtQgfDjA_rjsRCr8yfUF_vbw",
+   "data_id": "0x3bae3f300e1f08b5:0xbcbd7f417d32bf0a",
+   "title": "Lakshmi Resto Bar",
+   "address": "WHP6+558, Vidyapeeta Main Rd, Chennammana Kere, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560050",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.9,
+   "reviews": 213,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9354243,
+    "longitude": 77.5604456
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–11 pm",
+    "tuesday": "8 am–11 pm",
+    "wednesday": "8 am–11 pm",
+    "thursday": "8 am–11 pm",
+    "friday": "8 am–11 pm",
+    "saturday": "8 am–11 pm",
+    "sunday": "8 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaeahhKBRFC25C_P4DB6MOFUJPxXPH9AnYJcFZgUhdGi0KxZzq017lPjO9NZKovjTK0ZzDJkJ1m661BIjE9v_TuBYnhjYU-FmtoUSzdqd38FTI_M_3JOjwZ8aV6juARdgFMnfj=w80-h177-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJMRyUCBQ-rjsRV_1w6WCoJaY",
+   "data_id": "0x3bae3e1408941c31:0xa625a860e970fd57",
+   "title": "Galaxy Bar",
+   "address": "33, F St, Avalahalli, Srinagar, Banashankari, Bengaluru, Karnataka 560026",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.7,
+   "reviews": 367,
+   "gps_coordinates": {
+    "latitude": 12.9471054,
+    "longitude": 77.5436481
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10:30 am",
+   "open_hours": {
+    "monday": "10:30 am–11:30 pm",
+    "tuesday": "10:30 am–11:30 pm",
+    "wednesday": "10:30 am–11:30 pm",
+    "thursday": "10:30 am–11:30 pm",
+    "friday": "10:30 am–11:30 pm",
+    "saturday": "10:30 am–11:30 pm",
+    "sunday": "10:30 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxP3F7MVCKZ3igqcafAz9-ufYMLa5nDSkXvM2ZSZZvdl0ZeSX7oHltPHiaYQVBiipu1-WLXmWI4vXeSwIOXsDpWkgFCRKFnirqxE0YlI9bqjxOAHDEt-t-KoT8RownDCs8jwJH=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJHQg_VwAVrjsR4JIxLeaankk",
+   "data_id": "0x3bae1500573f081d:0x499e9ae62d3192e0",
+   "title": "RK bar and Restaurant",
+   "address": "63/14, Teacher's Colony, 4th Cross Rd, Eshwara Nagar, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.8,
+   "reviews": 4,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9139144,
+    "longitude": 77.5674463
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKJ28vpCYbiQWXeU6ja9BqeZyazZIEtcyGBFzAmfmY2BTUkAOv34w1GT-QJjZKrHJExhxh6x7bSHv1_OFNcoz7W4I-ycZU50N2PiFI0XziBqhN-aiEpg3jLIQ_xGX-EY6KR-xLA1UzNQHY=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJK6jqTkU_rjsRpPMtsgfDyxk",
+   "data_id": "0x3bae3f454eeaa82b:0x19cbc307b22df3a4",
+   "title": "Blue Moon Bar and Restaurant",
+   "address": "1, 1st Cross, Subramanyapura Rd, Padmanabhanagar, Bengaluru, Karnataka 560061",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072591 28852",
+   "rating": 3.8,
+   "reviews": 193,
+   "gps_coordinates": {
+    "latitude": 12.9134978,
+    "longitude": 77.5587659
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open 24 hours",
+   "open_hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4XgULv7bxU2hyUGSJL5V0W_NgdFwH3j_u6LExOtlibtMDBUKsvlAVC0w0_KoEzLVnzyulkoX1BprR1M2jPYWH0SbjMAmpKkGRNYaYSzmYdUDcrZOs5_K1Bbq-gCg8Q5vw5QKt=w80-h106-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJEasZOa0VrjsRQxIeG1AbPpA",
+   "data_id": "0x3bae15ad3919ab11:0x903e1b501b1e1243",
+   "title": "1522 The Pub JP Nagar",
+   "description": "Trendy spot for pub grub & music. Hip locale featuring a stylish outdoor deck, plus bar bites, cocktails, mocktails & music.",
+   "address": "6th Phase, Chandana, Number 613, Outer Ring Rd, J. P. Nagar, Bengaluru, Karnataka 560078",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063640 01522",
+   "rating": 4.2,
+   "reviews": 7024,
+   "website": "http://1522thepub.com/",
+   "domain": "1522thepub.com",
+   "gps_coordinates": {
+    "latitude": 12.9062095,
+    "longitude": 77.57587749999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 11 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/1522-the-pub-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_itrGddNm1MzCGrBfSEmpDHDZg_TKhKnj57oaYSIpFhmARjaghD6XJ7JAKz4_XBCI4r179-9U-p-uUc_xrE1Kax1uF2tBa1TffQpUXhHe71t1s-ACc%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZDBFatuWm4EME1r7Ev7SBitAcv4IbWvku6zwF6hDzg-IKXOX9nN-5sD7R_Rqf1ILApZFyFLy-DD1rL2sNodYKDHdulbUJ-iIwPnNzQ0nE9bmCSyej-wq2n5dfjOcovcf9ku6b=w138-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJOWUqmmc_rjsRv55KK3f_770",
+   "data_id": "0x3bae3f679a2a6539:0xbdefff772b4a9ebf",
+   "title": "Sixth Stage Pub",
+   "address": "2130, Technology Rd, BDA 3rd Block, Banashankari Stage 6, Kariyana Palya, Bengaluru, Karnataka 560109",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070222 84072",
+   "rating": 4.3,
+   "reviews": 463,
+   "gps_coordinates": {
+    "latitude": 12.8868679,
+    "longitude": 77.5160803
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/sixth-stage-jp-nagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j4hgL9dFpIl-G8CMbcKwd2W9-dFJqxNgJ6qwUY0qUhq_ZEZpMQLs8aktL8gJUAXM5qq2DzYd8Sn7rBNT2pWewyZ6oNFaKwrB28QUzjsCEcWLCOXA8%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZiKIQJCt_3wJViYam7ClfoXrYVcz6TRL3lbpK8gOYQVVdVBz1RVReb6ZV3z-CXiWYR1Cre1P4aF5FcScgBXH44p3PE8QgSoPs5lywvmwBSaMhyewRynuDi6y6fM2QRJRsaOqCiV8jjjM=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJwwDXnSo-rjsRztuVxgLShFw",
+   "data_id": "0x3bae3e2a9dd700c3:0x5c84d202c695dbce",
+   "title": "Vi Ra's Bar and Restaurant",
+   "address": "No. 3828 Dhobighat rd, 30th Cross Rd, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560070",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098450 63930",
+   "rating": 3.8,
+   "reviews": 697,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.922198,
+    "longitude": 77.5618485
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm",
+    "sunday": "11 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/viras-bar-and-restaurant-banashankari-indiranagar-bangalore-840685/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLemsIIAaIob5Hlu1N-9ZYYCQpC66pUdhGq9xpoHRHUcg5wR8HA3yZWTFVBcLnCji3GZ16orDmQxrakJV2-_cwtxJm5TZmPM9tV1SGus5gMA2F1ssuA16Ahpn88jfWT6GCepf5minA=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJZSN7HzE-rjsRtgetewBc5Ro",
+   "data_id": "0x3bae3e311f7b2365:0x1ae55c007bad07b6",
+   "title": "Mandara bar",
+   "address": "Shop No:76, Outer Ring Rd, Ittamadu, Phase 3, Banashankari, Bengaluru, Karnataka 560085",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "093421 36085",
+   "rating": 3.5,
+   "reviews": 515,
+   "gps_coordinates": {
+    "latitude": 12.9278886,
+    "longitude": 77.54619249999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11:30 pm",
+    "tuesday": "10 am–11:30 pm",
+    "wednesday": "10 am–11:30 pm",
+    "thursday": "10 am–11:30 pm",
+    "friday": "10 am–11:30 pm",
+    "saturday": "10 am–11:30 pm",
+    "sunday": "10 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLctXgRPuJLpNYObejXr7rwCQKvHgKgS7nVxc7K6eBHhO8KdC0rT04zk4gfVbw9QfEVjAqfNjLi-kff55pSTKP8mIQMZoPw7q4dJgKK0fc5x5NEIIL80MXyLyJD6ACC4Aj0B0cVH=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJ-9dL48E_rjsRv2a177QJ0GQ",
+   "data_id": "0x3bae3fc1e34bd7fb:0x64d009b4efb566bf",
+   "title": "Pavan Bar and Restaurant (Restaurant & kitchen managed by Kitchen Masters)",
+   "address": "#106, 80ft Main Road, Hosakerehalli Cross Rd, 2nd Block, Banashankari 3rd Stage, Bengaluru, Karnataka 560085",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.7,
+   "reviews": 457,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9319018,
+    "longitude": 77.544817
+   },
+   "type": "Gastropub",
+   "types": [
+    "Gastropub"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11 pm",
+    "tuesday": "11:30 am–11 pm",
+    "wednesday": "11:30 am–11 pm",
+    "thursday": "11:30 am–11 pm",
+    "friday": "11:30 am–11 pm",
+    "saturday": "11:30 am–11 pm",
+    "sunday": "11:30 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNNPDeaoE5kCN1H7HdhPwNhgmwmS4bv1gOe7qt4DWZNdMK0NRZAJyjBUK_0xGFvwky8CjeeqM9BXTxr4wrKd9R1oiMv__aVkOq1DPJAVN99VzPGJGkZUSQaAWDT658brKRbRiy=w163-h92-k-no"
+  }
+ ]
+}

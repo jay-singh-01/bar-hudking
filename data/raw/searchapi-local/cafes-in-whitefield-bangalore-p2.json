@@ -1,0 +1,440 @@
+{
+ "q": "cafes in Whitefield Bangalore",
+ "ll": "@12.9698,77.75,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:42:38.821Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "MALNAD COFFEE HUB",
+   "place_id": "ChIJ18x2Mq0RrjsRASTvAM96WN8",
+   "data_id": "0x3bae11ad3276ccd7:0xdf587acf00ef2401",
+   "rating": 4.9,
+   "reviews": 74,
+   "type": "Cafe",
+   "address": "TCS Anchor building",
+   "gps_coordinates": {
+    "latitude": 12.984362,
+    "longitude": 77.73794
+   }
+  },
+  {
+   "position": 2,
+   "title": "abcoffee Brigade Tech Park",
+   "place_id": "ChIJk6_q-doRrjsRBEHCcaR-HDY",
+   "data_id": "0x3bae11daf9eaaf93:0x361c7ea471c24104",
+   "rating": 4.9,
+   "reviews": 124,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "abCoffee, Block A, BRIGADE TECH PARK",
+   "gps_coordinates": {
+    "latitude": 12.985796,
+    "longitude": 77.74021
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "M Cafe",
+   "place_id": "ChIJZ7Feq_YRrjsRllkCbmJKFVw",
+   "data_id": "0x3bae11f6ab5eb167:0x5c154a626e025996",
+   "rating": 4.1,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "Plot No 75, 8th Rd",
+   "gps_coordinates": {
+    "latitude": 12.979116,
+    "longitude": 77.72827
+   },
+   "comment": "Sophisticated buffet restaurant"
+  },
+  {
+   "position": 4,
+   "title": "The Creek",
+   "place_id": "ChIJdcYNZyQRrjsR2gkKgTd3is0",
+   "data_id": "0x3bae1124670dc675:0xcd8a7737810a09da",
+   "rating": 4.1,
+   "reviews": 2100,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "The DEN Hotel, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.987198,
+    "longitude": 77.73315
+   },
+   "comment": "Global fare in a light-filled ambiance"
+  },
+  {
+   "position": 5,
+   "title": "Maize & Malt - Craft Brewery & Kitchen",
+   "place_id": "ChIJIdMdBZ4RrjsRe7S7WtbDCfs",
+   "data_id": "0x3bae119e051dd321:0xfb09c3d65abbb47b",
+   "rating": 4.7,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "3, 4th Cross Rd, near Whitefield",
+   "gps_coordinates": {
+    "latitude": 12.995542,
+    "longitude": 77.7011
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "One 9 Popina",
+   "place_id": "ChIJRfPzhy0TrjsRY8LkS2vFJBw",
+   "data_id": "0x3bae132d87f3f345:0x1c24c56b4be4c263",
+   "rating": 4.8,
+   "reviews": 103,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "GROUND FLOOR, Brigade Irv Center, G-03A, Popina",
+   "gps_coordinates": {
+    "latitude": 12.970189,
+    "longitude": 77.73057
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Windmills Craftworks [Whitefield]",
+   "place_id": "ChIJd5CMLo0RrjsRboHwm9XNEzg",
+   "data_id": "0x3bae118d2e8c9077:0x3813cdd59bf0816e",
+   "rating": 4.4,
+   "reviews": 22000,
+   "type": "Brewpub",
+   "address": "6th Floor, Craftworks, 331, 5B Rd",
+   "gps_coordinates": {
+    "latitude": 12.9825325,
+    "longitude": 77.72177
+   },
+   "comment": "Arty brewery, jazz venue & Indian eatery",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Breads & Banter",
+   "place_id": "ChIJ33zUKz4TrjsRTKl6cMdamxc",
+   "data_id": "0x3bae133e2bd47cdf:0x179b5ac7707aa94c",
+   "rating": 4.2,
+   "reviews": 1600,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "543 Aecs layout main road,AECS Layout Brookefield",
+   "gps_coordinates": {
+    "latitude": 12.964693,
+    "longitude": 77.71548
+   },
+   "comment": "Playful cafe whipping up comfort food",
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Cafe Hasta Barista",
+   "place_id": "ChIJpUkah2UTrjsRCJTBJM4kHL0",
+   "data_id": "0x3bae1365871a49a5:0xbd1c24ce24c19408",
+   "rating": 4.8,
+   "reviews": 75,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "CR Enclave, 96, Thubarahalli Extention Rd, next to J24 & Diagonally, opp. SONESTAA MEADOWS",
+   "gps_coordinates": {
+    "latitude": 12.94962,
+    "longitude": 77.72211
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJu2Cbv2YNrjsR7d_2yI9N3N4",
+   "data_id": "0x3bae0d66bf9b60bb:0xdedc4d8fc8f6dfed",
+   "rating": 4.4,
+   "reviews": 292,
+   "type": "Cafe",
+   "address": "Shop No, 62, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.959919,
+    "longitude": 77.74778
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Bro Zone Cafe",
+   "place_id": "ChIJzfGgwqM9rjsR7XLO1jrQOBc",
+   "data_id": "0x3bae3da3c2a0f1cd:0x1738d03ad6ce72ed",
+   "rating": 4.4,
+   "reviews": 99,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Site No: 157, 4th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.983199,
+    "longitude": 77.74857
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Paper & Pie",
+   "place_id": "ChIJV54y6swXrjsRhHo7UCh61mo",
+   "data_id": "0x3bae17ccea329e57:0x6ad67a28503b7a84",
+   "rating": 4.2,
+   "reviews": 2100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Coffee shop",
+   "address": "Metro Pillar Number 55, 842/A, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.981031,
+    "longitude": 77.64097
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Pizza Bakery - Whitefield",
+   "place_id": "ChIJwfYugbQTrjsRFwlgFS3yJh4",
+   "data_id": "0x3bae13b4812ef6c1:0x1e26f22d15600917",
+   "rating": 4.4,
+   "reviews": 1500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pizza",
+   "address": "Miraya Rose, 66/1, Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.956979,
+    "longitude": 77.73232
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "The Whitefield cafe",
+   "place_id": "ChIJPWCXQQAPrjsRD0Sd5Q0QStk",
+   "data_id": "0x3bae0f004197603d:0xd94a100de59d440f",
+   "rating": 4.6,
+   "reviews": 11,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Oppo Sapthagiri tiffins and curries, 5th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.98299,
+    "longitude": 77.74877
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Citrus Cafe By Lemon Tree",
+   "place_id": "ChIJQY_WlLgNrjsRAvO4ezlgbs8",
+   "data_id": "0x3bae0db894d68f41:0xcf6e60397bb8f302",
+   "rating": 4.3,
+   "reviews": 31,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "VASWANI PINNACLE, Annexe, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.96685,
+    "longitude": 77.75125
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Tirupati Cafe - Whitefield",
+   "place_id": "ChIJ8Wr_lKMTrjsRYUKO_fjnM_0",
+   "data_id": "0x3bae13a394ff6af1:0xfd33e7f8fd8e4261",
+   "rating": 3.5,
+   "reviews": 151,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Andhra",
+   "address": "170, Borewell Rd",
+   "gps_coordinates": {
+    "latitude": 12.969208,
+    "longitude": 77.73608
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Kapoor's Cafe",
+   "place_id": "ChIJD-qdKTwSrjsRVQQNisM6TtE",
+   "data_id": "0x3bae123c299dea0f:0xd14e3ac38a0d0455",
+   "rating": 4,
+   "reviews": 14000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "Gurukuls Sports Academy, Old, Varthur Main Rd, near Cafe Coffee Day",
+   "gps_coordinates": {
+    "latitude": 12.956092,
+    "longitude": 77.719955
+   },
+   "comment": "Punjabi fare in a simple setting",
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "POCO A POCO, Food Wine & Music",
+   "place_id": "ChIJ03VqqMgPrjsRo6wX7bQt8K0",
+   "data_id": "0x3bae0fc8a86a75d3:0xadf02db4ed17aca3",
+   "rating": 4.3,
+   "reviews": 1000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Garden of Eden by UKN, Whitefield Main Rd, behind Fab India",
+   "gps_coordinates": {
+    "latitude": 12.980254,
+    "longitude": 77.75116
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Cups N Bites Cafe",
+   "place_id": "ChIJ6R6_KwAPrjsRa7ukt1y5c9U",
+   "data_id": "0x3bae0f002bbf1ee9:0xd573b95cb7a4bb6b",
+   "rating": 4.8,
+   "reviews": 143,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Shop No. 1, Sri Srinivas Theatre Complex, opposite to FCI Godown",
+   "gps_coordinates": {
+    "latitude": 12.988474,
+    "longitude": 77.76654
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "CHAI BAGAAN CAFE",
+   "place_id": "ChIJa1NoRQATrjsRc0gKyb36MW8",
+   "data_id": "0x3bae13004568536b:0x6f31fabdc90a4873",
+   "rating": 4.2,
+   "reviews": 233,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "ELV Marvel Ln",
+   "gps_coordinates": {
+    "latitude": 12.972231,
+    "longitude": 77.73452
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  }
+ ]
+}

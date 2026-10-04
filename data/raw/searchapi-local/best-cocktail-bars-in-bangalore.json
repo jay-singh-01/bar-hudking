@@ -1,0 +1,412 @@
+{
+ "q": "best cocktail bars in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:39:36.842Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Reservoire Indiranagar",
+   "place_id": "ChIJr0fS_u0XrjsRrg3cXuIsJaU",
+   "data_id": "0x3bae17edfed247af:0xa5252ce25edc0dae",
+   "rating": 4.5,
+   "reviews": 2500,
+   "type": "Cocktail bar",
+   "address": "3rd and 4th Floor, No. 949, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970249,
+    "longitude": 77.639175
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "The Reservoire Koramangala",
+   "place_id": "ChIJH3YpIVsUrjsRJBzG1Im39jc",
+   "data_id": "0x3bae145b2129761f:0x37f6b789d4c61c24",
+   "rating": 4.3,
+   "reviews": 16000,
+   "type": "Cocktail bar",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933466,
+    "longitude": 77.62222
+   },
+   "comment": "Chic, bi-level lounge with Indian fare",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Bar Doubble",
+   "place_id": "ChIJf9QW_vAVrjsR_OM7azbwjgo",
+   "data_id": "0x3bae15f0fe16d47f:0xa8ef0366b3be3fc",
+   "rating": 4.8,
+   "reviews": 115,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "90, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.956611,
+    "longitude": 77.59229
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Just BLR",
+   "place_id": "ChIJOT7dpH8XrjsRmhbquGl7xz0",
+   "data_id": "0x3bae177fa4dd3e39:0x3dc77b69b8ea169a",
+   "rating": 4.7,
+   "reviews": 27000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "Deena Complex, Brigade Rd, opp. MC Donald",
+   "gps_coordinates": {
+    "latitude": 12.973275,
+    "longitude": 77.607315
+   },
+   "comment": "Vibrant bar for live music & global eats",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "SOKA Cocktail Bar",
+   "place_id": "ChIJC4jSzucVrjsR_TuLOhxNGCk",
+   "data_id": "0x3bae15e7ced2880b:0x29184d1c3a8b3bfd",
+   "rating": 4.3,
+   "reviews": 438,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "No.210, A cross, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.965116,
+    "longitude": 77.63839
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Dali and Gala Cocktail Bar",
+   "place_id": "ChIJW6P7esAXrjsRgtoZsHHsNac",
+   "data_id": "0x3bae17c07afba35b:0xa735ec71b019da82",
+   "rating": 4.5,
+   "reviews": 454,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "Upper ground, No. 1, the museum, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975124,
+    "longitude": 77.60287
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "403 Forbidden Bar",
+   "place_id": "ChIJqUzp5BYXrjsR67U3Fn_ohP4",
+   "data_id": "0x3bae1716e4e94ca9:0xfe84e87f1637b5eb",
+   "rating": 4.4,
+   "reviews": 409,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "Khata No. 789/A, 1st Floor, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970332,
+    "longitude": 77.640724
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "The Pump House",
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "rating": 4.5,
+   "reviews": 31000,
+   "type": "Brewpub",
+   "address": "607, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.582085
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Bar Spirit Forward",
+   "place_id": "ChIJk1UT0hoXrjsRnVPEieFPPfQ",
+   "data_id": "0x3bae171ad2135593:0xf43d4fe189c4539d",
+   "rating": 4.4,
+   "reviews": 377,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "Ground Floor, Hotel Southern Star, 40/2, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974637,
+    "longitude": 77.59935
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "TOCA Brigade and Terrace",
+   "place_id": "ChIJ62siEjQXrjsRoy7xHOObj_c",
+   "data_id": "0x3bae173412226beb:0xf78f9be31cf12ea3",
+   "rating": 4.4,
+   "reviews": 2800,
+   "type": "Cocktail bar",
+   "address": "3rd and 4th floor, 25, Brigade Rd, above Levi’s showroom",
+   "gps_coordinates": {
+    "latitude": 12.973753,
+    "longitude": 77.607704
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Skyye",
+   "place_id": "ChIJjfOyQ3cWrjsRz_TvsEoOQ0A",
+   "data_id": "0x3bae167743b2f38d:0x40430e4ab0eff4cf",
+   "rating": 4.3,
+   "reviews": 9700,
+   "type": "Lounge bar",
+   "address": "24, 16th Floor, Uber level, Canberra Block, UB City, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971427,
+    "longitude": 77.596504
+   },
+   "extensions": [
+    "Closes soon",
+    "12:40 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The 13th Floor",
+   "place_id": "ChIJXZGjsn0WrjsRcqfimwGhocs",
+   "data_id": "0x3bae167db2a3915d:0xcba1a1019be2a772",
+   "rating": 4.3,
+   "reviews": 11000,
+   "type": "Cocktail bar",
+   "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975323,
+    "longitude": 77.60505
+   },
+   "comment": "Cocktails & Asian cuisine with city view",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Monkey Bar",
+   "place_id": "ChIJzWN9rSoUrjsRiR5_FDQyN5k",
+   "data_id": "0x3bae142aad7d63cd:0x99373234147f1e89",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "First Floor, The Museum, No.1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975082,
+    "longitude": 77.60288
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "The Cloak Society",
+   "place_id": "ChIJX-9YkpAXrjsR8Mjpi5siC1I",
+   "data_id": "0x3bae17909258ef5f:0x520b229b8be9c8f0",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Cocktail bar",
+   "address": "3rd Floor, The Ritz-Carlton, 99, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.967603,
+    "longitude": 77.601746
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Big Pitcher Indiranagar",
+   "place_id": "ChIJmYFyxAUUrjsRQ2009RsA3cM",
+   "data_id": "0x3bae1405c4728199:0xc3dd001bf5346d43",
+   "rating": 4.4,
+   "reviews": 31000,
+   "type": "Brewery",
+   "address": "Ward No.88, L R Arcade, No.4121, HAL Old Airport Rd, next to The Leela Palace",
+   "gps_coordinates": {
+    "latitude": 12.96022,
+    "longitude": 77.64689
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Travellers Bungalow (Bar & Restaurant)",
+   "place_id": "ChIJkR_zvE0XrjsRp_hJbJz-45E",
+   "data_id": "0x3bae174dbcf31f91:0x91e3fe9c6c49f8a7",
+   "rating": 4.5,
+   "reviews": 3000,
+   "type": "Cocktail bar",
+   "address": "First & Second Floor, 2989/B, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970159,
+    "longitude": 77.645805
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Yuki - Cocktail Bar and Kitchen | Indiranagar",
+   "place_id": "ChIJ69xysHUXrjsRBVDrBIzfCL8",
+   "data_id": "0x3bae1775b072dceb:0xbf08df8c04eb5005",
+   "rating": 4.6,
+   "reviews": 2400,
+   "type": "Pan Asian",
+   "address": "No. 839/1 Second Floor Binnamangala, above Leon's",
+   "gps_coordinates": {
+    "latitude": 12.98038,
+    "longitude": 77.64106
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Muro",
+   "place_id": "ChIJG4hY5igXrjsRcU9IFbg9Www",
+   "data_id": "0x3bae1728e658881b:0xc5b3db815484f71",
+   "rating": 4.6,
+   "reviews": 3000,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "5, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.974621,
+    "longitude": 77.60315
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "High Ultra Lounge",
+   "place_id": "ChIJAauS2Io9rjsR1nsLNuuOMw4",
+   "data_id": "0x3bae3d8ad892ab01:0xe338eeb360b7bd6",
+   "rating": 4.1,
+   "reviews": 7900,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.012283,
+    "longitude": 77.556145
+   },
+   "comment": "Chic rooftop bar & Asian restaurant",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Copitas",
+   "place_id": "ChIJDfztVFcXrjsRXWjclkiEotw",
+   "data_id": "0x3bae175754edfc0d:0xdca2844896dc685d",
+   "rating": 4.5,
+   "reviews": 449,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Lounge bar",
+   "address": "8, Bellary Rd",
+   "gps_coordinates": {
+    "latitude": 13.019646,
+    "longitude": 77.58537
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

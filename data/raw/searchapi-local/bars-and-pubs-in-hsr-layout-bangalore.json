@@ -1,0 +1,322 @@
+{
+ "q": "bars and pubs in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:39:20.513Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "BLR Brewing Co - HSR Layout",
+   "place_id": "ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+   "data_id": "0x3bae15804ad3fe67:0x722e32f9dba764b1",
+   "rating": 4.4,
+   "reviews": 3700,
+   "type": "Brewery",
+   "address": "1st Floor, 450, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912324,
+    "longitude": 77.6416
+   }
+  },
+  {
+   "position": 2,
+   "title": "Don't Tell Mama | Rooftop Bar & Kitchen",
+   "place_id": "ChIJnX46NIwUrjsRKyiFX2itWzo",
+   "data_id": "0x3bae148c343a7e9d:0x3a5bad685f85282b",
+   "rating": 4.1,
+   "reviews": 2200,
+   "type": "Bar",
+   "address": "13th Cross Rd, below The Elite Royale",
+   "gps_coordinates": {
+    "latitude": 12.915755,
+    "longitude": 77.63453
+   }
+  },
+  {
+   "position": 3,
+   "title": "To Be Continued Sky Lounge TBC",
+   "place_id": "ChIJd9DFZ4AUrjsRMvg9cEl-fJM",
+   "data_id": "0x3bae148067c5d077:0x937c7e49703df832",
+   "rating": 4.4,
+   "reviews": 15000,
+   "type": "Lounge bar",
+   "address": "2795, 27th Main Rd, near Sony Center",
+   "gps_coordinates": {
+    "latitude": 12.922893,
+    "longitude": 77.65145
+   },
+   "comment": "Global eats & a stylish greenhouse vibe"
+  },
+  {
+   "position": 4,
+   "title": "The Biere Club | HSR Layout",
+   "place_id": "ChIJUYlVpmIVrjsRUxuVmMGgPBQ",
+   "data_id": "0x3bae1562a6558951:0x143ca0c198951b53",
+   "rating": 4.1,
+   "reviews": 413,
+   "type": "Brewpub",
+   "address": "9, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912204,
+    "longitude": 77.6368
+   }
+  },
+  {
+   "position": 5,
+   "title": "Shift Lounge - HSR Layout",
+   "place_id": "ChIJraR3y5EUrjsRhMmIajxZhR4",
+   "data_id": "0x3bae1491cb77a4ad:0x1e85593c6a88c984",
+   "rating": 3.9,
+   "reviews": 6800,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Lounge bar",
+   "address": "3rd and 4th floor, Sector 3 1085, 14th Main Road, 18th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.911883,
+    "longitude": 77.63879
+   }
+  },
+  {
+   "position": 6,
+   "title": "The Chill House - Restaurant | HSR Layout",
+   "place_id": "ChIJ82f0WWUVrjsRjrkZpmxO1xU",
+   "data_id": "0x3bae156559f467f3:0x15d74e6ca619b98e",
+   "rating": 4.3,
+   "reviews": 326,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "Rooftop # 1329, 24th Main Rd, opp. indiqube orion",
+   "gps_coordinates": {
+    "latitude": 12.903849,
+    "longitude": 77.64899
+   }
+  },
+  {
+   "position": 7,
+   "title": "SOMRAS BAR & KITCHEN",
+   "place_id": "ChIJ5aUHr6QVrjsRN_LujB9jGVc",
+   "data_id": "0x3bae15a4af07a5e5:0x5719631f8ceef237",
+   "rating": 4.8,
+   "reviews": 7300,
+   "type": "Grill",
+   "address": "2331, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912077,
+    "longitude": 77.6495
+   }
+  },
+  {
+   "position": 8,
+   "title": "Oyster, Bar & Kitchen",
+   "place_id": "ChIJa-jPFNsVrjsRkXlyYRsufk4",
+   "data_id": "0x3bae15db14cfe86b:0x4e7e2e1b61727991",
+   "rating": 4.5,
+   "reviews": 9400,
+   "type": "Bar",
+   "address": "#36, 3rd floor, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.911843,
+    "longitude": 77.63791
+   }
+  },
+  {
+   "position": 9,
+   "title": "House of Commons",
+   "place_id": "ChIJxalH0JEUrjsR9ZZLrQDrQdg",
+   "data_id": "0x3bae1491d047a9c5:0xd841eb00ad4b96f5",
+   "rating": 4.2,
+   "reviews": 20000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Grill",
+   "address": "Ground 1085, 14th Main Rd, near McDonalds",
+   "gps_coordinates": {
+    "latitude": 12.911869,
+    "longitude": 77.63884
+   }
+  },
+  {
+   "position": 10,
+   "title": "Plan B x Hangover HSR",
+   "place_id": "ChIJ0-YnWhAVrjsRv3tYLaFWMRU",
+   "data_id": "0x3bae15105a27e6d3:0x153156a12d587bbf",
+   "rating": 3.9,
+   "reviews": 5100,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "2324, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912086,
+    "longitude": 77.650696
+   },
+   "comment": "Vibrant bar with dramatic decor"
+  },
+  {
+   "position": 11,
+   "title": "Indigo XP HSR",
+   "place_id": "ChIJrdb_SPsVrjsRUrTYMjlfCnc",
+   "data_id": "0x3bae15fb48ffd6ad:0x770a5f3932d8b452",
+   "rating": 3.9,
+   "reviews": 3000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Pub",
+   "address": "14, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915653,
+    "longitude": 77.634575
+   },
+   "comment": "Nightclub with an open-air dance floor"
+  },
+  {
+   "position": 12,
+   "title": "Stories Bar & Kitchen - HSR",
+   "place_id": "ChIJtVZh4m0VrjsRFLaL_4UMRZQ",
+   "data_id": "0x3bae156de26156b5:0x94450c85ff8bb614",
+   "rating": 4.3,
+   "reviews": 963,
+   "type": "Bar",
+   "address": "365, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915954,
+    "longitude": 77.63254
+   }
+  },
+  {
+   "position": 13,
+   "title": "Atlantis Brewery",
+   "place_id": "ChIJ85cIXUsVrjsRixdjo1sh9xA",
+   "data_id": "0x3bae154b5d0897f3:0x10f7215ba363178b",
+   "rating": 4.4,
+   "reviews": 4100,
+   "type": "Pan Asian",
+   "address": "SY NO 38, 38/5, Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.923943,
+    "longitude": 77.640305
+   }
+  },
+  {
+   "position": 14,
+   "title": "Animal Bar",
+   "place_id": "ChIJ36i77x8VrjsR1HiJu0mJvaQ",
+   "data_id": "0x3bae151fefbba8df:0xa4bd8949bb8978d4",
+   "rating": 3.9,
+   "reviews": 6500,
+   "type": "Bar",
+   "address": "SY NO 38, 38/5, Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.923983,
+    "longitude": 77.64034
+   }
+  },
+  {
+   "position": 15,
+   "title": "Drunken Daddy",
+   "place_id": "ChIJ13_-NUQVrjsRdHOOk3jSL7g",
+   "data_id": "0x3bae154435fe7fd7:0xb82fd278938e7374",
+   "rating": 4.4,
+   "reviews": 11000,
+   "type": "Pub",
+   "address": "46, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934186,
+    "longitude": 77.61602
+   }
+  },
+  {
+   "position": 16,
+   "title": "Macaw By Stories",
+   "place_id": "ChIJmc-EZGcVrjsRyD0eKRt8wRk",
+   "data_id": "0x3bae15676484cf99:0x19c17c1b291e3dc8",
+   "rating": 4.4,
+   "reviews": 5600,
+   "type": "Pub",
+   "address": "No 2224, 2225, Service Rd",
+   "gps_coordinates": {
+    "latitude": 12.884246,
+    "longitude": 77.64344
+   }
+  },
+  {
+   "position": 17,
+   "title": "B-Hive Pub",
+   "place_id": "ChIJR2PoM2EUrjsRz2f-oJefVfo",
+   "data_id": "0x3bae146133e86347:0xfa559f97a0fe67cf",
+   "rating": 4,
+   "reviews": 4600,
+   "type": "Pub",
+   "address": "43/B, Main Road, 1st Main, near Wipro Park, above ROOTS RESTAURANT",
+   "gps_coordinates": {
+    "latitude": 12.92927,
+    "longitude": 77.6346
+   },
+   "comment": "Casual spot for pub fare & beers"
+  },
+  {
+   "position": 18,
+   "title": "Tipsy Bull- The Bar Exchange",
+   "place_id": "ChIJTSGow3UTrjsRlMlNbphrG9s",
+   "data_id": "0x3bae1375c3a8214d:0xdb1b6b986e4dc994",
+   "rating": 4,
+   "reviews": 9500,
+   "type": "Pub",
+   "address": "4th Floor, 74, above ICICI Bank",
+   "gps_coordinates": {
+    "latitude": 12.92408,
+    "longitude": 77.67163
+   },
+   "comment": "Colorful & eclectic international venue"
+  },
+  {
+   "position": 19,
+   "title": "The Reservoire Koramangala",
+   "place_id": "ChIJH3YpIVsUrjsRJBzG1Im39jc",
+   "data_id": "0x3bae145b2129761f:0x37f6b789d4c61c24",
+   "rating": 4.3,
+   "reviews": 16000,
+   "type": "Cocktail bar",
+   "address": "17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933466,
+    "longitude": 77.62222
+   }
+  },
+  {
+   "position": 20,
+   "title": "Bindu Garden Bar and Restaurant",
+   "place_id": "ChIJUREqaJwUrjsRlU7SJB6bC2A",
+   "data_id": "0x3bae149c682a1151:0x600b9b1e24d24e95",
+   "rating": 3.8,
+   "reviews": 1400,
+   "type": "Bar",
+   "address": "Near Paringi Palya Bus Stop, Sector 2, HSR Layout, No.16, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.909652,
+    "longitude": 77.64938
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  }
+ ]
+}

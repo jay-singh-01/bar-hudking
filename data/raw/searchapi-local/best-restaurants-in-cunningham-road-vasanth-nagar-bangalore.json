@@ -1,0 +1,420 @@
+{
+ "q": "best restaurants in Cunningham Road/Vasanth Nagar Bangalore",
+ "ll": "@12.9861,77.5954,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:23.036Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Thirtha @ Cunningham Road",
+   "place_id": "ChIJt4471GYXrjsRRMxJ-PkQr4Q",
+   "data_id": "0x3bae1766d43b8eb7:0x84af10f9f849cc44",
+   "rating": 4.2,
+   "reviews": 1300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "35, Cunningham Rd",
+   "gps_coordinates": {
+    "latitude": 12.986698,
+    "longitude": 77.59516
+   }
+  },
+  {
+   "position": 2,
+   "title": "Eden Park Restaurant",
+   "place_id": "ChIJY3_dw2UWrjsRkKrPwas-Dvg",
+   "data_id": "0x3bae1665c3dd7f63:0xf80e3eabc1cfaa90",
+   "rating": 4,
+   "reviews": 8800,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "21 1, Cunningham Rd, near The Hindu",
+   "gps_coordinates": {
+    "latitude": 12.983426,
+    "longitude": 77.59851
+   },
+   "comment": "3-in-1 restaurant venue & rooftop bar"
+  },
+  {
+   "position": 3,
+   "title": "Sri Vishnu Park Vasanthnagar",
+   "place_id": "ChIJA6ujRQAXrjsRMZ8bguxLp2k",
+   "data_id": "0x3bae170045a3ab03:0x69a74bec821b9f31",
+   "rating": 4.6,
+   "reviews": 784,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "No. 42, opposite Mount carmel college Palace road, 1A, Cunningham Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.99297,
+    "longitude": 77.589294
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Kailash Parbat- Pure Veg",
+   "place_id": "ChIJExNw0hQXrjsRye8zpLvAhCI",
+   "data_id": "0x3bae1714d2701313:0x2284c0bba433efc9",
+   "rating": 4.7,
+   "reviews": 434,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Vegetarian",
+   "address": "Ground Floor, Chaman Business Centre, No 35/2, SRT Road, Cunningham Rd",
+   "gps_coordinates": {
+    "latitude": 12.986367,
+    "longitude": 77.59538
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Serious Slice (Cunningham Road)",
+   "place_id": "ChIJYxyMYioXrjsRUWZk01QL4JU",
+   "data_id": "0x3bae172a628c1c63:0x95e00b54d3646651",
+   "rating": 4.5,
+   "reviews": 590,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Pizza",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.98848,
+    "longitude": 77.59407
+   }
+  },
+  {
+   "position": 6,
+   "title": "La Couronne Patisserie and Cafe, Cunningham Road",
+   "place_id": "ChIJCTFSzvkXrjsRSBW0WsKjtCo",
+   "data_id": "0x3bae17f9ce523109:0x2ab4a3c25ab41548",
+   "rating": 4.7,
+   "reviews": 1000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "ward no 78, Kareem Towers, 19/8, Cunningham Rd",
+   "gps_coordinates": {
+    "latitude": 12.985463,
+    "longitude": 77.59647
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Dolci - Cunningham Road",
+   "place_id": "ChIJ98Pe8mgWrjsRzhusxNrVVWU",
+   "data_id": "0x3bae1668f2dec3f7:0x6555d5dac4ac1bce",
+   "rating": 4.5,
+   "reviews": 1500,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "18/3, Ali Askar Road, Near Honda Showroom Cunningham Road, Ali Asker Rd",
+   "gps_coordinates": {
+    "latitude": 12.986406,
+    "longitude": 77.59492
+   },
+   "comment": "Cozy bakery & Italian cafe with a patio",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Mollys Courtyard",
+   "place_id": "ChIJb2K6kc4XrjsRbi_guv5-10A",
+   "data_id": "0x3bae17ce91ba626f:0x40d77efebae02f6e",
+   "rating": 4.3,
+   "reviews": 343,
+   "type": "Western",
+   "address": "18, Ali Asker Rd",
+   "gps_coordinates": {
+    "latitude": 12.986425,
+    "longitude": 77.594925
+   }
+  },
+  {
+   "position": 9,
+   "title": "infinitea Cunningham Road",
+   "place_id": "ChIJE-njW2gWrjsRUNoH91ymG-E",
+   "data_id": "0x3bae16685be3e913:0xe11ba65cf707da50",
+   "rating": 4.4,
+   "reviews": 2200,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "Shah Sultan Complex, 2, 17/1, Cunningham Road, Ali Asker Cross",
+   "gps_coordinates": {
+    "latitude": 12.987104,
+    "longitude": 77.59476
+   },
+   "comment": "Stylish, European-influenced tea cafe",
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Shezan Restaurant",
+   "place_id": "ChIJr0nkrGkWrjsReV77kwxj0Bc",
+   "data_id": "0x3bae1669ace449af:0x17d0630c93fb5e79",
+   "rating": 4.3,
+   "reviews": 2800,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Mughlai",
+   "address": "Shah Sultan Complex, Cunningham Rd",
+   "gps_coordinates": {
+    "latitude": 12.987128,
+    "longitude": 77.59469
+   },
+   "comment": "Classic address for steaks & mixed fare",
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Rooftop Dinning",
+   "place_id": "ChIJ75iUjQIXrjsRSxMnjT8eadY",
+   "data_id": "0x3bae17028d9498ef:0xd6691e3f8d27134b",
+   "rating": 4.1,
+   "reviews": 87,
+   "type": "Grill",
+   "address": "34, Cunningham Rd, opp. Prestige Center Point",
+   "gps_coordinates": {
+    "latitude": 12.986066,
+    "longitude": 77.59536
+   }
+  },
+  {
+   "position": 12,
+   "title": "Pasta Street - Cunningham Road",
+   "place_id": "ChIJY0f2SWgWrjsRmMNTyxkClT8",
+   "data_id": "0x3bae166849f64763:0x3f950219cb53c398",
+   "rating": 4.4,
+   "reviews": 4700,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Italian",
+   "address": "Chicago Avenue, 37/2, Cunningham Rd, opposite Fortis Hospital",
+   "gps_coordinates": {
+    "latitude": 12.988341,
+    "longitude": 77.59375
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Fine Restaurant",
+   "place_id": "ChIJO7QX9EIWrjsRzw8hFjb_0B0",
+   "data_id": "0x3bae1642f417b43b:0x1dd0ff3616210fcf",
+   "rating": 4.4,
+   "reviews": 1400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Andhra",
+   "address": "2 , Ground Floor, RR Chambers, 11th Main, Millers Rd",
+   "gps_coordinates": {
+    "latitude": 12.991447,
+    "longitude": 77.59371
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Watson’s Vasanth Nagar",
+   "place_id": "ChIJux5Jh0EWrjsR5I4-v2273lk",
+   "data_id": "0x3bae164187491ebb:0x59debb6dbf3e8ee4",
+   "rating": 4.3,
+   "reviews": 3200,
+   "type": "Restaurant",
+   "address": "KODAVA SAMAJA, 1st Floor, Kodava Samaja Building",
+   "gps_coordinates": {
+    "latitude": 12.994294,
+    "longitude": 77.59466
+   }
+  },
+  {
+   "position": 15,
+   "title": "Maffei Kitchen",
+   "place_id": "ChIJddC2CsIXrjsRol4Ii-MiOTk",
+   "data_id": "0x3bae17c20ab6d075:0x393922e38b085ea2",
+   "rating": 4.7,
+   "reviews": 895,
+   "type": "Mediterranean",
+   "address": "Hallmark Building, No. 35/1-1, Cunningham Rd",
+   "gps_coordinates": {
+    "latitude": 12.986333,
+    "longitude": 77.59544
+   },
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "SVARASA Indian kitchen",
+   "place_id": "ChIJRfp10vMXrjsRA2uGsT2bY7A",
+   "data_id": "0x3bae17f3d275fa45:0xb0639b3db1866b03",
+   "rating": 4.5,
+   "reviews": 381,
+   "price": "₹600–1,200",
+   "extracted_price": {
+    "min": 600,
+    "max": 1200
+   },
+   "type": "Modern Indian restaurant",
+   "address": "Mezzanine Floor, Hallmark Building, 35/1-1, Cunningham Rd",
+   "gps_coordinates": {
+    "latitude": 12.986357,
+    "longitude": 77.595406
+   },
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "The Indies 365 Cafe",
+   "place_id": "ChIJ6c22UzUXrjsRVCGZhotvVic",
+   "data_id": "0x3bae173553b6cde9:0x27566f8b86992154",
+   "rating": 4.7,
+   "reviews": 1200,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Indian",
+   "address": "40/1, 2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.004795,
+    "longitude": 77.5787
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Maayaa - Coastal Treasures of South India",
+   "place_id": "ChIJHbDsKtQXrjsRGu-RAKJGjbs",
+   "data_id": "0x3bae17d42aecb01d:0xbb8d46a20091ef1a",
+   "rating": 4.6,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "South Indian",
+   "address": "The Courtyard By Sublime, Prestige Trade Tower, Palace Rd",
+   "gps_coordinates": {
+    "latitude": 12.985822,
+    "longitude": 77.5881
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The Royal Afghan",
+   "place_id": "ChIJt_KvUqMXrjsRqnHZPrGphUA",
+   "data_id": "0x3bae17a352aff2b7:0x4085a9b13ed971aa",
+   "rating": 4.3,
+   "reviews": 336,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Indian",
+   "address": "ITC WINDSOR",
+   "gps_coordinates": {
+    "latitude": 12.994239,
+    "longitude": 77.58611
+   }
+  },
+  {
+   "position": 20,
+   "title": "Empire Restaurant vasanth nagar",
+   "place_id": "ChIJJeufaJYXrjsRaN8gh329Y1Y",
+   "data_id": "0x3bae1796689feb25:0x5663bd7d8720df68",
+   "rating": 4.5,
+   "reviews": 17000,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "No.47, Kohinoor Plaza, 1021, Millers Rd, opp. BHAGWAN MAHAVEER JAIN HOSPITAL-VASANTH NAGAR",
+   "gps_coordinates": {
+    "latitude": 12.99166,
+    "longitude": 77.59429
+   },
+   "extensions": [
+    "Open now"
+   ]
+  }
+ ]
+}

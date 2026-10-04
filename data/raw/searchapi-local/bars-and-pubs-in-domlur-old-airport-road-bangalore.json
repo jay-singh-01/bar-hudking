@@ -1,0 +1,358 @@
+{
+ "q": "bars and pubs in Domlur/Old Airport Road Bangalore",
+ "ll": "@12.9611,77.6387,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:39:25.345Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Jeff's",
+   "place_id": "ChIJIVihkQ8UrjsR9FhE552-ZDs",
+   "data_id": "0x3bae140f91a15821:0x3b64be9de74458f4",
+   "rating": 4,
+   "reviews": 541,
+   "type": "Bar",
+   "address": "Hotel Royal Orchid, 1, HAL Old Airport Rd, adjoining KGA Golf Course",
+   "gps_coordinates": {
+    "latitude": 12.957348,
+    "longitude": 77.64405
+   },
+   "comment": "Traditional-style theme pub in a hotel"
+  },
+  {
+   "position": 2,
+   "title": "Newton's Resto Bar",
+   "place_id": "ChIJSy6kphYVrjsR6k6k8DboMDk",
+   "data_id": "0x3bae1516a6a42e4b:0x3930e836f0a44eea",
+   "rating": 4.2,
+   "reviews": 147,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Pub",
+   "address": "4121/Q, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.960531,
+    "longitude": 77.64455
+   }
+  },
+  {
+   "position": 3,
+   "title": "Blue Nights.6",
+   "place_id": "ChIJi2jHcRkUrjsR3TkvjPWCX54",
+   "data_id": "0x3bae141971c7688b:0x9e5f82f58c2f39dd",
+   "rating": 3.9,
+   "reviews": 275,
+   "type": "Bar",
+   "address": "6, 7, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.961294,
+    "longitude": 77.63562
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Big Pitcher Indiranagar",
+   "place_id": "ChIJmYFyxAUUrjsRQ2009RsA3cM",
+   "data_id": "0x3bae1405c4728199:0xc3dd001bf5346d43",
+   "rating": 4.4,
+   "reviews": 31000,
+   "type": "Brewery",
+   "address": "Ward No.88, L R Arcade, No.4121, HAL Old Airport Rd, next to The Leela Palace",
+   "gps_coordinates": {
+    "latitude": 12.96022,
+    "longitude": 77.64689
+   },
+   "comment": "Hip brewpub with bar fare & events"
+  },
+  {
+   "position": 5,
+   "title": "SOKA Cocktail Bar",
+   "place_id": "ChIJC4jSzucVrjsR_TuLOhxNGCk",
+   "data_id": "0x3bae15e7ced2880b:0x29184d1c3a8b3bfd",
+   "rating": 4.3,
+   "reviews": 438,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "No.210, A cross, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.965116,
+    "longitude": 77.63839
+   }
+  },
+  {
+   "position": 6,
+   "title": "Tipsy Bull",
+   "place_id": "ChIJs6RssRwUrjsRWAxBB6vI-a4",
+   "data_id": "0x3bae141cb16ca4b3:0xaef9c8ab07410c58",
+   "rating": 4.1,
+   "reviews": 14000,
+   "type": "Bar",
+   "address": "Domlur Flyover",
+   "gps_coordinates": {
+    "latitude": 12.964816,
+    "longitude": 77.641815
+   }
+  },
+  {
+   "position": 7,
+   "title": "Murphy's Brewhouse",
+   "place_id": "ChIJu-m8mBEUrjsREFVZh0GU3Q0",
+   "data_id": "0x3bae141198bce9bb:0xddd944187595510",
+   "rating": 4.3,
+   "reviews": 4400,
+   "type": "Brewpub",
+   "address": "The Paul, 139/28, 5th floor, off Intermediate Ring Road",
+   "gps_coordinates": {
+    "latitude": 12.953779,
+    "longitude": 77.63968
+   },
+   "comment": "Irish-style pub for microbrews & bites"
+  },
+  {
+   "position": 8,
+   "title": "Reboot The Pub",
+   "place_id": "ChIJzbyn-BQTrjsRx5l9t_JuHrI",
+   "data_id": "0x3bae1314f8a7bccd:0xb21e6ef2b77d99c7",
+   "rating": 4.6,
+   "reviews": 3600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "No. 90/2, and 90/3, Above Titan World Marathahalli Outer Ring Road, Service Rd, opposite Iron Hill",
+   "gps_coordinates": {
+    "latitude": 12.9509325,
+    "longitude": 77.700035
+   }
+  },
+  {
+   "position": 9,
+   "title": "Daddy Bangalore",
+   "place_id": "ChIJnbPrX9oXrjsRzzoVa_Wpa9o",
+   "data_id": "0x3bae17da5febb39d:0xda6ba9f56b153acf",
+   "rating": 4.3,
+   "reviews": 12000,
+   "type": "Bar",
+   "address": "963, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970014,
+    "longitude": 77.640076
+   }
+  },
+  {
+   "position": 10,
+   "title": "Otto's",
+   "place_id": "ChIJnfk4oKkTrjsRWM8gKgkuF5s",
+   "data_id": "0x3bae13a9a038f99d:0x9b172e092a20cf58",
+   "rating": 4.2,
+   "reviews": 442,
+   "type": "Gastropub",
+   "address": "122/103, Kodihalli Village, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.959029,
+    "longitude": 77.654816
+   }
+  },
+  {
+   "position": 11,
+   "title": "The Library Bar",
+   "place_id": "ChIJHWE-cgYUrjsRh5MmJyc95G0",
+   "data_id": "0x3bae1406723e611d:0x6de43d2727269387",
+   "rating": 4.3,
+   "reviews": 134,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "The Leela Palace, 23, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.960212,
+    "longitude": 77.64851
+   },
+   "comment": "Upscale hotel's colonial bar/restaurant"
+  },
+  {
+   "position": 12,
+   "title": "Crazy Boys",
+   "place_id": "ChIJl9oJgNcVrjsRBODwmhIEzDw",
+   "data_id": "0x3bae15d78009da97:0x3ccc04129af0e004",
+   "rating": 3.9,
+   "reviews": 206,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "XJ6Q+6CR",
+   "gps_coordinates": {
+    "latitude": 12.960616,
+    "longitude": 77.63852
+   }
+  },
+  {
+   "position": 13,
+   "title": "403 Forbidden Bar",
+   "place_id": "ChIJqUzp5BYXrjsR67U3Fn_ohP4",
+   "data_id": "0x3bae1716e4e94ca9:0xfe84e87f1637b5eb",
+   "rating": 4.4,
+   "reviews": 409,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cocktail bar",
+   "address": "Khata No. 789/A, 1st Floor, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970332,
+    "longitude": 77.640724
+   }
+  },
+  {
+   "position": 14,
+   "title": "Bob's Bar",
+   "place_id": "ChIJSaulJR0UrjsR2T-ibTmBHfU",
+   "data_id": "0x3bae141d25a5ab49:0xf51d81396da23fd9",
+   "rating": 4.2,
+   "reviews": 21000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "777/I, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.967137,
+    "longitude": 77.64121
+   }
+  },
+  {
+   "position": 15,
+   "title": "The Bier Library",
+   "place_id": "ChIJsaosImcVrjsRPP5rNvYTmLc",
+   "data_id": "0x3bae1567222caab1:0xb79813f6366bfe3c",
+   "rating": 4.4,
+   "reviews": 24000,
+   "type": "Brewpub",
+   "address": "14, Patel Narayana Reddy Layout, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.93922,
+    "longitude": 77.626114
+   },
+   "comment": "Microbrewery with international bar food"
+  },
+  {
+   "position": 16,
+   "title": "Mookambika Bar and Restaurant",
+   "place_id": "ChIJ8wj5DgUUrjsRKAkiEtppSFA",
+   "data_id": "0x3bae14050ef908f3:0x504869da12220928",
+   "rating": 3.6,
+   "reviews": 196,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Bar",
+   "address": "Old Airport Road, Shop No : 22, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.960195,
+    "longitude": 77.64459
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "GD Bar and Restaurant",
+   "place_id": "ChIJ6yFfbSgVrjsRwo0BV__u0tY",
+   "data_id": "0x3bae15286d5f21eb:0xd6d2eeff57018dc2",
+   "rating": 3.4,
+   "reviews": 30,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "4121/Q, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.96051,
+    "longitude": 77.64453
+   },
+   "extensions": [
+    "Open now"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Jamming Goat",
+   "place_id": "ChIJYUH8kPIVrjsRMM5T_nx6Stc",
+   "data_id": "0x3bae15f290fc4161:0xd74a7a7cfe53ce30",
+   "rating": 4.3,
+   "reviews": 1400,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Bar",
+   "address": "1st & 2nd floor, 2010 PID- 74-1, 2010, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.965356,
+    "longitude": 77.641785
+   },
+   "extensions": [
+    "Open now"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Ironhill Bengaluru",
+   "place_id": "ChIJt62F1qwTrjsRzahuMZAxxYM",
+   "data_id": "0x3bae13acd685adb7:0x83c53190316ea8cd",
+   "rating": 4.7,
+   "reviews": 44000,
+   "type": "Brewery",
+   "address": "Sy no 90, 7 & 90/8, Outer Ring Rd, beside Radisson Blu 8",
+   "gps_coordinates": {
+    "latitude": 12.950891,
+    "longitude": 77.69873
+   }
+  },
+  {
+   "position": 20,
+   "title": "21st Amendment Gastrobar Indiranagar",
+   "place_id": "ChIJCWG07ZAVrjsRNs7N5uJIYuM",
+   "data_id": "0x3bae1590edb46109:0xe36248e2e6cdce36",
+   "rating": 4.2,
+   "reviews": 7200,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Bar",
+   "address": "1211, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.965939,
+    "longitude": 77.64128
+   }
+  }
+ ]
+}

@@ -1,0 +1,421 @@
+{
+ "q": "cafes in Sarjapur Road Bangalore",
+ "ll": "@12.901,77.687,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:28:21.369Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Biere Adda - Sarjapur Rd",
+   "place_id": "ChIJO41x6dYTrjsRtXwWiwLh8cM",
+   "data_id": "0x3bae13d6e9718d3b:0xc3f1e1028b167cb5",
+   "rating": 4.5,
+   "reviews": 1100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "4th Floor, Formerly operated under The Dome Cafe Sarjapur, Kasavanahalli Main Rd, above style union",
+   "gps_coordinates": {
+    "latitude": 12.901913,
+    "longitude": 77.6758
+   },
+   "extensions": [
+    "Closes soon",
+    "12:50 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Hoot Craftworks 2.0",
+   "place_id": "ChIJp-P_fzwTrjsR3Ctu6DxKWAk",
+   "data_id": "0x3bae133c7fffe3a7:0x9584a3ce86e2bdc",
+   "rating": 4.2,
+   "reviews": 23000,
+   "type": "Brewery",
+   "address": "Block 2, Village, Varthur, BBMP, 2034/69, Ambalipura - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.914086,
+    "longitude": 77.67859
+   },
+   "comment": "Hip indoor-outdoor brewpub with dancing",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Zoey's: Good Vibes Only",
+   "place_id": "ChIJ_RjZZ3ITrjsREiWD2D2VAKE",
+   "data_id": "0x3bae137267d918fd:0xa100953dd8832512",
+   "rating": 4.3,
+   "reviews": 5300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "Kodathi JHC, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.897568,
+    "longitude": 77.71748
+   },
+   "comment": "Serene open-air cafe with global bites",
+   "extensions": [
+    "Closed",
+    "Opens 11 am Tue"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJfVUX93UTrjsRfDOTg7KmX6Q",
+   "data_id": "0x3bae1375f717557d:0xa45fa6b28393337c",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "83&, 84, Sarjapur - Marathahalli Rd, opp. to DSR Woodwinds",
+   "gps_coordinates": {
+    "latitude": 12.909384,
+    "longitude": 77.687225
+   }
+  },
+  {
+   "position": 5,
+   "title": "Glens Bakehouse Sarjapur",
+   "place_id": "ChIJG4rECgATrjsR5bdPp_PlJhk",
+   "data_id": "0x3bae13000ac48a1b:0x1926e5f3a74fb7e5",
+   "rating": 4.2,
+   "reviews": 1100,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "10/06/62/2A, Sarjapur Main Rd, next to Byg brewski, near WIpro Corporate Office",
+   "gps_coordinates": {
+    "latitude": 12.913214,
+    "longitude": 77.68311
+   }
+  },
+  {
+   "position": 6,
+   "title": "Gladia Brewery & Kitchen",
+   "place_id": "ChIJG2DbcwATrjsRewiFE157kFI",
+   "data_id": "0x3bae130073db601b:0x52907b5e1385087b",
+   "rating": 4.6,
+   "reviews": 3800,
+   "type": "Brewpub",
+   "address": "SY No. 82/4B, Sarjapur Main Rd, beside Wipro Limited",
+   "gps_coordinates": {
+    "latitude": 12.910821,
+    "longitude": 77.68505
+   }
+  },
+  {
+   "position": 7,
+   "title": "Jeev cafe - Under the cherry tree (Made with pure ghee, finest cold-pressed oils, hand made spices)",
+   "place_id": "ChIJmV4ATvITrjsRGxDxra1MtUA",
+   "data_id": "0x3bae13f24e005e99:0x40b54cadadf1101b",
+   "rating": 4.6,
+   "reviews": 723,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Jeev Cafe- Under The Cherry Tree, KRS Avenue, Sarjapur Main Rd, behind airtel office",
+   "gps_coordinates": {
+    "latitude": 12.913274,
+    "longitude": 77.680534
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Adhira & Appa coffee, Sarjapur",
+   "place_id": "ChIJ26V_JMMTrjsRHTRQkjjFy3w",
+   "data_id": "0x3bae13c3247fa5db:0x7ccbc5389250341d",
+   "rating": 4.3,
+   "reviews": 47,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "WM99+Q7H",
+   "gps_coordinates": {
+    "latitude": 12.919437,
+    "longitude": 77.66819
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Kind Roastery and Brew Room, Bellandur",
+   "place_id": "ChIJYacZcJ8TrjsRwZ-rIcV2ts0",
+   "data_id": "0x3bae139f7019a761:0xcdb676c521ab9fc1",
+   "rating": 4.7,
+   "reviews": 1100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "RMZ ECOWORLD, The Bay",
+   "gps_coordinates": {
+    "latitude": 12.919904,
+    "longitude": 77.68476
+   }
+  },
+  {
+   "position": 10,
+   "title": "Therpup Cafe & Resort, Sarjapur",
+   "place_id": "ChIJg9db_G1trjsRdsf-FrTt-jQ",
+   "data_id": "0x3bae6d6dfc5bd783:0x34faedb416fec776",
+   "rating": 4.6,
+   "reviews": 681,
+   "type": "Restaurant",
+   "address": "Sy No 163/2, Kommasandra Village, Sarjapur Hobli, Anekal Taluk, beside Bethany High School",
+   "gps_coordinates": {
+    "latitude": 12.864374,
+    "longitude": 77.73341
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Nivys Resto Cafe & Garden Centre",
+   "place_id": "ChIJ_R2Vf7wTrjsRaN4pbGMdhaM",
+   "data_id": "0x3bae13bc7f951dfd:0xa3851d636c29de68",
+   "rating": 4.6,
+   "reviews": 4000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "SY No. 98/1, 98/4, Haralur Main Rd, opposite to PNR Felicity / Reliance / Cinephile Birla Circle",
+   "gps_coordinates": {
+    "latitude": 12.89592,
+    "longitude": 77.65827
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am Mon"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Modern Coffee House",
+   "place_id": "ChIJG59KOwANrjsRC47rjhNITnU",
+   "data_id": "0x3bae0d003b4a9f1b:0x754e48138eeb8e0b",
+   "rating": 4.7,
+   "reviews": 282,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "Thigala Chowdadenahalli, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.890171,
+    "longitude": 77.749695
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Suto Cafe – Sarjapur Road, Bangalore",
+   "place_id": "ChIJ73AQcrQTrjsRyKQxXq9HuxE",
+   "data_id": "0x3bae13b4721070ef:0x11bb47af5e31a4c8",
+   "rating": 5,
+   "reviews": 13,
+   "type": "Cafe",
+   "address": "No. 10, Ground Floor, KR Tower, Sarjapura Main Road, Opp Wipro Office, Ambedkar Nagar",
+   "gps_coordinates": {
+    "latitude": 12.899199,
+    "longitude": 77.7136
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "HOC Art Cafe by Samvedya",
+   "place_id": "ChIJIy9C3isTrjsRT95cxRr57k4",
+   "data_id": "0x3bae132bde422f23:0x4eeef91ac55cde4f",
+   "rating": 4.6,
+   "reviews": 309,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Art cafe",
+   "address": "28/2 new, Chikkabellandur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9124365,
+    "longitude": 77.7129
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Coffee Brewery – 7AMX12PM Café & Hangout, Sarjapura",
+   "place_id": "ChIJOwgfXQATrjsR9CrGOUFjQ5g",
+   "data_id": "0x3bae13005d1f083b:0x9843634139c62af4",
+   "rating": 4.4,
+   "reviews": 320,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "Mullur, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.8991995,
+    "longitude": 77.7136
+   }
+  },
+  {
+   "position": 16,
+   "title": "Back Post",
+   "place_id": "ChIJL7oAkKATrjsRoePs-IWahRs",
+   "data_id": "0x3bae13a09000ba2f:0x1b859a85f8ece3a1",
+   "rating": 4.6,
+   "reviews": 74,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Hadosiddapura, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.900164,
+    "longitude": 77.70354
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "The Bier Library Brewery & Kitchen, Sarjapur Road",
+   "place_id": "ChIJRTk2E0ITrjsRQagEw7TGkZA",
+   "data_id": "0x3bae134213363945:0x9091c6b4c304a841",
+   "rating": 4.5,
+   "reviews": 7900,
+   "type": "Brewpub",
+   "address": "138/52, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90881,
+    "longitude": 77.689
+   }
+  },
+  {
+   "position": 18,
+   "title": "Mighty Paws Cafe & Bakery",
+   "place_id": "ChIJ-SW-8j8TrjsRJFKQfFJUGfw",
+   "data_id": "0x3bae133ff2be25f9:0xfc1954527c905224",
+   "rating": 4.3,
+   "reviews": 1600,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "Junnasandra, 533, 2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90194,
+    "longitude": 77.677315
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "First Sip Coffee Roasters & Cafe",
+   "place_id": "ChIJ6RKWl94TrjsRaGp4SGP1EGI",
+   "data_id": "0x3bae13de979612e9:0x6210f56348786a68",
+   "rating": 4.8,
+   "reviews": 13,
+   "price": "₹1–600",
+   "extracted_price": {
+    "min": 1,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "20, Sarjapur Main Rd, opposite Wipro",
+   "gps_coordinates": {
+    "latitude": 12.899227,
+    "longitude": 77.713104
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Mud Cups Cafe",
+   "place_id": "ChIJv8tU_YlzrjsRcEF18nziiHY",
+   "data_id": "0x3bae7389fd54cbbf:0x7688e27cf2754170",
+   "rating": 4.1,
+   "reviews": 602,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.861126,
+    "longitude": 77.77512
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,450 @@
+{
+ "q": "best restaurants in Indiranagar Bangalore",
+ "ll": "@12.9716,77.6412,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:40:03.961Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "1131 Bar + Kitchen",
+   "place_id": "ChIJl3N_96cWrjsRUhK0MrSzTTA",
+   "data_id": "0x3bae16a7f77f7397:0x304db3b432b41252",
+   "rating": 4.3,
+   "reviews": 12000,
+   "type": "Grill",
+   "address": "1131, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.969811,
+    "longitude": 77.64152
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "The Pizza Bakery - Indiranagar",
+   "place_id": "ChIJmY-gLagWrjsRRZcdJUK-5zw",
+   "data_id": "0x3bae16a82da08f99:0x3ce7be42251d9745",
+   "rating": 4.3,
+   "reviews": 7100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pizza",
+   "address": "2985, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970144,
+    "longitude": 77.64471
+   },
+   "comment": "Refined space wood-fired pies & beer",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Maravanthe Coastal Cuisine",
+   "place_id": "ChIJ5dErjqQWrjsRG-_GKhhGD0I",
+   "data_id": "0x3bae16a48e2bd1e5:0x420f46182ac6ef1b",
+   "rating": 4.3,
+   "reviews": 4700,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Seafood",
+   "address": "322/1, Chinmaya Mission Hospital Rd, Near Indiranagar Metro Station",
+   "gps_coordinates": {
+    "latitude": 12.978394,
+    "longitude": 77.63725
+   },
+   "comment": "Coastal fare with a street view",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "1966 - The Mumbai Cafe @ Indiranagar",
+   "place_id": "ChIJGWRpgwAXrjsRxxmnWov5nMU",
+   "data_id": "0x3bae170083696419:0xc59cf98b5aa719c7",
+   "rating": 4.4,
+   "reviews": 530,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "23, Ground Floor, 2nd Main, 7th Cross, 1st Stage Rd",
+   "gps_coordinates": {
+    "latitude": 12.982275,
+    "longitude": 77.6395
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "MTR",
+   "place_id": "ChIJI_3LNaUWrjsRWezll-Qmd3k",
+   "data_id": "0x3bae16a535cbfd23:0x797726e497e5ec59",
+   "rating": 4.2,
+   "reviews": 19000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "305, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.9805565,
+    "longitude": 77.64047
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Tue"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "The dual room",
+   "place_id": "ChIJkcKbdwAXrjsRPaVlJr2leuA",
+   "data_id": "0x3bae1700779bc291:0xe07aa5bd2665a53d",
+   "rating": 4.5,
+   "reviews": 425,
+   "type": "Bar",
+   "address": "616, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970508,
+    "longitude": 77.64605
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Klaa",
+   "place_id": "ChIJs_c-474XrjsRICWHj7qzl94",
+   "data_id": "0x3bae17bee33ef7b3:0xde97b3ba8f872520",
+   "rating": 4.3,
+   "reviews": 536,
+   "price": "₹800–1,800",
+   "extracted_price": {
+    "min": 800,
+    "max": 1800
+   },
+   "type": "Goan",
+   "address": "846, ground and first floor, Indiranagar 1st stage 4th main, opposite Meragi, Paramahansa Yogananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.980363,
+    "longitude": 77.63725
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "The Punjabi Rasoi",
+   "place_id": "ChIJb8fPELsWrjsRIOHjigbcudo",
+   "data_id": "0x3bae16bb10cfc76f:0xdab9dc068ae3e120",
+   "rating": 4.1,
+   "reviews": 7200,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "311, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.98124,
+    "longitude": 77.64047
+   },
+   "comment": "Punjabi curries with a modern twist",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Khandani Rajdhani, Indiranagar",
+   "place_id": "ChIJg3URrBwUrjsR0UDotkiQB_0",
+   "data_id": "0x3bae141cac117583:0xfd079048b6e840d1",
+   "rating": 4.2,
+   "reviews": 5400,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Vegetarian",
+   "address": "1st Flr, Salarpuria Landmark, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.963831,
+    "longitude": 77.641846
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "PlanB",
+   "place_id": "ChIJKSfMkacWrjsRSoI2f6aETsA",
+   "data_id": "0x3bae16a791cc2729:0xc04e84a67f36824a",
+   "rating": 4.1,
+   "reviews": 7300,
+   "type": "Grill",
+   "address": "1136, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.969083,
+    "longitude": 77.64158
+   },
+   "comment": "Casual international eatery & bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "The Rameshwaram Cafe @ Indiranagar",
+   "place_id": "ChIJmdq205oXrjsRrn9q3VqwI9g",
+   "data_id": "0x3bae179ad3b6da99:0xd823b05add6a7fae",
+   "rating": 4.3,
+   "reviews": 21000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "847/1(Old No. 847/A), Binnamangala 1st Stage, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.98168,
+    "longitude": 77.640915
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Qissa Arabic Restaurant",
+   "place_id": "ChIJyYSchEEVrjsRvPHtluZYtns",
+   "data_id": "0x3bae1541849c84c9:0x7bb658e696edf1bc",
+   "rating": 4.1,
+   "reviews": 2100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Middle Eastern",
+   "address": "Ground Floor, 462, Shri Krishna Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.979033,
+    "longitude": 77.643814
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1:30 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Phobidden Fruit Vietnamese Kitchen",
+   "place_id": "ChIJdy_CmqcWrjsRYgGXEAcp8w4",
+   "data_id": "0x3bae16a79ac22f77:0xef3290710970162",
+   "rating": 4.3,
+   "reviews": 4800,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Vietnamese",
+   "address": "965, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.969911,
+    "longitude": 77.63964
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Meghana Foods Indira Nagar",
+   "place_id": "ChIJRTef86QWrjsR8V9GcFSgK0I",
+   "data_id": "0x3bae16a4f39f3745:0x422ba05470465ff1",
+   "rating": 4.3,
+   "reviews": 23000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Biryani",
+   "address": "Metro Station Indira Nagar, Near, 544, Chinmaya Mission Hospital Rd",
+   "gps_coordinates": {
+    "latitude": 12.978092,
+    "longitude": 77.637856
+   },
+   "comment": "Simple Andhra cuisine & biryanis"
+  },
+  {
+   "position": 15,
+   "title": "Vanamo Global Eats and Caffeinary",
+   "place_id": "ChIJk42RIQAXrjsR-MPn-d_HDE4",
+   "data_id": "0x3bae170021918d93:0x4e0cc7dff9e7c3f8",
+   "rating": 4.4,
+   "reviews": 693,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Restaurant",
+   "address": "368, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.97322,
+    "longitude": 77.64134
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Esplanade",
+   "place_id": "ChIJ7-abVx0UrjsRJXe-6tAytRM",
+   "data_id": "0x3bae141d579be6ef:0x13b532d0eabe7725",
+   "rating": 4.2,
+   "reviews": 4300,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Bengali",
+   "address": "202, Paramahansa Yogananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.97879,
+    "longitude": 77.63673
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Empire Restaurant , Indiranagar",
+   "place_id": "ChIJq_NY_KkWrjsRp00keKZn6A8",
+   "data_id": "0x3bae16a9fc58f3ab:0xfe867a678244da7",
+   "rating": 4.1,
+   "reviews": 36000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Indian",
+   "address": "80 Feet Rd, next to BSNL",
+   "gps_coordinates": {
+    "latitude": 12.969976,
+    "longitude": 77.6473
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Izanagi Japanese Restaurant",
+   "place_id": "ChIJqVaXkOgXrjsRToOxTFZrYeA",
+   "data_id": "0x3bae17e8909756a9:0xe0616b564cb1834e",
+   "rating": 4.5,
+   "reviews": 624,
+   "type": "Authentic Japanese",
+   "address": "Metro Pillar No. 54, 2nd Floor, 311, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.981251,
+    "longitude": 77.64051
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "KAILASH PARBAT Indiranagar Pure Veg Restaurant",
+   "place_id": "ChIJOajrRYkXrjsRtSy37mcXHdw",
+   "data_id": "0x3bae178945eba839:0xdc1d1767eeb72cb5",
+   "rating": 4.3,
+   "reviews": 5000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "North Indian",
+   "address": "30, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.971765,
+    "longitude": 77.64735
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Brik Oven - Woodfired Style Pizzas (Indiranagar)",
+   "place_id": "ChIJi7PGiZ4XrjsRFmD36PjUidI",
+   "data_id": "0x3bae179e89c6b38b:0xd289d4f8e8f76016",
+   "rating": 4.4,
+   "reviews": 5400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pizza",
+   "address": "872/a, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.979771,
+    "longitude": 77.64657
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  }
+ ]
+}

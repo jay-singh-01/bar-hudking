@@ -1,0 +1,447 @@
+{
+ "q": "cafes in Koramangala Bangalore",
+ "ll": "@12.9352,77.6146,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:41:39.573Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Cafe De Verde",
+   "place_id": "ChIJ902bOBoVrjsRZqcWFdG27vk",
+   "data_id": "0x3bae151a389b4df7:0xf9eeb6d11516a766",
+   "rating": 4.6,
+   "reviews": 200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "395, 18th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.94076,
+    "longitude": 77.62343
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJ9fZczEkVrjsR_E8O1PogkTs",
+   "data_id": "0x3bae1549cc5cf6f5:0x3b9120fad40e4ffc",
+   "rating": 4.4,
+   "reviews": 5000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "4th Block, 1, 984, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.934722,
+    "longitude": 77.62957
+   },
+   "comment": "Stylish cafe for premium, organic brews",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Coffea Koramangala",
+   "place_id": "ChIJRXP7ewAVrjsRS6XCABrLIEc",
+   "data_id": "0x3bae15007bfb7345:0x4720cb1a00c2a54b",
+   "rating": 4.5,
+   "reviews": 218,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Ground floor, Money Center, 121, 20th Main Rd, opp. to Tonique",
+   "gps_coordinates": {
+    "latitude": 12.934663,
+    "longitude": 77.612595
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Krust Cafe",
+   "place_id": "ChIJXSCaADsVrjsRk8MqnKv1fo4",
+   "data_id": "0x3bae153b009a205d:0x8e7ef5ab9c2ac393",
+   "rating": 4.6,
+   "reviews": 535,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "29, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.928497,
+    "longitude": 77.63592
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Xero Degrees",
+   "place_id": "ChIJm5PPtsEVrjsROhIXzm1Kmis",
+   "data_id": "0x3bae15c1b6cf939b:0x2b9a4a6dce17123a",
+   "rating": 4.7,
+   "reviews": 8400,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "American",
+   "address": "127",
+   "gps_coordinates": {
+    "latitude": 12.934318,
+    "longitude": 77.61663
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Bistro Claytopia",
+   "place_id": "ChIJ9Wl0S2AUrjsRNI2PQmBxT_Y",
+   "data_id": "0x3bae14604b7469f5:0xf64f7160428f8d34",
+   "rating": 4.2,
+   "reviews": 8800,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Art cafe",
+   "address": "SBI Park, 11, 80 Feet Rd, near Wipro Park",
+   "gps_coordinates": {
+    "latitude": 12.925592,
+    "longitude": 77.63327
+   },
+   "comment": "Colourful pavement cafe for world eats",
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Fenny's Lounge & Kitchen",
+   "place_id": "ChIJa8L24U0UrjsROJevWynswwQ",
+   "data_id": "0x3bae144de1f6c26b:0x4c3ec295baf9738",
+   "rating": 4.3,
+   "reviews": 11000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Cafe",
+   "address": "3rd Floor, WJP7+39W, 115, 80 Feet Rd, above Starbucks",
+   "gps_coordinates": {
+    "latitude": 12.935215,
+    "longitude": 77.613495
+   },
+   "comment": "Funky lounge bar with global dishes",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Hungry Hippie",
+   "place_id": "ChIJqc7cKE4UrjsR7KM6JUZtjtk",
+   "data_id": "0x3bae144e28dccea9:0xd98e6d46253aa3ec",
+   "rating": 4.1,
+   "reviews": 5300,
+   "type": "Cafe",
+   "address": "Vijay Jatti Building, 104, near EMPIRE RESTAURANT",
+   "gps_coordinates": {
+    "latitude": 12.934628,
+    "longitude": 77.61573
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Paint The Town Restaurant",
+   "place_id": "ChIJR8j77EoVrjsR5S22pQge2Fc",
+   "data_id": "0x3bae154aecfbc847:0x57d81e08a5b62de5",
+   "rating": 4.8,
+   "reviews": 544,
+   "type": "Restaurant",
+   "address": "1st Floor, Money Center, Paint The Town, No. 101",
+   "gps_coordinates": {
+    "latitude": 12.934663,
+    "longitude": 77.612595
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Brunch Project",
+   "place_id": "ChIJidqkPy8VrjsRH4OdpGMmGME",
+   "data_id": "0x3bae152f3fa4da89:0xc1182663a49d831f",
+   "rating": 4,
+   "reviews": 209,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "439, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933452,
+    "longitude": 77.627
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Koramangala Food Street",
+   "place_id": "ChIJf3KwBZQVrjsRuZ98eIYZolI",
+   "data_id": "0x3bae159405b0727f:0x52a21986787c9fb9",
+   "rating": 4,
+   "reviews": 689,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "121-17, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.935201,
+    "longitude": 77.61564
+   }
+  },
+  {
+   "position": 12,
+   "title": "Koramangala Dosa Cafe",
+   "place_id": "ChIJ3bVbLQAVrjsR82svwyi3jrE",
+   "data_id": "0x3bae15002d5bb5dd:0xb18eb728c32f6bf3",
+   "rating": 4.6,
+   "reviews": 467,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "399, Mahatyagi Laksmidevi Rd",
+   "gps_coordinates": {
+    "latitude": 12.929582,
+    "longitude": 77.63193
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Bier Library",
+   "place_id": "ChIJsaosImcVrjsRPP5rNvYTmLc",
+   "data_id": "0x3bae1567222caab1:0xb79813f6366bfe3c",
+   "rating": 4.4,
+   "reviews": 24000,
+   "type": "Brewpub",
+   "address": "14, Patel Narayana Reddy Layout, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.93922,
+    "longitude": 77.626114
+   },
+   "comment": "Microbrewery with international bar food",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Smoky Docky Koramangala",
+   "place_id": "ChIJm_AltE4VrjsRuIwjkiwOLPs",
+   "data_id": "0x3bae154eb425f09b:0xfb2c0e2c92238cb8",
+   "rating": 4.2,
+   "reviews": 1500,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Fast Food",
+   "address": "130, 17th H Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.934703,
+    "longitude": 77.61683
+   }
+  },
+  {
+   "position": 15,
+   "title": "Rooftop At Raw - All Day Drinkery",
+   "place_id": "ChIJMaroAEAVrjsRQ4VWTxrs02k",
+   "data_id": "0x3bae154000e8aa31:0x69d3ec1a4f568543",
+   "rating": 4.4,
+   "reviews": 366,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "No 36, 3rd Floor, 4th B, Main Road",
+   "gps_coordinates": {
+    "latitude": 12.933656,
+    "longitude": 77.61489
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Terrabites",
+   "place_id": "ChIJ2yYOJmcUrjsRoXXmqln_Zl4",
+   "data_id": "0x3bae1467260e26db:0x5e66ff59aae675a1",
+   "rating": 4.3,
+   "reviews": 3300,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "ground floor, No.428, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9340925,
+    "longitude": 77.625916
+   },
+   "comment": "Casual cafe & European breakfast",
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Cafe Medley",
+   "place_id": "ChIJz-bjrloUrjsRmbB4paCzrV8",
+   "data_id": "0x3bae145aaee3e6cf:0x5fadb3a0a578b099",
+   "rating": 4.3,
+   "reviews": 2600,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "473, 17th C Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933955,
+    "longitude": 77.61963
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "NATUF Café - Koramangala",
+   "place_id": "ChIJt0rqMAAVrjsRDYA1XqPm-5o",
+   "data_id": "0x3bae150030ea4ab7:0x9afbe6a35e35800d",
+   "rating": 4.5,
+   "reviews": 62,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "V, First Cross Road, Block, 139, 60 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.933728,
+    "longitude": 77.621025
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The Boozy Griffin Bangalore",
+   "place_id": "ChIJyZ7MK04UrjsRMdiRfgNb3fk",
+   "data_id": "0x3bae144e2bcc9ec9:0xf9dd5b037e91d831",
+   "rating": 4.1,
+   "reviews": 6400,
+   "type": "Pub",
+   "address": "105, 1st A cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934438,
+    "longitude": 77.61592
+   },
+   "comment": "Bustling pub with dancing & DJs",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Naati Cafe",
+   "place_id": "ChIJs7bHAKsVrjsRbjXCijmaoL8",
+   "data_id": "0x3bae15ab00c7b6b3:0xbfa09a398ac2356e",
+   "rating": 4.2,
+   "reviews": 1400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "56, 1st A Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936192,
+    "longitude": 77.61542
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  }
+ ]
+}

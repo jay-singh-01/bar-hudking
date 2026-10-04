@@ -1,0 +1,309 @@
+{
+ "q": "bars and pubs in J. P. Nagar Bangalore",
+ "ll": "@12.906,77.5836,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:39:50.204Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Levels Pub & Kitchen",
+   "place_id": "ChIJ_VCVJ5YVrjsRZgYrogPKBYM",
+   "data_id": "0x3bae1596279550fd:0x8305ca03a22b0666",
+   "rating": 4.3,
+   "reviews": 9700,
+   "type": "Pub",
+   "address": "14, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.905993,
+    "longitude": 77.59407
+   },
+   "comment": "Hip hangout for global eats & cocktails"
+  },
+  {
+   "position": 2,
+   "title": "The Pump House",
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "rating": 4.5,
+   "reviews": 31000,
+   "type": "Brewpub",
+   "address": "607, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.582085
+   },
+   "comment": "Hip modern interiors & craft brews"
+  },
+  {
+   "position": 3,
+   "title": "Terrace Bar & Kitchen",
+   "place_id": "ChIJZXvOXFwVrjsRk-jaxpxk-II",
+   "data_id": "0x3bae155c5cce7b65:0x82f8649cc6dae893",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Bar",
+   "address": "No 1, (old 141/37), Rooftop, 24th main, Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.914251,
+    "longitude": 77.58596
+   }
+  },
+  {
+   "position": 4,
+   "title": "Indian Biere House",
+   "place_id": "ChIJt4WvsRYVrjsRYQIrHDAlJnQ",
+   "data_id": "0x3bae1516b1af85b7:0x742625301c2b0261",
+   "rating": 4.7,
+   "reviews": 7000,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Brewpub",
+   "address": "4&5, 15th Cross, 100 Feet Ring Rd, opposite SBI Bank",
+   "gps_coordinates": {
+    "latitude": 12.906133,
+    "longitude": 77.58955
+   }
+  },
+  {
+   "position": 5,
+   "title": "La Loca",
+   "place_id": "ChIJIVhdWDwVrjsRpzaWEmXRHxs",
+   "data_id": "0x3bae153c585d5821:0x1b1fd165129636a7",
+   "rating": 4.5,
+   "reviews": 416,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Cocktail bar",
+   "address": "9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.910732,
+    "longitude": 77.599205
+   }
+  },
+  {
+   "position": 6,
+   "title": "Jollygunj - JP Nagar",
+   "place_id": "ChIJnSaZ0sUVrjsR6ue-lW23OUg",
+   "data_id": "0x3bae15c5d299269d:0x4839b76d95bee7ea",
+   "rating": 4.5,
+   "reviews": 3300,
+   "type": "Bar",
+   "address": "3rd Floor. 71, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.9067745,
+    "longitude": 77.598
+   }
+  },
+  {
+   "position": 7,
+   "title": "Tipsy Bull - The Bar Exchange - JP Nagar",
+   "place_id": "ChIJbzW4oAAVrjsR7yvvbFpaQeU",
+   "data_id": "0x3bae1500a0b8356f:0xe5415a5a6cef2bef",
+   "rating": 4.3,
+   "reviews": 7100,
+   "type": "Bar",
+   "address": "Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.9062805,
+    "longitude": 77.57758
+   }
+  },
+  {
+   "position": 8,
+   "title": "SECTOR 144 - JP Nagar",
+   "place_id": "ChIJBTryjawVrjsRW6Vkh_PouMw",
+   "data_id": "0x3bae15ac8df23a05:0xccb8e8f38764a55b",
+   "rating": 4.8,
+   "reviews": 1300,
+   "type": "Pub",
+   "address": "4th Floor, above Style Union",
+   "gps_coordinates": {
+    "latitude": 12.884521,
+    "longitude": 77.5828
+   }
+  },
+  {
+   "position": 9,
+   "title": "1522 The Pub JP Nagar",
+   "place_id": "ChIJEasZOa0VrjsRQxIeG1AbPpA",
+   "data_id": "0x3bae15ad3919ab11:0x903e1b501b1e1243",
+   "rating": 4.2,
+   "reviews": 7000,
+   "type": "Pub",
+   "address": "6th Phase, Chandana, Number 613, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.90621,
+    "longitude": 77.575874
+   },
+   "comment": "Trendy spot for pub grub & music"
+  },
+  {
+   "position": 10,
+   "title": "Fat Owl - Gastropub",
+   "place_id": "ChIJp9VDOEQVrjsR3K1tJSASYNM",
+   "data_id": "0x3bae15443843d5a7:0xd3601220256daddc",
+   "rating": 4.1,
+   "reviews": 4200,
+   "type": "Gastropub",
+   "address": "No 610, 100ft Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906552,
+    "longitude": 77.581314
+   }
+  },
+  {
+   "position": 11,
+   "title": "BRICKS Bar & Kitchen",
+   "place_id": "ChIJc8x8aKIVrjsRxV2eBk1kDTM",
+   "data_id": "0x3bae15a2687ccc73:0x330d644d069e5dc5",
+   "rating": 4.6,
+   "reviews": 547,
+   "type": "Bar",
+   "address": "4th Floor, 67, 6th B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.906354,
+    "longitude": 77.59686
+   }
+  },
+  {
+   "position": 12,
+   "title": "URU - JP Nagar",
+   "place_id": "ChIJE0YrafgVrjsR-8hX0ObeNZU",
+   "data_id": "0x3bae15f8692b4613:0x9535dee6d057c8fb",
+   "rating": 4.3,
+   "reviews": 25000,
+   "type": "Brewpub",
+   "address": "Maratt Estate, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.905837,
+    "longitude": 77.60115
+   },
+   "comment": "Craft beer & global eats in stylish digs"
+  },
+  {
+   "position": 13,
+   "title": "House of Commons",
+   "place_id": "ChIJ50afDbsVrjsR_oHqHPMIQW4",
+   "data_id": "0x3bae15bb0d9f46e7:0x6e4108f31cea81fe",
+   "rating": 4.4,
+   "reviews": 5700,
+   "type": "Bar",
+   "address": "No 1, ( old 141/37 ) 24th main 2nd phase JP Nagar Marenahalli main road Bangalore 560078",
+   "gps_coordinates": {
+    "latitude": 12.914248,
+    "longitude": 77.586044
+   },
+   "comment": "Pub grub in an upbeat locale"
+  },
+  {
+   "position": 14,
+   "title": "Bob's Bar - JP Nagar",
+   "place_id": "ChIJF5KdUQgVrjsRGg1xnXFWB-M",
+   "data_id": "0x3bae1508519d9217:0xe30756719d710d1a",
+   "rating": 4.2,
+   "reviews": 5200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "Survey 32, 15 And 16, Municipal 3, 4, 5, 14, Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.912032,
+    "longitude": 77.58601
+   }
+  },
+  {
+   "position": 15,
+   "title": "The Palms Brew and Kitchen",
+   "place_id": "ChIJ32_EIXgVrjsRZAlzjzlGYXE",
+   "data_id": "0x3bae157821c46fdf:0x716146398f730964",
+   "rating": 4.7,
+   "reviews": 7000,
+   "type": "Brewery",
+   "address": "No. - 4/A2, Kothanur Main Road",
+   "gps_coordinates": {
+    "latitude": 12.896707,
+    "longitude": 77.581825
+   }
+  },
+  {
+   "position": 16,
+   "title": "Casa Piccosa",
+   "place_id": "ChIJIcwpSBMVrjsRik0fEQkc-vg",
+   "data_id": "0x3bae15134829cc21:0xf8fa1c09111f4d8a",
+   "rating": 4,
+   "reviews": 5300,
+   "type": "Pub",
+   "address": "745/AB, 24th Main, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906096,
+    "longitude": 77.58545
+   },
+   "comment": "Cocktail bar with live entertainment"
+  },
+  {
+   "position": 17,
+   "title": "Dolos: Bar and Kitchen",
+   "place_id": "ChIJL5SGfAAVrjsR9v3uCwajcfU",
+   "data_id": "0x3bae15007c86942f:0xf571a3060beefdf6",
+   "rating": 4.5,
+   "reviews": 477,
+   "type": "Pub",
+   "address": "Dalmia circle, 309, 3rd and 4th floor, Above DBS Bank 100ft Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906169,
+    "longitude": 77.59284
+   }
+  },
+  {
+   "position": 18,
+   "title": "TIMBAR",
+   "place_id": "ChIJi6D_mCUVrjsRYdxcszx2JzQ",
+   "data_id": "0x3bae152598ffa08b:0x3427763cb35cdc61",
+   "rating": 4.6,
+   "reviews": 992,
+   "type": "Bar",
+   "address": "No. N15, 15, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913527,
+    "longitude": 77.58556
+   }
+  },
+  {
+   "position": 19,
+   "title": "The Scene - Craft Kitchen & Bar",
+   "place_id": "ChIJT0wEXXMVrjsRMdt4ISU-Ug0",
+   "data_id": "0x3bae15735d044c4f:0xd523e252178db31",
+   "rating": 4.4,
+   "reviews": 3800,
+   "type": "Fine Dining",
+   "address": "773, Outer Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906842,
+    "longitude": 77.58018
+   }
+  },
+  {
+   "position": 20,
+   "title": "JP Nagar SOCIAL",
+   "place_id": "ChIJSUPfKYEVrjsR7Lm50KsG0Dc",
+   "data_id": "0x3bae158129df4349:0x37d006abd0b9b9ec",
+   "rating": 3.9,
+   "reviews": 2600,
+   "type": "Pub",
+   "address": "7, 33rd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.906199,
+    "longitude": 77.580666
+   }
+  }
+ ]
+}

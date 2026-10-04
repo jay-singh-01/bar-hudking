@@ -1,0 +1,397 @@
+{
+ "q": "bars and pubs in Koramangala Bangalore",
+ "ll": "@12.9352,77.6146,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:05.667Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Dolphins Bar and Kitchen 1977 - Koramangala",
+   "place_id": "ChIJRV5K298VrjsRI7ftm-SIEdI",
+   "data_id": "0x3bae15dfdb4a5e45:0xd21188e49bedb723",
+   "rating": 4.3,
+   "reviews": 93,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Bar",
+   "address": "Maharaja Building, 3 C-4 Maharaja, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.93429,
+    "longitude": 77.6301
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Silly Bar",
+   "place_id": "ChIJS44wErUVrjsRH3_YBq9oaE0",
+   "data_id": "0x3bae15b512308e4b:0x4d6868af06d87f1f",
+   "rating": 4,
+   "reviews": 457,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Grill",
+   "address": "4th, Gillys redefined, Block 413, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.933371,
+    "longitude": 77.62357
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Gowild Bar & Lounge",
+   "place_id": "ChIJaX8PYWoVrjsRcnEeoBSGO24",
+   "data_id": "0x3bae156a610f7f69:0x6e3b8614a01e7172",
+   "rating": 4.2,
+   "reviews": 196,
+   "type": "Pub",
+   "address": "3rd Floor, Plot 99, 4th B Cross Road, KHB Colony Industrial Layout",
+   "gps_coordinates": {
+    "latitude": 12.934277,
+    "longitude": 77.61559
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Jolly Johnny's Bar",
+   "place_id": "ChIJL2O2xbwVrjsRHTty5q1aF2k",
+   "data_id": "0x3bae15bcc5b6632f:0x69175aade6723b1d",
+   "rating": 4.6,
+   "reviews": 261,
+   "type": "Restaurant",
+   "address": "897/b NGV main road, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.940038,
+    "longitude": 77.62546
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Tapori The Resto Bar",
+   "place_id": "ChIJNVLTHJ0VrjsRLdoin3MRnFk",
+   "data_id": "0x3bae159d1cd35235:0x599c11739f22da2d",
+   "rating": 4.2,
+   "reviews": 372,
+   "type": "Bar",
+   "address": "8th block, Padmavati Complex, Tapori - The Resto Bar, 2, 80 Feet Rd, opposite to Koramangala Indoor Stadium",
+   "gps_coordinates": {
+    "latitude": 12.943389,
+    "longitude": 77.621315
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "LUX Pub & Kitchen",
+   "place_id": "ChIJdxgl2-QVrjsRxjgBAfWsXaU",
+   "data_id": "0x3bae15e4db251877:0xa55dacf5010138c6",
+   "rating": 3.7,
+   "reviews": 354,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "3rd floor, 20th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936273,
+    "longitude": 77.61578
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Sathya's",
+   "place_id": "ChIJqUaFdF4UrjsR10JH-WmRhBM",
+   "data_id": "0x3bae145e748546a9:0x13849169f94742d7",
+   "rating": 4.3,
+   "reviews": 4500,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "Service Road, 17, 7th A Main Rd, next to Indiqube Office",
+   "gps_coordinates": {
+    "latitude": 12.9250345,
+    "longitude": 77.632835
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Blah Bla",
+   "place_id": "ChIJGZwuRwAVrjsR61YlQ4Ab6e4",
+   "data_id": "0x3bae1500472e9c19:0xeee91b80432556eb",
+   "rating": 4,
+   "reviews": 487,
+   "type": "Pub",
+   "address": "71-72, Jyoti Nivas College Rd",
+   "gps_coordinates": {
+    "latitude": 12.932869,
+    "longitude": 77.61394
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "GToxe (The Premium Rooftop Vibe)",
+   "place_id": "ChIJIzJHQd0VrjsRq4KVlffQk3E",
+   "data_id": "0x3bae15dd41473223:0x7193d0f7959582ab",
+   "rating": 3.9,
+   "reviews": 72,
+   "type": "Bar",
+   "address": "93/ a, 4th Floor, Industrial Layout, Koramangala",
+   "gps_coordinates": {
+    "latitude": 12.933258,
+    "longitude": 77.61379
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "What's In A Name",
+   "place_id": "ChIJN1VVRUUUrjsRbvqGrZ4wPr4",
+   "data_id": "0x3bae144545555537:0xbe3e309ead86fa6e",
+   "rating": 3.9,
+   "reviews": 5600,
+   "type": "Pub",
+   "address": "146, Upper Ground Floor, Jyoti Nivas College Rd, next to William Penn Showroom",
+   "gps_coordinates": {
+    "latitude": 12.933839,
+    "longitude": 77.61977
+   },
+   "comment": "Casual spot for global eats & live music",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Magique",
+   "place_id": "ChIJK4Ck8AcVrjsRTOl0YgkFw6k",
+   "data_id": "0x3bae1507f0a4802b:0xa9c305096274e94c",
+   "rating": 3.9,
+   "reviews": 2300,
+   "type": "Pub",
+   "address": "Plot No 36, 100 Feet Rd, opp. to Shilton Royale Hotel",
+   "gps_coordinates": {
+    "latitude": 12.937676,
+    "longitude": 77.62698
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Smooth Criminal - Bar & Kitchen",
+   "place_id": "ChIJy1m1f4EVrjsRoVLdTrcUjKY",
+   "data_id": "0x3bae15817fb559cb:0xa68c14b74edd52a1",
+   "rating": 4,
+   "reviews": 106,
+   "type": "Bar",
+   "address": "48, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934266,
+    "longitude": 77.61609
+   }
+  },
+  {
+   "position": 13,
+   "title": "The Street Lounge & Terrace",
+   "place_id": "ChIJrS8aARoVrjsRV2nhhwPxWrw",
+   "data_id": "0x3bae151a011a2fad:0xbc5af10387e16957",
+   "rating": 4.2,
+   "reviews": 94,
+   "type": "Pub",
+   "address": "WJP8+G83, 20th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.936269,
+    "longitude": 77.61578
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "The Beer Café",
+   "place_id": "ChIJ71D9GmcUrjsRxScetHiQgFc",
+   "data_id": "0x3bae14671afd50ef:0x57809078b41e27c5",
+   "rating": 4,
+   "reviews": 5300,
+   "type": "Pub",
+   "address": "Shop No. 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's",
+   "gps_coordinates": {
+    "latitude": 12.93134,
+    "longitude": 77.63308
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Quarter Peter Koramangala",
+   "place_id": "ChIJW2j9VhUVrjsRqTs93F-g2Ns",
+   "data_id": "0x3bae151556fd685b:0xdbd8a05fdc3d3ba9",
+   "rating": 3.8,
+   "reviews": 199,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "Ground Floor, 23, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.934979,
+    "longitude": 77.61385
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Robust Pub & Diner",
+   "place_id": "ChIJhf7IXQAVrjsRG8kifVzQkzM",
+   "data_id": "0x3bae15005dc8fe85:0x3393d05c7d22c91b",
+   "rating": 4.3,
+   "reviews": 302,
+   "type": "Pub",
+   "address": "99, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.934245,
+    "longitude": 77.615654
+   }
+  },
+  {
+   "position": 17,
+   "title": "Biergarten Brewery & Kitchen",
+   "place_id": "ChIJbXU-r70VrjsRpcnDtFDq5w0",
+   "data_id": "0x3bae15bdaf3e756d:0xde7ea50b4c3c9a5",
+   "rating": 4.3,
+   "reviews": 5000,
+   "type": "Brewery",
+   "gps_coordinates": {
+    "latitude": 12.933502,
+    "longitude": 77.61426
+   },
+   "extensions": [
+    "4th B Cross Rd",
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Daawat Restaurant Bar and Pub",
+   "place_id": "ChIJd2p1hBwUrjsRXgtLTeAKfJc",
+   "data_id": "0x3bae141c84756a77:0x977c0ae04d4b0b5e",
+   "rating": 4.1,
+   "reviews": 982,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "Maruti Plaza, 340, 1st B Main Rd, opposite Mataji Mobile Accessories",
+   "gps_coordinates": {
+    "latitude": 12.935969,
+    "longitude": 77.61479
+   },
+   "comment": "Multicuisine fare in bright surrounds",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Atlantis Brewery",
+   "place_id": "ChIJ85cIXUsVrjsRixdjo1sh9xA",
+   "data_id": "0x3bae154b5d0897f3:0x10f7215ba363178b",
+   "rating": 4.4,
+   "reviews": 4100,
+   "type": "Pub",
+   "address": "SY NO 38, 38/5, Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.923943,
+    "longitude": 77.640305
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Aishwarya Drops ,Bar and Restaurant",
+   "place_id": "ChIJf2rtF5EVrjsRoeSbUwLw5uQ",
+   "data_id": "0x3bae159117ed6a7f:0xe4e6f002539be4a1",
+   "rating": 4,
+   "reviews": 194,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "Block-7, Hosur Rd",
+   "gps_coordinates": {
+    "latitude": 12.937686,
+    "longitude": 77.61088
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

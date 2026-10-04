@@ -1,0 +1,424 @@
+{
+ "q": "best restaurants in Church Street/Lavelle Road Bangalore",
+ "ll": "@12.9718,77.5985,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:29:36.974Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "SALT - Indian Restaurant Bar & Grill",
+   "place_id": "ChIJk881HPUXrjsR6nmB9d4ucgQ",
+   "data_id": "0x3bae17f51c35cf93:0x4722edef58179ea",
+   "rating": 4.5,
+   "reviews": 1200,
+   "type": "North Indian",
+   "address": "2nd Level, UB City, Concorde & Canberra Blocks, 24, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.97186,
+    "longitude": 77.59617
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Glen's Bakehouse",
+   "place_id": "ChIJKaFXNHgWrjsRuoVUhT-DzDY",
+   "data_id": "0x3bae16783457a129:0x36cc833f855485ba",
+   "rating": 4.4,
+   "reviews": 12000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "24/1, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.969829,
+    "longitude": 77.597435
+   },
+   "comment": "Destination for baking & cafe dishes"
+  },
+  {
+   "position": 3,
+   "title": "Spice Terrace",
+   "place_id": "ChIJc_4WSHcWrjsR7wdB6_Dms58",
+   "data_id": "0x3bae16774816fe73:0x9fb3e6f0eb4107ef",
+   "rating": 4.3,
+   "reviews": 2200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "North Indian",
+   "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972144,
+    "longitude": 77.594925
+   },
+   "comment": "Posh hotel's poolside Indian restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 7 pm Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Sunnys Restaurant",
+   "place_id": "ChIJTWDVw3kWrjsRNHolmSx5oH0",
+   "data_id": "0x3bae1679c3d5604d:0x7da0792c99257a34",
+   "rating": 4.1,
+   "reviews": 2400,
+   "type": "Italian",
+   "address": "50, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.9718485,
+    "longitude": 77.598595
+   },
+   "comment": "Contemporary European & Italian outlet",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Zed The Baker @ Bowring Club",
+   "place_id": "ChIJ4ymiSl8XrjsRMHanTvAO4wY",
+   "data_id": "0x3bae175f4aa229e3:0x6e30ef04ea77630",
+   "rating": 4.2,
+   "reviews": 49,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.9742775,
+    "longitude": 77.600136
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Mainland China",
+   "place_id": "ChIJe142h3sWrjsRszhIFzW20mU",
+   "data_id": "0x3bae167b87365e7b:0x65d2b635174838b3",
+   "rating": 4.1,
+   "reviews": 3000,
+   "type": "Pan Asian",
+   "address": "Mainland China Church Street Bangalore Church Street 1st Floor,14, Church Street, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975234,
+    "longitude": 77.603455
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1 pm Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "The Biere Club | Lavelle Road",
+   "place_id": "ChIJMYFexnkWrjsRMszkT3qrDa0",
+   "data_id": "0x3bae1679c65e8131:0xad0dab7a4fe4cc32",
+   "rating": 4.2,
+   "reviews": 17000,
+   "type": "Restaurant",
+   "address": "20/2, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.970886,
+    "longitude": 77.59759
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Oh! Calcutta",
+   "place_id": "ChIJZXRtdgAXrjsRfQexq9mJzW0",
+   "data_id": "0x3bae1700766d7465:0x6dcd89d9abb1077d",
+   "rating": 4.2,
+   "reviews": 184,
+   "price": "₹800–1,800",
+   "extracted_price": {
+    "min": 800,
+    "max": 1800
+   },
+   "type": "Bengali",
+   "address": "Church St",
+   "gps_coordinates": {
+    "latitude": 12.975268,
+    "longitude": 77.603546
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1 pm Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "KLING BREWERY",
+   "place_id": "ChIJd3g0dCoXrjsR4fKZe_ND-cQ",
+   "data_id": "0x3bae172a74347877:0xc4f943f37b99f2e1",
+   "rating": 4.6,
+   "reviews": 1500,
+   "type": "Brewery",
+   "address": "27, Ground Floor, Sattva Auro, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974998,
+    "longitude": 77.60454
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Levista Gourmet Studio",
+   "place_id": "ChIJb5mgV00XrjsRZU9Gn79LH8w",
+   "data_id": "0x3bae174d57a0996f:0xcc1f4bbf9f464f65",
+   "rating": 4.6,
+   "reviews": 2000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Metro Station, Church Street, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.974659,
+    "longitude": 77.60662
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Shiro Bengaluru",
+   "place_id": "ChIJ897J43kWrjsRwLzr4oSg67c",
+   "data_id": "0x3bae1679e3c9def3:0xb7eba084e2ebbcc0",
+   "rating": 4.5,
+   "reviews": 6800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan Asian",
+   "address": "3rd Floor, 222, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.97185,
+    "longitude": 77.59662
+   }
+  },
+  {
+   "position": 12,
+   "title": "Brik Oven - Woodfired Pizzas (Church Street)",
+   "place_id": "ChIJr48Mtn0WrjsRYtvLjk2jvsw",
+   "data_id": "0x3bae167db60c8faf:0xccbea34d8ecbdb62",
+   "rating": 4.4,
+   "reviews": 7900,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pizza",
+   "address": "18, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974691,
+    "longitude": 77.60542
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "MTR",
+   "place_id": "ChIJ3ZIMQ3kWrjsR50bc0zsS8Lg",
+   "data_id": "0x3bae1679430c92dd:0xb8f0123bd3dc46e7",
+   "rating": 4.1,
+   "reviews": 9500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "29, Ground Floor, White House, St Mark's Rd, opposite SBI HQ",
+   "gps_coordinates": {
+    "latitude": 12.9722185,
+    "longitude": 77.60105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Paris Panini - Gourmet Sandwiches and Wraps, Church Street",
+   "place_id": "ChIJH45RNkAXrjsRvz_ohzxV-nM",
+   "data_id": "0x3bae174036518e1f:0x73fa553c87e83fbf",
+   "rating": 4.5,
+   "reviews": 2300,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "French",
+   "address": "20, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974922,
+    "longitude": 77.605125
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Queens Restaurant",
+   "place_id": "ChIJt-lOtn0WrjsRvAVn4O0BSKo",
+   "data_id": "0x3bae167db64ee9b7:0xaa4801ede06705bc",
+   "rating": 4.3,
+   "reviews": 399,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "North Indian",
+   "address": "52, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974694,
+    "longitude": 77.60672
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "The Bangalore Cafe",
+   "place_id": "ChIJo0tJmV8VrjsR0vWuyvPK9DM",
+   "data_id": "0x3bae155f99494ba3:0x33f4caf3caaef5d2",
+   "rating": 4.3,
+   "reviews": 13000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Vegetarian",
+   "address": "4, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.961559,
+    "longitude": 77.594696
+   }
+  },
+  {
+   "position": 17,
+   "title": "Amintiri - Cafe | Patisserie | Gifting",
+   "place_id": "ChIJI_uzjBcXrjsRYJ-spWNxLYA",
+   "data_id": "0x3bae17178cb3fb23:0x802d7163a5ac9f60",
+   "rating": 4.4,
+   "reviews": 7200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "9/3, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.973737,
+    "longitude": 77.60326
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am Mon"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "The Rice Bowl",
+   "place_id": "ChIJyWvFtXsWrjsR1we9Gy7f9RM",
+   "data_id": "0x3bae167bb5c56bc9:0x13f5df2e1bbd07d7",
+   "rating": 4.2,
+   "reviews": 3300,
+   "type": "Chinese",
+   "address": "Before Rotary Club, 40/2, Hotel Southern Star Bangalore, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974783,
+    "longitude": 77.599464
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am",
+    "On the menu: best restaurants"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "CHA Hong Kong Eating House",
+   "place_id": "ChIJncI6k5IXrjsRkzUNciEsYxc",
+   "data_id": "0x3bae1792933ac29d:0x17632c21720d3593",
+   "rating": 4.7,
+   "reviews": 348,
+   "type": "Asian",
+   "address": "Unit No.F3, 1st Floor, Sobha Mall, S.Y. No. 76-20-50",
+   "gps_coordinates": {
+    "latitude": 12.975388,
+    "longitude": 77.60194
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "The Pizza Bakery - Church Street",
+   "place_id": "ChIJPSz8Ad8XrjsRNIKfO02g6mE",
+   "data_id": "0x3bae17df01fc2c3d:0x61eaa04d3b9f8234",
+   "rating": 4.4,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pizza",
+   "address": "86, Spencer Building, Coconut Grove, 16, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975201,
+    "longitude": 77.60461
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  }
+ ]
+}

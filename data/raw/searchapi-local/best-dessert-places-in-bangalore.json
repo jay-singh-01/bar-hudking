@@ -1,0 +1,401 @@
+{
+ "q": "best dessert places in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:39:20.655Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "LEMAIRE PATISSERIE & COFFEE BREW",
+   "place_id": "ChIJJ1gyewAVrjsRkYsaMCMBOec",
+   "data_id": "0x3bae15007b325827:0xe7390123301a8b91",
+   "rating": 4.8,
+   "reviews": 3300,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 31/2, Bull Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.945477,
+    "longitude": 77.568
+   }
+  },
+  {
+   "position": 2,
+   "title": "Art of Delight",
+   "place_id": "ChIJL1ebzYAWrjsRzxImsK2wnrs",
+   "data_id": "0x3bae1680cd9b572f:0xbb9eb0adb02612cf",
+   "rating": 4.3,
+   "reviews": 3100,
+   "type": "Dessert shop",
+   "address": "Firdous Complex, 44/1, Residency Rd, near Nagarjuna Hotel",
+   "gps_coordinates": {
+    "latitude": 12.973219,
+    "longitude": 77.609215
+   },
+   "comment": "Sleek & stylish outpost for desserts",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "SMOOR Lounge - Indiranagar",
+   "place_id": "ChIJY-p496cWrjsRQjH-PKHnK7E",
+   "data_id": "0x3bae16a7f778ea63:0xb12be7a13cfe3142",
+   "rating": 4.4,
+   "reviews": 7600,
+   "type": "Chocolate cafe",
+   "address": "1131, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.969832,
+    "longitude": 77.64157
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Maison du Brownie & Cheese Cake Pvt Ltd",
+   "place_id": "ChIJcWhjmW0XrjsRgVOhwwjEVwQ",
+   "data_id": "0x3bae176d99636871:0x457c408c3a15381",
+   "rating": 4.8,
+   "reviews": 2400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cake shop",
+   "address": "824,Ground Floor,2nd Cross, 11th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.971142,
+    "longitude": 77.640205
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Dolci - Cunningham Road",
+   "place_id": "ChIJ98Pe8mgWrjsRzhusxNrVVWU",
+   "data_id": "0x3bae1668f2dec3f7:0x6555d5dac4ac1bce",
+   "rating": 4.5,
+   "reviews": 1500,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Dessert shop",
+   "address": "18/3, Ali Askar Road, Near Honda Showroom Cunningham Road, Ali Asker Rd",
+   "gps_coordinates": {
+    "latitude": 12.986406,
+    "longitude": 77.59492
+   },
+   "comment": "Cozy bakery & Italian cafe with a patio",
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Glen's Bakehouse",
+   "place_id": "ChIJKaFXNHgWrjsRuoVUhT-DzDY",
+   "data_id": "0x3bae16783457a129:0x36cc833f855485ba",
+   "rating": 4.4,
+   "reviews": 12000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "24/1, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.969829,
+    "longitude": 77.597435
+   },
+   "comment": "Destination for baking & cafe dishes",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Churroland",
+   "place_id": "ChIJl4iHxjcVrjsRVH7dVL2K1U0",
+   "data_id": "0x3bae1537c6878897:0x4dd58abd54dd7e54",
+   "rating": 4.7,
+   "reviews": 2200,
+   "type": "Dessert shop",
+   "address": "shop no. 488 , ground floor, first cross street",
+   "gps_coordinates": {
+    "latitude": 12.933754,
+    "longitude": 77.618774
+   }
+  },
+  {
+   "position": 8,
+   "title": "Magnolia Bakery",
+   "place_id": "ChIJaT7iTHoXrjsR398HlKs1S0g",
+   "data_id": "0x3bae177a4ce23e69:0x484b35ab9407dfdf",
+   "rating": 4.3,
+   "reviews": 8700,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "J.K. Plaza, 788, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970072,
+    "longitude": 77.640785
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Brownie Circles | Home for the best fudge brownies and dessert (Take away Only)",
+   "place_id": "ChIJj4w7PuUXrjsRGwjDfUAZ8Qs",
+   "data_id": "0x3bae17e53e3b8c8f:0xbf119407dc3081b",
+   "rating": 4.5,
+   "reviews": 500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Dessert shop",
+   "address": "Tres Leches Creamery, 9th A Main Rd, off 100 Feet Road",
+   "gps_coordinates": {
+    "latitude": 12.977585,
+    "longitude": 77.64046
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Amore Gelato Cafe - Italian Icecream",
+   "place_id": "ChIJ7VC6GgAVrjsRHJ9YACQXpTg",
+   "data_id": "0x3bae15001aba50ed:0x38a5172400589f1c",
+   "rating": 4.8,
+   "reviews": 2100,
+   "type": "Ice Cream",
+   "address": "21, 36th A Cross Road, 28th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.923016,
+    "longitude": 77.59539
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Amintiri - Cafe | Patisserie | Gifting",
+   "place_id": "ChIJI_uzjBcXrjsRYJ-spWNxLYA",
+   "data_id": "0x3bae17178cb3fb23:0x802d7163a5ac9f60",
+   "rating": 4.4,
+   "reviews": 7200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Dessert shop",
+   "address": "9/3, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.973737,
+    "longitude": 77.60326
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Milano Ice Cream",
+   "place_id": "ChIJZVXJn0gXrjsRBGn-XYuyo_U",
+   "data_id": "0x3bae17489fc95565:0xf5a3b28b5dfe6904",
+   "rating": 4.5,
+   "reviews": 8200,
+   "type": "Dessert shop",
+   "address": "Second Block, Raj Mahal Vilas Extension, 237, 2nd Stage, 80 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 13.027885,
+    "longitude": 77.575134
+   }
+  },
+  {
+   "position": 13,
+   "title": "Cre'me & Co",
+   "place_id": "ChIJfyqAveYVrjsRAEIem2-orZA",
+   "data_id": "0x3bae15e6bd802a7f:0x90ada86f9b1e4200",
+   "rating": 4.9,
+   "reviews": 782,
+   "type": "Ice Cream",
+   "address": "NO.1278/22, 25th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.917106,
+    "longitude": 77.592705
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Mélange Dessert Bar",
+   "place_id": "ChIJmT7ffrfLryoR88XifFjW6E8",
+   "data_id": "0x2aafcbb77edf3e99:0x4fe8d6587ce2c5f3",
+   "rating": 5,
+   "reviews": 205,
+   "type": "Cake shop",
+   "address": "88/2, 2nd Cross, opposite KPN fresh",
+   "gps_coordinates": {
+    "latitude": 12.9965725,
+    "longitude": 77.61111
+   }
+  },
+  {
+   "position": 15,
+   "title": "Huber & Holly",
+   "place_id": "ChIJbZv4p7YVrjsRT4Ns4hV0h2c",
+   "data_id": "0x3bae15b6a7f89b6d:0x67877415e26c834f",
+   "rating": 4.6,
+   "reviews": 694,
+   "type": "Ice Cream",
+   "address": "763, Lower Ground Floor, 33rd A cross road, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.925788,
+    "longitude": 77.58394
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Desserted",
+   "place_id": "ChIJNXoo20YWrjsRi5JK1YaZKqE",
+   "data_id": "0x3bae1646db287a35:0xa12a9986d54a928b",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Dessert shop",
+   "address": "41, 8th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.992759,
+    "longitude": 77.58933
+   },
+   "comment": "Upscale bakery & coffee place",
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Art of Delight",
+   "place_id": "ChIJgSTS2FoUrjsRDu4x0v-Zag8",
+   "data_id": "0x3bae145ad8d22481:0xf6a99ffd231ee0e",
+   "rating": 4.2,
+   "reviews": 1800,
+   "type": "Ice Cream",
+   "address": "13, 1st A cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.9334755,
+    "longitude": 77.62184
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Table for Tous – Café & Dessert Pâtisserie in HSR Layout",
+   "place_id": "ChIJ98k_jC0VrjsRsbFedlCLQWU",
+   "data_id": "0x3bae152d8c3fc9f7:0x65418b50765eb1b1",
+   "rating": 4.4,
+   "reviews": 410,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Dessert shop",
+   "address": "2nd floor, 146, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.916513,
+    "longitude": 77.63579
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Corner House",
+   "place_id": "ChIJcUFZIqcXrjsRgmngcu1QQVk",
+   "data_id": "0x3bae17a722594171:0x594150ed72e06982",
+   "rating": 4.5,
+   "reviews": 10000,
+   "type": "Ice Cream",
+   "address": "3283, 8th - Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.970106,
+    "longitude": 77.63744
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Milano Ice Cream",
+   "place_id": "ChIJAVx0xK8WrjsR9EyNzDWuBKk",
+   "data_id": "0x3bae16afc4745c01:0xa904ae35cc8d4cf4",
+   "rating": 4.6,
+   "reviews": 14000,
+   "type": "Ice Cream",
+   "address": "460, Shri Krishna Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.979034,
+    "longitude": 77.64402
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "q": "best restaurants in Electronic City Bangalore",
+ "ll": "@12.8452,77.6602,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:42:14.361Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Kake Di Hatti Electronic City",
+   "place_id": "ChIJq1phuLptrjsRkB50prJhofI",
+   "data_id": "0x3bae6dbab8615aab:0xf2a161b2a6741e90",
+   "rating": 4.7,
+   "reviews": 4200,
+   "type": "North Indian",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.848082,
+    "longitude": 77.65788
+   }
+  },
+  {
+   "position": 2,
+   "title": "Thyme & Whisk | Pure Veg Restaurant",
+   "place_id": "ChIJZwq79aFrrjsRyLce87wxsWE",
+   "data_id": "0x3bae6ba1f5bb0a67:0x61b131bcf31eb7c8",
+   "rating": 4.6,
+   "reviews": 4100,
+   "type": "Vegetarian",
+   "address": "Second Floor, Skywards Sun Park, Neeladri Rd, opposite Wipro Gate 15",
+   "gps_coordinates": {
+    "latitude": 12.8401985,
+    "longitude": 77.65341
+   }
+  },
+  {
+   "position": 3,
+   "title": "ASF Ancient Stone Flames | Buffet BBQ Grill | Electronic City | Bangalore",
+   "place_id": "ChIJUU7NEdFrrjsRXeppwMDStdk",
+   "data_id": "0x3bae6bd111cd4e51:0xd9b5d2c0c069ea5d",
+   "rating": 4.6,
+   "reviews": 1700,
+   "price": "₹600–1,000",
+   "extracted_price": {
+    "min": 600,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.841532,
+    "longitude": 77.64499
+   }
+  },
+  {
+   "position": 4,
+   "title": "Mangroove Taproom & Kitchen",
+   "place_id": "ChIJhdKQcS9trjsR64vy6zIQkA0",
+   "data_id": "0x3bae6d2f7190d285:0xd901032ebf28beb",
+   "rating": 4.5,
+   "reviews": 2700,
+   "type": "Restaurant",
+   "address": "25/6 , Beratena Agrahara, Doddanagamangala Rd",
+   "gps_coordinates": {
+    "latitude": 12.866263,
+    "longitude": 77.665436
+   }
+  },
+  {
+   "position": 5,
+   "title": "BLR Brewing Co - Electronic City",
+   "place_id": "ChIJOVrqGt9rrjsRk8ByPz0r9Mc",
+   "data_id": "0x3bae6bdf1aea5a39:0xc7f42b3d3f72c093",
+   "rating": 4.4,
+   "reviews": 5000,
+   "type": "Brewery",
+   "address": "4th Floor, 84/4, Neeladri Rd, opposite to Wipro Gate",
+   "gps_coordinates": {
+    "latitude": 12.8403,
+    "longitude": 77.6534
+   }
+  },
+  {
+   "position": 6,
+   "title": "Nandhana Palace - Andhra Style Restaurant - Electronic City",
+   "place_id": "ChIJM0r8O9NrrjsRvFqrafhiSII",
+   "data_id": "0x3bae6bd33bfc4a33:0x824862f869ab5abc",
+   "rating": 4.7,
+   "reviews": 7200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Andhra",
+   "address": "3rd floor, 152/5, Neeladri Rd",
+   "gps_coordinates": {
+    "latitude": 12.841518,
+    "longitude": 77.64509
+   }
+  },
+  {
+   "position": 7,
+   "title": "Bier Loft - Brewery & Kitchen",
+   "place_id": "ChIJGTYemwlrrjsRGZOacltDH3I",
+   "data_id": "0x3bae6b099b1e3619:0x721f435b729a9319",
+   "rating": 4.6,
+   "reviews": 1200,
+   "type": "Restaurant",
+   "address": "4th Floor, Nishaanth Elegance, Neeladri Rd, opposite Cloudnine Hospital",
+   "gps_coordinates": {
+    "latitude": 12.841595,
+    "longitude": 77.644554
+   }
+  },
+  {
+   "position": 8,
+   "title": "Hunan Square",
+   "place_id": "ChIJaw_uq-FrrjsRKhj_9S-6rYM",
+   "data_id": "0x3bae6be1abee0f6b:0x83adba2ff5ff182a",
+   "rating": 4.6,
+   "reviews": 976,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pan Asian",
+   "address": "Ground Floor.155/156, Neeladri Road, 12th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.841338,
+    "longitude": 77.647514
+   }
+  },
+  {
+   "position": 9,
+   "title": "46 Ounces Brewgarden",
+   "place_id": "ChIJK_DYjyRtrjsRpidHSGoflWU",
+   "data_id": "0x3bae6d248fd8f02b:0x65951f6a484727a6",
+   "rating": 4.5,
+   "reviews": 17000,
+   "type": "Brewpub",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.849616,
+    "longitude": 77.657814
+   }
+  },
+  {
+   "position": 10,
+   "title": "24@43",
+   "place_id": "ChIJw9B_lJtsrjsRlxpagKsAzjM",
+   "data_id": "0x3bae6c9b947fd0c3:0x33ce00ab805a1a97",
+   "rating": 4.5,
+   "reviews": 835,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "The Oterra Hotel, 43",
+   "gps_coordinates": {
+    "latitude": 12.850036,
+    "longitude": 77.66031
+   }
+  },
+  {
+   "position": 11,
+   "title": "EtOH Rooftop Restaurant | Bar",
+   "place_id": "ChIJsYyr7TxtrjsREAsBU_LCvjc",
+   "data_id": "0x3bae6d3cedab8cb1:0x37bec2f253010b10",
+   "rating": 4.6,
+   "reviews": 270,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "Hebbagodi, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.835908,
+    "longitude": 77.665276
+   }
+  },
+  {
+   "position": 12,
+   "title": "E-City SOCIAL",
+   "place_id": "ChIJw-QT6QlrrjsRTHGNjJKNEJo",
+   "data_id": "0x3bae6b09e913e4c3:0x9a108d928c8d714c",
+   "rating": 4.3,
+   "reviews": 1100,
+   "type": "Bar",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.843697,
+    "longitude": 77.644966
+   }
+  },
+  {
+   "position": 13,
+   "title": "The Big Buffet - Eat Unlimited, Electronic City",
+   "place_id": "ChIJAxLFtnJrrjsRAYOgipQ07sw",
+   "data_id": "0x3bae6b72b6c51203:0xccee34948aa08301",
+   "rating": 4.4,
+   "reviews": 1900,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Buffet",
+   "address": "5th, above IDFC First Bank",
+   "gps_coordinates": {
+    "latitude": 12.841505,
+    "longitude": 77.647446
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Dindigul Thalappakatti Restaurant Electronic City",
+   "place_id": "ChIJhdiQKe9rrjsRwuIevhrY1DY",
+   "data_id": "0x3bae6bef2990d885:0x36d4d81abe1ee2c2",
+   "rating": 4.6,
+   "reviews": 3400,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Indian",
+   "address": "@Neeladri Road, opposite AJMERA INFINITY",
+   "gps_coordinates": {
+    "latitude": 12.84161,
+    "longitude": 77.64726
+   },
+   "comment": "Simple chain destination for biryanis"
+  },
+  {
+   "position": 15,
+   "title": "Foodbae Restaurant",
+   "place_id": "ChIJiSf4fpJrrjsR0gZNALy14hQ",
+   "data_id": "0x3bae6b927ef82789:0x14e2b5bc004d06d2",
+   "rating": 4.5,
+   "reviews": 946,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "Ajmera Avenue , S block ,Doddathoguru village, & panchayath, Neeladri Rd",
+   "gps_coordinates": {
+    "latitude": 12.841801,
+    "longitude": 77.64772
+   }
+  },
+  {
+   "position": 16,
+   "title": "Patiala Dhaba Rooftop Garden",
+   "place_id": "ChIJv7qHaQBrrjsRFv7-QtxgSdQ",
+   "data_id": "0x3bae6b006987babf:0xd44960dc42fefe16",
+   "rating": 4.4,
+   "reviews": 310,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Restaurant",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.842121,
+    "longitude": 77.64628
+   }
+  },
+  {
+   "position": 17,
+   "title": "Kapoor's Cafe Electronic City",
+   "place_id": "ChIJq03Aps9rrjsRCnHuPSirXIY",
+   "data_id": "0x3bae6bcfa6c04dab:0x865cab283dee710a",
+   "rating": 4.4,
+   "reviews": 6500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "North Indian",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.841553,
+    "longitude": 77.644646
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Macaw By Stories",
+   "place_id": "ChIJmc-EZGcVrjsRyD0eKRt8wRk",
+   "data_id": "0x3bae15676484cf99:0x19c17c1b291e3dc8",
+   "rating": 4.4,
+   "reviews": 5600,
+   "type": "Restaurant",
+   "address": "No 2224, 2225, Service Rd",
+   "gps_coordinates": {
+    "latitude": 12.884246,
+    "longitude": 77.64344
+   }
+  },
+  {
+   "position": 19,
+   "title": "Fire Station - Bar & Kitchen",
+   "place_id": "ChIJwQFZfnFrrjsRHbl9dheUEMk",
+   "data_id": "0x3bae6b717e5901c1:0xc9109417767db91d",
+   "rating": 4.1,
+   "reviews": 7100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Grill",
+   "address": "154, Above Unlimited Store, Neeladri Main Road Electronic City",
+   "gps_coordinates": {
+    "latitude": 12.841536,
+    "longitude": 77.64737
+   },
+   "comment": "Vibrant gastropub with mixed fare"
+  },
+  {
+   "position": 20,
+   "title": "The Rasoiya Street | Pure Veg Restaurant In Electronic City",
+   "place_id": "ChIJwzRqkXtrrjsRAHeIZ-bmDEE",
+   "data_id": "0x3bae6b7b916a34c3:0x410ce6e667887700",
+   "rating": 4.2,
+   "reviews": 5700,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Vegetarian",
+   "address": "3rd Floor, Florus",
+   "gps_coordinates": {
+    "latitude": 12.841622,
+    "longitude": 77.64691
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+ "q": "best buffet restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:33:34.834Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Black Pearl Barbeque Restaurant",
+   "place_id": "ChIJfQSfFbITrjsRlkxwFBaUUBo",
+   "data_id": "0x3bae13b2159f047d:0x1a50941614704c96",
+   "rating": 4.3,
+   "reviews": 40000,
+   "price": "₹800–1,200",
+   "extracted_price": {
+    "min": 800,
+    "max": 1200
+   },
+   "type": "Buffet",
+   "address": "Lagoto Building, 7, Swami Building, 6th, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.9392395,
+    "longitude": 77.69467
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "The Fisherman's Wharf",
+   "place_id": "ChIJjy3YH3ATrjsRm2pRI8P87bM",
+   "data_id": "0x3bae13701fd82d8f:0xb3edfcc323516a9b",
+   "rating": 4.2,
+   "reviews": 22000,
+   "type": "Buffet",
+   "address": "Hobli, FWB- #26, Opp. Shub Enclave Harulur Road, Ambalipura Village, Varthur, Off Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.914445,
+    "longitude": 77.66628
+   },
+   "comment": "Alfresco bar & Goan seafood restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Cubbon Pavilion - ITC Gardenia",
+   "place_id": "ChIJIcg0IYkXrjsRWhn8BiNHq0Q",
+   "data_id": "0x3bae17892134c821:0x44ab472306fc195a",
+   "rating": 4.6,
+   "reviews": 359,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "European",
+   "address": "1, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.966919,
+    "longitude": 77.595726
+   }
+  },
+  {
+   "position": 4,
+   "title": "The Big Barbeque - Buffet - Bengaluru - Bannerghatta Road",
+   "place_id": "ChIJhbEYrYYVrjsRronHeInPk54",
+   "data_id": "0x3bae1586ad18b185:0x9e93cf8978c789ae",
+   "rating": 4.6,
+   "reviews": 15000,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "No. 40, 1st Floor, Bannerghatta Rd, above ICICI Bank",
+   "gps_coordinates": {
+    "latitude": 12.882233,
+    "longitude": 77.5958
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Masterpiece Buffet Bangalore",
+   "place_id": "ChIJqYNpSpQTrjsRN6DMg05WM5I",
+   "data_id": "0x3bae13944a6983a9:0x9233564e83cca037",
+   "rating": 4.6,
+   "reviews": 204,
+   "price": "₹1,600–1,800",
+   "extracted_price": {
+    "min": 1600,
+    "max": 1800
+   },
+   "type": "Buffet",
+   "address": "Prestige Featherlite Tech Hub, Building1, Panathur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.939605,
+    "longitude": 77.70031
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "JW Kitchen",
+   "place_id": "ChIJ_x_iR3cWrjsRwrvKa9lpKMA",
+   "data_id": "0x3bae167747e21fff:0xc02869d96bcabbc2",
+   "rating": 4.3,
+   "reviews": 3800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Fine Dining",
+   "address": "24/1, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.972067,
+    "longitude": 77.59487
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "The Creek",
+   "place_id": "ChIJdcYNZyQRrjsR2gkKgTd3is0",
+   "data_id": "0x3bae1124670dc675:0xcd8a7737810a09da",
+   "rating": 4.1,
+   "reviews": 2100,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "The DEN Hotel, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.987198,
+    "longitude": 77.73315
+   },
+   "comment": "Global fare in a light-filled ambiance"
+  },
+  {
+   "position": 8,
+   "title": "Desi Masala",
+   "place_id": "ChIJeep8OjMVrjsRCED-HqURNRc",
+   "data_id": "0x3bae15333a7cea79:0x173511a51efe4008",
+   "rating": 4.3,
+   "reviews": 14000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Buffet",
+   "address": "Jayanagar 4th block bus station, 9th Main Rd, next to reservation counter, behind Jain Temple",
+   "gps_coordinates": {
+    "latitude": 12.928304,
+    "longitude": 77.58393
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Buff Buffet Buff",
+   "place_id": "ChIJqSsUw1EUrjsRtJnGsaYq6cU",
+   "data_id": "0x3bae1451c3142ba9:0xc5e92aa6b1c699b4",
+   "rating": 4.3,
+   "reviews": 7300,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "No. 60, Jyoti Nivas College Rd, inside BluPetal Hotel",
+   "gps_coordinates": {
+    "latitude": 12.933478,
+    "longitude": 77.61521
+   },
+   "comment": "Modern buffet with global & BBQ fare",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "MONSOON - All Day Buffet",
+   "place_id": "ChIJvdV3VZsWrjsRoBhOwME6ruc",
+   "data_id": "0x3bae169b5577d5bd:0xe7ae3ac1c04e18a0",
+   "rating": 4.4,
+   "reviews": 640,
+   "type": "Buffet",
+   "address": "The Park Hotel, 14 7, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.974009,
+    "longitude": 77.61953
+   }
+  },
+  {
+   "position": 11,
+   "title": "24@43",
+   "place_id": "ChIJw9B_lJtsrjsRlxpagKsAzjM",
+   "data_id": "0x3bae6c9b947fd0c3:0x33ce00ab805a1a97",
+   "rating": 4.5,
+   "reviews": 835,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "The Oterra Hotel, 43",
+   "gps_coordinates": {
+    "latitude": 12.850036,
+    "longitude": 77.66031
+   }
+  },
+  {
+   "position": 12,
+   "title": "Chutney Chang",
+   "place_id": "ChIJmdCwoH4WrjsR_qhTuMyAxAo",
+   "data_id": "0x3bae167ea0b0d099:0xac480ccb853a8fe",
+   "rating": 4,
+   "reviews": 11000,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Buffet",
+   "address": "HM Eleganza, 31 & 31/1, Museum Rd, near Church Street",
+   "gps_coordinates": {
+    "latitude": 12.97377,
+    "longitude": 77.60303
+   },
+   "comment": "Chinese & Indian buffet with many dishes",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "24th Main Restaurant",
+   "place_id": "ChIJcT-aHuwVrjsR3ZcsXQFETMA",
+   "data_id": "0x3bae15ec1e9a3f71:0xc04c44015d2c97dd",
+   "rating": 4.5,
+   "reviews": 5700,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Buffet",
+   "address": "827, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.908563,
+    "longitude": 77.585976
+   },
+   "comment": "Casual eatery for pan-Indian & global meals",
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "MoMo Café - Courtyard by Marriott",
+   "place_id": "ChIJNTm_M6cTrjsRhsW_495ho24",
+   "data_id": "0x3bae13a733bf3935:0x6ea361dee3bfc586",
+   "rating": 4,
+   "reviews": 1600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "Sarjapur Main Road, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.928068,
+    "longitude": 77.6825
+   }
+  },
+  {
+   "position": 15,
+   "title": "The Desi Buffet House",
+   "place_id": "ChIJfyXS8y4XrjsRnImBdWfa5iw",
+   "data_id": "0x3bae172ef3d2257f:0x2ce6da677581899c",
+   "rating": 4.6,
+   "reviews": 511,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "10, 3rd Main Road, between 4th and, 5th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.978179,
+    "longitude": 77.57871
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "CUR8",
+   "place_id": "ChIJ0VjfpQsXrjsRTa2oeUtMYMs",
+   "data_id": "0x3bae170ba5df58d1:0xcb604c4b79a8ad4d",
+   "rating": 4.4,
+   "reviews": 487,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "8, Bellary Rd",
+   "gps_coordinates": {
+    "latitude": 13.019522,
+    "longitude": 77.58534
+   },
+   "comment": "Modern hotel restaurant for global fare",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Ebony",
+   "place_id": "ChIJHx8ds30WrjsRJH5BpF51Snk",
+   "data_id": "0x3bae167db31d1f1f:0x794a755ea4417e24",
+   "rating": 4.2,
+   "reviews": 6700,
+   "type": "Restaurant",
+   "address": "13th Floor, Tower-B, 84, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975422,
+    "longitude": 77.60511
+   },
+   "comment": "Pan-Indian meals with city views",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Feast",
+   "place_id": "ChIJSciIwng9rjsRKyOoikfNWjo",
+   "data_id": "0x3bae3d78c288c849:0x3a5acd478aa8232b",
+   "rating": 4.2,
+   "reviews": 1700,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "A Block, Sheraton Grand, 26/1, Dr. Rajkumar Road, Malleswaram, 26/1, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.012495,
+    "longitude": 77.55522
+   },
+   "comment": "Casual global buffet within a chic hotel",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "ZEST by Southern Star Bengaluru",
+   "place_id": "ChIJxWM6tHsWrjsRClp5RH_anf0",
+   "data_id": "0x3bae167bb43a63c5:0xfd9dda7f44795a0a",
+   "rating": 4.2,
+   "reviews": 3000,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Buffet",
+   "address": "40/2, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974662,
+    "longitude": 77.59947
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "One Atria Cafe",
+   "place_id": "ChIJp-39PW0WrjsRSoLYa6Mapk0",
+   "data_id": "0x3bae166d3dfdeda7:0x4da61aa36bd8824a",
+   "rating": 4.2,
+   "reviews": 554,
+   "price": "₹800–1,400",
+   "extracted_price": {
+    "min": 800,
+    "max": 1400
+   },
+   "type": "Buffet",
+   "address": "1, Palace Rd",
+   "gps_coordinates": {
+    "latitude": 12.979883,
+    "longitude": 77.58631
+   },
+   "comment": "Relaxed hotel restaurant for global fare"
+  }
+ ]
+}

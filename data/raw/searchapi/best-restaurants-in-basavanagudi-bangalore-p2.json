@@ -1,0 +1,1071 @@
+{
+ "q": "best restaurants in Basavanagudi Bangalore",
+ "ll": "@12.9422,77.576,14z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:30:28.280Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJiwse2vIVrjsRkU6m4xzktnU",
+   "data_id": "0x3bae15f2da1e0b8b:0x75b6e41ce3a64e91",
+   "title": "Gokul Veg",
+   "description": "Indian & Chinese vegetarian restaurant. Open since 1995, the first branch of a small family Indian and Chinese vegetarian restaurant chain.",
+   "address": "1st Floor, GR Plaza, Plot No. 142/143, DV Gundappa Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099809 78388",
+   "rating": 4,
+   "reviews": 4519,
+   "website": "https://gokulveg.in/",
+   "domain": "gokulveg.in",
+   "gps_coordinates": {
+    "latitude": 12.9442687,
+    "longitude": 77.5709344
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Chinese restaurant",
+    "Punjabi restaurant",
+    "Restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–10:30 pm",
+    "tuesday": "11 am–10:30 pm",
+    "wednesday": "11 am–10:30 pm",
+    "thursday": "11 am–10:30 pm",
+    "friday": "11 am–10:30 pm",
+    "saturday": "11 am–10:30 pm",
+    "sunday": "11 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO1eWnY9426BvZjejoMAWSHtK2Hjb5gRSrJvnusjms9EsLF0LTmyrRkFHx_Ftl0-hqP763ZBwx65iJL0kAoNRtXJf7fo3eaYpaWdg4aaBYVcQtp4LjV2v3-qKQUJVkKuK19fLHhGA=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJJ1gyewAVrjsRkYsaMCMBOec",
+   "data_id": "0x3bae15007b325827:0xe7390123301a8b91",
+   "title": "LEMAIRE PATISSERIE & COFFEE BREW",
+   "address": "Ground Floor, 31/2, Bull Temple Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.8,
+   "reviews": 3270,
+   "is_unclaimed_listing": true,
+   "website": "https://lemaire.godirekt.in/",
+   "domain": "lemaire.godirekt.in",
+   "gps_coordinates": {
+    "latitude": 12.9454767,
+    "longitude": 77.5679974
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Beverage Store",
+    "Breakfast restaurant",
+    "Cafe",
+    "Cake shop",
+    "Confectionery store",
+    "Juice shop",
+    "Pizza restaurant",
+    "Bakery and Cake Shop"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 2 am · Reopens 8:30 am",
+   "open_hours": {
+    "sunday": "8:30 am–2 am",
+    "monday": "8:30 am–1 am",
+    "tuesday": "8:30 am–1 am",
+    "wednesday": "8:30 am–1 am",
+    "thursday": "8:30 am–1 am",
+    "friday": "8:30 am–2 am",
+    "saturday": "8:30 am–2 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/lemaire-patisserie-basavanagudi-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iQ_Ufj8LNmJ10XY43Pkmm71U63yKGFu15nKKh_PK_11SPGsaWCxPdA75KrZ7lr1Nh5r2145yvCH_vahjGR5pmE7PAzTuuvJnPfDyMHWXpxMcSg1DU%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOvPMR10yo0rgYMb-OaOVCQziuUKvqUh0uG6sdh78ngFGwar1kgaW2KkjZYw9R2nlssibMdL52sdqgz5fXvZWmeHFWwjmZ9nZ1Em40YQ2ZTWjAtC7g7kKIfVo4FAps-JxocKWPNCTSzh-30=w138-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJd6r1h5EVrjsRdGFB3SvIT-o",
+   "data_id": "0x3bae159187f5aa77:0xea4fc82bdd416174",
+   "title": "South Thindis",
+   "description": "Stand-&-eat South Indian meals. Simple setting with South Indian staples for a quick bite of snacks or meals with speedy service.",
+   "address": "Kanakapura Road, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099459 65863",
+   "rating": 4.1,
+   "reviews": 8527,
+   "gps_coordinates": {
+    "latitude": 12.9385896,
+    "longitude": 77.5755635
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6:30 am",
+   "open_hours": {
+    "monday": "6:30 am–9:30 pm",
+    "tuesday": "6:30 am–9:30 pm",
+    "wednesday": "6:30 am–9:30 pm",
+    "thursday": "6:30 am–9:30 pm",
+    "friday": "6:30 am–9:30 pm",
+    "saturday": "6:30 am–9:30 pm",
+    "sunday": "6:30 am–9:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOXZnaRS-dI7ub1fW-4wV35WsJQlJiB7_5-hgnH5CFjN6pDUwB6Ct4ZijKkVX6F5umBYdRtUxDnrDDHBEdoLJ8CEnPIurppqsELypNO7FuNVS4by4u0DiIgVylnxMzSz1TKs424=w204-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJZQ8Zu0UVrjsRI5Ic6vYGwQ4",
+   "data_id": "0x3bae1545bb190f65:0xec106f6ea1c9223",
+   "title": "JK COASTAL CURRY",
+   "address": "Natkalappa Circle, 169 24/1, Subbarama Chetty Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089044 55597",
+   "rating": 4.3,
+   "reviews": 923,
+   "gps_coordinates": {
+    "latitude": 12.939267,
+    "longitude": 77.571944
+   },
+   "type": "Family restaurant",
+   "types": [
+    "Family restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–4 pm, 6–11 pm",
+    "tuesday": "11:30 am–4 pm, 6–11 pm",
+    "wednesday": "11:30 am–4 pm, 6–11 pm",
+    "thursday": "11:30 am–4 pm, 6–11 pm",
+    "friday": "11:30 am–4 pm, 6–11 pm",
+    "saturday": "11:30 am–4 pm, 6–11 pm",
+    "sunday": "11:30 am–4 pm, 6–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPr9s74EKhx1bD5Ajf31Mv_ZaquwoCo3MI2iI3McsSBaygbY6-zJVaoK0187Z1E7fi7Cr3bKHjcC3lFIYBUUUjc5-306nkQWjo_9wqdH0DqWiwIJPDnjZYwh1NxuRJxScLrlAk_=w163-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJgwuR-SkVrjsRP0dxlBTlql0",
+   "data_id": "0x3bae1529f9910b83:0x5daae5149471473f",
+   "title": "CUBBONPETE TIFFIN ROOM",
+   "address": "9/46, W Anjaneya Temple St, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082172 62089",
+   "rating": 4.4,
+   "reviews": 1301,
+   "gps_coordinates": {
+    "latitude": 12.9459443,
+    "longitude": 77.5686432
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–12 pm",
+    "tuesday": "7:30 am–12 pm",
+    "wednesday": "7:30 am–12 pm",
+    "thursday": "7:30 am–12 pm",
+    "friday": "7:30 am–12 pm",
+    "saturday": "7:30 am–12 pm",
+    "sunday": "7:30 am–12 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLea47mZOAnTszARLw4Y4FWb-uAldDwdW6_6b9hFMz3ZBD3my8qIhdw6PrZn0tZ612C190Yv0sZxZg93RIdYq2pHKBoAxaXgPYH9ek46pT6b-IA1TYnpBbsW3spPv4uwB1V7fmdL=w99-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJKcixRQA_rjsRYpDaLfnt_9Y",
+   "data_id": "0x3bae3f0045b1c829:0xd6ffedf92dda9062",
+   "title": "BIRIYANI PARAMPARE",
+   "address": "SHOBHA ARCADE, 280Y, 1ST FLOOR 1ST MAIN, 100FT RING ROAD, 7TH BLOCK, Banashankari 3rd Stage, Bengaluru, Karnataka 560085",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "093807 15590",
+   "rating": 4.7,
+   "reviews": 558,
+   "gps_coordinates": {
+    "latitude": 12.9236713,
+    "longitude": 77.5547299
+   },
+   "type": "Family restaurant",
+   "types": [
+    "Family restaurant",
+    "Breakfast restaurant",
+    "Non Vegetarian Restaurant",
+    "North Indian restaurant",
+    "Restaurant",
+    "Soup shop",
+    "South Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "4 am–11:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMPdzqpeHgvqxLB--hve6eGLXn_zr2zt0wlmhohsXjyBrMnTaL_pCJwPSW199T0ZDI0eWKcNVjJJS7oXrm1VOEqaKz2Ru8NO-iVaYwdwI06pRh8Zo0y9VGlfWUFSEsoGiKpvciCXg=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJfYwpLIwVrjsRGNDHysIdZsY",
+   "data_id": "0x3bae158c2c298c7d:0xc6661dc2cac7d018",
+   "title": "Upahara Darshini",
+   "address": "DV Gundappa Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 5512,
+   "gps_coordinates": {
+    "latitude": 12.9393131,
+    "longitude": 77.57140679999999
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Caterer"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–1 pm, 4:30–9:30 pm",
+    "tuesday": "7:30 am–1 pm, 4:30–9:30 pm",
+    "wednesday": "7:30 am–1 pm, 4:30–9:30 pm",
+    "thursday": "7:30 am–1 pm, 4:30–9:30 pm",
+    "friday": "7:30 am–1 pm, 4:30–9:30 pm",
+    "saturday": "7:30 am–1 pm, 4:30–9:30 pm",
+    "sunday": "7:30 am–1 pm, 4:30–9:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/upahara-darshini-basavanagudi-indiranagar-bangalore-852053/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO4-YTV3hfgD8hT5ngqGNhjnGGgFWMXSc7e6Ytt99jBRXwp0XMRGjVA9yoSQAPIVFgdNI4IwTcn-AWrbf5KVIxjq_HE90uPpS5SGcOTxnvwLVtbBWlzSbDrL4AgSmVAObMX0ZlRvA=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJ5buBh7IVrjsRQmPUshmSmjk",
+   "data_id": "0x3bae15b28781bbe5:0x399a9219b2d46342",
+   "title": "Shiv Sagar Signature",
+   "address": "86, Gandhi Bazaar Main Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074114 16408",
+   "rating": 4.1,
+   "reviews": 1398,
+   "gps_coordinates": {
+    "latitude": 12.9476447,
+    "longitude": 77.568462
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant",
+    "South Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–10:45 pm",
+    "tuesday": "11:30 am–10:45 pm",
+    "wednesday": "11:30 am–10:45 pm",
+    "thursday": "11:30 am–10:45 pm",
+    "friday": "11:30 am–10:45 pm",
+    "saturday": "11:30 am–10:45 pm",
+    "sunday": "11:30 am–10:45 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/shiv-sagar-signature-basavanagudi-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g3rxFauv68E5nB1MV9uO6FUWPFHXFDNEjc8qe1TBBZIbKaFM_2uTfFwo0VlNuM347rt8B31kUPySXGCcDDOa20vybabI4a_MiLmw2C4qmKFombNK0%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf943LS7H9fv4XgqRJxlUIFefPfDM4nTeOFoH7P5vNsTomuf3kqs31md1QJdz2M3aNm4n7ymoIHMJF39NsGKTA8z8J20XKU7nEq09giKeMQmq7ErMVmOOZo_jHjXlJCp8tULA=w201-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJxz4mnqQVrjsRaNe6UcK1gpk",
+   "data_id": "0x3bae15a49e263ec7:0x9982b5c251bad768",
+   "title": "NH10 Restaurant",
+   "address": "85, 22nd Main Rd, opp. to Kim's pharmacy college, Siddanna Layout, Banashankari 2nd Stage, Banashankari, Bengaluru, Karnataka 560085",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "077600 77571",
+   "rating": 4.6,
+   "reviews": 618,
+   "website": "http://www.nh10.in/",
+   "domain": "nh10.in",
+   "gps_coordinates": {
+    "latitude": 12.926949,
+    "longitude": 77.5645825
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Chinese restaurant",
+    "Indian takeaway"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/nh10-kims-pharmacy-college-jayanagar-bangalore-534524/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmORvPhGYMMGwXlFaBx8N_7IlAEglGpfsGQRL1NzECZBZnQtdMFtmNEZZp72n-_i0tFn789zaP_VC4w12Ll5qFSsOPS0XigXKszQaX2KG7c_TGZpX8pzk9GjbWoewseL7oPMppoE=w112-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJV_zvUe8VrjsRAiF6stA7NMY",
+   "data_id": "0x3bae15ef51effc57:0xc6343bd0b27a2102",
+   "title": "New Modern Hotel",
+   "description": "Vegetarian eatery with a casual vibe. Self-service restaurant offering traditional vegetarian dishes in relaxed surrounds.",
+   "address": "143, Diagonal Rd, near Minerva circle, Parvathipuram, Vishweshwarapura, Shankarapura, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099720 21048",
+   "rating": 4.2,
+   "reviews": 8777,
+   "website": "http://www.newmodernhotel.com/",
+   "domain": "newmodernhotel.com",
+   "gps_coordinates": {
+    "latitude": 12.9544443,
+    "longitude": 77.57881429999999
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Breakfast restaurant",
+    "Coffee store",
+    "Hotel",
+    "Lodge",
+    "Lunch restaurant",
+    "Vegetarian restaurant"
+   ],
+   "amenities": [
+    "Free breakfast",
+    "Air-conditioned",
+    "Breakfast",
+    "Wi-Fi"
+   ],
+   "highlights": [
+    "Check-in time: 12:00 am"
+   ],
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPzUBBPeHnyhKqGJcuaVRkHiy-4QPKVf4Vzpf8sNYYGrsgwoMv6qaN1bO6YG_9G8X8ZBVcJ-szTzyzWXH1qI_MJdozJPzI6s45kEbSdlf5WignAuy2N6Py-K9pIZXgQQFpRz3yC=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJ45Wf_4wVrjsRunivN91JmlY",
+   "data_id": "0x3bae158cff9f95e3:0x569a49dd37af78ba",
+   "title": "Puliyogare Point",
+   "address": "81, E Anjaneya Temple St, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099869 53484",
+   "rating": 4.2,
+   "reviews": 6576,
+   "gps_coordinates": {
+    "latitude": 12.9406914,
+    "longitude": 77.5704138
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Breakfast restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–9:30 pm",
+    "tuesday": "7:30 am–9:30 pm",
+    "wednesday": "7:30 am–9:30 pm",
+    "thursday": "7:30 am–9:30 pm",
+    "friday": "7:30 am–9:30 pm",
+    "saturday": "7:30 am–9:30 pm",
+    "sunday": "7:30 am–9:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOSO_GmGw0sBEoPRKeXxVSNXujByJXOSbLRnsM2XY9CfCOjVtrzmq6n7KCFt4Qto-gzi8bwmLtb9iKsYqVL8uIWOIR1_16l6HAWaZyLzn11rKYEBi7KlU7W1Ac8kc_ApnPuy21Rug=w136-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJQ3KCpPMVrjsRjBpYLmd9xZo",
+   "data_id": "0x3bae15f3a4827243:0x9ac57d672e581a8c",
+   "title": "Board 4 Bored",
+   "description": "Funky cafe boasting over 200 board games. Offbeat, vibrant cafe offering over 200 board games, plus casual snacks, comfort foods & beverages.",
+   "address": "3rd Floor, Chaitanya Plaza, No 52, DV Gundappa Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096061 73535",
+   "rating": 4.6,
+   "reviews": 4009,
+   "gps_coordinates": {
+    "latitude": 12.9405005,
+    "longitude": 77.5714924
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Asian restaurant",
+    "Board game club",
+    "Children's party buffet",
+    "Conference center",
+    "Continental restaurant",
+    "Family restaurant",
+    "Pizza restaurant",
+    "Vegetarian cafe and deli",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–10:30 pm",
+    "tuesday": "12–10:30 pm",
+    "wednesday": "12–10:30 pm",
+    "thursday": "12–10:30 pm",
+    "friday": "12–10:30 pm",
+    "saturday": "12–10:30 pm",
+    "sunday": "12–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/board-4-bored-basavanagudi-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jdC7-cWgwgtUeTnzK8jvH7DfBcpIyYVKMqsX0HZExbWRn_gc-rB4-wFvF6pdQZ0GagQO3QppKPlbKAJ_zfNk8XKGXFo_fJ7PYOdifoAPuuEOCk3eQ%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOeWXQyR0hxYBin9BOT6JcJCNMtG8BpmPCFrwuqvTmqkNE6N2inDc7bsyrBmaL96vsU8YXXsAMWe64YA0GIARPMdoEenWO1-uJ4dqRfjPnGWcFeOvinzEv9wlqfVWU_Wt7kw5NH=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJ_2Wh254VrjsRKSs_q-uqEqQ",
+   "data_id": "0x3bae159edba165ff:0xa412aaebab3f2b29",
+   "title": "G P cafe Basavanagudi Vibes",
+   "address": "APS College Canteen, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 165,
+   "website": "https://instagram.com/basavanagudi_vibes?igshid=MzRlODBiNWFlZA==",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9395378,
+    "longitude": 77.5677469
+   },
+   "type": "Karnataka restaurant",
+   "types": [
+    "Karnataka restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6 am",
+   "open_hours": {
+    "monday": "6 am–10 pm",
+    "tuesday": "6 am–10 pm",
+    "wednesday": "6 am–10 pm",
+    "thursday": "6 am–10 pm",
+    "friday": "6 am–10 pm",
+    "saturday": "6 am–10 pm",
+    "sunday": "6 am–10 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNnf-J16EjshNDLL0axHXhFqpfDcEbFf5k2tH_wu5DWv0OBceP4Wzsz4msq2e0XaikC5J13xSW6l8fSlK-jndhVzj9z0hFHFv33dA0Ad_B4_9ck11QguEAtqgY5n-NTp97NB9Q=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJIbPaarIVrjsRdieHjHH74uo",
+   "data_id": "0x3bae15b26adab321:0xeae2fb718c872776",
+   "title": "OTP - Oven Tawa Pan",
+   "address": "KP, 8/2, 5th Main Rd, Chikkanna Garden, Shankarapura, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080503 59369",
+   "rating": 4.2,
+   "reviews": 428,
+   "gps_coordinates": {
+    "latitude": 12.9571445,
+    "longitude": 77.5707772
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMgOGaQcYzzxNSiNIcfvKQ6vUgctsJ3rThnw_KdkO_YxmwnZ3J8IMuKKnLocQECk7sMkh0H7AYDCLPNHl5H6J2JyNZCyzGhOhx3Pkocav0aJuGfiYKsrU34tkkaiUnu4d9hY9H-sA=w80-h106-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJ8SECdY4VrjsRmeUh8m7o2W8",
+   "data_id": "0x3bae158e750221f1:0x6fd9e86ef221e599",
+   "title": "Kabab Magic",
+   "address": "31, Rashtriya Vidyalaya Rd, opp. Vijaya College, 2nd Block, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082775 65656",
+   "rating": 4.1,
+   "reviews": 13341,
+   "gps_coordinates": {
+    "latitude": 12.9400968,
+    "longitude": 77.5799783
+   },
+   "type": "Chicken restaurant",
+   "types": [
+    "Chicken restaurant",
+    "Grill",
+    "Fried chicken takeaway"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12:30 pm",
+   "open_hours": {
+    "monday": "12:30–11:30 pm",
+    "tuesday": "12:30–11:30 pm",
+    "wednesday": "12:30–11:30 pm",
+    "thursday": "12:30–11:30 pm",
+    "friday": "12:30–11:30 pm",
+    "saturday": "12:30–11:30 pm",
+    "sunday": "12:30–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPaELZf3-QRw-NoRKORMsWfMIeZa9WNfuHRS6Bo9hh6qrvwswPtnh3Ockkc0G3DCss2Owsp21wR5fWTqE6RSBDb7l1wsyXdBHkYVgc2e45iWpzG5bS_AIsNPJ4UNA0yvWmyxLJE968LMc97=w163-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJ05c7FwAVrjsR6MdIv_EE_E4",
+   "data_id": "0x3bae1500173b97d3:0x4efc04f1bf48c7e8",
+   "title": "PHURR | Jayanagar",
+   "address": "40, 22nd Cross Rd, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096329 01384",
+   "rating": 4.7,
+   "reviews": 20045,
+   "website": "http://www.phurr.co.in/",
+   "domain": "phurr.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9327482,
+    "longitude": 77.5830067
+   },
+   "type": "Fine dining restaurant",
+   "types": [
+    "Fine dining restaurant",
+    "Asian restaurant",
+    "Indian restaurant",
+    "North Indian restaurant",
+    "Restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–4 pm, 7–11 pm",
+    "tuesday": "12–4 pm, 7–11 pm",
+    "wednesday": "12–4 pm, 7–11 pm",
+    "thursday": "12–4 pm, 7–11 pm",
+    "friday": "12–4 pm, 7–11 pm",
+    "saturday": "12–4 pm, 7–11 pm",
+    "sunday": "12–4 pm, 7–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/phurr-jayanagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_h22HLBkpIYCf_ZDWEfgTHoFdsP0qgREMZb1A6R1abo4vxKWnBFD3k59b-_q_mXtib2jugrv7AA67OGoYUwjZvX9wC1w5XZ2WmKSAudKKoTSpzKrBs%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMX87D-4qzq7E4fn6HTqgmdlg-IlZocOgEV_2SbheylOBQJnpJAL0-PJAJPP9TJ8-viRBJ_Yqld3b3sMnx9dv6eN4MdpXpup0iA0OQwRwSKpM2tQBzw7nDZftOahZohRUreWSM-F0rp9nGQ=w130-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJPXa5wPIVrjsRTzR-1njUTcU",
+   "data_id": "0x3bae15f2c0b9763d:0xc54dd478d67e344f",
+   "title": "New Prashanth Hotel",
+   "description": "Low-key Indian eatery in a hotel. Non-vegetarian Indian fare served in easygoing surroundings at the New Prashanth Hotel.",
+   "address": "No 13, Mallesh Complex, Gandhi Bazaar Main Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099009 66619",
+   "rating": 4,
+   "reviews": 1252,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9447419,
+    "longitude": 77.5719818
+   },
+   "type": "South Indian restaurant",
+   "types": [
+    "South Indian restaurant",
+    "Indian restaurant",
+    "Non Vegetarian Restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm Tue",
+   "open_hours": {
+    "monday": "Closed",
+    "tuesday": "12–4 pm, 7–11 pm",
+    "wednesday": "12–4 pm, 7–11 pm",
+    "thursday": "12–4 pm, 7–11 pm",
+    "friday": "12–4 pm, 7–11 pm",
+    "saturday": "12–4 pm, 7–11 pm",
+    "sunday": "12–4 pm, 7–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNMn8Hi0rAZuHdhHk4ldrggS1m6APci6018E_paamfUTJ46phbQW7lrS87O3Siwo4QxwQFJyabMGYBmp53d4cPdrBX-8xbz-UNP7iM_z4ynjBtQD5No5cMwbFHaVwbuLIJsjQ6d=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJH-raknwVrjsRoJppMsw-y2U",
+   "data_id": "0x3bae157c92daea1f:0x65cb3ecc32699aa0",
+   "title": "V. V. Pura Food Street",
+   "address": "Sajjan Rao Circle, Food St, Vishweshwarapura, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 23529,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9509166,
+    "longitude": 77.5777413
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Fast food restaurant",
+    "Food court"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6 pm",
+   "open_hours": {
+    "monday": "6–11 pm",
+    "tuesday": "6–11 pm",
+    "wednesday": "6–11 pm",
+    "thursday": "6–11 pm",
+    "friday": "6–11 pm",
+    "saturday": "6–11 pm",
+    "sunday": "6–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZts3kjDqbYxIYYR8wq8-m7dRCVcaVVyH-rkbNkZM10Rk7_w1_teoBxCx7WWA_wi910Ax689xk2nBBqt9pzdd9xvJnes7muFl3v_Y67PHmjeMnx3sSRLy-cizYYc88xAexRDZgXQ=w163-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJPYcoYwAVrjsRvXhFfUrFxsk",
+   "data_id": "0x3bae15006328873d:0xc9c6c54a7d4578bd",
+   "title": "Khana Makhan",
+   "address": "Metro Pillar No 69, 23/1, Rashtriya Vidyalaya Rd, near South End Circle, 2nd Block, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097403 82885",
+   "rating": 4.4,
+   "reviews": 601,
+   "gps_coordinates": {
+    "latitude": 12.9391494,
+    "longitude": 77.57993619999999
+   },
+   "type": "Halal restaurant",
+   "types": [
+    "Halal restaurant",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/khana-makhan-basavanagudi-austin-town-bangalore-860731/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPknAwB3iAdAA7_-idsyN1DnVUdLjSKeKT_GSBHmRsb_KIkCiGL30bvy5ani9UEpBzlMctaoqg1WM0CWkCAP9MIH1Ly1kiznJPE2jAb9p66hikaWYMbFtkvS9_1RtZVE6AD6qijatqar4Sg=w80-h106-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJf05ccZIVrjsR7Kq5DvpWH2o",
+   "data_id": "0x3bae1592715c4e7f:0x6a1f56fa0eb9aaec",
+   "title": "Cool Corner",
+   "address": "Krishna Rajendra Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2691 6505",
+   "rating": 4.2,
+   "reviews": 9237,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9474615,
+    "longitude": 77.5739281
+   },
+   "type": "Fast food restaurant",
+   "types": [
+    "Fast food restaurant",
+    "Breakfast restaurant",
+    "Ice cream shop",
+    "Juice shop",
+    "Sandwich shop",
+    "South Indian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–10:30 pm",
+    "tuesday": "7 am–10:30 pm",
+    "wednesday": "7 am–10:30 pm",
+    "thursday": "7 am–10:30 pm",
+    "friday": "7 am–10:30 pm",
+    "saturday": "7 am–10:30 pm",
+    "sunday": "7 am–10:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMX8ZkG4VldXQse38xCDJ-H62f6h0rFXCCixD7Ep7-dlKMybAY4t_lSKcekTBcmUOtnve9jcDN7heDq72jXOgiUgPTIgZUXy3U5IjP4wpZVcZEEVswO-4q9rZRdTyOGhhLrUVY=w124-h92-k-no"
+  }
+ ]
+}

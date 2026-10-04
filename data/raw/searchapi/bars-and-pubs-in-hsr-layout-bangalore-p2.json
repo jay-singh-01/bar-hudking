@@ -1,0 +1,1060 @@
+{
+ "q": "bars and pubs in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:31:14.790Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJwSXQpRITrjsRMR9USpPyAg8",
+   "data_id": "0x3bae1312a5d025c1:0xf02f2934a541f31",
+   "title": "Vapour Brewpub and Diner",
+   "description": "Chic lounge bar & international dining. This glamour-filled nightspot features a terrace with a DJ booth, a lounge and a global restaurant.",
+   "address": "7th Bren Mercury, Sarjapur - Marathahalli Rd, Above Reliance Digital, Kaikondrahalli, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099000 99716",
+   "rating": 4.1,
+   "reviews": 18352,
+   "website": "http://www.vapour.in/",
+   "domain": "vapour.in",
+   "gps_coordinates": {
+    "latitude": 12.9143406,
+    "longitude": 77.6773528
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Beer garden",
+    "Cocktail bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/vapour-sarjapur-road-bellandur-bangalore-341385/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPzrwBKZe1N_dyw0BYHpKBCKM-gOMT4XKzhTFm0hd5rCl_84FgBHp819buzAFY8XiAmIQqAm2FyKAO2WTKySGdBNYB5w10b70O3R3_qEJJ6OjqqAEJta_wttSA739cR0XsvUFDwJA=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJjZN5tkIVrjsRRZMzrqEA_bc",
+   "data_id": "0x3bae1542b679938d:0xb7fd00a1ae339345",
+   "title": "Chimis Bar & kitchen",
+   "address": "2nd floor, 19th Main Rd, near Indian oil petrol pump agara, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.1,
+   "reviews": 56,
+   "gps_coordinates": {
+    "latitude": 12.9215997,
+    "longitude": 77.6451756
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm",
+    "sunday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/chimis-kitchen-bar-hsr-south-bengaluru-692706",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg8Hwo86tyjZ8PT8Bjr1NRTmEk_g0P1M7-Vf1Qo-B69D6GKNTVsRiyf9lz8AiwLRESut-1ympipgOZrH8cEmogmR7AeC9MQcYZPIAgRG4oY95vwnofZuYjxPxEA3S5BFuOT3VqlQUlsEE=w122-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJG6YWqpYUrjsRdi1f2d4N6L8",
+   "data_id": "0x3bae1496aa16a61b:0xbfe80dded95f2d76",
+   "title": "Gangotri bar & restaurant",
+   "address": "10th main road, 27th Cross Rd, 7th Sector, HSR Layout, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080507 68347",
+   "rating": 3.7,
+   "reviews": 1190,
+   "gps_coordinates": {
+    "latitude": 12.9072887,
+    "longitude": 77.635691
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11:30 pm",
+    "tuesday": "10 am–11:30 pm",
+    "wednesday": "10 am–11:30 pm",
+    "thursday": "10 am–11:30 pm",
+    "friday": "10 am–11:30 pm",
+    "saturday": "10 am–11:30 pm",
+    "sunday": "10 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK7_YiBLVk2liivnqsCwvVTGI14TRbeoTBxXPvQTXzF0IVfb3TiHlEVAjknjLn_MzcYsgl8Pz95Xbyok9B6VL6WK-mv-EecLz8Gg7T-UJo9da1AdEvRqiZuiIZLLXNDYmHE3YOUQ=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJRw54kaEUrjsRBqzkCESCZaU",
+   "data_id": "0x3bae14a191780e47:0xa565824408e4ac06",
+   "title": "N.K. Bar And Restaurant",
+   "address": "50, 24th A Main Rd Garden Layout, 24th A Main Rd, Garden Layout, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.7,
+   "reviews": 278,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9001637,
+    "longitude": 77.648786
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11:30 pm",
+    "tuesday": "10 am–11:30 pm",
+    "wednesday": "10 am–11:30 pm",
+    "thursday": "10 am–11:30 pm",
+    "friday": "10 am–11:30 pm",
+    "saturday": "10 am–11:30 pm",
+    "sunday": "10 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNsk7MF90HobfVjP_9DNl1YbOz_wq56PBJE0-6SvWcNSd1cT3Uik-SRHlxmnf2zKj37gfcFHNpkUHm6HKcm8G7wvkJq0JLIHju6ASR90dlNg7FE3rkLqx_VfDdRrXEby8urs1XG=w163-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJN0wmK6AUrjsRAwgBbdvBxx4",
+   "data_id": "0x3bae14a02b264c37:0x1ec7c1db6d010803",
+   "title": "Rock View Family Restaurant and Bar",
+   "address": "27th Main Rd, near Power Station, PWD Quarters, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088615 18008",
+   "rating": 3.6,
+   "reviews": 1313,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9019212,
+    "longitude": 77.6508068
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 10:30 am",
+   "open_hours": {
+    "sunday": "10:30 am–1 am",
+    "monday": "10:30 am–1 am",
+    "tuesday": "10:30 am–1 am",
+    "wednesday": "10:30 am–1 am",
+    "thursday": "10:30 am–1 am",
+    "friday": "10:30 am–1 am",
+    "saturday": "10:30 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMUIs9HYoxLa6wdFOKFg2hAtRg9Y7TwQRNIH4eZE9I7ItHUtYIPpgprAXvbCqEMx9Qbq1fP8FsLN7Iw_li7D9jtbSRcHzMdM4rYxP8yIu6Dkt-eUfGlHJkVAlz5xyRXfTHr1tcuUw=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJWUrkUaUVrjsRrZcR284YTYg",
+   "data_id": "0x3bae15a551e44a59:0x884d18cedb1197ad",
+   "title": "Manjunatha Bar and Restaurant",
+   "address": "451, WJCX+HV9, 74/50, 24th Main Rd, Phase 3, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.5,
+   "reviews": 82,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9213365,
+    "longitude": 77.6494788
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–10 pm",
+    "tuesday": "8 am–10 pm",
+    "wednesday": "8 am–10 pm",
+    "thursday": "8 am–10 pm",
+    "friday": "8 am–10 pm",
+    "saturday": "8 am–10 pm",
+    "sunday": "8 am–10 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLchnomfoIRfJ5Mu8FbfW6wn5ZoH9FD70pxym5x3GSvKhCHM4hRDJ4rGRd-iAZJHopv9pnRpcG--f4Fu0a2LkytIXQexjxWyTbX-JrR3WAFByeux9lR0ejjtGJEG-WMpOF6_jMfQ=w193-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJqeVbIQYVrjsRctg1vVWRP1o",
+   "data_id": "0x3bae1506215be5a9:0x5a3f9155bd35d872",
+   "title": "HYP3 - Nightclub",
+   "address": "253, 17th Cross Rd, 6th Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.9,
+   "reviews": 29,
+   "gps_coordinates": {
+    "latitude": 12.912614,
+    "longitude": 77.6330988
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Opens 6 pm Tue",
+   "open_hours": {
+    "sunday": "7 pm–1 am",
+    "monday": "Closed",
+    "tuesday": "6 pm–12 am",
+    "wednesday": "12 am–12:30 pm, 6 pm–12 am",
+    "thursday": "12 am–12:30 pm, 6 pm–12 am",
+    "friday": "12 am–12:30 pm, 7 pm–1 am",
+    "saturday": "7 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/hyp3-bloom-hotel-hsr-layout-sector-6-bengaluru-718487",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJizYQ738TrjsRFYY2EwkZLFA",
+   "data_id": "0x3bae137fef10368b:0x502c190913368615",
+   "title": "Greens Bar and Restaurant",
+   "address": "Asian Highway, 45, Ibbaluru, Bellandur, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089701 61153",
+   "rating": 4,
+   "reviews": 2197,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.923945,
+    "longitude": 77.6544752
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 10 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–1 am",
+    "tuesday": "10 am–1 am",
+    "wednesday": "10 am–1 am",
+    "thursday": "10 am–1 am",
+    "friday": "10 am–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkmScJOXhmrh0Kqy_sAHlmtUNOpXf1eKHJyoa8wbHVr6MEM1M3g-7Bfa1YdCvU4Y7ssn9UfDDyAUrsTrS_yIklqRz1kRrrRbn4eBCX6jR26h16a6xWxYj5S6Tp_eJvk_RcfC-ocQ=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "title": "STORIES BREWERY & KITCHEN",
+   "description": "Beer & quick bites in a hip, stylish bar. Trendy destination with a glassed-in patio & garden seating, offering cocktails & shared-plates.",
+   "address": "29th Main Rd, BTM 2nd Stage, Mahadeshwara Nagar, Stage 2, BTM Layout, Bengaluru, Karnataka 560076",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4680 9326",
+   "rating": 4.4,
+   "reviews": 8966,
+   "website": "http://www.storiesbrewery.com/",
+   "domain": "storiesbrewery.com",
+   "gps_coordinates": {
+    "latitude": 12.9056972,
+    "longitude": 77.6085236
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "Closed",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/stories-brewery-kitchen-btm-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g4DaefVhFthQLuEY5HQr_-ax_bUxVOF0i2ZpUTYhUlNd4p4yi33DShRFSgGdDgBf25q0OYua8Q5Rv9HQw99eHaDe31r_DEjVD2Hy3egUQT2vPo3_c%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNaIkOZacbM3sMn-Mc0qkfR4H2I7MFiVqNshP31Do8fNb9yxF-2G_SRFIxt3pcSIodaCTaMIr1XOCplKTvtyVePUyKAbgmMWzHRZJzVhYpMECOojkE5LU-ik6Bv_r5_0w17K3HSWQ=w83-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJsaosImcVrjsRPP5rNvYTmLc",
+   "data_id": "0x3bae1567222caab1:0xb79813f6366bfe3c",
+   "title": "The Bier Library",
+   "description": "Microbrewery with international bar food. Craft beers & international bar snacks served in an exposed-brick space with outdoor seating.",
+   "address": "14, Patel Narayana Reddy Layout, 80 Feet Rd, Venkappa Garden, 6th Block, Ejipura, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091081 80000",
+   "rating": 4.4,
+   "reviews": 23500,
+   "website": "https://thebierlibrary.in/",
+   "domain": "thebierlibrary.in",
+   "gps_coordinates": {
+    "latitude": 12.9392206,
+    "longitude": 77.6261115
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-bier-library-koramangala-bangalore-101968/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNToUFNUG6d6RVT6JWj-PP9593OCKXDlyisq0Qazv6v6PfHA9r1EPeMuXPJP4pSgBgQnGx6ICZJtR3rLPZmn46nxn-TkGltqBtoKb3LOIRMCuRRR7Q1VsGFzGlBIW530-iRt56g=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJp7kkSdIVrjsRVgsjYZvKtlU",
+   "data_id": "0x3bae15d24924b9a7:0x55b6ca9b61230b56",
+   "title": "S.N.R Garden Bar & Kitchen",
+   "address": "1, Bommanahalli Main Rd, Virat Nagar, Bommanahalli, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098445 65238",
+   "rating": 4.5,
+   "reviews": 490,
+   "gps_coordinates": {
+    "latitude": 12.9068821,
+    "longitude": 77.627792
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–12 am",
+    "tuesday": "10 am–12 am",
+    "wednesday": "10 am–12 am",
+    "thursday": "10 am–12 am",
+    "friday": "10 am–12 am",
+    "saturday": "10 am–12 am",
+    "sunday": "10 am–12 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOjzDsm-s04XQ_GOcLVdrnEluyUbWD379LkQd4YA62NyzmHoLaZgKvdbXruJtX1igVHGtRdy_EI9Dzjwvt7xbLST16ZglB53J_BuoIAv3C7IFP4Uran2PIDbIAWeiz8G_N81TU=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJc7DTjMwVrjsRaO_nF0CJFJM",
+   "data_id": "0x3bae15cc8cd3b073:0x9314894017e7ef68",
+   "title": "Sri Venkateshwara Bar & Resturant",
+   "address": "WJ4Q+7R4, Ramachandra Reddy Layout, ITI Layout, HSR Layout, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4,
+   "reviews": 62,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9056328,
+    "longitude": 77.63957359999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11:30 pm",
+    "tuesday": "10 am–11:30 pm",
+    "wednesday": "10 am–11:30 pm",
+    "thursday": "10 am–11:30 pm",
+    "friday": "10 am–11:30 pm",
+    "saturday": "10 am–11:30 pm",
+    "sunday": "10 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQJVJWJlrj00f2KbHRLCJfH1eBhbCZKxmrgygfYcythuNEI7YU8rLj7XCLHsZbei73OvlJidqeLxqXm5raHNDNK2xlFVP0odJdKxTRrgoQ1QBodcvieTAg6YPHNVOVQIcta7uZ=w80-h142-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJVx8vNWsVrjsRF5lLlRUK0wc",
+   "data_id": "0x3bae156b352f1f57:0x7d30a15954b9917",
+   "title": "Retro Pub and Resto Bar",
+   "address": "3rd Floor, Hotel Ekaa Keys, Hosur Rd, Kudlu Gate, Krishna Reddy Industrial Area, Hosapalaya, Muneshwara Nagar, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.9,
+   "reviews": 59,
+   "gps_coordinates": {
+    "latitude": 12.8900833,
+    "longitude": 77.639764
+   },
+   "type": "Chinese restaurant",
+   "types": [
+    "Chinese restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/retro-pub-hosur-road-indiranagar-bangalore-649311/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMNdeS5-8-OU6QDKbDlFRzYVsmsz4aoJfP5GanUUP_w1OZBs1x5nkdG5wpVKcSydHG4Mbf3JROkQEyv5lLMfCU8YbeNwI1mHAg0eV5Xbp8tmwxTx_sVDxKTDcRkf6YPUiBwa4G2hQ=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJmc-EZGcVrjsRyD0eKRt8wRk",
+   "data_id": "0x3bae15676484cf99:0x19c17c1b291e3dc8",
+   "title": "Macaw By Stories",
+   "address": "No 2224, 2225, Service Rd, Srinivasa Nagar, AECS Layout, Singasandra, Hosur, Bengaluru, Karnataka 560068",
+   "city": "Hosur, Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6850 7673",
+   "rating": 4.4,
+   "reviews": 5622,
+   "gps_coordinates": {
+    "latitude": 12.8842461,
+    "longitude": 77.6434432
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "Closed",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/macaw-by-stories-bommanahalli-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hGbnHjCxvZYGnPI1yDGhkLsuo0nHRswc7Q7WPjT56LZ4rIkO6-hjGXp-b5xY5cgJDq4_vt7gPfbivss_JBcf1rUjqB3ghI_ZUw5R9uidbD1TFsmBg%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfayVB-Km1r9S1UJIeHpyQ1fYqZ_3isNeuYwB2UM5x5SpthC3GyEYcPh-pzUjA1ui8RxX41RCgD2UER7hW6dlcpMeQw4aVMdb-LkNLVDxwgCuK5FAkN1ZKbLES-h8sfrqCARCQ=w122-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJFWKvqmwTrjsRgu5YOEqOaRg",
+   "data_id": "0x3bae136caaaf6215:0x18698e4a3858ee82",
+   "title": "La Casa Brewery + Kitchen",
+   "description": "Homely continental restaurant & takeaway. Rustic and simple continental restaurant with a leafy rooftop seating area.",
+   "address": "Amrutha Engineering collage, NO 877/1/2&895/19/20, 1st Cross Rd, near ICICI BANK, opp. KFC, Kasavanahalli, Eastwood Twp, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4217 2469",
+   "rating": 4.2,
+   "reviews": 10160,
+   "gps_coordinates": {
+    "latitude": 12.9042614,
+    "longitude": 77.675845
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant",
+    "Gastropub",
+    "Pub",
+    "Valet parking service"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "http://reservex.explorex.co.in/r/2c135754-86f4-4d55-a9cd-b435ccae0efb",
+    "source": "explorex.co.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCZG9Ks9RZhySAVu3wglHe3XoaUypxdCsOyjSFmhGa4lB6oJ_9xFDh9YDLP5n_D_uDOCPO-wOA3Y5GQx8aK8p2UDjo4J65YOU8q5WtPnbJVHV-P8JXvVmefuSAWRTIH0gGzcOy=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJQxSCB3oTrjsRF8-sanQuuBc",
+   "data_id": "0x3bae137a07821443:0x17b82e746aaccf17",
+   "title": "Tapeo - Tapas Dining & Bar",
+   "description": "Trendy hotel bar with low lighting. Chic hotel lounge bar with a full range of imported spirits and wines and a menu of kebab platters.",
+   "address": "DoubleTree Suites By Hilton, Outer Ring Rd, Amblipura, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080676 56565",
+   "rating": 4.3,
+   "reviews": 125,
+   "website": "https://www.hilton.com/en/hotels/blrordi-doubletree-suites-bengaluru-outer-ring-road/dining/",
+   "domain": "hilton.com",
+   "gps_coordinates": {
+    "latitude": 12.9190709,
+    "longitude": 77.66511
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Tapas restaurant",
+    "Lounge bar",
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am",
+    "sunday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/tapeo-tapas-bar-bellandur-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMTZv6SEoo-HVLTrTyQZWkiBDV6-5yGRdWpgWN52sOdUd9edWZuUaqvLFc5bEhPsULjAJqB0hjnOCqszTXvw4bNnVsUgN5Ma1BW2eiWTFqnxYkStGNpTHtNIE7bBuIpaX2EB20o=w138-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJYaGX4NUVrjsRjEG17faY9oA",
+   "data_id": "0x3bae15d5e097a161:0x80f698f6edb5418c",
+   "title": "Filter Pub and Club | Pub in Koramangala",
+   "address": "B, 38, 4th B Cross Rd, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091087 50013",
+   "rating": 4.7,
+   "reviews": 1069,
+   "website": "https://filterpubandclubbengaluru.theexperiences.co.in/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAUECvNwZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp_QNK688KFJWnePO_qKWrKAsz7wuSDspTy-Twc30ctJmj4jsBpE87LJMtwqF_aem_YHnsElVziHFVvs_H_1pmDQ",
+   "domain": "theexperiences.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9337815,
+    "longitude": 77.6150988
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Brewery",
+    "Brewpub",
+    "Club",
+    "Shochu brewery"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/filter-pub-and-club-koramangala-south-bengaluru-710135",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLep3ubqIWdPCA6Me1vk8HJCWxlQe_valkRhp0wJG6Ygn7hlaYvJQ5sRRp6MZMto6lRx2yyiqJcKXkZLDInJPBfBzugX3x96qHKeKe8mCZVlOc1TYgjXS1we_AA99kj7OXPkHXxN-2cf8F8=w163-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJG8SKzJEUrjsRvRM0Be-emHE",
+   "data_id": "0x3bae1491cc8ac41b:0x71989eef053413bd",
+   "title": "Parika Coastal Village Bar & Kitchen",
+   "description": "Relaxed bistro for upmarket global fare. Breezy, upscale eatery with a warm feel for global cuisine, including coastal dishes & cocktails.",
+   "address": "1086/A, Twin Tulips, 18th Cross, 14th Main, Road Opp. To McDonalds, 3rd Sector, near BDA Complex, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082771 03000",
+   "rating": 4.1,
+   "reviews": 2980,
+   "gps_coordinates": {
+    "latitude": 12.9119765,
+    "longitude": 77.6391347
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Seafood restaurant",
+    "Chinese restaurant",
+    "Crab house",
+    "Family restaurant",
+    "Fine dining restaurant",
+    "North Indian restaurant",
+    "South Indian restaurant",
+    "Sports bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm",
+    "sunday": "11:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/parika-layout-hsr-bangalore-297/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN70CjcSJBKlXaidCsCSpi61l5gpLmJZF901dCNJ0Ty5rIm1K1FVXQX6WXa6598rJnRDKQMZUSFKZkCPbiB-vNBBMVSItM6QTm9qYTeNY-uHORr-mFCPC6UrEIj_-RmAlfPRAx-=w151-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJFf5nhrUVrjsRf4yapXLHkc8",
+   "data_id": "0x3bae15b58667fe15:0xcf91c772a59a8c7f",
+   "title": "Sky Loft Pub & Kitchen",
+   "address": "bus stop<Hosur Rd, next to Trident Hyundai showroom, Kudlu Gate, Krishna Reddy Industrial Area, Hosapalaya, Muneshwara Nagar, Bengaluru, Karnataka 560068",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090357 98370",
+   "rating": 3.8,
+   "reviews": 59,
+   "website": "https://link.clubr.in/Sky-Loft-Pub-and-Kitchen",
+   "domain": "link.clubr.in",
+   "gps_coordinates": {
+    "latitude": 12.889947,
+    "longitude": 77.63982899999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/sky-loft-pub-kitchen-hosapalaya-bengaluru-718934",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmObslAmO-o0n5eVPuA1wsDKfBnpEdG9-Ex8d8OJqWL5xjBvxV9puwMy3CvImifaSB0TKoEnSmGzlIlcMqnOrHUhdQHJFnr3XxCS60UzRBMV4UCJ5RckKiT_CStobzlH2gW3fmjE=w92-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJUelA6aoVrjsRMX125JeMQrQ",
+   "data_id": "0x3bae15aae940e951:0xb4428c97e4767d31",
+   "title": "The Gypsy Pub & Kitchen",
+   "address": "44, 4th B Cross, Koramangala Industrial Layout, 5th Block, Bengaluru, Karnataka 560095",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099860 46472",
+   "rating": 4,
+   "reviews": 922,
+   "gps_coordinates": {
+    "latitude": 12.9340692,
+    "longitude": 77.6157083
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Reopens 12 pm",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://wa.me/message/HTSTE5WQIEESJ1",
+    "source": "wa.me"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNVIPRh8qB2BMWa6sdpZfniBrU7dOXZhaWC0Im5IFubqCH2dUgYWD5pcWonTtoba3LeygTyFFsRxiYJ8PmBTSdcHHCn6_SBXJ_-BJ41e_qriJNQHQfAtYV28o2QVP7KO-JMLacz=w122-h92-k-no"
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "q": "cafes in Whitefield Bangalore",
+ "ll": "@12.9698,77.75,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:28:09.890Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Chocolate Room, Whitefield",
+   "place_id": "ChIJLVJYDQARrjsRb9zJLllrwoQ",
+   "data_id": "0x3bae11000d58522d:0x84c26b592ec9dc6f",
+   "rating": 4.2,
+   "reviews": 1200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "ITPL Main Road, next to Bhima Jewellers, Whitefield, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.992321,
+    "longitude": 77.71971
+   }
+  },
+  {
+   "position": 2,
+   "title": "Farmhouse Kitchen & Bakery",
+   "place_id": "ChIJX04baGgTrjsRw4WgBajPHwM",
+   "data_id": "0x3bae1368681b4e5f:0x31fcfa805a085c3",
+   "rating": 4.2,
+   "reviews": 1500,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "Lake View Farm, Main Road, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9568,
+    "longitude": 77.732994
+   },
+   "comment": "Casual spot for European fare & coffee",
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "ChayaChyll",
+   "place_id": "ChIJ1xBDVxkPrjsRs547ztuQkro",
+   "data_id": "0x3bae0f19574310d7:0xba9290dbce3b9eb3",
+   "rating": 4.7,
+   "reviews": 296,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, Block B, Garden of Eden by UKN, B 002, Pattandur Agrahara Vishnuvardhan Rd",
+   "gps_coordinates": {
+    "latitude": 12.980362,
+    "longitude": 77.750626
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1 pm Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Hard Rock Cafe Whitefield",
+   "place_id": "ChIJAwl7EnoRrjsR62wk66pFEH4",
+   "data_id": "0x3bae117a127b0903:0x7e1045aaeb246ceb",
+   "rating": 4.5,
+   "reviews": 6200,
+   "type": "Cafe",
+   "address": "Ground Floor, 40, ITPL Main Rd Unit no.G, 25 & 26",
+   "gps_coordinates": {
+    "latitude": 12.987126,
+    "longitude": 77.73648
+   },
+   "comment": "Music-themed chain with an American menu",
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Paper & Pie",
+   "place_id": "ChIJuzM6WDkTrjsRduv5wYDLE1I",
+   "data_id": "0x3bae1339583a33bb:0x5213cb80c1f9eb76",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "66/2, 2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.965384,
+    "longitude": 77.73241
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Café Fiori - Dining",
+   "place_id": "ChIJA2t-vlMPrjsRmjCRWcdBDmk",
+   "data_id": "0x3bae0f53be7e6b03:0x690e41c75991309a",
+   "rating": 4.8,
+   "reviews": 259,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "B104, Garden of Eden, attandur Agrahara Kalidasa Road, Taluk, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+   "gps_coordinates": {
+    "latitude": 12.9803705,
+    "longitude": 77.7508
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Tue"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Issimo Cafe",
+   "place_id": "ChIJk81jowsRrjsROM_gH-kYYrw",
+   "data_id": "0x3bae110ba363cd93:0xbc6218e91fe0cf38",
+   "rating": 4.5,
+   "reviews": 71,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Primeco Union City, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.989591,
+    "longitude": 77.73261
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "The Rameshwaram Cafe @ Brookfield",
+   "place_id": "ChIJ2YeJ2coTrjsR89LHsFEKTU4",
+   "data_id": "0x3bae13cad98987d9:0x4e4d0a51b0c7d2f3",
+   "rating": 4.2,
+   "reviews": 20000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Green Avenue, Plot 1, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970837,
+    "longitude": 77.712524
+   }
+  },
+  {
+   "position": 9,
+   "title": "The Ants Store and cafe",
+   "place_id": "ChIJD1Lm-wMOrjsRNy3uzc792_c",
+   "data_id": "0x3bae0e03fbe6520f:0xf7dbfdcecdee2d37",
+   "rating": 3.9,
+   "reviews": 647,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Cafe",
+   "address": "#5, Avalon, 1st Main Road, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.98068,
+    "longitude": 77.75115
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Cafe Levista",
+   "place_id": "ChIJL5dKDgARrjsR8d6sSxyUZZo",
+   "data_id": "0x3bae11000e4a972f:0x9a65941c4bacdef1",
+   "rating": 4.5,
+   "reviews": 125,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "Opp SJR I PARK, Sri Sathya Sai Metro Station, Opp:",
+   "gps_coordinates": {
+    "latitude": 12.98157,
+    "longitude": 77.72751
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Namma Ashram",
+   "place_id": "ChIJg0mIojsTrjsRUdVNqM2Z7Bs",
+   "data_id": "0x3bae133ba2884983:0x1bec99cda84dd551",
+   "rating": 4.3,
+   "reviews": 447,
+   "type": "Cafe",
+   "address": "126/5/4, Nallurahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.960249,
+    "longitude": 77.7327
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Skygarden Best Rooftop Bar & Kitchen Restaurant",
+   "place_id": "ChIJvRAdyG4RrjsRpyqCLtwHgTs",
+   "data_id": "0x3bae116ec81d10bd:0x3b8107dc2e822aa7",
+   "rating": 4.3,
+   "reviews": 7300,
+   "type": "Restaurant",
+   "address": "Metro station, 3rd floor HVP Aster, ITPL Main Rd, near Garudacharpalya",
+   "gps_coordinates": {
+    "latitude": 12.993829,
+    "longitude": 77.70318
+   },
+   "comment": "Upscale rooftop spot with fusion fare"
+  },
+  {
+   "position": 13,
+   "title": "Glen's Bakehouse",
+   "place_id": "ChIJA6ofa_kNrjsRYdD-Xd7yne8",
+   "data_id": "0x3bae0df96b1faa03:0xef9df2de5dfed061",
+   "rating": 4.2,
+   "reviews": 13000,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bakery and Cake Shop",
+   "address": "7A, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.967285,
+    "longitude": 77.74981
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Lavonne Café",
+   "place_id": "ChIJsykr5KURrjsREIFoN2nXXpg",
+   "data_id": "0x3bae11a5e42b29b3:0x985ed76937688110",
+   "rating": 4.4,
+   "reviews": 325,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "004, Lower Ground Floor, Forum Mall Whitefield, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.989646,
+    "longitude": 77.7278
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "SoLit Coffee Studio",
+   "place_id": "ChIJIWGs-s4PrjsRdmlTwRe5rpM",
+   "data_id": "0x3bae0fcefaac6121:0x93aeb917c1536976",
+   "rating": 4.7,
+   "reviews": 46,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Survey No, 4 NAIDU LAYOUT, 12/12 KATHA NO, 492",
+   "gps_coordinates": {
+    "latitude": 12.980287,
+    "longitude": 77.75023
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJ5ZEg0jMTrjsR7MT3Yd2b63c",
+   "data_id": "0x3bae1333d22091e5:0x77eb9bdd61f7c4ec",
+   "rating": 4.5,
+   "reviews": 1000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Plot No 207, Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.957298,
+    "longitude": 77.73678
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "The Cafe- Lot Like Crepes",
+   "place_id": "ChIJaWRA0J0RrjsRETyy6LlVTb4",
+   "data_id": "0x3bae119dd0406469:0xbe4d55b9e8b23c11",
+   "rating": 4,
+   "reviews": 1800,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "#5 , Avalon, 1st main Road, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.980775,
+    "longitude": 77.750916
+   },
+   "comment": "Casual spot with al fresco seating",
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Cafe Palmyra",
+   "place_id": "ChIJi3s1EQcSrjsR9C0UvfDGXHE",
+   "data_id": "0x3bae120711357b8b:0x715cc6f0bd142df4",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Cafe",
+   "address": "Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.96435,
+    "longitude": 77.739555
+   },
+   "comment": "Multi-cuisine fare with poolside seating",
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "South Socials",
+   "place_id": "ChIJNTfVb2MTrjsRKAmvlvbY5X8",
+   "data_id": "0x3bae13636fd53735:0x7fe5d8f696af0928",
+   "rating": 3.9,
+   "reviews": 2900,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Gateway by UKN, 002, Nallurahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.96236,
+    "longitude": 77.732956
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Bake Stir Fry Cafe",
+   "place_id": "ChIJxTQDVAUTrjsRfnR-Q8jVmlI",
+   "data_id": "0x3bae1305540334c5:0x529ad5c8437e747e",
+   "rating": 4.6,
+   "reviews": 387,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Shop#2, 56/6, Borewell Rd, near Victorian View",
+   "gps_coordinates": {
+    "latitude": 12.969021,
+    "longitude": 77.737816
+   },
+   "extensions": [
+    "Closed",
+    "Opens 4 pm Mon"
+   ]
+  }
+ ]
+}

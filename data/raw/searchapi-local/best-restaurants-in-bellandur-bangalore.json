@@ -1,0 +1,363 @@
+{
+ "q": "best restaurants in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:42:19.464Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Biergarten Bellandur",
+   "place_id": "ChIJ4Vg9UwATrjsR9XMVx-RLoIY",
+   "data_id": "0x3bae1300533d58e1:0x86a04be4c71573f5",
+   "rating": 4.6,
+   "reviews": 11000,
+   "type": "Brewpub",
+   "address": "57/2/10, Bellandur - Doddakannelli Rd",
+   "gps_coordinates": {
+    "latitude": 12.92975,
+    "longitude": 77.68548
+   }
+  },
+  {
+   "position": 2,
+   "title": "Chianti, Bellandur",
+   "place_id": "ChIJYX3Ri4UTrjsR2U_gSDhJyT0",
+   "data_id": "0x3bae13858bd17d61:0x3dc9493848e04fd9",
+   "rating": 4.6,
+   "reviews": 2800,
+   "type": "Italian",
+   "address": "Indiqube Edge, Ground Floor NO 571/630/6/4, SY NO 6/4 AMBALIPURA(V",
+   "gps_coordinates": {
+    "latitude": 12.922202,
+    "longitude": 77.66933
+   },
+   "extensions": [
+    "On the menu: best restaurants"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Zaatar Bengaluru Indo Arabian Restaurant",
+   "place_id": "ChIJY8al5iYTrjsRIzdw9Qa8Qoo",
+   "data_id": "0x3bae1326e6a5c663:0x8a42bc06f5703723",
+   "rating": 4.4,
+   "reviews": 6200,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "Suraamy Plaza, Palm Ave",
+   "gps_coordinates": {
+    "latitude": 12.923342,
+    "longitude": 77.6697
+   }
+  },
+  {
+   "position": 4,
+   "title": "Lucky Chan - Dim Sum and Sushi Parlour, Bellandur",
+   "place_id": "ChIJN9sCewATrjsRGMplvCW-t0c",
+   "data_id": "0x3bae13007b02db37:0x47b7be25bc65ca18",
+   "rating": 4.7,
+   "reviews": 1200,
+   "type": "Asian",
+   "address": "Ecospace Business Park Rmz Eco World Bellandur, The Bay",
+   "gps_coordinates": {
+    "latitude": 12.920289,
+    "longitude": 77.68464
+   }
+  },
+  {
+   "position": 5,
+   "title": "Nom Nom Asian Bar & Eatery",
+   "place_id": "ChIJ2SePewATrjsRpsizOYRRsLw",
+   "data_id": "0x3bae13007b8f27d9:0xbcb0518439b3c8a6",
+   "rating": 4.2,
+   "reviews": 434,
+   "type": "Asian",
+   "address": "Kiosk no. 24, Building, West Gate, 31, RMZ Ecoworld Rd, opposite The Bay",
+   "gps_coordinates": {
+    "latitude": 12.920842,
+    "longitude": 77.685905
+   }
+  },
+  {
+   "position": 6,
+   "title": "Blue Terrain",
+   "place_id": "ChIJO-MSxaYTrjsRY7o-v5I5Tjk",
+   "data_id": "0x3bae13a6c512e33b:0x394e3992bf3eba63",
+   "rating": 4.5,
+   "reviews": 733,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Barbecue",
+   "address": "Novotel Bengaluru Tech Park, Marathahalli - Sarjapur Outer Ring Rd, opp. Intel Campus",
+   "gps_coordinates": {
+    "latitude": 12.929868,
+    "longitude": 77.68337
+   },
+   "comment": "Mid-range hotel's grill restaurant & bar"
+  },
+  {
+   "position": 7,
+   "title": "Chianti, The Bay- ECOWORLD",
+   "place_id": "ChIJIyjCmioTrjsRX8uhIEEcAhg",
+   "data_id": "0x3bae132a9ac22823:0x18021c4120a1cb5f",
+   "rating": 4.8,
+   "reviews": 1700,
+   "type": "Italian",
+   "address": "Ground floor, Unit AR 1, Art Gallery, The Bay, ECOWORLD",
+   "gps_coordinates": {
+    "latitude": 12.920409,
+    "longitude": 77.68376
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Roxie",
+   "place_id": "ChIJL4iI0HwTrjsRvs6L6BiUBcs",
+   "data_id": "0x3bae137cd088882f:0xcb059418e88bcebe",
+   "rating": 4.3,
+   "reviews": 9100,
+   "type": "Fine Dining",
+   "address": "26, Haralur Main Rd, near HP Petrol Station",
+   "gps_coordinates": {
+    "latitude": 12.91524,
+    "longitude": 77.66586
+   }
+  },
+  {
+   "position": 9,
+   "title": "The Kind Roastery and Brew Room, Bellandur",
+   "place_id": "ChIJYacZcJ8TrjsRwZ-rIcV2ts0",
+   "data_id": "0x3bae139f7019a761:0xcdb676c521ab9fc1",
+   "rating": 4.7,
+   "reviews": 1100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "RMZ ECOWORLD, The Bay",
+   "gps_coordinates": {
+    "latitude": 12.919904,
+    "longitude": 77.68476
+   }
+  },
+  {
+   "position": 10,
+   "title": "The South Table",
+   "place_id": "ChIJZ6PHV94TrjsRzCA-kbxzDFo",
+   "data_id": "0x3bae13de57c7a367:0x5a0c73bc913e20cc",
+   "rating": 4.2,
+   "reviews": 457,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "RMZ ECOWORLD, The Market Place, 7",
+   "gps_coordinates": {
+    "latitude": 12.92079,
+    "longitude": 77.687584
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Publik",
+   "place_id": "ChIJ5Xg4eLkTrjsRte62mqLAxrw",
+   "data_id": "0x3bae13b9783878e5:0xbcc6c0a29ab6eeb5",
+   "rating": 4.3,
+   "reviews": 4300,
+   "type": "Restaurant",
+   "address": "57 1A, Outer Ring Rd, opp. Sakra Hospital Road",
+   "gps_coordinates": {
+    "latitude": 12.929969,
+    "longitude": 77.68581
+   },
+   "comment": "Stylish bar with global fare & cocktails"
+  },
+  {
+   "position": 12,
+   "title": "Black Pearl Barbeque Restaurant",
+   "place_id": "ChIJfQSfFbITrjsRlkxwFBaUUBo",
+   "data_id": "0x3bae13b2159f047d:0x1a50941614704c96",
+   "rating": 4.3,
+   "reviews": 40000,
+   "price": "₹800–1,200",
+   "extracted_price": {
+    "min": 800,
+    "max": 1200
+   },
+   "type": "Buffet",
+   "address": "Lagoto Building, 7, Swami Building, 6th, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.9392395,
+    "longitude": 77.69467
+   }
+  },
+  {
+   "position": 13,
+   "title": "Bellandur SOCIAL",
+   "place_id": "ChIJc6UoZAATrjsRg9NLB7-9kZM",
+   "data_id": "0x3bae13006428a573:0x9391bdbf074bd383",
+   "rating": 4,
+   "reviews": 6400,
+   "type": "Bar",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.937812,
+    "longitude": 77.69472
+   }
+  },
+  {
+   "position": 14,
+   "title": "Swad-E-Punjab",
+   "place_id": "ChIJY6AWB_MTrjsRHdUtk0nxE7s",
+   "data_id": "0x3bae13f30716a063:0xbb13f149932dd51d",
+   "rating": 4.3,
+   "reviews": 369,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "74/2, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.925739,
+    "longitude": 77.676895
+   }
+  },
+  {
+   "position": 15,
+   "title": "Brik Oven - Woodfired Pizzas (Bellandur)",
+   "place_id": "ChIJW1QYHvgTrjsRQjOm1QjBXdE",
+   "data_id": "0x3bae13f81e18545b:0xd15dc108d5a63342",
+   "rating": 4.5,
+   "reviews": 1000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pizza",
+   "address": "Shop No.17, First Floor, RMZ Ecoworld 30, Bhoganahalli Village Varthur Hobli, Bangalore East Taluk",
+   "gps_coordinates": {
+    "latitude": 12.920419,
+    "longitude": 77.68676
+   }
+  },
+  {
+   "position": 16,
+   "title": "Kampot Pan Asian Restaurant | Bellandur",
+   "place_id": "ChIJO93zckITrjsR_m_b_OqsjqE",
+   "data_id": "0x3bae134272f3dd3b:0xa18eaceafcdb6ffe",
+   "rating": 4.6,
+   "reviews": 1400,
+   "type": "Pan Asian",
+   "address": "EcoWorld The Bay - Building 6A, Outlet # 17 Outer ring Road, Bhoganahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.920666,
+    "longitude": 77.684456
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Punjab Grill RMZ Eco World",
+   "place_id": "ChIJQVlI_NUTrjsRUrk2wNs3__M",
+   "data_id": "0x3bae13d5fc485941:0xf3ff37dbc036b952",
+   "rating": 4.2,
+   "reviews": 1700,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Punjabi",
+   "address": "Unit No. R3, Campus 8B, RMZ Ecoworld, Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.920206,
+    "longitude": 77.6847
+   }
+  },
+  {
+   "position": 18,
+   "title": "Chowman (Bellandur)",
+   "place_id": "ChIJHbcma2oTrjsRRPnqH3lsYog",
+   "data_id": "0x3bae136a6b26b71d:0x88626c791feaf944",
+   "rating": 4.4,
+   "reviews": 1400,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Chinese",
+   "address": "GROUND FLOOR, 833/1",
+   "gps_coordinates": {
+    "latitude": 12.923148,
+    "longitude": 77.67119
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Chalo Punjab Bellandur",
+   "place_id": "ChIJT1MhN7QTrjsRaX2P5jwWXbY",
+   "data_id": "0x3bae13b43721534f:0xb65d163ce68f7d69",
+   "rating": 4.6,
+   "reviews": 100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Punjabi",
+   "address": "3rd Floor, 24, above ICICI Bank",
+   "gps_coordinates": {
+    "latitude": 12.92412,
+    "longitude": 77.67172
+   }
+  },
+  {
+   "position": 20,
+   "title": "JK Eden Huts Restaurant",
+   "place_id": "ChIJ5Y62MKUTrjsRjt8Yjl0tv6M",
+   "data_id": "0x3bae13a530b68ee5:0xa3bf2d5d8e18df8e",
+   "rating": 4,
+   "reviews": 4900,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Indian",
+   "address": "Outer Ring Rd, near Sakra World Hospital, opposite to iCloud",
+   "gps_coordinates": {
+    "latitude": 12.931323,
+    "longitude": 77.684395
+   },
+   "comment": "Simple all-day eatery with regional food"
+  }
+ ]
+}

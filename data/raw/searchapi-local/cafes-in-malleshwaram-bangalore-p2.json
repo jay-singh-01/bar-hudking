@@ -1,0 +1,463 @@
+{
+ "q": "cafes in Malleshwaram Bangalore",
+ "ll": "@13.0077,77.5694,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:42:06.643Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Meenakshi Coffee Bar Rajajinagar ದ ಮೀನಾಕ್ಷಿ ಕಾಫೀ ಬಾರ್ ರಾಜಾಜಿನಗರ",
+   "place_id": "ChIJh__PEoU9rjsRpDVCRCN4M0I",
+   "data_id": "0x3bae3d8512cfff87:0x42337823444235a4",
+   "rating": 4,
+   "reviews": 997,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, Saavees Residency, 677, 12th Main Rd, 20th, Cross Road, behind Navarang Theatre",
+   "gps_coordinates": {
+    "latitude": 12.997892,
+    "longitude": 77.55235
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "The Malleshwaram cafe.",
+   "place_id": "ChIJM_xhMlAXrjsR089j8BBUx0Y",
+   "data_id": "0x3bae17503261fc33:0x46c75410f063cfd3",
+   "rating": 4.1,
+   "reviews": 25,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "64, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975111,
+    "longitude": 77.607376
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Bangalore Cafe",
+   "place_id": "ChIJO-HQRbkXrjsR9dghF3pguXo",
+   "data_id": "0x3bae17b945d0e13b:0x7ab9607a1721d8f5",
+   "rating": 4.1,
+   "reviews": 1200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Hare Krishna Rd",
+   "gps_coordinates": {
+    "latitude": 12.987111,
+    "longitude": 77.57846
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Hallimane Restaurant",
+   "place_id": "ChIJS4tnGCQWrjsRxjyX4YmdJyI",
+   "data_id": "0x3bae162418678b4b:0x22279d89e1973cc6",
+   "rating": 4,
+   "reviews": 26000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Sampige Road, 3rd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.995496,
+    "longitude": 77.571785
+   },
+   "comment": "Breezy bistro for South Indian fare",
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Hatti Kaapi - Orion Mall (Lake Side)",
+   "place_id": "ChIJZ_OfsHg9rjsRs7jOTujsRjs",
+   "data_id": "0x3bae3d78b09ff367:0x3b46ece84eceb8b3",
+   "rating": 4,
+   "reviews": 2400,
+   "price": "₹1–800",
+   "extracted_price": {
+    "min": 1,
+    "max": 800
+   },
+   "type": "Cafe",
+   "address": "Orion Mall, A Block, Brigade Gateway, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.011487,
+    "longitude": 77.5555
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Starbucks - Malleswaram",
+   "place_id": "ChIJXSc0AiMWrjsRYxkvaQV49l0",
+   "data_id": "0x3bae16230234275d:0x5df67805692f1963",
+   "rating": 4.5,
+   "reviews": 3800,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Coffee shop",
+   "address": "79 & 80, UGF, Mantri Square, 52, 1, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.991686,
+    "longitude": 77.57108
+   },
+   "comment": "Iconic coffeehouse chain",
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Cafe Coffee day - Armane Nagar",
+   "place_id": "ChIJZUrzkDYWrjsRVzTYHR2oo6s",
+   "data_id": "0x3bae163690f34a65:0xaba3a81d1dd83457",
+   "rating": 4,
+   "reviews": 1300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "G Flr, No.198, 2nd Main Rd, near C.S.I. Ascension Church",
+   "gps_coordinates": {
+    "latitude": 13.005426,
+    "longitude": 77.581116
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Stories Bar & Kitchen - Rajajinagar",
+   "place_id": "ChIJuxfxieE9rjsRdZMmxqUeJG8",
+   "data_id": "0x3bae3de189f117bb:0x6f241ea5c6269375",
+   "rating": 4.1,
+   "reviews": 10000,
+   "type": "Restaurant",
+   "address": "4th Floor, 1st Block, 77, Chord Rd",
+   "gps_coordinates": {
+    "latitude": 13.008554,
+    "longitude": 77.5491
+   },
+   "comment": "Modern, indoor/outdoor cocktail bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Hot Coffee",
+   "place_id": "ChIJbT3b7Zw9rjsRuMBLy88Mixc",
+   "data_id": "0x3bae3d9ceddb3d6d:0x178b0ccfcb4bc0b8",
+   "rating": 4.3,
+   "reviews": 5200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "375, Chord Rd",
+   "gps_coordinates": {
+    "latitude": 13.006457,
+    "longitude": 77.548485
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Slice N Dice Café (Pure Veg)",
+   "place_id": "ChIJ2VL3vqY9rjsRlGXtPNYBK2s",
+   "data_id": "0x3bae3da6bef752d9:0x6b2b01d63ced6594",
+   "rating": 4.4,
+   "reviews": 305,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "4th floor, 69, WOC",
+   "gps_coordinates": {
+    "latitude": 13.000349,
+    "longitude": 77.5495
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "High Ultra Lounge",
+   "place_id": "ChIJAauS2Io9rjsR1nsLNuuOMw4",
+   "data_id": "0x3bae3d8ad892ab01:0xe338eeb360b7bd6",
+   "rating": 4.1,
+   "reviews": 7900,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Lounge bar",
+   "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.012283,
+    "longitude": 77.556145
+   },
+   "comment": "Chic rooftop bar & Asian restaurant",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Café Amudham Restaurant Gandhinagar",
+   "place_id": "ChIJbyRSHHIXrjsRIcj8mePJHXs",
+   "data_id": "0x3bae17721c52246f:0x7b1dc9e399fcc821",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "No.46, Ground floor, Akshaya Chambers, 4th cross, near, WH Hanumanthappa Rd, beside Hotel Moti Mahal",
+   "gps_coordinates": {
+    "latitude": 12.977963,
+    "longitude": 77.57733
+   },
+   "extensions": [
+    "Opens soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "PAUL",
+   "place_id": "ChIJA_taPjE9rjsRu5KhB2vyw1o",
+   "data_id": "0x3bae3d313e5afb03:0x5ac3f26b07a192bb",
+   "rating": 4.4,
+   "reviews": 841,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "European",
+   "address": "UNIT NO. UG-9B, UPPER GROUND FLOOR, LAKE SIDE OF MALL, ORION MALL 26/1, INDUSTRIAL SUBURB, MALLESWARAM WEST, SUBRAMANYA NAGAR",
+   "gps_coordinates": {
+    "latitude": 13.011021,
+    "longitude": 77.554955
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Vanillaa Bakery and Cafe",
+   "place_id": "ChIJ081p5Bg9rjsRLfCyZ-2ev94",
+   "data_id": "0x3bae3d18e469cdd3:0xdebf9eed67b2f02d",
+   "rating": 4.5,
+   "reviews": 428,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "67 (Old No. 412), 20th Main, Chord Road, Service Road",
+   "gps_coordinates": {
+    "latitude": 12.998909,
+    "longitude": 77.550285
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Café Coffee Day",
+   "place_id": "ChIJmYknmC8WrjsRgwhIh_TRV9A",
+   "data_id": "0x3bae162f98278999:0xd057d1f487480883",
+   "rating": 3.9,
+   "reviews": 50,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "187, Venkata Ranga Iyengar Rd, near Croma - Malleshwaram",
+   "gps_coordinates": {
+    "latitude": 13.001359,
+    "longitude": 77.5711
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Coffee Break",
+   "place_id": "ChIJda-d9iwWrjsRcR-2weptlu0",
+   "data_id": "0x3bae162cf69daf75:0xed966deac1b61f71",
+   "rating": 4.2,
+   "reviews": 218,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Fast Food",
+   "address": "18, 18th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.008702,
+    "longitude": 77.5695
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Sri Raghavendra Stores",
+   "place_id": "ChIJ80ENaSgWrjsRrODlwYx7P10",
+   "data_id": "0x3bae1628690d41f3:0x5d3f7b8cc1e5e0ac",
+   "rating": 4.4,
+   "reviews": 8000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Breakfast",
+   "address": "Railway station, 11th Main Rd, next to Malleshwara",
+   "gps_coordinates": {
+    "latitude": 13.000787,
+    "longitude": 77.563866
+   },
+   "comment": "Humble pitstop for typical Indian eats",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Frozen Coast",
+   "place_id": "ChIJwfsoiYA9rjsR_mKZO5iK2tY",
+   "data_id": "0x3bae3d808928fbc1:0xd6da8a983b9962fe",
+   "rating": 4.2,
+   "reviews": 2500,
+   "type": "Ice Cream",
+   "address": "135, 14th Main Rd, near Bridge",
+   "gps_coordinates": {
+    "latitude": 13.0075445,
+    "longitude": 77.5609
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The Rameshwaram Cafe @ Indiranagar",
+   "place_id": "ChIJmdq205oXrjsRrn9q3VqwI9g",
+   "data_id": "0x3bae179ad3b6da99:0xd823b05add6a7fae",
+   "rating": 4.3,
+   "reviews": 21000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Takeout restaurant",
+   "address": "847/1(Old No. 847/A), Binnamangala 1st Stage, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.98168,
+    "longitude": 77.640915
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "The Rameshwaram Cafe @ Brookfield",
+   "place_id": "ChIJ2YeJ2coTrjsR89LHsFEKTU4",
+   "data_id": "0x3bae13cad98987d9:0x4e4d0a51b0c7d2f3",
+   "rating": 4.2,
+   "reviews": 20000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Green Avenue, Plot 1, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970837,
+    "longitude": 77.712524
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  }
+ ]
+}

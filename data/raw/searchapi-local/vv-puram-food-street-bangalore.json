@@ -1,0 +1,31 @@
+{
+ "q": "VV Puram food street Bangalore",
+ "ll": "@12.9496,77.574,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:29:08.051Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "V. V. Pura Food Street",
+   "place_id": "ChIJH-raknwVrjsRoJppMsw-y2U",
+   "data_id": "0x3bae157c92daea1f:0x65cb3ecc32699aa0",
+   "rating": 4.2,
+   "reviews": 24000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Food court",
+   "address": "Sajjan Rao Circle, Food St",
+   "gps_coordinates": {
+    "latitude": 12.950916,
+    "longitude": 77.57774
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 pm Mon"
+   ]
+  }
+ ]
+}

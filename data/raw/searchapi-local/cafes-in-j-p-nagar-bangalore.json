@@ -1,0 +1,425 @@
+{
+ "q": "cafes in J. P. Nagar Bangalore",
+ "ll": "@12.906,77.5836,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:28:03.248Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Iris Café & Kitchen, JP Nagar",
+   "place_id": "ChIJ_1emfJ8VrjsRlA1C2tIHeDg",
+   "data_id": "0x3bae159f7ca657ff:0x387807d2da420d94",
+   "rating": 4.5,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "735, 16th Cross, 29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905674,
+    "longitude": 77.58318
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Drip and Drop Coffee",
+   "place_id": "ChIJXVbr_JUVrjsR_OBWWYZOeTE",
+   "data_id": "0x3bae1595fceb565d:0x31794e865956e0fc",
+   "rating": 4.8,
+   "reviews": 1400,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "289, 15th Cross Rd, opp. to Rameshwaram Cafe",
+   "gps_coordinates": {
+    "latitude": 12.90619,
+    "longitude": 77.5905
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Beku - Cafe Bakery Bookstore",
+   "place_id": "ChIJi2omMgAVrjsRcbVQ_-SHqhQ",
+   "data_id": "0x3bae150032266a8b:0x14aa87e4ff50b571",
+   "rating": 4.7,
+   "reviews": 2400,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "542, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.910611,
+    "longitude": 77.59671
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Klayworkz Barista-KlayBar Art Cafe",
+   "place_id": "ChIJD-6Yul8VrjsRRtmayR9vZyY",
+   "data_id": "0x3bae155fba98ee0f:0x26676f1fc99ad946",
+   "rating": 4.7,
+   "reviews": 2800,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Art cafe",
+   "address": "39, 15th Cross, 100 Feet Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906827,
+    "longitude": 77.599556
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Treat House JP Nagar",
+   "place_id": "ChIJm4DJ8DAVrjsRLWI5luXs61g",
+   "data_id": "0x3bae1530f0c9809b:0x58ebece59639622d",
+   "rating": 4.7,
+   "reviews": 279,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "946, 24th Main Rd, opp. sbi bank",
+   "gps_coordinates": {
+    "latitude": 12.915433,
+    "longitude": 77.5861
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "DIHA",
+   "place_id": "ChIJY5R8j4oVrjsRfz4CCLXLJ2c",
+   "data_id": "0x3bae158a8f7c9463:0x6727cbb508023e7f",
+   "rating": 4.6,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "17, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906116,
+    "longitude": 77.59726
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "The Kind Roastery and Brew Room, J.P Nagar",
+   "place_id": "ChIJLW3Tx1QVrjsRMZQ7OnX7Gac",
+   "data_id": "0x3bae1554c7d36d2d:0xa719fb753a3b9431",
+   "rating": 4.4,
+   "reviews": 2600,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "18 B Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91057,
+    "longitude": 77.58959
+   }
+  },
+  {
+   "position": 8,
+   "title": "Nombre - Specialty Coffee",
+   "place_id": "ChIJiZ85v_IVrjsR6PnIqix-FQo",
+   "data_id": "0x3bae15f2bf399f89:0xa157e2caac8f9e8",
+   "rating": 4.6,
+   "reviews": 472,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "9th Cross, 1st Main Rd, opp. Mini Forest",
+   "gps_coordinates": {
+    "latitude": 12.911239,
+    "longitude": 77.59907
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Harley's Ivory Lounge - JP Nagar",
+   "place_id": "ChIJ-WcsMAAVrjsRPENYLNO07W4",
+   "data_id": "0x3bae1500302c67f9:0x6eedb4d32c58433c",
+   "rating": 4.7,
+   "reviews": 4200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "Shop No. 1316, D 9th Cross, 9th Main Rd, opp. to Tirumalagiri Venkateshwara Temple, above Central Bank",
+   "gps_coordinates": {
+    "latitude": 12.910539,
+    "longitude": 77.589355
+   }
+  },
+  {
+   "position": 10,
+   "title": "The Pump House",
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "rating": 4.5,
+   "reviews": 31000,
+   "type": "Brewpub",
+   "address": "607, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.582085
+   },
+   "comment": "Hip modern interiors & craft brews"
+  },
+  {
+   "position": 11,
+   "title": "ee Kavii Kafe",
+   "place_id": "ChIJB4aWJeYVrjsRxgrzPpX_V20",
+   "data_id": "0x3bae15e625968607:0x6d57ff953ef30ac6",
+   "rating": 4.2,
+   "reviews": 1000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "7, 15th Cross, 100 Feet Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906091,
+    "longitude": 77.58913
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Amare - Patisserie by The Scene",
+   "place_id": "ChIJJzL0k4cVrjsR_GwHWocKHc0",
+   "data_id": "0x3bae158793f43227:0xcd1d0a875a076cfc",
+   "rating": 4.4,
+   "reviews": 156,
+   "type": "Cafe",
+   "address": "773, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906696,
+    "longitude": 77.58028
+   }
+  },
+  {
+   "position": 13,
+   "title": "TFG Bakehouse and Kitchen",
+   "place_id": "ChIJd99uDgAVrjsRC4L-W8ROIk4",
+   "data_id": "0x3bae15000e6edf77:0x4e224ec45bfe820b",
+   "rating": 4.2,
+   "reviews": 1200,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bakery and Cake Shop",
+   "address": "63",
+   "gps_coordinates": {
+    "latitude": 12.892415,
+    "longitude": 77.59698
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Chebel - Patisserie | Cafe",
+   "place_id": "ChIJw72SMQAVrjsR81iAOEDOuUo",
+   "data_id": "0x3bae15003192bdc3:0x4ab9ce40388058f3",
+   "rating": 4.3,
+   "reviews": 986,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "296, 100 Feet Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906112,
+    "longitude": 77.59135
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "154 Breakfast Club - JP Nagar",
+   "place_id": "ChIJMYCl3eAVrjsR_1UAPrCvs5Y",
+   "data_id": "0x3bae15e0dda58031:0x96b3afb03e0055ff",
+   "rating": 4.4,
+   "reviews": 4100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "688, 2nd Floor, 100 Feet Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906533,
+    "longitude": 77.5925
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Cafe Petriqor",
+   "place_id": "ChIJPxbW27gVrjsRkbttEwznla4",
+   "data_id": "0x3bae15b8dbd6163f:0xae95e70c136dbb91",
+   "rating": 4.2,
+   "reviews": 1100,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "602, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906613,
+    "longitude": 77.585106
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Terrace Bar & Kitchen",
+   "place_id": "ChIJZXvOXFwVrjsRk-jaxpxk-II",
+   "data_id": "0x3bae155c5cce7b65:0x82f8649cc6dae893",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Eclectic",
+   "address": "No 1, (old 141/37), Rooftop, 24th main, Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.914251,
+    "longitude": 77.58596
+   }
+  },
+  {
+   "position": 18,
+   "title": "Nenapu",
+   "place_id": "ChIJmfDG1C8VrjsRAYXAO4xOiXk",
+   "data_id": "0x3bae152fd4c6f099:0x79894e8c3bc08501",
+   "rating": 4.3,
+   "reviews": 552,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, Axis Samruddhi, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906119,
+    "longitude": 77.594406
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Tue"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Bramble Kitchen & Bar",
+   "place_id": "ChIJRdL0JVgVrjsRl7jCDzYHopw",
+   "data_id": "0x3bae155825f4d245:0x9ca207360fc2b897",
+   "rating": 4.5,
+   "reviews": 3300,
+   "type": "Continental restaurant",
+   "address": "Marenahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.9170065,
+    "longitude": 77.57933
+   }
+  },
+  {
+   "position": 20,
+   "title": "Benedict's",
+   "place_id": "ChIJ8WuCCKIVrjsRZ-97TvEN74w",
+   "data_id": "0x3bae15a208826bf1:0x8cef0df14e7bef67",
+   "rating": 4.3,
+   "reviews": 266,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, 19th Main St",
+   "gps_coordinates": {
+    "latitude": 12.906523,
+    "longitude": 77.589554
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  }
+ ]
+}

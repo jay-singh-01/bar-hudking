@@ -1,0 +1,456 @@
+{
+ "q": "best restaurants in Malleshwaram Bangalore",
+ "ll": "@13.0077,77.5694,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:30:15.617Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "1522 The Pub Malleshwara",
+   "place_id": "ChIJ5SxvnYE9rjsR2l1qVKmLTNg",
+   "data_id": "0x3bae3d819d6f2ce5:0xd84c8ba9546a5dda",
+   "rating": 4.3,
+   "reviews": 11000,
+   "type": "Restaurant",
+   "address": "1522, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.007805,
+    "longitude": 77.55712
+   },
+   "comment": "Roomy rock-music bar with live events",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Feast",
+   "place_id": "ChIJSciIwng9rjsRKyOoikfNWjo",
+   "data_id": "0x3bae3d78c288c849:0x3a5acd478aa8232b",
+   "rating": 4.2,
+   "reviews": 1700,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "A Block, Sheraton Grand, 26/1, Dr. Rajkumar Road, Malleswaram, 26/1, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.012495,
+    "longitude": 77.55522
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Haldiram's - Malleshwara",
+   "place_id": "ChIJzU1k2qkXrjsRu9uOJoqYgsc",
+   "data_id": "0x3bae17a9da644dcd:0xc782988a268edbbb",
+   "rating": 4.4,
+   "reviews": 1400,
+   "type": "Family-friendly",
+   "address": "Ground Floor & First Floor, Gokul Complex Vyalikaval, Kodandarampura, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 13.0034075,
+    "longitude": 77.571365
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Karavali Lunch Home",
+   "place_id": "ChIJu6M2vSUWrjsROXoGYJrV4sY",
+   "data_id": "0x3bae1625bd36a3bb:0xc6e2d59a60067a39",
+   "rating": 4.3,
+   "reviews": 1300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Seafood",
+   "address": "147, 7th Cross Road, 3rd Main, Malleshwaram West",
+   "gps_coordinates": {
+    "latitude": 12.998371,
+    "longitude": 77.56977
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Sea Spice Multi Cusine Family Restaurant",
+   "place_id": "ChIJlRK33-kXrjsRJOd8x7_LzXk",
+   "data_id": "0x3bae17e9dfb71295:0x79cdcbbfc77ce724",
+   "rating": 4,
+   "reviews": 354,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Seafood",
+   "address": "261,sampige road ,between 17th and 18th cross 2nd Main Road Malleshwara #261 between, 2nd main sampige raod",
+   "gps_coordinates": {
+    "latitude": 13.007645,
+    "longitude": 77.57108
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "L V Venkateshwara Malleshwaram",
+   "place_id": "ChIJXz5XQjAWrjsR985_hPszfMI",
+   "data_id": "0x3bae163042573e5f:0xc27c33fb847fcef7",
+   "rating": 4.2,
+   "reviews": 515,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "8th Cross Road, #86, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.999354,
+    "longitude": 77.57259
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "By 2 Coffee-Temple Meals",
+   "place_id": "ChIJRUa3vSUWrjsR-pv3UihhGeo",
+   "data_id": "0x3bae1625bdb74645:0xea19612852f79bfa",
+   "rating": 4.1,
+   "reviews": 4200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "No-151, 3rd Main, 7th Cross, Malleshwaram",
+   "gps_coordinates": {
+    "latitude": 12.998321,
+    "longitude": 77.56959
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Udupi Sri Krishnarajathadri",
+   "place_id": "ChIJ7ZRjT50XrjsRvSu6Iq4fozY",
+   "data_id": "0x3bae179d4f6394ed:0x36a31fae22ba2bbd",
+   "rating": 4.1,
+   "reviews": 1200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "330, 13th Cross Rd, near Sri Saibaba Devastana",
+   "gps_coordinates": {
+    "latitude": 13.004132,
+    "longitude": 77.5714
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Bhairaveshwara Military Hotel",
+   "place_id": "ChIJG6Rr__EXrjsRePJ_f7Dnqfc",
+   "data_id": "0x3bae17f1ff6ba41b:0xf7a9e7b07f7ff278",
+   "rating": 4.1,
+   "reviews": 1400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "41, Link Rd",
+   "gps_coordinates": {
+    "latitude": 12.9954405,
+    "longitude": 77.57354
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am Tue"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Malleshwaram Dose Corner",
+   "place_id": "ChIJOatuti0WrjsRwdj9oZrG5D4",
+   "data_id": "0x3bae162db66eab39:0x3ee4c69aa1fdd8c1",
+   "rating": 4.3,
+   "reviews": 3900,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "251/1, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.007133,
+    "longitude": 77.57108
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "traditional mulbagal dosa",
+   "place_id": "ChIJ7WgUesMXrjsR9pbUmigTNg0",
+   "data_id": "0x3bae17c37a1468ed:0xd3613289ad496f6",
+   "rating": 4.2,
+   "reviews": 734,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "15, 3, 10th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.000972,
+    "longitude": 77.57183
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Sri Rajarajeshwari Iyer Mess ( New)",
+   "place_id": "ChIJZbpDQCwWrjsRT9ZvCRSe4vM",
+   "data_id": "0x3bae162c4043ba65:0xf3e29e14096fd64f",
+   "rating": 4.2,
+   "reviews": 1800,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.0066805,
+    "longitude": 77.56931
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Asian Curry House",
+   "place_id": "ChIJkzqcJyEXrjsRczWxapB2XVU",
+   "data_id": "0x3bae1721279c3a93:0x555d76906ab13573",
+   "rating": 4.2,
+   "reviews": 790,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Pan Asian",
+   "address": "3rd Floor, Mantri square mall, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.992014,
+    "longitude": 77.570755
+   },
+   "comment": "Relaxed choice with Asian veggie fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Clean Slate Café",
+   "place_id": "ChIJN4y9YS4WrjsRrNGYWo0KXto",
+   "data_id": "0x3bae162e61bd8c37:0xda5e0a8d5a98d1ac",
+   "rating": 4.3,
+   "reviews": 1500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "Shop No.2, 14th Cross Road, Malleshwaram West",
+   "gps_coordinates": {
+    "latitude": 13.004405,
+    "longitude": 77.57067
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Chinese Wok",
+   "place_id": "ChIJ66fJ3_8XrjsRDjG_VMJeZss",
+   "data_id": "0x3bae17ffdfc9a7eb:0xcb665ec254bf310e",
+   "rating": 4.5,
+   "reviews": 320,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Chinese",
+   "address": "3rd Floor, Mantri Square, Food Court - Unit.Fc-09, 1, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.991377,
+    "longitude": 77.571045
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "District 6 - Best German Microbrewery in Bangalore | Pub Rajajinagar",
+   "place_id": "ChIJtcHnw3g9rjsROTzAoEmcyQw",
+   "data_id": "0x3bae3d78c3e7c1b5:0xcc99c49a0c03c39",
+   "rating": 4.4,
+   "reviews": 13000,
+   "type": "Restaurant",
+   "address": "G-03, G-04, G-05 26/1, Dr Rajkumar Road, Malleshwaram",
+   "gps_coordinates": {
+    "latitude": 13.012419,
+    "longitude": 77.554756
+   },
+   "comment": "Rustic-chic German eatery & brewpub",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Chung's Chinese Corner",
+   "place_id": "ChIJb0fMPSwWrjsRdpbRbGluIT0",
+   "data_id": "0x3bae162c3dcc476f:0x3d216e696cd19676",
+   "rating": 4.1,
+   "reviews": 2900,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Chinese",
+   "address": "88/1, 16th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.006557,
+    "longitude": 77.56929
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "SARVAM UPAHAR",
+   "place_id": "ChIJQyotoVMXrjsR8DAqXzaSoFE",
+   "data_id": "0x3bae1753a12d2a43:0x51a092365f2a30f0",
+   "rating": 4.3,
+   "reviews": 55,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 13.002339,
+    "longitude": 77.57115
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Taaza Aahara",
+   "place_id": "ChIJJdplU_cXrjsRXLJt8hGFdU8",
+   "data_id": "0x3bae17f75365da25:0x4f758511f26db25c",
+   "rating": 4.4,
+   "reviews": 138,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "2H49+5MG, 15th Cross Road, 33, Margosa Rd",
+   "gps_coordinates": {
+    "latitude": 13.005422,
+    "longitude": 77.569115
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "New Fish Land Restaurant",
+   "place_id": "ChIJNWCgHyUWrjsRVRgb7P4W7Bw",
+   "data_id": "0x3bae16251fa06035:0x1cec16feec1b1855",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Seafood",
+   "address": "2nd main, sri rama krupa, 478/1, 6th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.997398,
+    "longitude": 77.57192
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Tue"
+   ]
+  }
+ ]
+}

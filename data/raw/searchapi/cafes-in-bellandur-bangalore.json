@@ -1,0 +1,969 @@
+{
+ "q": "cafes in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:28:13.726Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJecRqGSUTrjsRcrFZe24eQCw",
+   "data_id": "0x3bae1325196ac479:0x2c401e6e7b59b172",
+   "title": "Coffee Brewery - Bellandur",
+   "address": "220, Palm Ave, Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080500 07280",
+   "rating": 4.2,
+   "reviews": 799,
+   "website": "https://www.thecoffeebrewery.com/",
+   "domain": "thecoffeebrewery.com",
+   "gps_coordinates": {
+    "latitude": 12.9258796,
+    "longitude": 77.66965569999999
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe",
+    "Coworking space",
+    "Family restaurant",
+    "Italian restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "6 am–1 am",
+    "monday": "6 am–11:30 pm",
+    "tuesday": "6 am–1 am",
+    "wednesday": "6 am–1 am",
+    "thursday": "6 am–1 am",
+    "friday": "6 am–1 am",
+    "saturday": "6 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-coffee-brewery-bellandur-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_i_IrTRWGgyNR-k0cUMQHiDRk0laHh6_Pca3A94ceWMeH-uzDncItqz4W1rC90paUoDHuAcHDyUZ8e7yFNe4Z53n7HpGDCRLG3NoLddZBK2mtTaP1I%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-UlISIbQ5g-_ic1iq34dY8Vf00FiZ-e4blLwY7F4lqohcgBbJTVyfB2LfFqASVF0qPVkD-VMMQT1z_n59YXWnuQWivQSAzmUeKuNzTxpx2Le_luqvinHU5dWvFUWeR2KRRx1Q=w138-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJi77l89wTrjsRCqrwDY9XoEM",
+   "data_id": "0x3bae13dcf3e5be8b:0x43a0578f0df0aa0a",
+   "title": "Third Wave Coffee",
+   "address": "NO 6, Indiqube Edge, Ground Floor NO 571/630/6/4, SY, 4, Outer Ring Rd, Ambalipura, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099161 96315",
+   "rating": 4.4,
+   "reviews": 2072,
+   "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-bellandur-indiqube-bengaluru/",
+   "domain": "thirdwavecoffeeroasters.com",
+   "gps_coordinates": {
+    "latitude": 12.9222465,
+    "longitude": 77.6693887
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee roastery",
+    "Coffee shop",
+    "Coffee store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–12:30 am",
+    "monday": "8 am–12:30 am",
+    "tuesday": "8 am–12:30 am",
+    "wednesday": "8 am–12:30 am",
+    "thursday": "8 am–12:30 am",
+    "friday": "8 am–12:30 am",
+    "saturday": "8 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/third-wave-coffee-1-bellandur-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g4_bMGKWVRwFljQAveRelMqhzOijetLBVvlEDYTf0Kb3wULH6bbEMVuALDC2bSu1zKOVWu1YK4DgsoUbzkAAu6aVTT5V5WMTTvTIgMVvi4iwp1yz0%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QkgFqAJFGWaA4OrliROGBZzSMMEpfvo8nu91i9GqtMaRS3SEUVgJEkmlYrlwQmyf5QKp-ja473C8NRymJJ0m1pY21secNhP8DfUwUQnmX_TYu6mhEDpIrDSEeyaVkyCwespY5v=w138-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJYacZcJ8TrjsRwZ-rIcV2ts0",
+   "data_id": "0x3bae139f7019a761:0xcdb676c521ab9fc1",
+   "title": "The Kind Roastery and Brew Room, Bellandur",
+   "address": "RMZ ECOWORLD, The Bay, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090350 45330",
+   "rating": 4.7,
+   "reviews": 1053,
+   "website": "https://thekindindia.com/",
+   "domain": "thekindindia.com",
+   "gps_coordinates": {
+    "latitude": 12.9199034,
+    "longitude": 77.6847612
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-kind-roastery-brew-room-bellandur-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gatKLD2CyGfCB-SfDTSdVMNQRlzAzO5D_bgR_Kwatk96alL9ZNbbGFgWdR7vZkZ0_swj7iYc62hsOBuaHgfSyhFxE2D8mFVZLS5RNC4NxRIazUDxM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3PQ_QkAyuFyetVx1umudLzobFXnkecs5hbudXH7NxoeQ9CsFUOqXPa6KqyzgaOex4Im_UX8Rr0514GO9eGNuagynmUUT2CFp2jXlI9WG4Zqy3arUpaAbNXrlLSYXOEBL8tzkZNX__r6Ao=w80-h106-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJHe_ynN4TrjsR-21d9OyLqtk",
+   "data_id": "0x3bae13de9cf2ef1d:0xd9aa8becf45d6dfb",
+   "title": "BREW AXIS Café",
+   "address": "Ground Floor, A Block, Mana Callista, G1, Bellandur Main Rd, opposite to Village Super Market, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096064 81184",
+   "rating": 4.8,
+   "reviews": 143,
+   "gps_coordinates": {
+    "latitude": 12.9230466,
+    "longitude": 77.67274239999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–11 pm",
+    "monday": "8 am–11 pm",
+    "tuesday": "8 am–11 pm",
+    "wednesday": "8 am–11 pm",
+    "thursday": "8 am–11 pm",
+    "friday": "8 am–11 pm",
+    "saturday": "8 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/brew-axis-cafe-bellandur-koramangala-bangalore-1373784/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QburVq-Nx1Xf2XlJ8aFKShawi4qmZfc-gaj0nrb5HLav9eUeUJJPOduDPz6i0-8Dw-f4Sd0CNSMAlrJAwlc2p3ey29ODYRE42Q_bwQ9VkUUVBTO8TrXx86HKOJqouZOssTkKZzxOzSRu3e=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJ40E_oD8TrjsRhFBBRt6eghc",
+   "data_id": "0x3bae133fa03f41e3:0x17829ede46415084",
+   "title": "Cafe Taruchi",
+   "address": "Ground Floor, Sy No 79/4, Outer Ring Rd, opposite to Cloud Nine, Varthur, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097318 25507",
+   "rating": 4.6,
+   "reviews": 119,
+   "website": "https://cafetaruchi.com/",
+   "domain": "cafetaruchi.com",
+   "gps_coordinates": {
+    "latitude": 12.9240137,
+    "longitude": 77.672952
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "5:30 am–1 am",
+    "monday": "5:30 am–1 am",
+    "tuesday": "5:30 am–1 am",
+    "wednesday": "5:30 am–1 am",
+    "thursday": "5:30 am–1 am",
+    "friday": "5:30 am–1 am",
+    "saturday": "5:30 am–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QAiLLdIWDs0zRYgLVKR2XpDCJoSxeE0lMsL7PpfPl0AeW6MgGH8md8bQ9qdNCIP00Jb0Sk_OOE8Wgu8nyKDDxIiL9MzITpGuY4w5GkOriJTztGxe81PIUIc2kJ_AE9Wm2LGuAuFzVmUjrH=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJTwSi6RwTrjsRz-mOroh9Dto",
+   "data_id": "0x3bae131ce9a2044f:0xda0e7d88ae8ee9cf",
+   "title": "Lavonne Café",
+   "address": "Shop No.18, First Floor, RMZ Ecoworld 30 Bhoganahalli Village Varthur Hobli, Taluk, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063665 69944",
+   "rating": 4.3,
+   "reviews": 448,
+   "website": "http://lavonnecafe.com/",
+   "domain": "lavonnecafe.com",
+   "gps_coordinates": {
+    "latitude": 12.9204137,
+    "longitude": 77.68671859999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8:30 am Mon",
+   "open_hours": {
+    "sunday": "8:30 am–11 pm",
+    "monday": "8:30 am–11 pm",
+    "tuesday": "8:30 am–11 pm",
+    "wednesday": "8:30 am–11 pm",
+    "thursday": "8:30 am–11 pm",
+    "friday": "8:30 am–11 pm",
+    "saturday": "8:30 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/lavonne-cafe-bellandur-bangalore-820552/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rx0uFlVYq2AGfrJOZ9a_xisZmvb_WiFU_aU6lLAiI2ISigfSpLIvS-X2U3zUKiK1U8R7SCjoGQODYnKXauc00l7DOuFTkyLl7Ps1WucCfdZGwed60eE3LvXcbS-JK4VW-hh7uRI3IsqbQ=w80-h106-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJtRVk9ZUTrjsR1m70suR3aJA",
+   "data_id": "0x3bae1395f56415b5:0x906877e4b2f46ed6",
+   "title": "Cafe Bistro",
+   "address": "Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "079943 93239",
+   "rating": 4.1,
+   "reviews": 51,
+   "gps_coordinates": {
+    "latitude": 12.9239706,
+    "longitude": 77.674145
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:30 am · Opens 10 am Mon",
+   "open_hours": {
+    "sunday": "10 am–12:30 am",
+    "monday": "10 am–12:30 am",
+    "tuesday": "10 am–12:30 am",
+    "wednesday": "10 am–12:30 am",
+    "thursday": "10 am–12:30 am",
+    "friday": "10 am–12:30 am",
+    "saturday": "10 am–12:30 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPC4MgxAt_hk5FLUxMakGKoDASTAwrUOwlzSN5XK8pTTRcV3LP9ionIudFHEICM0I2fs1GbKcr01hFQ-7hrEIvfbXwE2A9WFe-_DpC4pqkYIbwef3e349C3_Sv3IdhU8GUbZtJXw=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJT4iwHIYTrjsRzCvhGohaF7k",
+   "data_id": "0x3bae13861cb0884f:0xb9175a881ae12bcc",
+   "title": "Paper & Pie",
+   "address": "G Floor, RMZ ECOWORLD, Campus 31, Adarsh Palm Retreat Villas, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099020 19415",
+   "rating": 4.7,
+   "reviews": 382,
+   "website": "https://www.paperandpie.in/",
+   "domain": "paperandpie.in",
+   "gps_coordinates": {
+    "latitude": 12.9206463,
+    "longitude": 77.68738479999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–10 pm",
+    "monday": "8 am–8 pm",
+    "tuesday": "8 am–8 pm",
+    "wednesday": "8 am–8 pm",
+    "thursday": "8 am–8 pm",
+    "friday": "8 am–8 pm",
+    "saturday": "8 am–10 pm"
+   },
+   "reservation": {
+    "link": "https://wa.link/0u09r2",
+    "source": "wa.link"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rc879-PzDvXmHuRE4MlCFVxXhUtklIZg8Vez58HiI6XmKroBUTxBc_JY-_8GPUsE4QkkM-NxPpQL0Zw5w6Yciac--_dG-R-T1d3sgtxGzstRhXMFEeHHQXLqqoMnbkMpQ9J0FbIg=w80-h106-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJwVNmH9gTrjsRoF88QrUYPMI",
+   "data_id": "0x3bae13d81f6653c1:0xc23c18b5423c5fa0",
+   "title": "Third Wave Coffee",
+   "address": "RMZ ECOWORLD, The Bay, Marathahalli - Sarjapur Outer Ring Rd, next to ATM, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089519 42566",
+   "rating": 4.5,
+   "reviews": 460,
+   "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-rmz-eco-world-bay-bengaluru/",
+   "domain": "thirdwavecoffeeroasters.com",
+   "gps_coordinates": {
+    "latitude": 12.9206369,
+    "longitude": 77.6851516
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee roastery",
+    "Coffee shop",
+    "Coffee store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/third-wave-coffee-bellandur-bangalore-439337/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SxikNYAfueRtfhvYBqD0wgpTUuaqO2rjolrQwxyqkwDUbvI1w96jf1V9ZVfFtVS8HBKjISduOXjnCGYMRFvllU9JNyJE0UEi--T42RhYZ5mQwnmbwdKIxkHXOIwfPAXdbLRoE=w122-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJdzX4SgATrjsR03XpRp69mFw",
+   "data_id": "0x3bae13004af83577:0x5c98bd9e46e975d3",
+   "title": "Chai Days Bellandur (KBH)",
+   "address": "WMQV+8VQ infront of Cessna Business Park, WMQV+8VP Service road, Outer Ring Rd, Kadubeesanahalli, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.4,
+   "reviews": 303,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.93834,
+    "longitude": 77.6947
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "7 am–1 am",
+    "monday": "7 am–1 am",
+    "tuesday": "7 am–1 am",
+    "wednesday": "7 am–1 am",
+    "thursday": "7 am–1 am",
+    "friday": "7 am–1 am",
+    "saturday": "7 am–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWRbu_mlVI6AyKAZyK5lmWwngx-KhbiqF5wHajEyh3gab0FBzhU2tAM1fhoxcY7mK2Gjs3g3-jKt1MnkH5UMgLSUYmcHv8ioAt8YgHyKLhHG5i7d2Bny-Za3oigiT9DtZ0vvCewHVDq4bz=w204-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJi4q5gGATrjsRRzGFov7CzWA",
+   "data_id": "0x3bae136080b98a8b:0x60cdc2fea2853147",
+   "title": "Edaneram Cafe",
+   "address": "16, Gear school road Bellandur, Bellandur - Doddakannelli Rd, Doddakannelli, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089212 68204",
+   "rating": 4.7,
+   "reviews": 140,
+   "website": "https://www.instagram.com/merakicafe.__?igsh=MXVsM3Fpc2JsYWpjOQ==",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.916862,
+    "longitude": 77.6987927
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 6:30 am Mon",
+   "open_hours": {
+    "sunday": "6:30 am–10 pm",
+    "monday": "6:30 am–10 pm",
+    "tuesday": "6:30 am–10 pm",
+    "wednesday": "6:30 am–10 pm",
+    "thursday": "6:30 am–10 pm",
+    "friday": "6:30 am–10 pm",
+    "saturday": "6:30 am–10 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TR9RdZhdkDanxFEj1hjbPfjO4ZY2eX627WRj49BudH035GF6P1bCicrs8YP4hXyedCU_399Bdzdnv3HUwVvdJJDlSM6B7bLa9WeqlhWHoQ4qYWd99qNejf6hAOY5mquPApbMjxLSAYqCg=w156-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJh-2jpigTrjsRLML6Bmx_MEc",
+   "data_id": "0x3bae1328a6a3ed87:0x47307f6c06fac22c",
+   "title": "abcoffee Prestige Tech Park",
+   "address": "PRESTIGE TECH PARK, Kadubeesanahalli Kariyammana Agrahara Rd, Kadabeesanahalli, Yemalur, Marathahalli, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "086554 17442",
+   "rating": 4.6,
+   "reviews": 194,
+   "website": "https://www.abcoffee.in/our-decks",
+   "domain": "abcoffee.in",
+   "gps_coordinates": {
+    "latitude": 12.9420739,
+    "longitude": 77.69379339999999
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe",
+    "Coffee roastery",
+    "Coffee stand",
+    "Coffee store",
+    "Confectionery store",
+    "Espresso bar",
+    "Restaurant",
+    "Snack bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 2 am",
+   "open_hours": {
+    "sunday": "8 am–2 am",
+    "monday": "8 am–2 am",
+    "tuesday": "8 am–2 am",
+    "wednesday": "8 am–2 am",
+    "thursday": "8 am–2 am",
+    "friday": "8 am–2 am",
+    "saturday": "8 am–2 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/abcoffee-marathahalli-bangalore-935302/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q897nIxWjZcaAYyU9-khKFgLxeI8XBYOzApMB8e0DJBOVcpHTD8CPaXHSexQhLKEp2OjejHTYVHao1z0XhlJ5IpqN7fE5P9dEx205VsohkG8_XenS7pgvl2D0PNot0v4uhV-y3=w163-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJfVUX93UTrjsRfDOTg7KmX6Q",
+   "data_id": "0x3bae1375f717557d:0xa45fa6b28393337c",
+   "title": "Third Wave Coffee",
+   "address": "83&, 84, Sarjapur - Marathahalli Rd, opp. to DSR Woodwinds, Countryside Layout, Rainbow Drive, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089519 42560",
+   "rating": 4.4,
+   "reviews": 1315,
+   "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-sarjapur-road-bengaluru/",
+   "domain": "thirdwavecoffeeroasters.com",
+   "gps_coordinates": {
+    "latitude": 12.9093837,
+    "longitude": 77.6872277
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee roastery",
+    "Coffee shop",
+    "Coffee store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/third-wave-coffee-sarjapur-road-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gPa9d9ympHtBmQzVwNyOGGXtA6cUVMvCd6eegh1N_TXhwH04J6AwpMP2DeMP81QVitJFV9qa-byNmK3HVp4ImPEP78Z7rs69VSe9oBNVVe4MTR0bM%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1jwtfIb3-b7tC6Wq8BQ3-dbczS4O4v-HrFiXMrvbwO4iq-fcn57M0J2-OpdNm1grPB5bBHW-Euxz0sntqwe63oeGdT4AtuOWJbw-djC7r8T_nCHVYiRbD4CoBlhHt6icH121Lxw=w163-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJlSDp-f0TrjsR8dZAm2S84Io",
+   "data_id": "0x3bae13fdf9e92095:0x8ae0bc649b40d6f1",
+   "title": "Blue Tokai Coffee Roasters | RMZ Ecoworld",
+   "address": "Shop No 22B, Campus 31, Eco World 30, Varthur Bhoganhalli, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098103 11353",
+   "rating": 4.1,
+   "reviews": 299,
+   "website": "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-rmz-ecoworld-cafe-bhoganhalli-bengaluru-436740/Home?utm_source=locator&utm_medium=googleplaces",
+   "domain": "stores.bluetokaicoffee.com",
+   "gps_coordinates": {
+    "latitude": 12.9203797,
+    "longitude": 77.6860647
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe",
+    "Coffee roastery"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am Mon",
+   "open_hours": {
+    "sunday": "7 am–11 pm",
+    "monday": "7 am–11 pm",
+    "tuesday": "7 am–11 pm",
+    "wednesday": "7 am–11 pm",
+    "thursday": "7 am–11 pm",
+    "friday": "7 am–11 pm",
+    "saturday": "7 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/blue-tokai-coffee-roasters-bellandur-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gImLmPFLDlR4gjJBdmjF0HHqV5e23Srmdu28oTz1pe9TnuudM4U8hHxqLp0FJfO21ppDm4NI_Ifuf4Ux5NUeFzp9HZ5y39AwJPonqn-K23kmnCHw0%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S659FWn7Cd_u4ZGksBtcCzWPyPIc8xzpJLCMQjJid2CZd4I-6AyFu83Djl6d479AtaZ0XRHBBdroPLFCCLLmFa4Dkr0vlYYNDniMNTFMqadfEqMvOlXxNSo-UoWFqTHQO8Ykg=w92-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJJc1Ez9gTrjsRWVcE6AFrcQ0",
+   "data_id": "0x3bae13d8cf44cd25:0xd716b01e8045759",
+   "title": "Third Wave Coffee",
+   "address": "Syndicate No 52/2 and 52/3, Dr Puneeth Rajkumar Road Devarabeesanahalli, Varthur Hobli, South, opposite Intel, Marathahalli, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096208 85822",
+   "rating": 4.6,
+   "reviews": 221,
+   "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-sakra-hospital-bengaluru/",
+   "domain": "thirdwavecoffeeroasters.com",
+   "gps_coordinates": {
+    "latitude": 12.932068,
+    "longitude": 77.6849917
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee roastery",
+    "Coffee shop",
+    "Coffee store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–11 pm",
+    "monday": "8 am–11 pm",
+    "tuesday": "8 am–11 pm",
+    "wednesday": "8 am–11 pm",
+    "thursday": "8 am–11 pm",
+    "friday": "8 am–11 pm",
+    "saturday": "8 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/third-wave-coffee-2-bellandur-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gyt3kMurqAR5t83tiJVeQhFlYJY6nJm_fAlzyI8qJuGXoxE182Bj1EU6-1gzvxQNVFCQROe3oqq5OXTQYg1PwEa7b-2lF1ravPDh0WbDx3OrvO0kw%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QbOsQkzlC1v-FgwSrsdUcpHvcPdu0nXNCJ8TM7jV8tWM-RG7PUI6t1tWNZksRAshaPNTYvZ6F_kDO_NENk4gfLjayOnvzWuwma-5bVXkPUmYdvBZ2OXJCtTU5ublhW-TpqF22_Lw=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJgW7Cx8wTrjsRSYwmol5dg_w",
+   "data_id": "0x3bae13ccc7c26e81:0xfc835d5ea2268c49",
+   "title": "Café Coffee Day - Marathahalli",
+   "address": "Outer Ring Rd, off Sarjapur Main Road, Signal, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "1800 102 5093",
+   "rating": 3.8,
+   "reviews": 2564,
+   "website": "https://www.cafecoffeeday.com/",
+   "domain": "cafecoffeeday.com",
+   "gps_coordinates": {
+    "latitude": 12.9245789,
+    "longitude": 77.6744523
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop",
+    "Takeout restaurant",
+    "Pastry shop",
+    "Restaurant",
+    "Sandwich shop"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12 am · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–12 am",
+    "monday": "8 am–12 am",
+    "tuesday": "8 am–12 am",
+    "wednesday": "8 am–12 am",
+    "thursday": "8 am–12 am",
+    "friday": "8 am–12 am",
+    "saturday": "8 am–12 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TkY4XKBm8wdXh4FvvTuegPA9SeLa5-VNZq4ZpmG3fngYlkgBjHjbtWsgPKiQJCVaqdVxHfZJy2ODAyTYuizionzaayGPpjxn_PX9imWpmTK56UMJdwhXdjGDImXFLsq6yku2s=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJp_PpXQATrjsR91hsUUuttes",
+   "data_id": "0x3bae13005de9f3a7:0xebb5ad4b516c58f7",
+   "title": "Sweet land bakery",
+   "address": "Marathahalli - Sarjapur Outer Ring Rd, opposite Trinity Meadows Apartment Complex, Adarsh Palm Retreat Villas, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.2,
+   "reviews": 163,
+   "gps_coordinates": {
+    "latitude": 12.9225321,
+    "longitude": 77.6760958
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 12:15 am · Opens 5:45 am Mon",
+   "open_hours": {
+    "sunday": "5:45 am–12:15 am",
+    "monday": "5:45 am–12:15 am",
+    "tuesday": "5:45 am–12:15 am",
+    "wednesday": "5:45 am–12:15 am",
+    "thursday": "5:45 am–12:15 am",
+    "friday": "5:45 am–12:15 am",
+    "saturday": "5:45 am–12:15 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TGC2JPvNXFqAh2S5_34ZsxIskDQPY_tPCdleatP4iCxB9C9P0pLKWhpjx94OmF1rR_G_UqMuo51rA5Hx0Pc4auV_-X5Y28d4mjZ77CXDDHVs_9N7NXbBfgl9-HVziKOfxo7Rg=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJwadvJfoTrjsRL75jpzP-Pq0",
+   "data_id": "0x3bae13fa256fa7c1:0xad3efe33a763be2f",
+   "title": "Coffee Mechanics",
+   "address": "77/6, near Bellandur, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098455 13511",
+   "rating": 4.1,
+   "reviews": 471,
+   "website": "https://www.coffeemechanics.co.in/",
+   "domain": "coffeemechanics.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9358327,
+    "longitude": 77.69752869999999
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Bakery and Cake Shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Caterer",
+    "Coffee roastery",
+    "Corporate gift supplier",
+    "Gift shop"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8:30 am Mon",
+   "open_hours": {
+    "sunday": "8:30 am–11:30 pm",
+    "monday": "8:30 am–11:30 pm",
+    "tuesday": "8:30 am–11:30 pm",
+    "wednesday": "8:30 am–11:30 pm",
+    "thursday": "8:30 am–11:30 pm",
+    "friday": "8:30 am–11:30 pm",
+    "saturday": "8:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/coffee-mechanics-2-kadubeesanahalli-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iLFjNtH2oqIHzgVhOnjbg2zCNuDY1B9ZbbdQAMA8qd35Lb-gHY5w3Rc85aO8qx5-p0ArwQzdHcVQpsxPBZKRH_Iw1PXsHCQqXLovaRJg0f5P6SGQs%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SIJBzSShUMxjurUlMhaTmZwPzn_B_bI6VzJR2p_oFxYpRugx3kltna3U4CuLvrrapFIZnMTuchYgbtezuBjmcCRSyf9xFYxuF9me3BcAeRfkGYjbcaj6D-1VwMHnh2G8w98dPA7tk1sAAV=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJu_RYDl0TrjsRcyXHHBKBzH4",
+   "data_id": "0x3bae135d0e58f4bb:0x7ecc81121cc72573",
+   "title": "Café Amudham Restaurant Sarjapur",
+   "address": "1-2, Suncity Apartments Ln, Ibbaluru, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070198 65140",
+   "rating": 3.9,
+   "reviews": 528,
+   "website": "https://www.instagram.com/cafeamudham?igsh=MWsxYmM5cDNlMnRvcA==",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9219944,
+    "longitude": 77.6650609
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Breakfast restaurant",
+    "South Indian restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Restaurant",
+    "Self service restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "6 am–1 am",
+    "monday": "6 am–1 am",
+    "tuesday": "6 am–1 am",
+    "wednesday": "6 am–1 am",
+    "thursday": "6 am–1 am",
+    "friday": "6 am–1 am",
+    "saturday": "6 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assisted listening devices",
+       "value": "Offers assisted listening devices"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWm6KxlZBmFYeQEk4plUHsFpywuhMwp0QfZo4ZJRBuVPsLRjq5KA9kzT4quwVB2tnG47OrAo5Kcd_owKIWu4mgNSjvZExwQ56FGRu4YQ04pcaoR4amQP2evN-VkmjYG6X--dnZ-mbXVuZi=w163-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJU5pVlqsTrjsRvrWOVs0AEpQ",
+   "data_id": "0x3bae13ab96559a53:0x941200cd568eb5be",
+   "title": "Chaayos Cafe at RMZ Eco World",
+   "address": "Unit No - 16,GF,Food Court, Rmz Ecoworld, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "1800 120 2424",
+   "rating": 4.2,
+   "reviews": 333,
+   "website": "https://www.chaayos.com/",
+   "domain": "chaayos.com",
+   "gps_coordinates": {
+    "latitude": 12.9204629,
+    "longitude": 77.6843167
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop",
+    "Tea store"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am Mon",
+   "open_hours": {
+    "sunday": "8 am–10 pm",
+    "monday": "8 am–10 pm",
+    "tuesday": "8 am–10 pm",
+    "wednesday": "8 am–10 pm",
+    "thursday": "8 am–10 pm",
+    "friday": "8 am–10 pm",
+    "saturday": "8 am–10 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SzhU771SacA0pgLkv8pJmxYjGLIxTzJdiZYe79R0mCsw0-baQUU-_xZqMNV2dCmACTkwokPKLGFBJQNmbS4yfAzgnJdymI94Et44oA9X8z5bCazaTd_oIREOJJy3D503JgRIe0Tw=w175-h92-k-no"
+  }
+ ]
+}

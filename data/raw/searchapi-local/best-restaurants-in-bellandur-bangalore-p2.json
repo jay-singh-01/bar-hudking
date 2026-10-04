@@ -1,0 +1,437 @@
+{
+ "q": "best restaurants in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:31:47.304Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Hoot Craftworks 2.0",
+   "place_id": "ChIJp-P_fzwTrjsR3Ctu6DxKWAk",
+   "data_id": "0x3bae133c7fffe3a7:0x9584a3ce86e2bdc",
+   "rating": 4.2,
+   "reviews": 23000,
+   "type": "Brewery",
+   "address": "Block 2, Village, Varthur, BBMP, 2034/69, Ambalipura - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.914086,
+    "longitude": 77.67859
+   },
+   "comment": "Hip indoor-outdoor brewpub with dancing",
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Brik Oven - Woodfired Pizzas (Bellandur)",
+   "place_id": "ChIJW1QYHvgTrjsRQjOm1QjBXdE",
+   "data_id": "0x3bae13f81e18545b:0xd15dc108d5a63342",
+   "rating": 4.5,
+   "reviews": 1000,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pizza",
+   "address": "Shop No.17, First Floor, RMZ Ecoworld 30, Bhoganahalli Village Varthur Hobli, Bangalore East Taluk",
+   "gps_coordinates": {
+    "latitude": 12.920419,
+    "longitude": 77.68676
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "MoMo Café - Courtyard by Marriott",
+   "place_id": "ChIJNTm_M6cTrjsRhsW_495ho24",
+   "data_id": "0x3bae13a733bf3935:0x6ea361dee3bfc586",
+   "rating": 4,
+   "reviews": 1600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Buffet",
+   "address": "Sarjapur Main Road, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.928068,
+    "longitude": 77.6825
+   }
+  },
+  {
+   "position": 4,
+   "title": "TBC Sky Lounge - Kadubisanahalli- Marathahalli Outer Ring Road | Fabulous Terrace Lounge- Rooftop Restaurant & Bar",
+   "place_id": "ChIJMaqAe7ETrjsRNIPc6ouBw4Y",
+   "data_id": "0x3bae13b17b80aa31:0x86c3818beadc8334",
+   "rating": 4.3,
+   "reviews": 9500,
+   "type": "Restaurant",
+   "address": "5th Floor, Berry's Hotel, 36/1, Marathahalli - Sarjapur Outer Ring Rd, opposite JP Morgan",
+   "gps_coordinates": {
+    "latitude": 12.941811,
+    "longitude": 77.697105
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Gladia Brewery & Kitchen",
+   "place_id": "ChIJG2DbcwATrjsRewiFE157kFI",
+   "data_id": "0x3bae130073db601b:0x52907b5e1385087b",
+   "rating": 4.6,
+   "reviews": 3800,
+   "type": "Brewpub",
+   "address": "SY No. 82/4B, Sarjapur Main Rd, beside Wipro Limited",
+   "gps_coordinates": {
+    "latitude": 12.910821,
+    "longitude": 77.68505
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Chalo Punjab Bellandur",
+   "place_id": "ChIJT1MhN7QTrjsRaX2P5jwWXbY",
+   "data_id": "0x3bae13b43721534f:0xb65d163ce68f7d69",
+   "rating": 4.6,
+   "reviews": 100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Punjabi",
+   "address": "3rd Floor, 24, above ICICI Bank",
+   "gps_coordinates": {
+    "latitude": 12.92412,
+    "longitude": 77.67172
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "North Adda",
+   "place_id": "ChIJnabFbF4TrjsRFLL9RBL79QM",
+   "data_id": "0x3bae135e6cc5a69d:0x3f5fb1244fdb214",
+   "rating": 4.5,
+   "reviews": 619,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "opposite 99 Dosa",
+   "gps_coordinates": {
+    "latitude": 12.928185,
+    "longitude": 77.671814
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "MASALA MANDI",
+   "place_id": "ChIJPY1mFXoTrjsRcVPejQ8fbW4",
+   "data_id": "0x3bae137a15668d3d:0x6e6d1f0f8dde5371",
+   "rating": 4.3,
+   "reviews": 8100,
+   "price": "₹800–1,200",
+   "extracted_price": {
+    "min": 800,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "Gold Sand Building, 82/8, Sarjapur - Marathahalli Rd, next to Wipro and, opposite to Social Sarjapur",
+   "gps_coordinates": {
+    "latitude": 12.910643,
+    "longitude": 77.68559
+   },
+   "comment": "Polished restaurant for buffet dining",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Bay at Ecoworld",
+   "place_id": "ChIJuTI82Q4TrjsRTtgzvAmbyGI",
+   "data_id": "0x3bae130ed93c32b9:0x62c89b09bc33d84e",
+   "rating": 4.5,
+   "reviews": 4000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.920766,
+    "longitude": 77.6836
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Flavours of India",
+   "place_id": "ChIJb-ZqnnUTrjsRG6r59XAmoj0",
+   "data_id": "0x3bae13759e6ae66f:0x3da22670f5f9aa1b",
+   "rating": 4.5,
+   "reviews": 556,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Restaurant",
+   "address": "57 1A Outer Ring Road, South",
+   "gps_coordinates": {
+    "latitude": 12.929969,
+    "longitude": 77.68581
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Coffee Brewery - Bellandur",
+   "place_id": "ChIJecRqGSUTrjsRcrFZe24eQCw",
+   "data_id": "0x3bae1325196ac479:0x2c401e6e7b59b172",
+   "rating": 4.2,
+   "reviews": 799,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "220, Palm Ave",
+   "gps_coordinates": {
+    "latitude": 12.9258795,
+    "longitude": 77.669655
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The Rasaganga",
+   "place_id": "ChIJ71UVqAoTrjsR1SU8DRD-JnQ",
+   "data_id": "0x3bae130aa81555ef:0x7426fe100d3c25d5",
+   "rating": 4,
+   "reviews": 10000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "North Indian",
+   "address": "35, Outer Ring Rd, near Eco Space",
+   "gps_coordinates": {
+    "latitude": 12.926333,
+    "longitude": 77.67824
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Mangalore sea park",
+   "place_id": "ChIJG1tP78wTrjsRh2HKdnvLHSY",
+   "data_id": "0x3bae13ccef4f5b1b:0x261dcb7b76ca6187",
+   "rating": 4.5,
+   "reviews": 159,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.925589,
+    "longitude": 77.67643
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Sichuan",
+   "place_id": "ChIJL0WGPk8TrjsRp5B7zQZQt6M",
+   "data_id": "0x3bae134f3e86452f:0xa3b75006cd7b90a7",
+   "rating": 4.3,
+   "reviews": 303,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Chinese",
+   "address": "Ground Floor, Sobha Lakeview Club House",
+   "gps_coordinates": {
+    "latitude": 12.92895,
+    "longitude": 77.67239
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "The Biere Adda - Sarjapur Rd",
+   "place_id": "ChIJO41x6dYTrjsRtXwWiwLh8cM",
+   "data_id": "0x3bae13d6e9718d3b:0xc3f1e1028b167cb5",
+   "rating": 4.5,
+   "reviews": 1100,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "4th Floor, Formerly operated under The Dome Cafe Sarjapur, Kasavanahalli Main Rd, above style union",
+   "gps_coordinates": {
+    "latitude": 12.901913,
+    "longitude": 77.6758
+   },
+   "extensions": [
+    "Closes soon",
+    "12:50 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Tipsy Bull- The Bar Exchange",
+   "place_id": "ChIJTSGow3UTrjsRlMlNbphrG9s",
+   "data_id": "0x3bae1375c3a8214d:0xdb1b6b986e4dc994",
+   "rating": 4,
+   "reviews": 9500,
+   "type": "Pub",
+   "address": "4th Floor, 74, above ICICI Bank",
+   "gps_coordinates": {
+    "latitude": 12.92408,
+    "longitude": 77.67163
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Sarjapur Social",
+   "place_id": "ChIJ8VUwH0ATrjsR1Z2VaSRNiKA",
+   "data_id": "0x3bae13401f3055f1:0xa0884d2469959dd5",
+   "rating": 4.2,
+   "reviews": 13000,
+   "type": "Bar",
+   "address": "Sarjapur - Marathahalli Rd",
+   "gps_coordinates": {
+    "latitude": 12.90986,
+    "longitude": 77.68555
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Light of Italy",
+   "place_id": "ChIJO8xaIwIVrjsRoJaH5hEOo5Y",
+   "data_id": "0x3bae1502235acc3b:0x96a30e11e68796a0",
+   "rating": 4.7,
+   "reviews": 4500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Italian",
+   "address": "669, 13th cross, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91607,
+    "longitude": 77.651085
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Byg Brewski Brewing Company",
+   "place_id": "ChIJ6VlNkBETrjsRTQamSEJHQiI",
+   "data_id": "0x3bae1311904d59e9:0x2242474248a6064d",
+   "rating": 4.3,
+   "reviews": 46000,
+   "type": "Brewpub",
+   "address": "10/62/2A/2 & 3, Sarjapur Main Rd, behind MK Retail, near WIpro Corporate Office",
+   "gps_coordinates": {
+    "latitude": 12.913142,
+    "longitude": 77.683075
+   },
+   "comment": "Chic brewpub with an Asian menu",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Udupi Kitchen",
+   "place_id": "ChIJVVbA7aITrjsR_dwLywJw1ew",
+   "data_id": "0x3bae13a2edc05655:0xecd57002cb0bdcfd",
+   "rating": 4.1,
+   "reviews": 5200,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "15, Palm Ave",
+   "gps_coordinates": {
+    "latitude": 12.925913,
+    "longitude": 77.66968
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  }
+ ]
+}

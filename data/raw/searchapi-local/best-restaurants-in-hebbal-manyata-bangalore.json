@@ -1,0 +1,369 @@
+{
+ "q": "best restaurants in Hebbal/Manyata Bangalore",
+ "ll": "@13.0358,77.6105,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:43:02.778Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Bombay Brasserie- Manyata Tech Park",
+   "place_id": "ChIJI8t8NgAXrjsR-X2qaT922F4",
+   "data_id": "0x3bae1700367ccb23:0x5ed8763f69aa7df9",
+   "rating": 4.7,
+   "reviews": 784,
+   "type": "Modern Indian restaurant",
+   "address": "HD017, WeWork, Manyata NXT Tower Embassy, Manyata Business Park, 1, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 13.041612,
+    "longitude": 77.6197
+   }
+  },
+  {
+   "position": 2,
+   "title": "Nasi and Mee - Manyata Tech Park",
+   "place_id": "ChIJPyMqTAgXrjsRxT-f_FeYiyc",
+   "data_id": "0x3bae17084c2a233f:0x278b9857fc9f3fc5",
+   "rating": 4.7,
+   "reviews": 1100,
+   "type": "Restaurant",
+   "address": "Unit 10, Ground Floor, NXT Tower 2 Building Embassy Manyata Business Park, Hebbal, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 13.041961,
+    "longitude": 77.61951
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Yoichi",
+   "place_id": "ChIJfTv6zHEXrjsR68eLj-bsaik",
+   "data_id": "0x3bae1771ccfa3b7d:0x296aece68f8bc7eb",
+   "rating": 4.7,
+   "reviews": 845,
+   "type": "Pan Asian",
+   "address": "1st floor, MS, MANYATA TECH PARK-1, Block U",
+   "gps_coordinates": {
+    "latitude": 13.0423155,
+    "longitude": 77.61994
+   }
+  },
+  {
+   "position": 4,
+   "title": "Peepai Brewery & Kitchen",
+   "place_id": "ChIJ8biIVHEXrjsRgN5HRGvabx4",
+   "data_id": "0x3bae17715488b8f1:0x1e6fda6b4447de80",
+   "rating": 4.5,
+   "reviews": 5500,
+   "type": "Brewpub",
+   "address": "102/1 & 102/2, Ground Floor, GM Arcade Service Road - Bellary Road, Hebbal, North",
+   "gps_coordinates": {
+    "latitude": 13.055678,
+    "longitude": 77.59313
+   }
+  },
+  {
+   "position": 5,
+   "title": "The Hebbal Café",
+   "place_id": "ChIJa77CBj8XrjsRoO8IwSHxY-E",
+   "data_id": "0x3bae173f06c2be6b:0xe163f121c108efa0",
+   "rating": 4.2,
+   "reviews": 1200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Cafe",
+   "address": "No. 2, The Hebbal Cafe, Level- 1, Courtyard by Marriott Bengaluru Hebbal, 55, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 13.0425625,
+    "longitude": 77.609505
+   },
+   "comment": "Sprawling quick-service mixed-fare cafe",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Attarinti Vantakaalu | Authentic Andhra Restaurant",
+   "place_id": "ChIJ_e7014cXrjsRSyAX-DVtM8o",
+   "data_id": "0x3bae1787d7f4eefd:0xca336d35f817204b",
+   "rating": 4.6,
+   "reviews": 501,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "4A-4B, Baghini Building Outer ring road opposite manyata tech park kanaka nagar veerannapalya nagawara",
+   "gps_coordinates": {
+    "latitude": 13.042125,
+    "longitude": 77.61292
+   }
+  },
+  {
+   "position": 7,
+   "title": "Lola's All Day Casual Dining + Bar",
+   "place_id": "ChIJhx_7fwAXrjsRuE7NZazrbeo",
+   "data_id": "0x3bae17007ffb1f87:0xea6debac65cd4eb8",
+   "rating": 4.6,
+   "reviews": 313,
+   "type": "Restaurant",
+   "address": "Ground Floor, Embassy Manyata Business Park, D3, Redwood Building, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 13.048791,
+    "longitude": 77.61988
+   }
+  },
+  {
+   "position": 8,
+   "title": "Lakehouse Garden Restaurant (Petfriendly)",
+   "place_id": "ChIJJ94qfqEZrjsRxskvcmSkq_o",
+   "data_id": "0x3bae19a17e2ade27:0xfaaba464722fc9c6",
+   "rating": 4.1,
+   "reviews": 583,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Fine Dining",
+   "address": "Dr. Puneet Rajkumar Road, Dasarahalli Village, next to Rachenahalli",
+   "gps_coordinates": {
+    "latitude": 13.062261,
+    "longitude": 77.61077
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Neo Kitchen By Hilton",
+   "place_id": "ChIJT1575s4XrjsR7PLQ4B4QtH0",
+   "data_id": "0x3bae17cee67b5e4f:0x7db4101ee0d0f2ec",
+   "rating": 4.2,
+   "reviews": 680,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Western",
+   "address": "Embassy, Manyata Business Park, Neo Kitchen, Hilton Bengaluru Embassy",
+   "gps_coordinates": {
+    "latitude": 13.042393,
+    "longitude": 77.62076
+   }
+  },
+  {
+   "position": 10,
+   "title": "Hebbal SOCIAL",
+   "place_id": "ChIJMZl5emwXrjsRxJScoNB1yKc",
+   "data_id": "0x3bae176c7a799931:0xa7c875d0a09c94c4",
+   "rating": 4.1,
+   "reviews": 1400,
+   "type": "Bar",
+   "address": "Azure, Ground floor, Bellary Rd, next to Godrej Apartments",
+   "gps_coordinates": {
+    "latitude": 13.055499,
+    "longitude": 77.59405
+   }
+  },
+  {
+   "position": 11,
+   "title": "Bombay Curry House",
+   "place_id": "ChIJQYk0G5wXrjsRbCieD4Jk-XI",
+   "data_id": "0x3bae179c1b348941:0x72f964820f9e286c",
+   "rating": 4.3,
+   "reviews": 883,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "No. 12, NXT Tower Location & Hours, B.B, Ground Floor, Embassy Manyata Tech Park, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 13.041909,
+    "longitude": 77.619736
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "B55 Restaurant",
+   "place_id": "ChIJPT72TR8ZrjsRGWW_VnVQPgo",
+   "data_id": "0x3bae191f4df63e3d:0xa3e507556bf6519",
+   "rating": 4.8,
+   "reviews": 89,
+   "price": "₹1–400",
+   "extracted_price": {
+    "min": 1,
+    "max": 400
+   },
+   "type": "Family-friendly",
+   "address": "14/1, 14/1, Kodigehalli Main Rd, near Twin Tower",
+   "gps_coordinates": {
+    "latitude": 13.058764,
+    "longitude": 77.58596
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Nagavara SOCIAL",
+   "place_id": "ChIJcYIxPwcXrjsR_eW4xJbGmyM",
+   "data_id": "0x3bae17073f318271:0x239bc696c4b8e5fd",
+   "rating": 4.2,
+   "reviews": 2000,
+   "type": "Bar",
+   "address": "Manyata Business Park, Outer Ring Rd Unit 25, First floor, Hilton Garden Inn retail unit, NXT Plaza Embassy",
+   "gps_coordinates": {
+    "latitude": 13.041627,
+    "longitude": 77.61973
+   }
+  },
+  {
+   "position": 14,
+   "title": "Kalia's Kitchen - Hebbal",
+   "place_id": "ChIJ6eVPG4MXrjsRwHk7T3w9e14",
+   "data_id": "0x3bae17831b4fe5e9:0x5e7b3d7c4f3b79c0",
+   "rating": 4.7,
+   "reviews": 53,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Punjabi",
+   "address": "Survey No 5, Ayyappa Temple",
+   "gps_coordinates": {
+    "latitude": 13.053694,
+    "longitude": 77.60191
+   }
+  },
+  {
+   "position": 15,
+   "title": "Nazaara",
+   "place_id": "ChIJTauNIL4XrjsR6Rq6TSArtOE",
+   "data_id": "0x3bae17be208dab4d:0xe1b42b204dba1ae9",
+   "rating": 4.2,
+   "reviews": 1400,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Indian",
+   "address": "No. 2, Nazaara,Terrace Level, Courtyard by Marriott Bengaluru Hebbal, 55, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 13.042621,
+    "longitude": 77.609634
+   },
+   "comment": "Posh place with rooftop dining & a bar"
+  },
+  {
+   "position": 16,
+   "title": "Dobaraa",
+   "place_id": "ChIJByW6klMZrjsRD9oTwHupkf0",
+   "data_id": "0x3bae195392ba2507:0xfd91a97bc013da0f",
+   "rating": 4.5,
+   "reviews": 933,
+   "type": "Western",
+   "address": "Shop No 13, 3rd Floor, located in- Phoenix Mall Of Asia Byatarayanapura, Bellary Rd",
+   "gps_coordinates": {
+    "latitude": 13.070907,
+    "longitude": 77.5902
+   }
+  },
+  {
+   "position": 17,
+   "title": "Ishaara",
+   "place_id": "ChIJlXVnIQAZrjsRZ6ZSc7neyFk",
+   "data_id": "0x3bae190021677595:0x59c8deb97352a667",
+   "rating": 4.8,
+   "reviews": 2900,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Modern Indian restaurant",
+   "address": "3rd Floor, Phoenix Mall of Asia 239/240 Bellary Main Road Byatarayanapura, Taluk",
+   "gps_coordinates": {
+    "latitude": 13.070691,
+    "longitude": 77.591415
+   }
+  },
+  {
+   "position": 18,
+   "title": "Malabar stories",
+   "place_id": "ChIJ37uPeA0XrjsRMgV0ZYRZ_dY",
+   "data_id": "0x3bae170d788fbbdf:0xd6fd598465740532",
+   "rating": 4.4,
+   "reviews": 197,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "13th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.054607,
+    "longitude": 77.59931
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Paakashala @ Nagavara | Restaurants Near Manyata Tech Park",
+   "place_id": "ChIJz3-2tdUXrjsRNUolTzubxlE",
+   "data_id": "0x3bae17d5b5b67fcf:0x51c69b3b4f254a35",
+   "rating": 4.3,
+   "reviews": 549,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "310/73/85, opposite MANYATA EMBASSY BUSINESS PARK, near Sky walk exit",
+   "gps_coordinates": {
+    "latitude": 13.04085,
+    "longitude": 77.61976
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "F5 - Eat • Drink • Refresh",
+   "place_id": "ChIJraaMRKUXrjsRapwjDWj5Zmg",
+   "data_id": "0x3bae17a5448ca6ad:0x6866f9680d239c6a",
+   "rating": 4.3,
+   "reviews": 548,
+   "type": "Restaurant",
+   "address": "Block A, Hotel Building, Hilton Garden Inn, Embassy Manyata Business Park, Hebbal, 2, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 13.041791,
+    "longitude": 77.620056
+   }
+  }
+ ]
+}

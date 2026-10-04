@@ -1,0 +1,408 @@
+{
+ "q": "best restaurants in Kammanahalli/Banaswadi Bangalore",
+ "ll": "@13.0158,77.6394,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:42:41.499Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Olive Street Food Cafe - Kammanahalli",
+   "place_id": "ChIJ3QJrWRkXrjsRz7MoY0stjT8",
+   "data_id": "0x3bae1719596b02dd:0x3f8d2d4b6328b3cf",
+   "rating": 4.6,
+   "reviews": 7600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "Building No #2473,Papaiah Road,Kamanahalli, near Dr Raj Kumar Park",
+   "gps_coordinates": {
+    "latitude": 13.015599,
+    "longitude": 77.64028
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Madurai Pandi Mess - MPM®",
+   "place_id": "ChIJkfY_cp0XrjsRYnAces_Z9mo",
+   "data_id": "0x3bae179d723ff691:0x6af6d9cf7a1c7062",
+   "rating": 4.6,
+   "reviews": 8900,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Chettinad",
+   "address": "ground floor, paragon building, Nehru Rd",
+   "gps_coordinates": {
+    "latitude": 13.015097,
+    "longitude": 77.63242
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Nawazish Indo Arabian Restaurant",
+   "place_id": "ChIJb6VuY-0XrjsR5dMWjgW8QKA",
+   "data_id": "0x3bae17ed636ea56f:0xa040bc058e16d3e5",
+   "rating": 4.7,
+   "reviews": 2900,
+   "type": "Indian",
+   "address": "29/1, 7th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.014069,
+    "longitude": 77.64231
+   }
+  },
+  {
+   "position": 4,
+   "title": "Narmada Restaurant | Kammanahalli",
+   "place_id": "ChIJWbbAx9IXrjsR2IQKNmDw2DQ",
+   "data_id": "0x3bae17d2c7c0b659:0x34d8f060360a84d8",
+   "rating": 4.4,
+   "reviews": 2100,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Andhra",
+   "address": "Shop no. 1&2, Ground floor, Kammanahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.018926,
+    "longitude": 77.63688
+   }
+  },
+  {
+   "position": 5,
+   "title": "BAMBOO RESTAURANT",
+   "place_id": "ChIJKxFCovwXrjsRblHlsCOjseE",
+   "data_id": "0x3bae17fca242112b:0xe1b1a323b0e5516e",
+   "rating": 4.2,
+   "reviews": 8800,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Biryani",
+   "address": "408, 4th G Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.022904,
+    "longitude": 77.63949
+   },
+   "comment": "Casual space for South Indian–style fare",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Al Bain Restaurant",
+   "place_id": "ChIJBctLXtEXrjsR0S_RgzzvJYM",
+   "data_id": "0x3bae17d15e4bcb05:0x8325ef3c83d12fd1",
+   "rating": 4.2,
+   "reviews": 2800,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Middle Eastern",
+   "address": "Near, #1, 5th Main, 60 feet, BESCOM Road, Kullappa Circle",
+   "gps_coordinates": {
+    "latitude": 13.015241,
+    "longitude": 77.63929
+   }
+  },
+  {
+   "position": 7,
+   "title": "Little Baghdad - Arabian Restaurant",
+   "place_id": "ChIJX4fb4nwXrjsRggRzzJrzCGE",
+   "data_id": "0x3bae177ce2db875f:0x6108f39acc730482",
+   "rating": 4.5,
+   "reviews": 2400,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Arab restaurant",
+   "address": "Kullappa circle Road",
+   "gps_coordinates": {
+    "latitude": 13.014448,
+    "longitude": 77.63942
+   }
+  },
+  {
+   "position": 8,
+   "title": "Vaalai Restaurant",
+   "place_id": "ChIJAXScRxsXrjsR-I8Za_iZe7s",
+   "data_id": "0x3bae171b479c7401:0xbb7b99f86b198ff8",
+   "rating": 4.5,
+   "reviews": 621,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "Ground floor, Rajkumar Park Rd",
+   "gps_coordinates": {
+    "latitude": 13.015826,
+    "longitude": 77.6395
+   }
+  },
+  {
+   "position": 9,
+   "title": "Thai Alley Restaurant",
+   "place_id": "ChIJO_vB0ywXrjsRSNEAgd5dOB4",
+   "data_id": "0x3bae172cd3c1fb3b:0x1e385dde8100d148",
+   "rating": 4.9,
+   "reviews": 846,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Thai",
+   "address": "No 38, 1st floor, Kammanahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.017228,
+    "longitude": 77.6362
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "The treehouse Cafe",
+   "place_id": "ChIJIwqXh00XrjsR5AyWseLSbww",
+   "data_id": "0x3bae174d87970a23:0xc6fd2e2b1960ce4",
+   "rating": 4.4,
+   "reviews": 432,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "1st floor, Dr, Rajkumar Park Rd",
+   "gps_coordinates": {
+    "latitude": 13.015829,
+    "longitude": 77.63951
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "GYROS KITCHEN Kammanahalli",
+   "place_id": "ChIJ7fLF9lEXrjsR2mk6SMtg84c",
+   "data_id": "0x3bae1751f6c5f2ed:0x87f360cb483a69da",
+   "rating": 4.6,
+   "reviews": 2200,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Bescom, road",
+   "gps_coordinates": {
+    "latitude": 13.017261,
+    "longitude": 77.63931
+   }
+  },
+  {
+   "position": 12,
+   "title": "SMASH CLUB: BURGER CAFE KAMMANAHALLI",
+   "place_id": "ChIJ7cHmPUwXrjsRkGAGoqYMGrc",
+   "data_id": "0x3bae174c3de6c1ed:0xb71a0ca6a2066090",
+   "rating": 4.8,
+   "reviews": 899,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "BESCOM ROAD, 4th B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.0171585,
+    "longitude": 77.639534
+   }
+  },
+  {
+   "position": 13,
+   "title": "KAILASH PARBAT - Pure Vegetarian",
+   "place_id": "ChIJLVAVNqwXrjsREXkRc46_pdY",
+   "data_id": "0x3bae17ac3615502d:0xd6a5bf8e73117911",
+   "rating": 4.7,
+   "reviews": 6900,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "address": "Ground floor, No.5, M 421, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.024193,
+    "longitude": 77.63971
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Onesta Kammanahalli",
+   "place_id": "ChIJezuwQC8XrjsR52MpbxxhJzU",
+   "data_id": "0x3bae172f40b03b7b:0x3527611c6f2963e7",
+   "rating": 4,
+   "reviews": 6300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Italian",
+   "address": "No.414, 4th Floor, 7th Main Rd, opp. HENNUR BANASWADI COSMOPOLITAN CLUB",
+   "gps_coordinates": {
+    "latitude": 13.021604,
+    "longitude": 77.64343
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Al Amanah cafe and Restaurant",
+   "place_id": "ChIJaYEtnCcXrjsRJsGRFOWVyhA",
+   "data_id": "0x3bae17279c2d8169:0x10ca95e51491c126",
+   "rating": 4.2,
+   "reviews": 25000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Middle Eastern",
+   "address": "19, 5th Main Rd, near kullappa circle",
+   "gps_coordinates": {
+    "latitude": 13.015532,
+    "longitude": 77.63954
+   },
+   "comment": "Casual spot for Middle Eastern wraps",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "The Blue Chef",
+   "place_id": "ChIJn077KQMXrjsRlELpmDRYX-o",
+   "data_id": "0x3bae170329fb4e9f:0xea5f583498e94294",
+   "rating": 4.8,
+   "reviews": 480,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "1st Floor, No.710",
+   "gps_coordinates": {
+    "latitude": 13.0158615,
+    "longitude": 77.63948
+   }
+  },
+  {
+   "position": 17,
+   "title": "Zamaa Restaurant",
+   "place_id": "ChIJ01NXIuYXrjsR_Gp6cZ3RX-E",
+   "data_id": "0x3bae17e6225753d3:0xe15fd19d717a6afc",
+   "rating": 4.7,
+   "reviews": 908,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Indian",
+   "address": "203, CMR Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.024253,
+    "longitude": 77.63311
+   }
+  },
+  {
+   "position": 18,
+   "title": "Empire Restaurant | Kammanahalli",
+   "place_id": "ChIJUW6QpyAXrjsR0lXXPOy8ao0",
+   "data_id": "0x3bae1720a7906e51:0x8d6abcec3cd755d2",
+   "rating": 4.1,
+   "reviews": 34000,
+   "type": "North Indian",
+   "address": "83, Nehru Rd",
+   "gps_coordinates": {
+    "latitude": 13.014654,
+    "longitude": 77.63558
+   }
+  },
+  {
+   "position": 19,
+   "title": "Arabian Hotspot",
+   "place_id": "ChIJ02VWeBgXrjsRnxoZZgAQ9sM",
+   "data_id": "0x3bae1718785665d3:0xc3f6100066191a9f",
+   "rating": 4.1,
+   "reviews": 4200,
+   "type": "Restaurant",
+   "address": "302, 5th main road, HRBR layout, 2nd block, Kalyan Nagar ph: 9513948000, 302, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 13.020107,
+    "longitude": 77.6396
+   },
+   "comment": "Warm restaurant serving Arabian classics"
+  },
+  {
+   "position": 20,
+   "title": "Nandhana Palace - Andhra Style Restaurant - Kammanahalli",
+   "place_id": "ChIJg07SyyAXrjsRw6hX2vxZnA8",
+   "data_id": "0x3bae1720cbd24e83:0xf9c59fcda57a8c3",
+   "rating": 4.4,
+   "reviews": 10000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Andhra",
+   "address": "First Floor, 83, Kammanahalli Main Rd, opp. to Bata Show Room",
+   "gps_coordinates": {
+    "latitude": 13.015006,
+    "longitude": 77.63571
+   }
+  }
+ ]
+}

@@ -1,0 +1,1075 @@
+{
+ "q": "bars and pubs in Electronic City Bangalore",
+ "ll": "@12.8452,77.6602,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T16:39:59.890Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJOfU0TblrrjsR8TWT_apv_cg",
+   "data_id": "0x3bae6bb94d34f539:0xc8fd6faafd9335f1",
+   "title": "XYLON Bar & Kitchen",
+   "address": "6th Floor, 152/5, Neeladri Rd, Neeladri Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.8,
+   "reviews": 461,
+   "gps_coordinates": {
+    "latitude": 12.8415193,
+    "longitude": 77.64508409999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/xylon-bar-and-kitchen-electronic-city-bangalore-1363763/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMTnrL_hFhOryZ4IjLchMu3pWaKaWoUFMGo3nrqurzAN_DsMFpiIXm8ptCotkDUqPWUpf0QnCechcbpNDj_hP8T2NIuXIFvdSbw4LACPNb_aeuHX77qPD1GP9eVZ8_fs-2obZEziU_dJnXL=w138-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ2yhNMWptrjsRS65PVFLvtzI",
+   "data_id": "0x3bae6d6a314d28db:0x32b7ef52544fae4b",
+   "title": "Jack's Bar",
+   "address": "Monk Mansion, SY NO 94/1A . Electronic city Phase 1 Veerasandra, Hobli, Attibele, Bengaluru, Karnataka 560100",
+   "city": "Attibele, Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096324 17284",
+   "rating": 4.6,
+   "reviews": 1503,
+   "gps_coordinates": {
+    "latitude": 12.8409793,
+    "longitude": 77.66491529999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/jacks-bar-4-electronic-city-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g5yf_ijwH870xplRE4SiP2ap6Xf3EZS2ABzJCYs7NBv00LylrRrQ1qFth4z66qGUw_Zx3D5ZBlc342ZmSBeoGNhkMpdrwKZwAc-EYzcd15FzZgT-s%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPu0Yo8eLOYVMF_vxWvqqR1xb1d9Yo4BepLoXnrLwL0TmizS6aPtaneRDdzbQJ30oA-e6N6-Ne4wa9xPHq15Vvki8nB9Lpyg2F8SevNGwAFvHPcFlv6OSFByoUeKJKOrj5iqM2a=w138-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJXzL6ldhtrjsRuCiUe5ogIv8",
+   "data_id": "0x3bae6dd895fa325f:0xff22209a7b9428b8",
+   "title": "City Vibes ecity Cocktail Bar & Kitchen",
+   "address": "5th Floor, 121/122, Haripriya Samruddhi, 14th Cross, Neeladri Rd, above Mc Donald's, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096069 83678",
+   "rating": 4.8,
+   "reviews": 101,
+   "website": "https://zomato.onelink.me/xqzv/e6cq2434",
+   "domain": "zomato.onelink.me",
+   "gps_coordinates": {
+    "latitude": 12.8417306,
+    "longitude": 77.64681929999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/city-vibes-electronic-city-koramangala-bangalore-1089804/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP6baiDEKHdxoOE8wG-RyihtIv6D65JH7bav54G0t8gFSK6j85N09H9Rou0tcgDA9ZVw284Llmf3ForKhUU_fkHD2KOLyz7qdeyR-XX5OWdqPA9Dm6xBb6Jo1UQpevNyuQ1ayXtLSQ-z5c6=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJK_DYjyRtrjsRpidHSGoflWU",
+   "data_id": "0x3bae6d248fd8f02b:0x65951f6a484727a6",
+   "title": "46 Ounces Brewgarden",
+   "description": "Chic option for housemade beers & pizza. Stylish, plant-filled craft brewery with expansive outdoor seating options, pizza & snacks.",
+   "address": "Velankani Tech Park, 46, 3 Gate, Velankani Drive, Electronic City Phase I, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "074063 54646",
+   "rating": 4.5,
+   "reviews": 17287,
+   "website": "https://46ounces.com/",
+   "domain": "46ounces.com",
+   "gps_coordinates": {
+    "latitude": 12.849616,
+    "longitude": 77.6578129
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Brewery",
+    "Lunch restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "8 am–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "9 am–5 pm",
+    "saturday": "8 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://46ounces.com/",
+    "source": "46ounces.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMzbWD_wtEhopwWgoo8t35yZhb-MCi_kITvLeGjm8KOwAE7gnLyb0lWi3D36ALNMUbPkhD65Bw-xtyeKxhcsnrBlLa6y0CKxO7-z3jo3Fd67HSp1o8e1kCRBVNkX5cP3tgpOkdBtQ=w205-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJo4IkM9VrrjsRkR3vNDeijzg",
+   "data_id": "0x3bae6bd5332482a3:0x388fa23734ef1d91",
+   "title": "Sherlocks Pub, Electronic City Phase 1",
+   "description": "Low-key spot for cocktails & Indian fare. Mixed drinks & Indian nibbles offered in a spacious, subdued lounge with a pool table & DJ'd music.",
+   "address": "RJRW+P97, Main Road, Neeladri Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2852 3055",
+   "rating": 3.8,
+   "reviews": 1021,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.841797,
+    "longitude": 77.6459355
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11 am–12 am",
+    "monday": "Closed",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "Closed"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPmmxMaCGUOCBhje0Wx3F6RgEm2K6BUfMRHZCiqFWFrXG7nPsW9kn85JLaPmAbAKEm-S4Z0hKd2rCCguAB-UNt7A0f2m_jBFlJP9Cb2Zs2h4Q22KlabxTB7JbB8Yf2YDKJ34Rif1Q=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJ03u9s4RtrjsRgxw0XCalRY8",
+   "data_id": "0x3bae6d84b3bd7bd3:0x8f45a5265c341c83",
+   "title": "TAP House 2.0 Bar & Kitchen Electronic City",
+   "address": "01, Electronic City Phase I, behind Genpact, Electronic City Phase I, Electronic City, Hebbagodi, Karnataka 560100",
+   "city": "Hebbagodi, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090365 48438",
+   "rating": 4.6,
+   "reviews": 323,
+   "gps_coordinates": {
+    "latitude": 12.8394509,
+    "longitude": 77.6652083
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/tap-house-resto-bar-electronic-city-332871",
+    "source": "eazydiner.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN6t2kq3Z-W0Pydfzsbk3I5FK33aCLzVq88a7_pmhvTALQkFU2X_C6Iuar041oa2emlA7jTCElmPmZXAhFuEIrNY2io1MnvViA4UM02Wo1rWDwpg7kBLFCAoI8VrNyvTsnIIgbcj2d-0IrC=w138-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJtT4Lu-9trjsRZ0tKopFurDs",
+   "data_id": "0x3bae6defbb0b3eb5:0x3bac6e91a24a4b67",
+   "title": "Destini Night Club Ecity (Destini Bar & Kitchen )",
+   "address": "3rd Floor, M5 Ecity Mall, Hosur Rd, next to Audi showroom, opposite to Electronic City Flyover, BTM Phase 1, Phase II, Electronic City, Bengaluru, Hebbagodi, Karnataka 560100",
+   "city": "Bengaluru, Hebbagodi, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063606 59595",
+   "rating": 4.6,
+   "reviews": 778,
+   "website": "http://www.clubdestini.com/",
+   "domain": "clubdestini.com",
+   "gps_coordinates": {
+    "latitude": 12.841791,
+    "longitude": 77.676782
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/club-destini-destini-bar-kitchen-electronic-city-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jfxRIoOBs0m6g4RlvaJGHqqpT3bfWLE0NkTrGBTKtLkZSsu1NdjVoi5dOubJB9PQLlHXEjVE7YO8jDsbmvyB2QXQQNMk4TNJWGGV5PZ57pnViW-6E%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOuNdEfjUGzBINuCKqkK1_4J1sLRjbdzWsL7apSx4u4aEECNMYsFdfVihPut8onhNtHkmti8JRGwEs9FqQnP4uHwNyCb8rK8yUbF9rsDFVcrem5bpZcWfp-_jyVJRX7en56KqPrTVoZ6pJz=w137-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJwQFZfnFrrjsRHbl9dheUEMk",
+   "data_id": "0x3bae6b717e5901c1:0xc9109417767db91d",
+   "title": "Fire Station - Bar & Kitchen",
+   "description": "Vibrant gastropub with mixed fare. Firehouse-themed bar & lounge with creative multicuisine fare & sports screenings on TV.",
+   "address": "154, Above Unlimited Store, Neeladri Main Road Electronic City, Doddathoguru, Electronic City Phase I, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "091488 11100",
+   "rating": 4.1,
+   "reviews": 7056,
+   "website": "https://firestationbarandkitchen.com/",
+   "domain": "firestationbarandkitchen.com",
+   "gps_coordinates": {
+    "latitude": 12.8415354,
+    "longitude": 77.6473682
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill",
+    "Bar",
+    "Night club"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/fire-station-1st-phase-electronic-city-bangalore-102346/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN7DwpDFzRFmzadec_wwsVAvHKe_ddAI1aeDYITdQ4IouoGgv0dS5-wXh8cXEbcJJanu-1fDmshBFVY7dGQljrSyl3y0R8i_kyS3kPhCqXHRoBZK1iYt2oQK8D0z2-Ju1g_xTe_=w163-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJsYyr7TxtrjsREAsBU_LCvjc",
+   "data_id": "0x3bae6d3cedab8cb1:0x37bec2f253010b10",
+   "title": "EtOH Rooftop Restaurant | Bar",
+   "address": "Apartment Main gate, Gollahalli Electronic City Road, opp. Shriram Summitt, Gollahalli, Electronic City Phase I, Electronic City, Hebbagodi, Karnataka 560100",
+   "city": "Hebbagodi, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "078999 39698",
+   "rating": 4.6,
+   "reviews": 270,
+   "website": "https://etohrooftopbar.in/",
+   "domain": "etohrooftopbar.in",
+   "gps_coordinates": {
+    "latitude": 12.835908,
+    "longitude": 77.6652782
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "11:30 am–12:30 am",
+    "monday": "11:30 am–12:30 am",
+    "tuesday": "11:30 am–12:30 am",
+    "wednesday": "11:30 am–12:30 am",
+    "thursday": "11:30 am–12:30 am",
+    "friday": "11:30 am–12:30 am",
+    "saturday": "11:30 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://reservex.explorex.co.in/r/d4bc7cd2-ff76-47de-b3aa-b8c2a24c8e2d",
+    "source": "explorex.co.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOCkEvFCLO43Xfcg_ev3HjoVRHlJfiUDFGZbz5iMnN3EA_zbpzl_PZfj0-qef7ji7b7aJvGXjxQexsBXg_ppce90wu6ILfxqOTrpQwkha6GYZmQ4SBm-HkswHwRlU0xZ6onxj1v=w163-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJtTFjoYlrrjsR8UyC70cniOQ",
+   "data_id": "0x3bae6b89a16331b5:0xe4882747ef824cf1",
+   "title": "SECTOR 144 - Electronic City",
+   "address": "5th Floor, 152/2, Rebus Realm 2, Neeladri Rd, opposite to Westside, Karuna Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097316 44144",
+   "rating": 4.7,
+   "reviews": 5180,
+   "website": "https://www.sector144.co/",
+   "domain": "sector144.co",
+   "gps_coordinates": {
+    "latitude": 12.8419788,
+    "longitude": 77.64434729999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11:30 am–12 am",
+    "monday": "11:30 am–12 am",
+    "tuesday": "11:30 am–12 am",
+    "wednesday": "11:30 am–12 am",
+    "thursday": "11:30 am–12 am",
+    "friday": "11:30 am–12 am",
+    "saturday": "11:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/sector-144-electronic-city-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j6xdRzOxhxNkxMOj3q0MBp8SHLd49xO5-QBB-ahDBv8_zt18iXXIQNM2u-3TA0qP_oCyf-9iGY6jC4mVKMo0qICLsRnTsOjjUBgwxGPWY-vWhZ-cs%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPM0g2T5v-xU2f3h4jN__vvzYCLnVrY1iIPiKhkCpntyGnodFcBwmVIqUzkraf8E30rJ9q8nXjRqZ0ps5DrkAVjSfKzG_b5fydnltZq_EK4dar_l54NFdiHB1n1SDtQqWSd8uRmIWVKaJg=w80-h106-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJcZKH7V9trjsRwElmTeRvVp4",
+   "data_id": "0x3bae6d5fed879271:0x9e566fe44d6649c0",
+   "title": "Highlander The Restobar -Best Restaurant and Bar in ECity",
+   "address": "Kiadb Layout, 5th Floor Presidency-Electronic City #47, Phase II, Konappana Agrahara, Karnataka 560100",
+   "city": "Konappana Agrahara, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090190 39101",
+   "rating": 4.7,
+   "reviews": 54,
+   "website": "https://www.highlandertherestobar.com/",
+   "domain": "highlandertherestobar.com",
+   "gps_coordinates": {
+    "latitude": 12.8530076,
+    "longitude": 77.6755203
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "10 am–12:30 am",
+    "monday": "10 am–12:30 am",
+    "tuesday": "10 am–12:30 am",
+    "wednesday": "10 am–12:30 am",
+    "thursday": "10 am–12:30 am",
+    "friday": "10 am–12:30 am",
+    "saturday": "10 am–12:30 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN7a4oaQCDb5AMYXz73PN6h7yDKGbs1oLWCDLqjstOEslqPfAhsY_RxvFmNVX7-phMPIuBnxiMwDI3s2eSYcomQRoPXKeZGiPnwBNLA96INCH2VNP4U5nF0bYMYqaTx7AubK9Via0Cygx8=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJ_Urd89dtrjsRuQZqlVH1N0o",
+   "data_id": "0x3bae6dd7f3dd4afd:0x4a37f551956a06b9",
+   "title": "The 90s Club",
+   "address": "millennium plaza, 396/48, Hosur Rd, Dadi Reddy Layout, Veer Sandra, Electronic City, Bengaluru, Hebbagodi, Karnataka 560100",
+   "city": "Bengaluru, Hebbagodi, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096321 48811",
+   "rating": 4.7,
+   "reviews": 98,
+   "gps_coordinates": {
+    "latitude": 12.8346301,
+    "longitude": 77.6793577
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Bar & grill",
+    "Chinese restaurant",
+    "Cocktail bar",
+    "Diner",
+    "Family restaurant",
+    "Indian restaurant",
+    "Live music bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-90s-club-electronic-city-south-bengaluru-715636",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPJhvbnhiO71Fy91m4P_DLFAY8O7wNvDAaT7fYE2LDIKKLNXw8sVpmcEfgUrnmDS50ilA4CrHbD_InYSli5hkIsr6vZlef64hmPovFis_46rUJ9nUcrI5DO7Pva1WgJ5PvZ98gK1-kS9nii=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJGTYemwlrrjsRGZOacltDH3I",
+   "data_id": "0x3bae6b099b1e3619:0x721f435b729a9319",
+   "title": "Bier Loft - Brewery & Kitchen",
+   "address": "4th Floor, Nishaanth Elegance, Neeladri Rd, opposite Cloudnine Hospital, Neeladri Nagar, Electronic City Phase I, Electronic City, Bengaluru, Doddathoguru, Karnataka 560100",
+   "city": "Bengaluru, Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099000 92920",
+   "rating": 4.6,
+   "reviews": 1171,
+   "website": "https://bier-loft-brewing.localo.site/",
+   "domain": "bier-loft-brewing.localo.site",
+   "gps_coordinates": {
+    "latitude": 12.8415945,
+    "longitude": 77.64455559999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Bar & grill",
+    "Beer garden",
+    "Brewery",
+    "Brewpub",
+    "Lounge bar",
+    "Lunch restaurant",
+    "Restaurant",
+    "Sports bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/bier-loft-brewing-co-electronic-city-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_iYsRkqrODcf1llPoDHfWG7bv55plD-SAnOiZFtW2SKHFEj-4h8lE9ZP7eeq1YJ3froMXNsFVinRXXexFSgJQeoi5LtciKI1j8jkRTw7HA_VqIEHak%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOL79UZZNfIOXJvCG42idrJ7gw_JZ8E0pvTPqCSasnBtsk9xpA1qLfxJrUUKnPc-550yLINk2Bh_qttxzAPlqEzmk6E0NFEMIQo_TDp6c-I1FkKdGmTeznfV0oSaxykD1_q5ZuPgZAFJsbD=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJK-qrYYdtrjsRWgdYG4Z4_Uc",
+   "data_id": "0x3bae6d8761abea2b:0x47fd78861b58075a",
+   "title": "The Circuit",
+   "address": "01, behind Genpact, Electronic City Phase I, Electronic City, Hebbagodi, Karnataka 560100",
+   "city": "Hebbagodi, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.5,
+   "reviews": 67,
+   "gps_coordinates": {
+    "latitude": 12.8394023,
+    "longitude": 77.6652524
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPraCAOCzrVdCU0GE5m-YV_YnX3lXbKrlFtDq8-mzH0V3IEuljSj0n0mTZAALtww7LxVR1bj5okiipprwMA1989wpBWpkvGwXSQEujVsKOEZp5d2cLKUHilROwapLXdFPsMpvU=w80-h106-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJw-QT6QlrrjsRTHGNjJKNEJo",
+   "data_id": "0x3bae6b09e913e4c3:0x9a108d928c8d714c",
+   "title": "E-City SOCIAL",
+   "address": "Nexus PCR, garden Mall, Himagri, Electronic City Phase I, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088288 46579",
+   "rating": 4.3,
+   "reviews": 1074,
+   "website": "https://socialoffline.in/restaurant/e-city-social/",
+   "domain": "socialoffline.in",
+   "gps_coordinates": {
+    "latitude": 12.8436962,
+    "longitude": 77.6449663
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Chinese restaurant",
+    "North Indian restaurant",
+    "Pizza restaurant",
+    "Pub",
+    "Ramen restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "12:30 pm–12:30 am",
+    "monday": "12:30 pm–12:30 am",
+    "tuesday": "12:30 pm–12:30 am",
+    "wednesday": "12:30 pm–12:30 am",
+    "thursday": "12:30 pm–12:30 am",
+    "friday": "12:30 pm–12:30 am",
+    "saturday": "12:30 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://widget.reservego.co/reserveOutlets/672df9cadb478b447ebe2256?source=6",
+    "source": "reservego.co"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPeN0qp9mMGHyMwe4qmpuJtKQHMy-FNTLCzspwKum1TJcMwY6TNVYPpOoaHXrVVPgKWd0xkvA7mbwqt5a3fX5FkAAMLVjEwIVAO7b2wvdqIANhbUqpuJXm8Mwmv_vI7CH5XRA7p=w138-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJOVrqGt9rrjsRk8ByPz0r9Mc",
+   "data_id": "0x3bae6bdf1aea5a39:0xc7f42b3d3f72c093",
+   "title": "BLR Brewing Co - Electronic City",
+   "description": "Hip brewpub with global menu & beer. International meals & beer in a trendy, sizable brewpub with outdoor seats & happy-hour specials.",
+   "address": "4th Floor, 84/4, Neeladri Rd, opposite to Wipro Gate, Karuna Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4710 8277",
+   "rating": 4.4,
+   "reviews": 5049,
+   "website": "http://www.blrbrewing.com/",
+   "domain": "blrbrewing.com",
+   "gps_coordinates": {
+    "latitude": 12.8402997,
+    "longitude": 77.6533977
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Beer garden",
+    "Brewpub",
+    "Pub",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "12 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/blr-brewing-co-electronic-city-bangalore-314969/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNx54hbIVIjXfpQbDeqVR9x5nzKFrynuoAhDFnIGQ3KR_ocFfcj7nZ7YyEN4INor2kpkKKo1PDQFomddkFS3fCl4zUn1kWqGsAipVIcorBssGR9QBykaZOch1kSZsb4sayIn6G2=w148-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJmwChZClrrjsR0W6_qEr7Xr0",
+   "data_id": "0x3bae6b2964a1009b:0xbd5efb4aa8bf6ed1",
+   "title": "Bonjour Resto Pub",
+   "address": "4th & 5th Floor, 63, Neeladri Rd, Karuna Nagar, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+   "city": "Doddathoguru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096060 80160",
+   "rating": 4.2,
+   "reviews": 255,
+   "gps_coordinates": {
+    "latitude": 12.8418968,
+    "longitude": 77.6458933
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Restaurant"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNLK1yCHT_aKcNJDXlzZzIr4Am6pzVBAewfTbxf7uQhwz4Q8BfsRRt-VecLQBaU8KRAVF0DjcOEEOO6LpeXvA_K85BDxKcSqd_Luh78YJy1oOHglWldxcMKWGVzPVgjxGU89Kov=w80-h106-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJGUMOmf9trjsRp3vGgY0kbWM",
+   "data_id": "0x3bae6dff990e4319:0x636d248d81c67ba7",
+   "title": "The Godown",
+   "address": "4th Floor, Laa Moonstone Dream Mart Hyper Market, opp. Shriram Summitt, Gollahalli, Electronic City Phase I, Electronic City, Bengaluru, Hebbagodi, Karnataka 560100",
+   "city": "Bengaluru, Hebbagodi, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.7,
+   "reviews": 185,
+   "website": "http://www.thegodown.in/",
+   "domain": "thegodown.in",
+   "gps_coordinates": {
+    "latitude": 12.8360069,
+    "longitude": 77.6651457
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Amusement center",
+    "Event venue",
+    "Lounge bar",
+    "Sports bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12:30 pm–1 am",
+    "monday": "12:30 pm–1 am",
+    "tuesday": "12:30 pm–1 am",
+    "wednesday": "12:30 pm–1 am",
+    "thursday": "12:30 pm–1 am",
+    "friday": "12:30 pm–1 am",
+    "saturday": "12:30 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/the-godown-electronic-city-koramangala-bangalore-1421892/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNWxoxu-XexXumpiVSTauet9h5S6n1hfcxsOy9vxE--bguIvzbhZ_A1-oegIXCcJI-qUaejASfFEmm4F7CHyq7WXaH3rvRkquM2HCl6_D8YnqtP9Sqm88xp3tzLKRvBGVtTt0UVoK1NCnwg=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJZ4ZdZS9trjsRp6LIv9A_hp4",
+   "data_id": "0x3bae6d2f655d8667:0x9e863fd0bfc8a2a7",
+   "title": "CAFE CALIFORNIA GASTRO BAR ELECTRONIC CITY",
+   "address": "2nd Cross Rd, Kamadhenu Layout, GS Palaya, Phase II, Electronic City, Konappana Agrahara, Karnataka 560100",
+   "city": "Konappana Agrahara, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 1,
+   "gps_coordinates": {
+    "latitude": 12.8491818,
+    "longitude": 77.6739652
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–1 am",
+    "tuesday": "10 am–1 am",
+    "wednesday": "10 am–1 am",
+    "thursday": "10 am–1 am",
+    "friday": "10 am–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM0U6NswAoudop42zQYjgWUQzgnZVSuLHxISfYfOzGO9aY3M0qdYAMdQuEXAvmRSoU0fx7JH5NMv0JAz0uka6qw7NbtvVCiSPi91qjj26OhKM6WHX99RRR-ObXVlpCtd4CM5VIdk2n4udti=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJd1HfAwBrrjsRZwM8aJ00y0U",
+   "data_id": "0x3bae6b0003df5177:0x45cb349d683c0367",
+   "title": "Brew Mill Brewery",
+   "address": "Shop No 4 Sy No 331 Hulimangala Main Road, Neeladri Rd, near Sai Baba Temple, Electronic City, Bengaluru, Karnataka 560105",
+   "city": "Bengaluru, Hulimangala, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090362 79191",
+   "rating": 4.8,
+   "reviews": 824,
+   "website": "https://www.brewmillbangalore.com/",
+   "domain": "brewmillbangalore.com",
+   "gps_coordinates": {
+    "latitude": 12.83234,
+    "longitude": 77.6479006
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Brewpub",
+    "European restaurant",
+    "Pan-Asian restaurant",
+    "Sports bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/brew-mill-electronic-city-koramangala-bangalore-1290709/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO6sdsrBC_6FbaVLuiJ6BNw5jEdizLq-v0bSXGppEmL41PBENawhNEfs_Eu3RfKv3w8zaGHzVUDbDyYlzvehg1tg64IrCIj8p_0BNqK1rtO9pgR8ByCJO3FIvF8MSDyLeW_HKmVt920M4Qr=w122-h92-k-no"
+  }
+ ]
+}

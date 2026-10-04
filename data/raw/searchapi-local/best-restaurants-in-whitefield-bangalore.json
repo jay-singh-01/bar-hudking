@@ -1,0 +1,363 @@
+{
+ "q": "best restaurants in Whitefield Bangalore",
+ "ll": "@12.9698,77.75,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:54.069Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Pump House, Whitefield",
+   "place_id": "ChIJ69qKHosPrjsRFdrhyp9XVWo",
+   "data_id": "0x3bae0f8b1e8adaeb:0x6a55579fcae1da15",
+   "rating": 4.7,
+   "reviews": 13000,
+   "type": "Brewpub",
+   "address": "SH - 35, 87/2A & 87/3 Whitefield, Whitefield - Hoskote Rd",
+   "gps_coordinates": {
+    "latitude": 13.010582,
+    "longitude": 77.759796
+   }
+  },
+  {
+   "position": 2,
+   "title": "ASF - Ancient Stone Flames BBQ & Grill",
+   "place_id": "ChIJ7ZiJMqMRrjsR020nq83Qa4I",
+   "data_id": "0x3bae11a3328998ed:0x826bd0cdab276dd3",
+   "rating": 4.6,
+   "reviews": 5200,
+   "price": "₹1,000–1,200",
+   "extracted_price": {
+    "min": 1000,
+    "max": 1200
+   },
+   "type": "Buffet",
+   "address": "2nd Floor, Plot No 74, EPIP, Road No 3",
+   "gps_coordinates": {
+    "latitude": 12.979995,
+    "longitude": 77.724556
+   }
+  },
+  {
+   "position": 3,
+   "title": "Truffles - Whitefield",
+   "place_id": "ChIJJUUx5IkTrjsR9bp7STK-5gU",
+   "data_id": "0x3bae1389e4314525:0x5e6be32497bbaf5",
+   "rating": 4.5,
+   "reviews": 993,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Restaurant",
+   "address": "Khata No 180/23. Sy No 65/7, Nallurahalli Village, KR Puram Hobli, Bangalore South Taluk",
+   "gps_coordinates": {
+    "latitude": 12.964104,
+    "longitude": 77.73336
+   }
+  },
+  {
+   "position": 4,
+   "title": "Roxie & Barry",
+   "place_id": "ChIJKbuoVGcNrjsRPLzGdk2J2_8",
+   "data_id": "0x3bae0d6754a8bb29:0xffdb894d76c6bc3c",
+   "rating": 4.4,
+   "reviews": 2200,
+   "type": "Fusion restaurant",
+   "address": "101 & 45, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.967002,
+    "longitude": 77.74956
+   }
+  },
+  {
+   "position": 5,
+   "title": "Gardenwoods Rooftop Kitchen Budget Buffet Whitefield, Bengaluru",
+   "place_id": "ChIJERm391ERrjsRkKGlUlvK3-I",
+   "data_id": "0x3bae1151f7b71911:0xe2dfca5b52a5a190",
+   "rating": 4.4,
+   "reviews": 442,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Buffet",
+   "address": "3rd Floor, Plot No 74 EPIP, Rd Number 3",
+   "gps_coordinates": {
+    "latitude": 12.980076,
+    "longitude": 77.7246
+   }
+  },
+  {
+   "position": 6,
+   "title": "Hard Rock Cafe Whitefield",
+   "place_id": "ChIJAwl7EnoRrjsR62wk66pFEH4",
+   "data_id": "0x3bae117a127b0903:0x7e1045aaeb246ceb",
+   "rating": 4.5,
+   "reviews": 6200,
+   "type": "American",
+   "address": "Ground Floor, 40, ITPL Main Rd Unit no.G, 25 & 26",
+   "gps_coordinates": {
+    "latitude": 12.987126,
+    "longitude": 77.73648
+   },
+   "comment": "Music-themed chain with an American menu"
+  },
+  {
+   "position": 7,
+   "title": "Skygarden Best Rooftop Bar & Kitchen Restaurant",
+   "place_id": "ChIJvRAdyG4RrjsRpyqCLtwHgTs",
+   "data_id": "0x3bae116ec81d10bd:0x3b8107dc2e822aa7",
+   "rating": 4.3,
+   "reviews": 7300,
+   "type": "Restaurant",
+   "address": "Metro station, 3rd floor HVP Aster, ITPL Main Rd, near Garudacharpalya",
+   "gps_coordinates": {
+    "latitude": 12.993829,
+    "longitude": 77.70318
+   },
+   "comment": "Upscale rooftop spot with fusion fare"
+  },
+  {
+   "position": 8,
+   "title": "Yuki - Cocktail Bar and Kitchen | Whitefield",
+   "place_id": "ChIJoV_5h4YRrjsR7WRYjorwAUY",
+   "data_id": "0x3bae118687f95fa1:0x4601f08a8e5864ed",
+   "rating": 4.5,
+   "reviews": 868,
+   "type": "Cocktail bar",
+   "address": "Unit No. 3, Second Floor Tower B, PrimeCo Union City, Whitefield Sadaramangala Industrial Area, SY No 76 & 87, Krishnarajapura, hobli",
+   "gps_coordinates": {
+    "latitude": 12.989009,
+    "longitude": 77.73307
+   }
+  },
+  {
+   "position": 9,
+   "title": "Oota Bangalore",
+   "place_id": "ChIJh0MVLo0RrjsRSbyNYTzI0hM",
+   "data_id": "0x3bae118d2e154387:0x13d2c83c618dbc49",
+   "rating": 4.3,
+   "reviews": 3400,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Karnataka restaurant",
+   "address": "7th Floor, Craftworks, 331, 5B Rd",
+   "gps_coordinates": {
+    "latitude": 12.982525,
+    "longitude": 77.72179
+   },
+   "comment": "Elegant spot for South Indian fare",
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "BLR Brewing Co - Whitefield",
+   "place_id": "ChIJq_MCZPQRrjsRR82tjOEMQpg",
+   "data_id": "0x3bae11f46402f3ab:0x98420ce18cadcd47",
+   "rating": 4.6,
+   "reviews": 15000,
+   "type": "Brewpub",
+   "address": "2, behind HDFC Bank",
+   "gps_coordinates": {
+    "latitude": 12.982122,
+    "longitude": 77.70896
+   }
+  },
+  {
+   "position": 11,
+   "title": "Thyme & Whisk Whitefield - Vegetarian Restaurant in Whitefield",
+   "place_id": "ChIJpWQSjeAPrjsRSfDAc1we6Hc",
+   "data_id": "0x3bae0fe08d1264a5:0x77e81e5c73c0f049",
+   "rating": 4.4,
+   "reviews": 1000,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "Survey No 14, Sumadhura Capitol Towers, Thyme & Whisk, Unit No 13/B, 158, Taluk",
+   "gps_coordinates": {
+    "latitude": 12.9848995,
+    "longitude": 77.750565
+   }
+  },
+  {
+   "position": 12,
+   "title": "Dock 66",
+   "place_id": "ChIJccImr2gTrjsRgHqqvhNKl6U",
+   "data_id": "0x3bae1368af26c271:0xa5974a13beaa7a80",
+   "rating": 4.5,
+   "reviews": 3500,
+   "type": "Gastropub",
+   "address": "Doddanakundi Post, LITBOX, G-21, Sy. No. 36/2 and 36/3,, Kundanahalli Village",
+   "gps_coordinates": {
+    "latitude": 12.970976,
+    "longitude": 77.72516
+   }
+  },
+  {
+   "position": 13,
+   "title": "Shokudo - Whitefield",
+   "place_id": "ChIJM4VRovARrjsRSQkjk6ZLmbs",
+   "data_id": "0x3bae11f0a2518533:0xbb994ba693230949",
+   "rating": 4.6,
+   "reviews": 784,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Pan Asian",
+   "address": "Shokudo, 120 B, 3rd Floor, opposite Sathya Sai Metro, above Udupi",
+   "gps_coordinates": {
+    "latitude": 12.979853,
+    "longitude": 77.72707
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Kake Di Hatti Whitefield",
+   "place_id": "ChIJu2zvDMYNrjsRnqvRd2OB2vk",
+   "data_id": "0x3bae0dc60cef6cbb:0xf9da816377d1ab9e",
+   "rating": 4.5,
+   "reviews": 4100,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "North Indian",
+   "address": "Sumeru Arcade, 2, Whitefield Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.965788,
+    "longitude": 77.74929
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Maize & Malt - Craft Brewery & Kitchen",
+   "place_id": "ChIJIdMdBZ4RrjsRe7S7WtbDCfs",
+   "data_id": "0x3bae119e051dd321:0xfb09c3d65abbb47b",
+   "rating": 4.7,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "3, 4th Cross Rd, near Whitefield",
+   "gps_coordinates": {
+    "latitude": 12.995542,
+    "longitude": 77.7011
+   }
+  },
+  {
+   "position": 16,
+   "title": "Lyfe Farm To Fork Restaurant Whitefield",
+   "place_id": "ChIJh1HydEkTrjsR8gBeO_5fP2k",
+   "data_id": "0x3bae134974f25187:0x693f5ffe3b5e00f2",
+   "rating": 4.7,
+   "reviews": 429,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Pizza",
+   "address": "Varthur Main Rd, near Palm Meadows Resort Road",
+   "gps_coordinates": {
+    "latitude": 12.957136,
+    "longitude": 77.74079
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Celeb's Rooftop Pub and Kitchen - Whitefield",
+   "place_id": "ChIJTZb9o4QTrjsRozlth0-eCkQ",
+   "data_id": "0x3bae1384a3fd964d:0x440a9e4f876d39a3",
+   "rating": 4.4,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Restaurant",
+   "address": "Siddhapura Main Rd, above Chowki Multi Cuisine Bar and Kitchen",
+   "gps_coordinates": {
+    "latitude": 12.968828,
+    "longitude": 77.73541
+   }
+  },
+  {
+   "position": 18,
+   "title": "URU (Kaavu) - Whitefield",
+   "place_id": "ChIJSaUs_LYTrjsRiIU1zCUr4rs",
+   "data_id": "0x3bae13b6fc2ca549:0xbbe22b25cc358588",
+   "rating": 4.3,
+   "reviews": 3900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "gps_coordinates": {
+    "latitude": 12.96133,
+    "longitude": 77.73249
+   },
+   "extensions": [
+    "Pattandur Agrahara Village Main Rd"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Nasi and Mee - Whitefield",
+   "place_id": "ChIJnWAmlOIRrjsRLD5np1RVezs",
+   "data_id": "0x3bae11e29426609d:0x3b7b5554a7673e2c",
+   "rating": 4.7,
+   "reviews": 801,
+   "type": "Asian",
+   "address": "Upper ground floor, Nexus Shantiniketan, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.989539,
+    "longitude": 77.72864
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Underdoggs Whitefield",
+   "place_id": "ChIJ2xQQJKsRrjsRaa5O75v2jfo",
+   "data_id": "0x3bae11ab241014db:0xfa8df69bef4eae69",
+   "rating": 4.7,
+   "reviews": 2500,
+   "type": "Restaurant",
+   "address": "Unit No.06, Second Floor No.18, TOWER-B, Primeco Union City, Hobli",
+   "gps_coordinates": {
+    "latitude": 12.988612,
+    "longitude": 77.73316
+   }
+  }
+ ]
+}

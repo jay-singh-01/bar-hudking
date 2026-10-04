@@ -1,0 +1,957 @@
+{
+ "q": "cafes in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "page": 2,
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T18:42:41.728Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJFZpULwATrjsRyFDtLBDNikk",
+   "data_id": "0x3bae13002f549a15:0x498acd102ced50c8",
+   "title": "Red rose cafe",
+   "address": "Babu reddy Building, 6, Outer Ring Rd, near velvet hotel, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 23,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9258207,
+    "longitude": 77.67683339999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 4 am",
+   "open_hours": {
+    "monday": "4 am–11 pm",
+    "tuesday": "4 am–11 pm",
+    "wednesday": "4 am–11 pm",
+    "thursday": "4 am–11 pm",
+    "friday": "4 am–11 pm",
+    "saturday": "4 am–11 pm",
+    "sunday": "4 am–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1RUf1FnjzK5IyuX5rf1p_xf_M4NSYanB6v_Tid-zM3PdSdKnfx5OkpvMuXrUHqv8IZnDMMheXIF8nHIMOrIwGJOCeANwqO8Z2Zu8XoghQLL4ryiKB5elQh2DsvAfbvRGvDHKiTSsGzD-6=w80-h106-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJkVcwPgYTrjsRdrsSb4KtId0",
+   "data_id": "0x3bae13063e305791:0xdd21ad826f12bb76",
+   "title": "Starbucks - Varthur Hobli",
+   "description": "Iconic coffeehouse chain. Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+   "address": "Ground Floor, Indiqube Lakeside, Plot No 80/2, Hobli, Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "1860 266 0010",
+   "rating": 4.4,
+   "reviews": 862,
+   "website": "https://stores.starbucks.in/store-pages/starbucks-bangalore-27/",
+   "domain": "stores.starbucks.in",
+   "gps_coordinates": {
+    "latitude": 12.9236956,
+    "longitude": 77.6711661
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe",
+    "Coffee store",
+    "Restaurant",
+    "Snack bar",
+    "Vegetarian cafe and deli"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–11:45 pm",
+    "tuesday": "7:30 am–11:45 pm",
+    "wednesday": "7:30 am–11:45 pm",
+    "thursday": "7:30 am–11:45 pm",
+    "friday": "7:30 am–11:45 pm",
+    "saturday": "7:30 am–11:45 pm",
+    "sunday": "7:30 am–11:45 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/starbucks-coffee-3-bellandur-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hadmXWMJ7PZqFpW6-wk9HfQTt4hYad2Ip1X_a66J11eyeJdgTdnoJSR05vsJI_e_HBfbqT_0UU8DO3PGS1oroqhS2qf_AmHdRoXcoLYt1oVFZJH0E%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SrBUbt_vBYl-InosYIYzc1iOsqhWga4xRvsL42z895w1Xp6uontZA4f8l8sp0dGuG8DHZ0eyJl2xCK0BEYjGkGC2EIHRPCV3YWReQnk6N5gxnYSSoKmHZwNFMeQf1ZNOr7a4Y=w194-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJ7Yf_C3YTrjsRLngQPWH1Mq0",
+   "data_id": "0x3bae13760bff87ed:0xad32f5613d10782e",
+   "title": "Chai Point - Bellandur",
+   "address": "Salarpuria Softzone, Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088801 41000",
+   "rating": 4.1,
+   "reviews": 814,
+   "website": "https://bellandur.chaipoint.com/",
+   "domain": "bellandur.chaipoint.com",
+   "gps_coordinates": {
+    "latitude": 12.9224156,
+    "longitude": 77.6682771
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Bakery and Cake Shop",
+    "Chocolate cafe",
+    "Coffee shop",
+    "Coffee store",
+    "Juice shop",
+    "Sandwich shop",
+    "Tea house",
+    "Tea store"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7 am",
+   "open_hours": {
+    "monday": "7 am–11 pm",
+    "tuesday": "7 am–11 pm",
+    "wednesday": "7 am–11 pm",
+    "thursday": "7 am–11 pm",
+    "friday": "7 am–11 pm",
+    "saturday": "7 am–11 pm",
+    "sunday": "7 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://shop.chaipoint.com/",
+    "source": "chaipoint.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJXuoRhNlqpMxQcxbNx974rMJfYUPedD92NcMcbCGTHTqJ9DtiSeUVuKNHTrydocyIsZAnVHGnGl2iI9-ikHI48Hf9dBCC72GOloU67GLTl0mOeINlMbMgtRu2vhqPpqgGInU2=w80-h106-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJ7QessnUTrjsRUxOI-Ldi7KU",
+   "data_id": "0x3bae1375b2ac07ed:0xa5ec62b7f8881353",
+   "title": "Gopal Jee Cafe",
+   "description": "Curries & samosas in a low-key space. Easygoing option preparing local staples including curries, samosas, rice dishes & desserts.",
+   "address": "Ground Floor, Behind ARB Complex Opp Akme Harmony Back Gate Ambalipura, Gate, Sarjapur Main Rd, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090350 03283",
+   "rating": 4,
+   "reviews": 2217,
+   "website": "https://www.swiggy.com/direct/brand/89083?source=swiggy-direct&subSource=generic",
+   "domain": "swiggy.com",
+   "gps_coordinates": {
+    "latitude": 12.9216782,
+    "longitude": 77.6718534
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–12 am",
+    "tuesday": "8 am–12 am",
+    "wednesday": "8 am–12 am",
+    "thursday": "8 am–12 am",
+    "friday": "8 am–12 am",
+    "saturday": "8 am–12 am",
+    "sunday": "8 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/gopaljee-cafe-sarjapur-road-bellandur-bangalore-267544/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QtaNknLixgpJ4eNIorA6RU-Ns967p_rNvSXx0mmoFbpE2RevXCUC5ltj2m_ncr1pK5DmwW4y-n0aHkf1hM-k5lE0uCFzRGefv9r3o3DU-1-DmN6N7yWCZqdJEsgot7i4yjxC6SeQ=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJu_RYDl0TrjsRcyXHHBKBzH4",
+   "data_id": "0x3bae135d0e58f4bb:0x7ecc81121cc72573",
+   "title": "Café Amudham Restaurant Sarjapur",
+   "address": "1-2, Suncity Apartments Ln, Ibbaluru, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "070198 65140",
+   "rating": 3.9,
+   "reviews": 528,
+   "website": "https://www.instagram.com/cafeamudham?igsh=MWsxYmM5cDNlMnRvcA==",
+   "domain": "instagram.com",
+   "gps_coordinates": {
+    "latitude": 12.9219944,
+    "longitude": 77.6650609
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Breakfast restaurant",
+    "South Indian restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Restaurant",
+    "Self service restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 6 am",
+   "open_hours": {
+    "sunday": "6 am–1 am",
+    "monday": "6 am–1 am",
+    "tuesday": "6 am–1 am",
+    "wednesday": "6 am–1 am",
+    "thursday": "6 am–1 am",
+    "friday": "6 am–1 am",
+    "saturday": "6 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assisted listening devices",
+       "value": "Offers assisted listening devices"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWm6KxlZBmFYeQEk4plUHsFpywuhMwp0QfZo4ZJRBuVPsLRjq5KA9kzT4quwVB2tnG47OrAo5Kcd_owKIWu4mgNSjvZExwQ56FGRu4YQ04pcaoR4amQP2evN-VkmjYG6X--dnZ-mbXVuZi=w163-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJ18rsBQATrjsRecFEtFWvmek",
+   "data_id": "0x3bae130005eccad7:0xe999af55b444c179",
+   "title": "INDIYEAH CAFE",
+   "address": "477, near, RMZ Ecoworld Rd, doddakannahalli, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 41,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.91871,
+    "longitude": 77.6845367
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T-bVtA_6pdIJN13UuE2so2eO-OafQGFxevru_STunyoeUnpJQqkf3U8tlpIXfa6NxrqCQN77EIy6AhvsLFeOsoawJhKPawA9WqcBsb818SRnvYX1BRu3h51iSHQzMhzs7fHla6HA=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJuTI82Q4TrjsRTtgzvAmbyGI",
+   "data_id": "0x3bae130ed93c32b9:0x62c89b09bc33d84e",
+   "title": "The Bay at Ecoworld",
+   "address": "Adarsh Palm Retreat Villas, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.5,
+   "reviews": 3969,
+   "gps_coordinates": {
+    "latitude": 12.9207657,
+    "longitude": 77.6835983
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–11 pm",
+    "tuesday": "10 am–11 pm",
+    "wednesday": "10 am–11 pm",
+    "thursday": "10 am–11 pm",
+    "friday": "10 am–11 pm",
+    "saturday": "10 am–11 pm",
+    "sunday": "10 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SBdg9dsD961R3OeUtlix-6qPPR_K-vno3731kfVuzkRUuZlrb4pgemnIHbtptYe796NvNCe5L5YehpJBTTQxuFY581UNmbhtA3zV5RlhIYzwMneLVh74PkkP2G83z9v1Ugkbuz=w163-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJS9OAa6gTrjsR6KJCaMi9W_A",
+   "data_id": "0x3bae13a86b80d34b:0xf05bbdc86842a2e8",
+   "title": "iBREW CAFE",
+   "address": "IndianOil Petrol Bunk Service Road, Palm Ave, Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089707 65432",
+   "rating": 4,
+   "reviews": 5,
+   "gps_coordinates": {
+    "latitude": 12.9233124,
+    "longitude": 77.669901
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop"
+   ],
+   "open_state": "Open",
+   "hours": "Open 24 hours",
+   "open_hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "12–8 pm",
+    "sunday": "12–8 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q0F3wLhWyGGDBXareCjbUGNKIgDesO_FCFD18oDHovKtgM6rUyNKyOk5R05kkm4IxTJQNYI2auvQ5hZ6gqpolaSRY-4l5A8b5NmoCEBzOi9KP0IKsUy2rSfS6ZTHoFB4ufYmXTyA=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJ06ruxHUTrjsRkgu6WMUrOP4",
+   "data_id": "0x3bae1375c4eeaad3:0xfe382bc558ba0b92",
+   "title": "Skylit Rooftop Dining",
+   "description": "Modern choice with chic rooftop dining. Refined accommodations in an up-scale setting, with a buffet restaurant, a rooftop lounge & a gym.",
+   "address": "Survey No 80/2, Citrus Hotels, Sharjapur Outer Ring Road Near Bellandur Central Mall, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080678 31000",
+   "rating": 4.1,
+   "reviews": 939,
+   "website": "http://www.citrushotels.com/",
+   "domain": "citrushotels.com",
+   "gps_coordinates": {
+    "latitude": 12.923375,
+    "longitude": 77.671688
+   },
+   "type": "Buffet restaurant",
+   "types": [
+    "Buffet restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open 24 hours",
+   "open_hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/skylit-citrus-hotels-bellandur-335399",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qt-HoaaXLcrmW2zYjALJskw__si6rvAElZJ4s7sPz0Ci1clABScog4POS2Q3xKL4ZNonIZeOzio_KV6d-YR4Xr6BtGIRMVvfLSSJI2k40wprTBiqr-vpSRiijUu92lqxjI4_KR5w=w124-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJnfrfx7ETrjsRjyGZ73k3Zmo",
+   "data_id": "0x3bae13b1c7dffa9d:0x6a663779ef99218f",
+   "title": "Tea Time Bellandur",
+   "address": "Shop no 4, Bellandur Main Rd, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088845 78889",
+   "rating": 4.5,
+   "reviews": 23,
+   "gps_coordinates": {
+    "latitude": 12.9295396,
+    "longitude": 77.6764857
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee shop"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 7:30 am",
+   "open_hours": {
+    "monday": "7:30 am–11:30 pm",
+    "tuesday": "7:30 am–11:30 pm",
+    "wednesday": "7:30 am–11:30 pm",
+    "thursday": "7:30 am–11:30 pm",
+    "friday": "7:30 am–11:30 pm",
+    "saturday": "7:30 am–11:30 pm",
+    "sunday": "7:30 am–11:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SxlFYrITVuI_2ZSTAdG8mTP9a1yP3_noDEzKv8goYRv8anWl7x7MGwSa39OlhjXJX_IF8pAxvAJBNcCkPZV-LDjvuYWqhTd6PRP_oGu3pMiPMbINk8BgNUovShLpX74RGopyjh=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJLx3B02cVrjsRoik-WW8W0Lk",
+   "data_id": "0x3bae1567d3c11d2f:0xb9d0166f593e29a2",
+   "title": "The Pet People Cafe",
+   "address": "19th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099007 03009",
+   "rating": 4.7,
+   "reviews": 1465,
+   "website": "http://www.thepetpeoplecafe.com/",
+   "domain": "thepetpeoplecafe.com",
+   "gps_coordinates": {
+    "latitude": 12.9124858,
+    "longitude": 77.6444174
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "American restaurant",
+    "Bakery and Cake Shop",
+    "Breakfast restaurant",
+    "Coffee roastery",
+    "Coffee shop",
+    "Dog cafe",
+    "Restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–10 pm",
+    "tuesday": "10 am–10 pm",
+    "wednesday": "10 am–10 pm",
+    "thursday": "10 am–10 pm",
+    "friday": "10 am–10 pm",
+    "saturday": "10 am–10 pm",
+    "sunday": "10 am–10 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/the-pet-people-cafe-hsr-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1bqZnEIRQTQbpNc_RNSiXCfWfk4LUNI4wu-2_a-Fx4sNItdfcGn6iZvaOSrED1bKA7Tz4OoBzTHDkV4TLVXLKhFmybRFfOOzkmCZGx7SjrjHPIY7cnPKReJyQ-vajgcRQMV8i=w115-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJ-SW-8j8TrjsRJFKQfFJUGfw",
+   "data_id": "0x3bae133ff2be25f9:0xfc1954527c905224",
+   "title": "Mighty Paws Cafe & Bakery",
+   "address": "Junnasandra, 533, 2nd Main Rd, KPC Layout, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080503 04455",
+   "rating": 4.3,
+   "reviews": 1594,
+   "website": "https://mightypawscafe.com/",
+   "domain": "mightypawscafe.com",
+   "gps_coordinates": {
+    "latitude": 12.9019407,
+    "longitude": 77.67731619999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Bakery and Cake Shop",
+    "Chinese restaurant",
+    "Chinese takeaway",
+    "Italian grocery store",
+    "Live music venue",
+    "Pizza restaurant",
+    "Restaurant",
+    "Sandwich shop"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11:30 am",
+   "open_hours": {
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "9:30 am–11:30 pm",
+    "sunday": "9:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/mighty-paws-sarjapur-road-bellandur-bangalore-37011/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QAAQIyEzoeweH2gG1oy6ana-iGUgqYJTxQ-jVwAfJCTyzv_bFm-ur1SpRZYaghpB3MErhVX_n7038BkMTE0Z4KeIerl1iZf3VIFxGm_Z40b5GH3pbcyYRFrBaLDRMfOCXlnXePxw=w137-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJmf7l4Z8TrjsRoQtYtdXdJ6Q",
+   "data_id": "0x3bae139fe1e5fe99:0xa427ddd5b5580ba1",
+   "title": "McCafe Bengaluru ORR Central Mall",
+   "description": "Chain for specialty coffee & baked goods. McDonald's chain for a variety of specialty coffee drinks, baked goods & other food offerings.",
+   "address": "Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "089283 04123",
+   "rating": 3.8,
+   "reviews": 85,
+   "website": "https://www.mcdelivery.co.in/home",
+   "domain": "mcdelivery.co.in",
+   "gps_coordinates": {
+    "latitude": 12.9259375,
+    "longitude": 77.67531249999999
+   },
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 9 am · Reopens 10 am",
+   "open_hours": {
+    "sunday": "12–9 am, 10 am–12 am",
+    "monday": "12–9 am, 10 am–12 am",
+    "tuesday": "12–9 am, 10 am–12 am",
+    "wednesday": "12–9 am, 10 am–12 am",
+    "thursday": "12–9 am, 10 am–12 am",
+    "friday": "12–9 am, 10 am–12 am",
+    "saturday": "12–9 am, 10 am–12 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q0d3usEKvGD1-6NuONaG0v0GT5IZZaRrQ_v11RpkMh9Mp1kRkKsqD0UMbfvB-WU7QscmOZfs0mjX7AdNL7e4JWe17JjQds2vBtxpSEG4N7UOVG1jCF3bN1lQEGxBkfN8K0eCg=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJeXFzUIoTrjsR4Hzvobq80Dk",
+   "data_id": "0x3bae138a50737179:0x39d0bcbaa1ef7ce0",
+   "title": "Ohh My Cup",
+   "address": "Green Glen Layout, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.1,
+   "reviews": 53,
+   "gps_coordinates": {
+    "latitude": 12.9287522,
+    "longitude": 77.6721235
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 7:30 am",
+   "open_hours": {
+    "sunday": "7:30 am–1 am",
+    "monday": "7:30 am–1 am",
+    "tuesday": "7:30 am–1 am",
+    "wednesday": "7:30 am–1 am",
+    "thursday": "7:30 am–1 am",
+    "friday": "7:30 am–1 am",
+    "saturday": "7:30 am–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRdotRbVTQgIkHskx6sK3rImhEbbJ89u51Qg49JnyMIdZgD70dAPbOUSQF6DZDPcuv4DU-2Lg-3304mE3hP6nHc6TiHcFjBoGiR1zqXk0-NRpX5VrwS31sD8UFm06HBfR4AR8pzA=w80-h106-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJIyjCmioTrjsRX8uhIEEcAhg",
+   "data_id": "0x3bae132a9ac22823:0x18021c4120a1cb5f",
+   "title": "Chianti, The Bay- ECOWORLD",
+   "address": "Ground floor, Unit AR 1, Art Gallery, The Bay, ECOWORLD, Adarsh Palm Retreat Villas, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088673 21715",
+   "rating": 4.8,
+   "reviews": 1711,
+   "website": "http://chiantiristorante.in/",
+   "domain": "chiantiristorante.in",
+   "gps_coordinates": {
+    "latitude": 12.9204088,
+    "longitude": 77.683759
+   },
+   "type": "Italian restaurant",
+   "types": [
+    "Italian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 12 pm",
+   "open_hours": {
+    "monday": "12–10:30 pm",
+    "tuesday": "12–10:30 pm",
+    "wednesday": "12–10:30 pm",
+    "thursday": "12–10:30 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm",
+    "sunday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.chiantiristorante.in/reservations",
+    "source": "chiantiristorante.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SlO0mYOpR9Ino2FwAnEWCiVi19sCoGa9ClaWQ1irpYdKBg0JWIxzvSXBJUpHl0JDp_yuh0AzPX8cp-ErX8JsydnXGHu7HbTeCicqG9n24z8AMypBg8BRgD_B1_gnZ6krZUU2ek=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJeT8DPAATrjsRtMKubi5J-pE",
+   "data_id": "0x3bae13003c033f79:0x91fa492e6eaec2b4",
+   "title": "Buddu's cafe",
+   "address": "WMFF+WWR, central, opp. to Bellandur, near Cafe Coffee day, Bellandur, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 9,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9248564,
+    "longitude": 77.6747711
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHGa_6KgjMoum_9LmyLHUhCIM-nc2YpuLENqxXzjStAFrQdlcJKRjIgNtr6OhuoeWtkCfy3vet1-HEhRK1FDydKoXiOfUbdcjxLfeZMIbQhMYaSbgu70mJ3FPCsQ1Wa148eccHxSTRXCHd=w80-h106-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJf9_M_n4VrjsRCpCUExTD7OU",
+   "data_id": "0x3bae157efeccdf7f:0xe5ecc3141394900a",
+   "title": "Cafe Hustle",
+   "description": "Relaxed haunt for casual dining & drinks. Chill, industrial-style hangout serving sandwiches, pizzas & other familiar eats, plus beverages.",
+   "address": "188/A, 22nd Cross Rd, Sector 3, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096868 55008",
+   "rating": 4.5,
+   "reviews": 1682,
+   "website": "https://www.zomato.com/bangalore/hustle-hsr-bangalore",
+   "domain": "zomato.com",
+   "gps_coordinates": {
+    "latitude": 12.9091244,
+    "longitude": 77.64260019999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe",
+    "Coffee store",
+    "Pizza restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 10 am",
+   "open_hours": {
+    "monday": "10 am–10:30 pm",
+    "tuesday": "10 am–10:30 pm",
+    "wednesday": "10 am–10:30 pm",
+    "thursday": "10 am–10:30 pm",
+    "friday": "10 am–10:30 pm",
+    "saturday": "10 am–10:30 pm",
+    "sunday": "10 am–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/hustle-hsr-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RG763xL8ej24y8gXIgHejZZe7XsIsm4phjuCLsX7NgLS5ymno6owQqG-qXxSqxczHM05KB6nM4kMZsjcW4yYE4OLnOsjB3-jBEatB3ReuIVowac3K-TPVc6nb49SnWxT7M2Vd4=w138-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJIy9C3isTrjsRT95cxRr57k4",
+   "data_id": "0x3bae132bde422f23:0x4eeef91ac55cde4f",
+   "title": "HOC Art Cafe by Samvedya",
+   "address": "28/2 new, Chikkabellandur Main Rd, Carmelaram, Chikkabellandur, Bengaluru, Karnataka 560035",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.6,
+   "reviews": 309,
+   "website": "http://hocartcafe.com/",
+   "domain": "hocartcafe.com",
+   "gps_coordinates": {
+    "latitude": 12.9124362,
+    "longitude": 77.7129016
+   },
+   "type": "Art cafe",
+   "types": [
+    "Art cafe",
+    "Cafe",
+    "Coffee shop",
+    "Lunch restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "Identifies as women-owned"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 8 am",
+   "open_hours": {
+    "monday": "8 am–11 pm",
+    "tuesday": "8 am–11 pm",
+    "wednesday": "8 am–11 pm",
+    "thursday": "8 am–11 pm",
+    "friday": "8 am–11 pm",
+    "saturday": "8 am–11 pm",
+    "sunday": "1–11 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Thz-RqAg2u4UHSO8lu1NEBG9X14qkeQCj4JhSZMFDUB2CRqRoWgpu3s2cYC8I-1QnQkarhxlxfIBea-Js0ehS-RP_YjD2p3J4WDk77gW9k1VhhHL1s7Gcro6MkuqfLj2QjD8fG=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJuZxxYWMTrjsRj4APqUHg-AA",
+   "data_id": "0x3bae136361719cb9:0xf8e041a90f808f",
+   "title": "Salato Cafe and Restaurant",
+   "address": "Vishnu Priya #17/1-7 bellandur gate, Sarjapur Main Rd, beside HDFC Bank, Bellandur, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "082175 81738",
+   "rating": 4.8,
+   "reviews": 68,
+   "website": "https://magicpin.in/Bangalore/Sarjapur-Road/Restaurant/Salato-Cafe-And-Restaurant/store/1553bb2/?utm_source=gbp",
+   "domain": "magicpin.in",
+   "gps_coordinates": {
+    "latitude": 12.9187282,
+    "longitude": 77.6708694
+   },
+   "type": "Indian restaurant",
+   "types": [
+    "Indian restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am",
+   "open_hours": {
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am",
+    "sunday": "11 am–12 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8zP1ZnX3aTQspIdglXfHu2Up3Hw9mOB7Ch7l4lhy2GaZ-XtunIlvsXPZTBi8QNZXhYkaDImNtI_EWqtG721cV2w12sG5EyV-jJ0D5qskhW478Rkss4I9KTTJbMROO9hh-3Rc4=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJc-K8myoTrjsRZzdp41_XNTU",
+   "data_id": "0x3bae132a9bbce273:0x3535d75fe3693767",
+   "title": "CHAI KAPPI",
+   "address": "WMGG+875, Outer Ring Rd, next to Thalassery Restaurant, Bellandur, Bengaluru, Karnataka 560103",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098864 73939",
+   "rating": 4.1,
+   "reviews": 83,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9257674,
+    "longitude": 77.67572299999999
+   },
+   "type": "Cafe",
+   "types": [
+    "Cafe"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 1 am · Reopens 8 am",
+   "open_hours": {
+    "sunday": "8 am–1 am",
+    "monday": "8 am–1 am",
+    "tuesday": "8 am–1 am",
+    "wednesday": "8 am–1 am",
+    "thursday": "8 am–1 am",
+    "friday": "8 am–1 am",
+    "saturday": "8 am–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5dYqh0zeKfo9aQVSGqob4-USiXfk8Dusdw-S8Qilv8nTSdtW__eVpkX_XV7vQ7cp2NpmJIQghk7VVliHIR3BCl1f1ajM5uV-4D0hyLD4vL-9S686OMOlSw9aaRd_hZ6s6zPT5=w199-h92-k-no"
+  }
+ ]
+}

@@ -1,0 +1,389 @@
+{
+ "q": "bars and pubs in Banashankari Bangalore",
+ "ll": "@12.925,77.5567,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:32:34.780Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "GULP - Pub | Bar | Restaurant",
+   "place_id": "ChIJJ8VK978_rjsRCsjieUw-Zno",
+   "data_id": "0x3bae3fbff74ac527:0x7a663e4c79e2c80a",
+   "rating": 4.4,
+   "reviews": 3600,
+   "type": "Bar",
+   "address": "16, Outer Ring Rd, beside dominos pizza",
+   "gps_coordinates": {
+    "latitude": 12.9250145,
+    "longitude": 77.551094
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "HighDrate Restopub Banashankari",
+   "place_id": "ChIJwaAaxBcVrjsRa3TH8m9izBg",
+   "data_id": "0x3bae1517c41aa0c1:0x18cc626ff2c7746b",
+   "rating": 4.2,
+   "reviews": 558,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "631, Master Hirannaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.924499,
+    "longitude": 77.56553
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "DILUTE Barmen Kitchen",
+   "place_id": "ChIJD8hby90VrjsR4-f0ATF6S6g",
+   "data_id": "0x3bae15ddcb5bc80f:0xa84b7a3101f4e7e3",
+   "rating": 4.1,
+   "reviews": 527,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "632, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.924499,
+    "longitude": 77.56534
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Jcubez",
+   "place_id": "ChIJIfEOzoAVrjsR_yApnlDLpwg",
+   "data_id": "0x3bae1580ce0ef121:0x8a7cb509e2920ff",
+   "rating": 4,
+   "reviews": 5200,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "22nd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.92573,
+    "longitude": 77.56407
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Secret Sip | Best Restobar in Banashankari",
+   "place_id": "ChIJaRB6fr8_rjsR2SgqLEEcNhE",
+   "data_id": "0x3bae3fbf7e7a1069:0x11361c412c2a28d9",
+   "rating": 4.6,
+   "reviews": 268,
+   "type": "Bar",
+   "address": "7th Block, 309, 4th Floor, 100 Feet Road, BSK 3rd Stage",
+   "gps_coordinates": {
+    "latitude": 12.922118,
+    "longitude": 77.5583
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Blue Moon Bar and Restaurant",
+   "place_id": "ChIJK6jqTkU_rjsRpPMtsgfDyxk",
+   "data_id": "0x3bae3f454eeaa82b:0x19cbc307b22df3a4",
+   "rating": 3.8,
+   "reviews": 193,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "1, 1st Cross, Subramanyapura Rd",
+   "gps_coordinates": {
+    "latitude": 12.913498,
+    "longitude": 77.55877
+   }
+  },
+  {
+   "position": 7,
+   "title": "The Pump House",
+   "place_id": "ChIJRVGwzyAVrjsRlbxyR5AVHfM",
+   "data_id": "0x3bae1520cfb05145:0xf31d15904772bc95",
+   "rating": 4.5,
+   "reviews": 31000,
+   "type": "Brewpub",
+   "address": "607, 15th Cross, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906626,
+    "longitude": 77.582085
+   },
+   "comment": "Hip modern interiors & craft brews",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "K27 THE PUB",
+   "place_id": "ChIJH2fVqqwVrjsRXUjDeHNGC2o",
+   "data_id": "0x3bae15acaad5671f:0x6a0b467378c3485d",
+   "rating": 3.9,
+   "reviews": 200,
+   "type": "Pub",
+   "address": "27, 27th Cross, opp. Monotype",
+   "gps_coordinates": {
+    "latitude": 12.921603,
+    "longitude": 77.570175
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Topic Craft Bar & Kitchen",
+   "place_id": "ChIJc1Bp6z0_rjsRjDJksR5qiq0",
+   "data_id": "0x3bae3f3deb695073:0xad8a6a1eb164328c",
+   "rating": 4.7,
+   "reviews": 2800,
+   "type": "Pub",
+   "address": "No. 901, Martyrs Street, NICE Road Junction, near Clover Leaf Toll",
+   "gps_coordinates": {
+    "latitude": 12.884697,
+    "longitude": 77.50069
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "M. M. Bar & Restaurant",
+   "place_id": "ChIJuxV4dy8-rjsR0RSurt_3w3Q",
+   "data_id": "0x3bae3e2f777815bb:0x74c3f7dfaeae14d1",
+   "rating": 3.8,
+   "reviews": 895,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "WHJ3+6CC, Kathriguppe Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.930574,
+    "longitude": 77.55353
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "SOHO Cafe, Pub & Grill",
+   "place_id": "ChIJhbh8pPIVrjsRPvqqU9mFsr0",
+   "data_id": "0x3bae15f2a47cb885:0xbdb285d953aafa3e",
+   "rating": 3.9,
+   "reviews": 4300,
+   "type": "Pub",
+   "address": "198, 4th Floor, Old Soho pub n grill, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944537,
+    "longitude": 77.57279
+   },
+   "comment": "Pub fare in relaxed digs with a terrrace",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "1522 The Pub JP Nagar",
+   "place_id": "ChIJEasZOa0VrjsRQxIeG1AbPpA",
+   "data_id": "0x3bae15ad3919ab11:0x903e1b501b1e1243",
+   "rating": 4.2,
+   "reviews": 7000,
+   "type": "Pub",
+   "address": "6th Phase, Chandana, Number 613, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.90621,
+    "longitude": 77.575874
+   },
+   "comment": "Trendy spot for pub grub & music",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Sixth Stage Pub",
+   "place_id": "ChIJOWUqmmc_rjsRv55KK3f_770",
+   "data_id": "0x3bae3f679a2a6539:0xbdefff772b4a9ebf",
+   "rating": 4.3,
+   "reviews": 463,
+   "type": "Brewpub",
+   "address": "2130, Technology Rd",
+   "gps_coordinates": {
+    "latitude": 12.886868,
+    "longitude": 77.51608
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "The Scene - Craft Kitchen & Bar",
+   "place_id": "ChIJT0wEXXMVrjsRMdt4ISU-Ug0",
+   "data_id": "0x3bae15735d044c4f:0xd523e252178db31",
+   "rating": 4.4,
+   "reviews": 3800,
+   "type": "Fine Dining",
+   "address": "773, Outer Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906842,
+    "longitude": 77.58018
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Infinity RS 18",
+   "place_id": "ChIJvZAKHio_rjsRO1IncXubgLs",
+   "data_id": "0x3bae3f2a1e0a90bd:0xbb809b7b7127523b",
+   "rating": 5,
+   "reviews": 3,
+   "type": "Bar",
+   "address": "No. 25, Dr.Vishnuvardhan Rd, Circle",
+   "gps_coordinates": {
+    "latitude": 12.914912,
+    "longitude": 77.56074
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Stories Bar & Kitchen - R.R Nagar",
+   "place_id": "ChIJ3-UlQkM_rjsReTmno3HkCxg",
+   "data_id": "0x3bae3f434225e5df:0x180be471a3a73979",
+   "rating": 4.2,
+   "reviews": 4300,
+   "type": "Bar",
+   "address": "Nos.414 & 415, 3rd floor VADDARAPALYA VILLAGE, Banashankari 5th Stage, opp. to MANTRI ALPYNE",
+   "gps_coordinates": {
+    "latitude": 12.904603,
+    "longitude": 77.52681
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "PATTE SPORTS BENGALURU",
+   "place_id": "ChIJA7Evn_E_rjsR9mJ_gUo9cwo",
+   "data_id": "0x3bae3ff19f2fb103:0xa733d4a817f62f6",
+   "rating": 5,
+   "reviews": 12,
+   "type": "Sports bar",
+   "address": "4th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.909819,
+    "longitude": 77.5577
+   }
+  },
+  {
+   "position": 18,
+   "title": "RS Eighteen Resto Bar & Family Restaurant",
+   "place_id": "ChIJMS0cDwA_rjsRRGl-Tm9l7ao",
+   "data_id": "0x3bae3f000f1c2d31:0xaaed656f4e7e6944",
+   "rating": 5,
+   "reviews": 5,
+   "type": "Bar",
+   "address": "WH76+X8G, Kadirenahalli circle",
+   "gps_coordinates": {
+    "latitude": 12.91494,
+    "longitude": 77.560814
+   }
+  },
+  {
+   "position": 19,
+   "title": "Kadamba Restaurant And Bar",
+   "place_id": "ChIJw38xmIIVrjsRQbCatGpSNpM",
+   "data_id": "0x3bae158298317fc3:0x9336526ab49ab041",
+   "rating": 3.9,
+   "reviews": 1100,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Grill",
+   "address": "27th Cross Road, Banashankari 2nd stage",
+   "gps_coordinates": {
+    "latitude": 12.921628,
+    "longitude": 77.57014
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Saarai Bar & Kitchen",
+   "place_id": "ChIJzb7BWZAVrjsResEZ1db4Ie0",
+   "data_id": "0x3bae159059c1becd:0xed21f8d6d519c17a",
+   "rating": 4.6,
+   "reviews": 1700,
+   "type": "Pub",
+   "address": "First & Second Floor, 728, 13th Cross",
+   "gps_coordinates": {
+    "latitude": 12.9237385,
+    "longitude": 77.57378
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

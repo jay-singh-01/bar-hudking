@@ -1,0 +1,382 @@
+{
+ "q": "best restaurants in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:33.796Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Copper Kitchen Restaurant",
+   "place_id": "ChIJFyeoU58VrjsRn6cWjXmdt5M",
+   "data_id": "0x3bae159f53a82717:0x93b79d798d16a79f",
+   "rating": 4.3,
+   "reviews": 6000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Modern Indian restaurant",
+   "address": "L 147, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914947,
+    "longitude": 77.63214
+   }
+  },
+  {
+   "position": 2,
+   "title": "The Spicy Plate - HSR Layout | Authentic North Indian Food",
+   "place_id": "ChIJMX1sg3UVrjsRg4gboDJhY1g",
+   "data_id": "0x3bae1575836c7d31:0x58636132a01b8883",
+   "rating": 4.5,
+   "reviews": 983,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "North Indian",
+   "address": "4th Floor, 95, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912467,
+    "longitude": 77.63929
+   }
+  },
+  {
+   "position": 3,
+   "title": "SOMRAS BAR & KITCHEN",
+   "place_id": "ChIJ5aUHr6QVrjsRN_LujB9jGVc",
+   "data_id": "0x3bae15a4af07a5e5:0x5719631f8ceef237",
+   "rating": 4.8,
+   "reviews": 7300,
+   "type": "Grill",
+   "address": "2331, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912077,
+    "longitude": 77.6495
+   }
+  },
+  {
+   "position": 4,
+   "title": "The Dreaming Tree Restaurant",
+   "place_id": "ChIJD1N5qMoVrjsRT4ytQFYZaUs",
+   "data_id": "0x3bae15caa879530f:0x4b69195640ad8c4f",
+   "rating": 4.7,
+   "reviews": 476,
+   "type": "Vegetarian",
+   "address": "4th Floor, Shabari Arcade, Nos 39, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91138,
+    "longitude": 77.638
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "The Dome Cafe - HSR Layout",
+   "place_id": "ChIJ2a3bnVcVrjsRaESTIVZS5Kg",
+   "data_id": "0x3bae15579ddbadd9:0xa8e4525621934468",
+   "rating": 4.1,
+   "reviews": 1800,
+   "type": "Eclectic",
+   "address": "5th floor, #16, 9th main, 17th Cross Rd, above Lenskart",
+   "gps_coordinates": {
+    "latitude": 12.912226,
+    "longitude": 77.63595
+   }
+  },
+  {
+   "position": 6,
+   "title": "Oyster, Bar & Kitchen",
+   "place_id": "ChIJa-jPFNsVrjsRkXlyYRsufk4",
+   "data_id": "0x3bae15db14cfe86b:0x4e7e2e1b61727991",
+   "rating": 4.5,
+   "reviews": 9400,
+   "type": "Restaurant",
+   "address": "#36, 3rd floor, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.911843,
+    "longitude": 77.63791
+   }
+  },
+  {
+   "position": 7,
+   "title": "BLR Brewing Co - HSR Layout",
+   "place_id": "ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+   "data_id": "0x3bae15804ad3fe67:0x722e32f9dba764b1",
+   "rating": 4.4,
+   "reviews": 3700,
+   "type": "Brewery",
+   "address": "1st Floor, 450, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.912324,
+    "longitude": 77.6416
+   }
+  },
+  {
+   "position": 8,
+   "title": "Light of Italy",
+   "place_id": "ChIJO8xaIwIVrjsRoJaH5hEOo5Y",
+   "data_id": "0x3bae1502235acc3b:0x96a30e11e68796a0",
+   "rating": 4.7,
+   "reviews": 4500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Italian",
+   "address": "669, 13th cross, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91607,
+    "longitude": 77.651085
+   }
+  },
+  {
+   "position": 9,
+   "title": "CEVI - Fine Dine Indian Restaurant, HSR Layout",
+   "place_id": "ChIJtb-KLvoVrjsR6JaMUlM01lA",
+   "data_id": "0x3bae15fa2e8abfb5:0x50d63453528c96e8",
+   "rating": 4.4,
+   "reviews": 871,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Fine Dining",
+   "address": "1508, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916841,
+    "longitude": 77.64504
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Dhaba Stories HSR",
+   "place_id": "ChIJU7WZ2Y8VrjsR8SsbKPAhK7Y",
+   "data_id": "0x3bae158fd999b553:0xb62b21f0281b2bf1",
+   "rating": 4.2,
+   "reviews": 2000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Punjabi",
+   "address": "No 23,4th Floor, Above SVS Drops, 14th Main, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.91428,
+    "longitude": 77.63838
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "The Chill House - Restaurant | HSR Layout",
+   "place_id": "ChIJ82f0WWUVrjsRjrkZpmxO1xU",
+   "data_id": "0x3bae156559f467f3:0x15d74e6ca619b98e",
+   "rating": 4.3,
+   "reviews": 326,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "Rooftop # 1329, 24th Main Rd, opp. indiqube orion",
+   "gps_coordinates": {
+    "latitude": 12.903849,
+    "longitude": 77.64899
+   }
+  },
+  {
+   "position": 12,
+   "title": "To Be Continued Sky Lounge TBC",
+   "place_id": "ChIJd9DFZ4AUrjsRMvg9cEl-fJM",
+   "data_id": "0x3bae148067c5d077:0x937c7e49703df832",
+   "rating": 4.4,
+   "reviews": 15000,
+   "type": "Restaurant",
+   "address": "2795, 27th Main Rd, near Sony Center",
+   "gps_coordinates": {
+    "latitude": 12.922893,
+    "longitude": 77.65145
+   }
+  },
+  {
+   "position": 13,
+   "title": "Go Native HSR",
+   "place_id": "ChIJv6dxP_UVrjsRM3WLfv9Yh5Y",
+   "data_id": "0x3bae15f53f71a7bf:0x968758ff7e8b7533",
+   "rating": 4.4,
+   "reviews": 5600,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Vegetarian",
+   "address": "29, 14th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913355,
+    "longitude": 77.63831
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Imperio Restaurant - HSR Layout",
+   "place_id": "ChIJ79NgRu4VrjsRgbHG8a2jrbM",
+   "data_id": "0x3bae15ee4660d3ef:0xb3ada3adf1c6b181",
+   "rating": 4.4,
+   "reviews": 6100,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Biryani",
+   "address": "495, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.911682,
+    "longitude": 77.64952
+   }
+  },
+  {
+   "position": 15,
+   "title": "CoalSpark Restaurant",
+   "place_id": "ChIJp_lBrbAVrjsR4QlnHFexCHU",
+   "data_id": "0x3bae15b0ad41f9a7:0x7508b1571c6709e1",
+   "rating": 4.6,
+   "reviews": 7800,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "Link Rd",
+   "gps_coordinates": {
+    "latitude": 12.9037075,
+    "longitude": 77.64996
+   }
+  },
+  {
+   "position": 16,
+   "title": "Marseli - Cafe & Patisserie",
+   "place_id": "ChIJv2bQbJgVrjsRJESE9pxBv0A",
+   "data_id": "0x3bae15986cd066bf:0x40bf419cf6844424",
+   "rating": 4.5,
+   "reviews": 2300,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916336,
+    "longitude": 77.64912
+   }
+  },
+  {
+   "position": 17,
+   "title": "Si Nonna's - The Original Sourdough Pizza | HSR Layout | Bengaluru",
+   "place_id": "ChIJsSTrjqwVrjsROOOv0ly5mn8",
+   "data_id": "0x3bae15ac8eeb24b1:0x7f9ab95cd2afe338",
+   "rating": 4.5,
+   "reviews": 1200,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Pizza",
+   "address": "Ground Floor, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915395,
+    "longitude": 77.63243
+   }
+  },
+  {
+   "position": 18,
+   "title": "House of Commons",
+   "place_id": "ChIJxalH0JEUrjsR9ZZLrQDrQdg",
+   "data_id": "0x3bae1491d047a9c5:0xd841eb00ad4b96f5",
+   "rating": 4.2,
+   "reviews": 20000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Grill",
+   "address": "Ground 1085, 14th Main Rd, near McDonalds",
+   "gps_coordinates": {
+    "latitude": 12.911869,
+    "longitude": 77.63884
+   }
+  },
+  {
+   "position": 19,
+   "title": "Olive Street Food Cafe - HSR LAYOUT",
+   "place_id": "ChIJQ3bQq8UVrjsRaWFXJ7hwcv0",
+   "data_id": "0x3bae15c5abd07643:0xfd7270b827576169",
+   "rating": 4.5,
+   "reviews": 2300,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Keralan",
+   "address": "2727/1, 16th Cross, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91263,
+    "longitude": 77.653046
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Andhra Vilas",
+   "place_id": "ChIJP-xMj3oVrjsRBGWYBhgd1lw",
+   "data_id": "0x3bae157a8f4cec3f:0x5cd61d1806986504",
+   "rating": 4.4,
+   "reviews": 4000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Ground Floor, Andhra vilas 245, 245, 19th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.914001,
+    "longitude": 77.64457
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  }
+ ]
+}

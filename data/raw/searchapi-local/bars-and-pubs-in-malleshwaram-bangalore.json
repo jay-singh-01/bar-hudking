@@ -1,0 +1,340 @@
+{
+ "q": "bars and pubs in Malleshwaram Bangalore",
+ "ll": "@13.0077,77.5694,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:40:26.339Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Enne",
+   "place_id": "ChIJq5nfHMUXrjsR_l6XfL8J4y8",
+   "data_id": "0x3bae17c51cdf99ab:0x2fe309bf7c975efe",
+   "rating": 4,
+   "reviews": 4100,
+   "type": "South Indian",
+   "address": "3rd floor, #30, 1st cross road, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.994254,
+    "longitude": 77.57121
+   }
+  },
+  {
+   "position": 2,
+   "title": "1522 The Pub Malleshwara",
+   "place_id": "ChIJ5SxvnYE9rjsR2l1qVKmLTNg",
+   "data_id": "0x3bae3d819d6f2ce5:0xd84c8ba9546a5dda",
+   "rating": 4.3,
+   "reviews": 11000,
+   "type": "Pub",
+   "address": "1522, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.007805,
+    "longitude": 77.55712
+   },
+   "comment": "Roomy rock-music bar with live events"
+  },
+  {
+   "position": 3,
+   "title": "High Ultra Lounge",
+   "place_id": "ChIJAauS2Io9rjsR1nsLNuuOMw4",
+   "data_id": "0x3bae3d8ad892ab01:0xe338eeb360b7bd6",
+   "rating": 4.1,
+   "reviews": 7900,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Lounge bar",
+   "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.012283,
+    "longitude": 77.556145
+   },
+   "comment": "Chic rooftop bar & Asian restaurant"
+  },
+  {
+   "position": 4,
+   "title": "White Horse",
+   "place_id": "ChIJ_____4w9rjsRPo2kOJuIUhg",
+   "data_id": "0x3bae3d8cffffffff:0x1852889b38a48d3e",
+   "rating": 4.3,
+   "reviews": 1100,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Sports bar",
+   "address": "Shop No, Lepakshi Building, 1522, 17th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.00781,
+    "longitude": 77.5571
+   }
+  },
+  {
+   "position": 5,
+   "title": "District 6 - Best German Microbrewery in Bangalore | Pub Rajajinagar",
+   "place_id": "ChIJtcHnw3g9rjsROTzAoEmcyQw",
+   "data_id": "0x3bae3d78c3e7c1b5:0xcc99c49a0c03c39",
+   "rating": 4.4,
+   "reviews": 13000,
+   "type": "Pub",
+   "address": "G-03, G-04, G-05 26/1, Dr Rajkumar Road, Malleshwaram",
+   "gps_coordinates": {
+    "latitude": 13.012419,
+    "longitude": 77.554756
+   },
+   "comment": "Rustic-chic German eatery & brewpub"
+  },
+  {
+   "position": 6,
+   "title": "Stories Bar & Kitchen - Rajajinagar",
+   "place_id": "ChIJuxfxieE9rjsRdZMmxqUeJG8",
+   "data_id": "0x3bae3de189f117bb:0x6f241ea5c6269375",
+   "rating": 4.1,
+   "reviews": 10000,
+   "type": "Bar",
+   "address": "4th Floor, 1st Block, 77, Chord Rd",
+   "gps_coordinates": {
+    "latitude": 13.008554,
+    "longitude": 77.5491
+   },
+   "comment": "Modern, indoor/outdoor cocktail bar"
+  },
+  {
+   "position": 7,
+   "title": "Copper Finch",
+   "place_id": "ChIJ-dumm509rjsRBmSfHIrsnQA",
+   "data_id": "0x3bae3d9d9ba6dbf9:0x9dec8a1c9f6406",
+   "rating": 4.6,
+   "reviews": 106,
+   "type": "Pub",
+   "address": "3, Industrial Suburb, opp. to Sheraton Hotel",
+   "gps_coordinates": {
+    "latitude": 13.01233,
+    "longitude": 77.554054
+   }
+  },
+  {
+   "position": 8,
+   "title": "Geist Brewing Co. Rajajinagar",
+   "place_id": "ChIJ9U4P4j49rjsRtI-gNgfLpV4",
+   "data_id": "0x3bae3d3ee20f4ef5:0x5ea5cb0736a08fb4",
+   "rating": 4.3,
+   "reviews": 673,
+   "type": "Brewpub",
+   "address": "UG - 09 C, Upper Ground Floor, Orion Mall, Brigade Gateway 26 / 1 Dr Rajkumar Road, Malleswaram, West",
+   "gps_coordinates": {
+    "latitude": 13.0115185,
+    "longitude": 77.555374
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Jetlag Bar and Grill",
+   "place_id": "ChIJO8sFs-Q9rjsRP0IHDscpyi8",
+   "data_id": "0x3bae3de4b305cb3b:0x2fca29c70e07423f",
+   "rating": 4.1,
+   "reviews": 11000,
+   "type": "Pub",
+   "gps_coordinates": {
+    "latitude": 13.012291,
+    "longitude": 77.5541
+   },
+   "extensions": [
+    "opp. to Sherton Hotel"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Betta Restobar",
+   "place_id": "ChIJfSE13GgXrjsRaN5hMRiDQzQ",
+   "data_id": "0x3bae1768dc35217d:0x344383183161de68",
+   "rating": 4.7,
+   "reviews": 301,
+   "type": "Bar",
+   "address": "Shop No.370, Devyani International- Betta Restobar, 14th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.009106,
+    "longitude": 77.58088
+   }
+  },
+  {
+   "position": 11,
+   "title": "TOY BOY",
+   "place_id": "ChIJ94ZytNMXrjsRojH-V2WqMUE",
+   "data_id": "0x3bae17d3b47286f7:0x4131aa6557fe31a2",
+   "rating": 4.6,
+   "reviews": 1600,
+   "type": "Pub",
+   "address": "Third Floor, Lulu Global Mall, Magadi Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9812565,
+    "longitude": 77.56375
+   }
+  },
+  {
+   "position": 12,
+   "title": "Samudra Bar & Restaurant",
+   "place_id": "ChIJW_5ezjsWrjsRnlMUuAEJE98",
+   "data_id": "0x3bae163bce5efe5b:0xdf130901b814539e",
+   "rating": 4,
+   "reviews": 1500,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bar",
+   "address": "Nagappa St",
+   "gps_coordinates": {
+    "latitude": 12.988922,
+    "longitude": 77.57506
+   }
+  },
+  {
+   "position": 13,
+   "title": "Sequence Restobar",
+   "place_id": "ChIJmUvhnZAXrjsRjmHiUfD5M2Q",
+   "data_id": "0x3bae17909de14b99:0x6433f9f051e2618e",
+   "rating": 4.8,
+   "reviews": 48,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "12, Nagappa St",
+   "gps_coordinates": {
+    "latitude": 12.988918,
+    "longitude": 77.57506
+   }
+  },
+  {
+   "position": 14,
+   "title": "Blue Galaxy Bar & Kitchen",
+   "place_id": "ChIJW_JblVIXrjsRiWYkDbcZ-dI",
+   "data_id": "0x3bae1752955bf25b:0xd2f919b70d246689",
+   "rating": 4.6,
+   "reviews": 252,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "Subedar Chatram Rd",
+   "gps_coordinates": {
+    "latitude": 12.9779215,
+    "longitude": 77.57534
+   }
+  },
+  {
+   "position": 15,
+   "title": "Blotto",
+   "place_id": "ChIJmVNxVwcXrjsRCXsoTiovXQw",
+   "data_id": "0x3bae170757715399:0xc5d2f2a4e287b09",
+   "rating": 4.4,
+   "reviews": 88,
+   "type": "Bar",
+   "address": "196/36, Sankeys Cross Rd",
+   "gps_coordinates": {
+    "latitude": 13.005663,
+    "longitude": 77.580605
+   }
+  },
+  {
+   "position": 16,
+   "title": "Hydeout Bar and Lounge at Sheraton Grand Bangalore Hotel @ Brigade Gateway",
+   "place_id": "ChIJ3TB2wng9rjsRCqUr1KgqO78",
+   "data_id": "0x3bae3d78c27630dd:0xbf3b2aa8d42ba50a",
+   "rating": 4.2,
+   "reviews": 128,
+   "type": "Bar",
+   "address": "4th Floor, at, Sheraton Grand, Brigade Gateway, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.011183,
+    "longitude": 77.556984
+   },
+   "comment": "Upscale Italian spot with a city view"
+  },
+  {
+   "position": 17,
+   "title": "Be Luru - Craft Kitchen & Bar",
+   "place_id": "ChIJFUTnd94XrjsR5sRu1-13cCs",
+   "data_id": "0x3bae17de77e74415:0x2b7077edd76ec4e6",
+   "rating": 4.4,
+   "reviews": 434,
+   "type": "Bar",
+   "address": "8th Floor, 10, Sankey Rd, next to BDA Head Office",
+   "gps_coordinates": {
+    "latitude": 12.997589,
+    "longitude": 77.584305
+   },
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Byg Brewski Brewing Company - Yeshwanthpur",
+   "place_id": "ChIJ4-hNdOY9rjsRw38EKrpQNyc",
+   "data_id": "0x3bae3de6744de8e3:0x273750ba2a047fc3",
+   "rating": 4.3,
+   "reviews": 4500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Brewpub",
+   "address": "4th floor, Vaishnavi Sapphire Centre, Tumkur Rd",
+   "gps_coordinates": {
+    "latitude": 13.024355,
+    "longitude": 77.54897
+   }
+  },
+  {
+   "position": 19,
+   "title": "CHIN LUNG RESTO BAR Majestic , Gandhinagar",
+   "place_id": "ChIJvdFUrNIXrjsRvYvc85Mgw4A",
+   "data_id": "0x3bae17d2ac54d1bd:0x80c32093f3dc8bbd",
+   "rating": 4.5,
+   "reviews": 1400,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "19 & 20, 3rd Main Rd, opposite Sapna Book House",
+   "gps_coordinates": {
+    "latitude": 12.976182,
+    "longitude": 77.57866
+   }
+  },
+  {
+   "position": 20,
+   "title": "KALINGA BAR AND RESTAURANT",
+   "place_id": "ChIJfbVpXJEXrjsRmS-af2YgSyg",
+   "data_id": "0x3bae17915c69b57d:0x284b20667f9a2f99",
+   "rating": 3.9,
+   "reviews": 18,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Bar",
+   "address": "XHWC+M8H, 43/1, Mahakavi Kuvempu Rd",
+   "gps_coordinates": {
+    "latitude": 12.996692,
+    "longitude": 77.570854
+   }
+  }
+ ]
+}

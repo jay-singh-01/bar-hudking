@@ -1,0 +1,446 @@
+{
+ "q": "best restaurants in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:41:20.718Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "To Be Continued Sky Lounge TBC",
+   "place_id": "ChIJd9DFZ4AUrjsRMvg9cEl-fJM",
+   "data_id": "0x3bae148067c5d077:0x937c7e49703df832",
+   "rating": 4.4,
+   "reviews": 15000,
+   "type": "Restaurant",
+   "address": "2795, 27th Main Rd, near Sony Center",
+   "gps_coordinates": {
+    "latitude": 12.922893,
+    "longitude": 77.65145
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Aroma restaurant",
+   "place_id": "ChIJ9cdnbAATrjsRxDqjv9C4G1A",
+   "data_id": "0x3bae13006c67c7f5:0x501bb8d0bfa33ac4",
+   "rating": 4.5,
+   "reviews": 52,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "Near",
+   "gps_coordinates": {
+    "latitude": 12.928964,
+    "longitude": 77.67726
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Little Italy Restaurant",
+   "place_id": "ChIJTX-ZM3cTrjsRbtkkc4BYdxU",
+   "data_id": "0x3bae137733997f4d:0x157758807324d96e",
+   "rating": 4.1,
+   "reviews": 3800,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Italian",
+   "address": "Sri Balaji Serenity Ambalipura Village Varthur, 12/3/2, Ambalipura - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.9201,
+    "longitude": 77.66707
+   },
+   "comment": "Stylish chain preparing Italian cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "The Pizza Bakery - Bellandur",
+   "place_id": "ChIJcZroTOoTrjsR_9eCA9pX63A",
+   "data_id": "0x3bae13ea4ce89a71:0x70eb57da0382d7ff",
+   "rating": 4.4,
+   "reviews": 2100,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pizza",
+   "address": "8A, RMZ ECOWORLD, Unit #2, The Bay Campus, Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.920286,
+    "longitude": 77.685165
+   },
+   "comment": "Charming spot for sourdough pizza & pasta",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Shuddh Desi Bites",
+   "place_id": "ChIJAx0oq_4TrjsR2PDdXWzlkZk",
+   "data_id": "0x3bae13feab281d03:0x9991e56c5dddf0d8",
+   "rating": 4.7,
+   "reviews": 179,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "North Indian",
+   "address": "Shop No.5, NR Layout Rd, near GreenField Apartments",
+   "gps_coordinates": {
+    "latitude": 12.922119,
+    "longitude": 77.67727
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Tue"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Daily Sushi - Bellandur",
+   "place_id": "ChIJP6YnWZcTrjsRD6PpdGnFZa4",
+   "data_id": "0x3bae13975927a63f:0xae65c56974e9a30f",
+   "rating": 4.5,
+   "reviews": 402,
+   "type": "Japanese",
+   "address": "Kiosk No.3, The Market Place, RMZ Ecoworld 30, Adarsh Palm Retreat Internal Rd",
+   "gps_coordinates": {
+    "latitude": 12.920605,
+    "longitude": 77.68741
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Helen’s Place Marathahalli",
+   "place_id": "ChIJISjqf-gTrjsRX8zXxHlAKkg",
+   "data_id": "0x3bae13e87fea2821:0x482a4079c4d7cc5f",
+   "rating": 4.3,
+   "reviews": 5600,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Restaurant",
+   "address": "No 90 Above Titan World, Marathahalli , Service Road, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.950847,
+    "longitude": 77.69989
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Gopal Jee Cafe",
+   "place_id": "ChIJ7QessnUTrjsRUxOI-Ldi7KU",
+   "data_id": "0x3bae1375b2ac07ed:0xa5ec62b7f8881353",
+   "rating": 4,
+   "reviews": 2200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "Ground Floor, Behind ARB Complex Opp Akme Harmony Back Gate Ambalipura, Gate, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.921679,
+    "longitude": 77.67185
+   },
+   "comment": "Curries & samosas in a low-key space",
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "New Nammane Oota",
+   "place_id": "ChIJF0hP3FoTrjsRkYkj4p379jo",
+   "data_id": "0x3bae135adc4f4817:0x3af6fb9de2238991",
+   "rating": 4.8,
+   "reviews": 165,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Chinese",
+   "address": "Ambalipura-Sarjapur Road, Bellandur Gate Rd, behind HDFC Bank",
+   "gps_coordinates": {
+    "latitude": 12.91947,
+    "longitude": 77.67099
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Erivum Puliyum Restaurant (EP Kitchen)",
+   "place_id": "ChIJ66tO4rMTrjsRsG0kGPmKQZA",
+   "data_id": "0x3bae13b3e24eabeb:0x90418af918246db0",
+   "rating": 4.2,
+   "reviews": 820,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Keralan",
+   "address": "Ground floor, No, 6 & 7, Ambalipura - Sarjapur Rd, behind Louis Philippe Showroom",
+   "gps_coordinates": {
+    "latitude": 12.9204035,
+    "longitude": 77.66721
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Chili's Grill & Bar",
+   "place_id": "ChIJEe881A4TrjsRaK7-ToQpI1c",
+   "data_id": "0x3bae130ed43cef11:0x572329844efeae68",
+   "rating": 4.3,
+   "reviews": 4200,
+   "type": "Tex Mex",
+   "address": "Ground Floor, RMZ ECOWORLD, The Bay, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.920177,
+    "longitude": 77.68408
+   },
+   "comment": "Lively chain for Tex-Mex & American eats",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Udupi Nalapaka",
+   "place_id": "ChIJP0egcaYTrjsR9JURSp-v5_c",
+   "data_id": "0x3bae13a671a0473f:0xf7e7af9f4a1195f4",
+   "rating": 4.1,
+   "reviews": 3800,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Vegetarian",
+   "address": "55/2, Service Rd, opp. Sakra World Hospital",
+   "gps_coordinates": {
+    "latitude": 12.931553,
+    "longitude": 77.686066
+   },
+   "comment": "Mixed fare in simple surrounds",
+   "extensions": [
+    "Closed",
+    "Opens 6 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Nalapaka express",
+   "place_id": "ChIJkYMXZc4TrjsRMT0tNPYR-ww",
+   "data_id": "0x3bae13ce65178391:0xcfb11f6342d3d31",
+   "rating": 4.2,
+   "reviews": 760,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "Sobha, Sakra World Hospital",
+   "gps_coordinates": {
+    "latitude": 12.931715,
+    "longitude": 77.68474
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "BLR Brewing Co. - Eco World",
+   "place_id": "ChIJHwudLAATrjsRS3A-XkqdJ10",
+   "data_id": "0x3bae13002c9d0b1f:0x5d279d4a5e3e704b",
+   "rating": 4.2,
+   "reviews": 381,
+   "type": "Brewery",
+   "address": "RMZ ECOWORLD, UNIT NO R5, GROUND FLOOR, THE BAY, BUILDING, B.B, Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.920164,
+    "longitude": 77.68493
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Mani's Dum Biryani - Bellandur",
+   "place_id": "ChIJ6Z3UdHUTrjsRlfNH4fZ6ftg",
+   "data_id": "0x3bae137574d49de9:0xd87e7af6e147f395",
+   "rating": 4.1,
+   "reviews": 4700,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "Central Mall, 13, varadhani complex,Opp Bangalore, Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.924268,
+    "longitude": 77.673706
+   },
+   "comment": "Meat & veggie biryani fast food outlet",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "BG's Poolside Bar & Grill",
+   "place_id": "ChIJYf66NqcTrjsRLkpnS7b6ptg",
+   "data_id": "0x3bae13a736bafe61:0xd8a6fab64b674a2e",
+   "rating": 4.2,
+   "reviews": 454,
+   "type": "Grill",
+   "address": "Marathahalli - Sarjapur Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.927933,
+    "longitude": 77.682625
+   },
+   "comment": "Multi-cuisine restaurant & bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "KOKO",
+   "place_id": "ChIJ116PQYIVrjsRf3FiXYSq07w",
+   "data_id": "0x3bae1582418f5ed7:0xbcd3aa845d62717f",
+   "rating": 4.4,
+   "reviews": 963,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Asian",
+   "address": "Prestige Icon, 4121/S HAL, 2nd Stage Kodihalli",
+   "gps_coordinates": {
+    "latitude": 12.960166,
+    "longitude": 77.647934
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Thyme & Whisk | Vegetarian Restaurant in Sarjapur Bangalore",
+   "place_id": "ChIJ7ZlBb5gTrjsRebm6qfgcHdY",
+   "data_id": "0x3bae13986f4199ed:0xd61d1cf8a9bab979",
+   "rating": 4.2,
+   "reviews": 3300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "Ground Floor, Kumar Arcade, Sy No 10/3, Khata no 2055 Kainkondrahalli Village, Varthur Hobli, off, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.916079,
+    "longitude": 77.67303
+   },
+   "comment": "Chic choice for global veggie fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Adyar Ananda Bhavan - A2B",
+   "place_id": "ChIJPySnW54TrjsRWBLDgMg9Y4Q",
+   "data_id": "0x3bae139e5ba7243f:0x84633dc880c31258",
+   "rating": 4.3,
+   "reviews": 833,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "Shop No 626, 3rd Main Road, Cherry Ln",
+   "gps_coordinates": {
+    "latitude": 12.9274235,
+    "longitude": 77.67174
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Asia Alive - Global Dining",
+   "place_id": "ChIJB5j4qXATrjsRcVjvx0v3VKc",
+   "data_id": "0x3bae1370a9f89807:0xa754f74bc7ef5871",
+   "rating": 4,
+   "reviews": 769,
+   "type": "Buffet",
+   "address": "Iblur Gate, Outer Ring Road Marathahalli-Bellandur-Sarjapur Outer Ring Road, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.919075,
+    "longitude": 77.66512
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am"
+   ]
+  }
+ ]
+}

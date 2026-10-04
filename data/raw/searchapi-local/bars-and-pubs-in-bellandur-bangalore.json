@@ -1,0 +1,316 @@
+{
+ "q": "bars and pubs in Bellandur Bangalore",
+ "ll": "@12.9299,77.6834,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:40:21.511Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Biergarten Bellandur",
+   "place_id": "ChIJ4Vg9UwATrjsR9XMVx-RLoIY",
+   "data_id": "0x3bae1300533d58e1:0x86a04be4c71573f5",
+   "rating": 4.6,
+   "reviews": 11000,
+   "type": "Brewpub",
+   "address": "57/2/10, Bellandur - Doddakannelli Rd",
+   "gps_coordinates": {
+    "latitude": 12.92975,
+    "longitude": 77.68548
+   }
+  },
+  {
+   "position": 2,
+   "title": "Radio Bar Bangalore",
+   "place_id": "ChIJP1VvHAATrjsRMPXQQozKKy0",
+   "data_id": "0x3bae13001c6f553f:0x2d2bca8c42d0f530",
+   "rating": 4.3,
+   "reviews": 718,
+   "type": "Bar",
+   "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay",
+   "gps_coordinates": {
+    "latitude": 12.920866,
+    "longitude": 77.68592
+   }
+  },
+  {
+   "position": 3,
+   "title": "Deck of Brews- Brewery & Kitchen",
+   "place_id": "ChIJPduVcHETrjsRS0EL_cMmaFE",
+   "data_id": "0x3bae13717095db3d:0x516826c3fd0b414b",
+   "rating": 4.2,
+   "reviews": 4000,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "Gear School Rd",
+   "gps_coordinates": {
+    "latitude": 12.932716,
+    "longitude": 77.69659
+   }
+  },
+  {
+   "position": 4,
+   "title": "Tropika Brewing Co",
+   "place_id": "ChIJnytVQY0TrjsR_Cs1pYPdg1Y",
+   "data_id": "0x3bae138d41552b9f:0x5683dd83a5352bfc",
+   "rating": 4.5,
+   "reviews": 5800,
+   "type": "Brewpub",
+   "address": "37/1, Outer Ring Rd, next to Shell Petrol Bunk",
+   "gps_coordinates": {
+    "latitude": 12.942437,
+    "longitude": 77.69751
+   }
+  },
+  {
+   "position": 5,
+   "title": "Publik",
+   "place_id": "ChIJ5Xg4eLkTrjsRte62mqLAxrw",
+   "data_id": "0x3bae13b9783878e5:0xbcc6c0a29ab6eeb5",
+   "rating": 4.3,
+   "reviews": 4300,
+   "type": "Bar",
+   "address": "57 1A, Outer Ring Rd, opp. Sakra Hospital Road",
+   "gps_coordinates": {
+    "latitude": 12.929969,
+    "longitude": 77.68581
+   },
+   "comment": "Stylish bar with global fare & cocktails"
+  },
+  {
+   "position": 6,
+   "title": "Tipsy Bull- The Bar Exchange",
+   "place_id": "ChIJTSGow3UTrjsRlMlNbphrG9s",
+   "data_id": "0x3bae1375c3a8214d:0xdb1b6b986e4dc994",
+   "rating": 4,
+   "reviews": 9500,
+   "type": "Pub",
+   "address": "4th Floor, 74, above ICICI Bank",
+   "gps_coordinates": {
+    "latitude": 12.92408,
+    "longitude": 77.67163
+   },
+   "comment": "Colorful & eclectic international venue"
+  },
+  {
+   "position": 7,
+   "title": "Echo Cocktail and Tapas Bar",
+   "place_id": "ChIJ68i1DBgTrjsRBFLxhFn11VM",
+   "data_id": "0x3bae13180cb5c8eb:0x53d5f55984f15204",
+   "rating": 4.7,
+   "reviews": 409,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "2nd floor, Aloft, Cessna Business Park Sarjapur, Outer Ring Rd, near Marathahalli",
+   "gps_coordinates": {
+    "latitude": 12.936801,
+    "longitude": 77.6952
+   }
+  },
+  {
+   "position": 8,
+   "title": "Bellandur SOCIAL",
+   "place_id": "ChIJc6UoZAATrjsRg9NLB7-9kZM",
+   "data_id": "0x3bae13006428a573:0x9391bdbf074bd383",
+   "rating": 4,
+   "reviews": 6400,
+   "type": "Bar",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.937812,
+    "longitude": 77.69472
+   }
+  },
+  {
+   "position": 9,
+   "title": "Gladia Brewery & Kitchen",
+   "place_id": "ChIJG2DbcwATrjsRewiFE157kFI",
+   "data_id": "0x3bae130073db601b:0x52907b5e1385087b",
+   "rating": 4.6,
+   "reviews": 3700,
+   "type": "Brewpub",
+   "address": "SY No. 82/4B, Sarjapur Main Rd, beside Wipro Limited",
+   "gps_coordinates": {
+    "latitude": 12.910821,
+    "longitude": 77.68505
+   }
+  },
+  {
+   "position": 10,
+   "title": "The Bier Library Brewery & Kitchen, Sarjapur Road",
+   "place_id": "ChIJRTk2E0ITrjsRQagEw7TGkZA",
+   "data_id": "0x3bae134213363945:0x9091c6b4c304a841",
+   "rating": 4.5,
+   "reviews": 7900,
+   "type": "Brewpub",
+   "address": "138/52, Sarjapur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.90881,
+    "longitude": 77.689
+   }
+  },
+  {
+   "position": 11,
+   "title": "HIDDEN BUNKER PUB",
+   "place_id": "ChIJS5ZMLqcTrjsRvUX3NZz-ImA",
+   "data_id": "0x3bae13a72e4c964b:0x6022fe9c35f745bd",
+   "rating": 4.1,
+   "reviews": 186,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "36/1, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.941771,
+    "longitude": 77.697044
+   }
+  },
+  {
+   "position": 12,
+   "title": "TBC Sky Lounge - Kadubisanahalli- Marathahalli Outer Ring Road | Fabulous Terrace Lounge- Rooftop Restaurant & Bar",
+   "place_id": "ChIJMaqAe7ETrjsRNIPc6ouBw4Y",
+   "data_id": "0x3bae13b17b80aa31:0x86c3818beadc8334",
+   "rating": 4.3,
+   "reviews": 9500,
+   "type": "Lounge bar",
+   "address": "5th Floor, Berry's Hotel, 36/1, Marathahalli - Sarjapur Outer Ring Rd, opposite JP Morgan",
+   "gps_coordinates": {
+    "latitude": 12.941811,
+    "longitude": 77.697105
+   }
+  },
+  {
+   "position": 13,
+   "title": "Reboot The Pub",
+   "place_id": "ChIJzbyn-BQTrjsRx5l9t_JuHrI",
+   "data_id": "0x3bae1314f8a7bccd:0xb21e6ef2b77d99c7",
+   "rating": 4.6,
+   "reviews": 3600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "No. 90/2, and 90/3, Above Titan World Marathahalli Outer Ring Road, Service Rd, opposite Iron Hill",
+   "gps_coordinates": {
+    "latitude": 12.9509325,
+    "longitude": 77.700035
+   }
+  },
+  {
+   "position": 14,
+   "title": "Big Pitcher Sarjapur",
+   "place_id": "ChIJo9YQrPUTrjsRiBqlGeSMzd8",
+   "data_id": "0x3bae13f5ac10d6a3:0xdfcd8ce419a51a88",
+   "rating": 4.5,
+   "reviews": 12000,
+   "type": "Brewery",
+   "address": "Doddakannelli, 116/9, Ambalipura - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.909794,
+    "longitude": 77.688515
+   },
+   "comment": "Spacious brewpub with entertainment"
+  },
+  {
+   "position": 15,
+   "title": "Hoot Craftworks 2.0",
+   "place_id": "ChIJp-P_fzwTrjsR3Ctu6DxKWAk",
+   "data_id": "0x3bae133c7fffe3a7:0x9584a3ce86e2bdc",
+   "rating": 4.2,
+   "reviews": 23000,
+   "type": "Brewery",
+   "address": "Block 2, Village, Varthur, BBMP, 2034/69, Ambalipura - Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.914086,
+    "longitude": 77.67859
+   },
+   "comment": "Hip indoor-outdoor brewpub with dancing"
+  },
+  {
+   "position": 16,
+   "title": "Ironhill Bengaluru",
+   "place_id": "ChIJt62F1qwTrjsRzahuMZAxxYM",
+   "data_id": "0x3bae13acd685adb7:0x83c53190316ea8cd",
+   "rating": 4.7,
+   "reviews": 44000,
+   "type": "Brewery",
+   "address": "Sy no 90, 7 & 90/8, Outer Ring Rd, beside Radisson Blu 8",
+   "gps_coordinates": {
+    "latitude": 12.950891,
+    "longitude": 77.69873
+   }
+  },
+  {
+   "position": 17,
+   "title": "Runway 27 Taproom and Kitchen",
+   "place_id": "ChIJ22dlU9QTrjsRrHwhJ4UeyXc",
+   "data_id": "0x3bae13d4536567db:0x77c91e8527217cac",
+   "rating": 4.1,
+   "reviews": 956,
+   "type": "Restaurant",
+   "address": "Yemalur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.950114,
+    "longitude": 77.68967
+   }
+  },
+  {
+   "position": 18,
+   "title": "Vapour Brewpub and Diner",
+   "place_id": "ChIJwSXQpRITrjsRMR9USpPyAg8",
+   "data_id": "0x3bae1312a5d025c1:0xf02f2934a541f31",
+   "rating": 4.1,
+   "reviews": 18000,
+   "type": "Brewpub",
+   "address": "7th Bren Mercury, Sarjapur - Marathahalli Rd, Above Reliance Digital",
+   "gps_coordinates": {
+    "latitude": 12.914341,
+    "longitude": 77.67735
+   },
+   "comment": "Chic lounge bar & international dining"
+  },
+  {
+   "position": 19,
+   "title": "Atlantis Brewery",
+   "place_id": "ChIJ85cIXUsVrjsRixdjo1sh9xA",
+   "data_id": "0x3bae154b5d0897f3:0x10f7215ba363178b",
+   "rating": 4.4,
+   "reviews": 4100,
+   "type": "Pan Asian",
+   "address": "SY NO 38, 38/5, Sarjapur Rd",
+   "gps_coordinates": {
+    "latitude": 12.923943,
+    "longitude": 77.640305
+   }
+  },
+  {
+   "position": 20,
+   "title": "Panacea lounge and cocktail restobar",
+   "place_id": "ChIJ20p7ZQATrjsROgGt9avgpzA",
+   "data_id": "0x3bae1300657b4adb:0x30a7e0abf5ad013a",
+   "rating": 4.7,
+   "reviews": 114,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Lounge bar",
+   "address": "2ND FLOOR, 35, Marathahalli - Sarjapur Outer Ring Rd, opposite to Oracle and Jp Morgan",
+   "gps_coordinates": {
+    "latitude": 12.9414015,
+    "longitude": 77.6967
+   }
+  }
+ ]
+}

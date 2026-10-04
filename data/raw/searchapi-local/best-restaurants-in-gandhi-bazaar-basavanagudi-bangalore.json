@@ -1,0 +1,469 @@
+{
+ "q": "best restaurants in Gandhi Bazaar Basavanagudi Bangalore",
+ "ll": "@12.9445,77.5712,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:29:04.217Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Atithyaa (Since 1986)",
+   "place_id": "ChIJGQAElvMVrjsR3jk85-1pnnE",
+   "data_id": "0x3bae15f396040019:0x719e69ede73c39de",
+   "rating": 4.4,
+   "reviews": 1700,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "South Indian",
+   "address": "93, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.947241,
+    "longitude": 77.56907
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Jalandhar Street",
+   "place_id": "ChIJhV1OVwAVrjsRjFZr8AojzW0",
+   "data_id": "0x3bae1500574e5d85:0x6dcd230af06b568c",
+   "rating": 4.6,
+   "reviews": 4600,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Buffet",
+   "address": "6/1, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944354,
+    "longitude": 77.57242
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Vidyarthi Bhavan",
+   "place_id": "ChIJNdCK6PIVrjsR3I4feeftf-0",
+   "data_id": "0x3bae15f2e88ad035:0xed7fede7791f8edc",
+   "rating": 4.2,
+   "reviews": 59000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "32, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.945046,
+    "longitude": 77.57138
+   },
+   "comment": "Low-key vegetarian south Indian eatery",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Shiv Sagar Signature",
+   "place_id": "ChIJ5buBh7IVrjsRQmPUshmSmjk",
+   "data_id": "0x3bae15b28781bbe5:0x399a9219b2d46342",
+   "rating": 4.1,
+   "reviews": 1400,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Indian",
+   "address": "86, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.947644,
+    "longitude": 77.56846
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Dwarkamai Pure Veg Restaurant",
+   "place_id": "ChIJfz8OaLkVrjsRT59I1slHIas",
+   "data_id": "0x3bae15b9680e3f7f:0xab2147c9d6489f4f",
+   "rating": 4,
+   "reviews": 3100,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "North Indian",
+   "gps_coordinates": {
+    "latitude": 12.944188,
+    "longitude": 77.572685
+   },
+   "extensions": [
+    "Gandhi Bazaar Main Rd",
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Udupi Sri Krishna Bhavan",
+   "place_id": "ChIJBaBV_PIVrjsRw8M-LXOs4Yo",
+   "data_id": "0x3bae15f2fc55a005:0x8ae1ac732d3ec3c3",
+   "rating": 4.2,
+   "reviews": 6800,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "No.115, WHWC+C7J, 116, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.94612,
+    "longitude": 77.570625
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Soupoustik Gandhi Bazaar",
+   "place_id": "ChIJQYP5DegVrjsRKaJUgtnCSc0",
+   "data_id": "0x3bae15e80df98341:0xcd49c2d98254a229",
+   "rating": 4.9,
+   "reviews": 321,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Soup shop",
+   "address": "ICE THUNDER",
+   "gps_coordinates": {
+    "latitude": 12.94547,
+    "longitude": 77.57099
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "ELAICHI RESTAURANT, DVG ROAD",
+   "place_id": "ChIJY2-dJJgVrjsRlawWP9dlf3s",
+   "data_id": "0x3bae1598249d6f63:0x7b7f65d73f16ac95",
+   "rating": 4.4,
+   "reviews": 110,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Rajasthani Restaurant",
+   "address": "30/2, Surveyor street, DV Gundappa Rd, opposite Jain bakes",
+   "gps_coordinates": {
+    "latitude": 12.947469,
+    "longitude": 77.57167
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Maha Lakshmi Tiffin Room",
+   "place_id": "ChIJbzNR2vIVrjsRLP9V_dvPfNQ",
+   "data_id": "0x3bae15f2da51336f:0xd47ccfdbfd55ff2c",
+   "rating": 4.2,
+   "reviews": 6100,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.947018,
+    "longitude": 77.5715
+   },
+   "extensions": [
+    "Closed",
+    "Opens 6:30 am Mon"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Mumbai Pav Co. - Gandhi Bazaar - MPC",
+   "place_id": "ChIJK_jFjuwVrjsRB-dmkiGvtXI",
+   "data_id": "0x3bae15ec8ec5f82b:0x72b5af219266e707",
+   "rating": 4.1,
+   "reviews": 244,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Maharashtrian Restaurant",
+   "address": "81/1, Gandhi Bazaar Main Rd, below Samsung Experience Store",
+   "gps_coordinates": {
+    "latitude": 12.947099,
+    "longitude": 77.56873
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Baisakhi",
+   "place_id": "ChIJtRgsB_MVrjsRP5zTbJyw_pk",
+   "data_id": "0x3bae15f3072c18b5:0x99feb09c6cd39c3f",
+   "rating": 4.3,
+   "reviews": 5200,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Punjabi",
+   "address": "112, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.946394,
+    "longitude": 77.57033
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "FOOD ADDA BANGALORE",
+   "place_id": "ChIJa3q8a6wVrjsR0LnCOSvjHcU",
+   "data_id": "0x3bae15ac6bbc7a6b:0xc51de32b39c2b9d0",
+   "rating": 4.1,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Fast Food",
+   "address": "18/1 ground floor, BBMP south, Bull Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.946753,
+    "longitude": 77.56798
+   },
+   "extensions": [
+    "On the menu: best restaurants"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Rogue Elephant",
+   "place_id": "ChIJYbwCEJMVrjsRStpDfF8cTOY",
+   "data_id": "0x3bae15931002bc61:0xe64c1c5f7c43da4a",
+   "rating": 4.1,
+   "reviews": 4200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Mediterranean",
+   "address": "33, Rashtriya Vidyalaya Rd",
+   "gps_coordinates": {
+    "latitude": 12.940388,
+    "longitude": 77.57992
+   },
+   "comment": "Garden cafe with Continental fare",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "U D ROTIGHAR (BHARJARI OOTA & PARTY HALL)",
+   "place_id": "ChIJL9oe6vIVrjsR5Y5-CWNUTOc",
+   "data_id": "0x3bae15f2ea1eda2f:0xe74c5463097e8ee5",
+   "rating": 4.1,
+   "reviews": 19000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Indian",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.944896,
+    "longitude": 77.5718
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Basaveshwar Khanavali",
+   "place_id": "ChIJeV2ZeAAVrjsRdJFutUVUdSU",
+   "data_id": "0x3bae150078995d79:0x25755445b56e9174",
+   "rating": 4.5,
+   "reviews": 141,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "opp. Roti Ghar",
+   "gps_coordinates": {
+    "latitude": 12.944899,
+    "longitude": 77.57179
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Haldiram's",
+   "place_id": "ChIJcXHdJusVrjsRV3Zl4yugmbk",
+   "data_id": "0x3bae15eb26dd7171:0xb999a02be3657657",
+   "rating": 4.4,
+   "reviews": 3900,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Family-friendly",
+   "address": "Shop No.75, Ground Floor, Vanivilas Rd",
+   "gps_coordinates": {
+    "latitude": 12.948076,
+    "longitude": 77.56987
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Upahara Darshini",
+   "place_id": "ChIJfYwpLIwVrjsRGNDHysIdZsY",
+   "data_id": "0x3bae158c2c298c7d:0xc6661dc2cac7d018",
+   "rating": 4.2,
+   "reviews": 5500,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "DV Gundappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.939313,
+    "longitude": 77.5714
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Adyar Ananda Bhavan - A2B",
+   "place_id": "ChIJ2RnT_FcVrjsRIDPQ0iCaDbU",
+   "data_id": "0x3bae1557fcd319d9:0xb50d9a20d2d03320",
+   "rating": 4.2,
+   "reviews": 4700,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "200, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944449,
+    "longitude": 77.573
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Pramukh Family Restaurant - Prassidhi Enterprises",
+   "place_id": "ChIJP1r3wfIVrjsRSUS_Vp88_nU",
+   "data_id": "0x3bae15f2c1f75a3f:0x75fe3c9f56bf4449",
+   "rating": 4,
+   "reviews": 1200,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Family-friendly",
+   "address": "5, Mallaraiah Complex, 1st Floor, Gandhi Bazaar Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.944175,
+    "longitude": 77.57266
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "CUBBONPETE TIFFIN ROOM",
+   "place_id": "ChIJgwuR-SkVrjsRP0dxlBTlql0",
+   "data_id": "0x3bae1529f9910b83:0x5daae5149471473f",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Restaurant",
+   "address": "9/46, W Anjaneya Temple St",
+   "gps_coordinates": {
+    "latitude": 12.945944,
+    "longitude": 77.5686
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am Mon"
+   ]
+  }
+ ]
+}

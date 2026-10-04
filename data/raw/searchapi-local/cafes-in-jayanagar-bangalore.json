@@ -1,0 +1,457 @@
+{
+ "q": "cafes in Jayanagar Bangalore",
+ "ll": "@12.9293,77.5852,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:27:57.628Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Isobel Coffee House",
+   "place_id": "ChIJFWyPP8UVrjsR52K_N_AhcfM",
+   "data_id": "0x3bae15c53f8f6c15:0xf37121f037bf62e7",
+   "rating": 4.5,
+   "reviews": 2700,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Coffee shop",
+   "address": "No. 1/3, 275, 9th A Main",
+   "gps_coordinates": {
+    "latitude": 12.939491,
+    "longitude": 77.58462
+   }
+  },
+  {
+   "position": 2,
+   "title": "THE BLOOM - Cafe & Patisserie",
+   "place_id": "ChIJ_9vE1GMVrjsRwTjBNrqXpXQ",
+   "data_id": "0x3bae1563d4c4dbff:0x74a597ba36c138c1",
+   "rating": 4.4,
+   "reviews": 2800,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "448, 18th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9261465,
+    "longitude": 77.58984
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Mon"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Secret Spot Cafe",
+   "place_id": "ChIJmdY8aAcVrjsRNaRPAtYsHh0",
+   "data_id": "0x3bae1507683cd699:0x1d1e2cd6024fa435",
+   "rating": 3.8,
+   "reviews": 1600,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "387 71-4, 11th Main Rd, opposite to max showroom",
+   "gps_coordinates": {
+    "latitude": 12.931007,
+    "longitude": 77.58598
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Mixnosh | Art Cafe, Jayanagar",
+   "place_id": "ChIJNVW0szMVrjsRblhwzPG_LS8",
+   "data_id": "0x3bae1533b3b45535:0x2f2dbff1cc70586e",
+   "rating": 4.8,
+   "reviews": 1200,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Art cafe",
+   "address": "Ground Floor, 13 th cross, 732, 36th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.923708,
+    "longitude": 77.574234
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Beanlore - Jayanagar",
+   "place_id": "ChIJswGty8MVrjsR1VWHCmtA548",
+   "data_id": "0x3bae15c3cbad01b3:0x8fe7406b0a8755d5",
+   "rating": 4.1,
+   "reviews": 646,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "85, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.919195,
+    "longitude": 77.58091
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am Mon"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Tea Villa Cafe Jayanagar",
+   "place_id": "ChIJJ9p7sAcVrjsRpAgXeEDhTlI",
+   "data_id": "0x3bae1507b07bda27:0x524ee140781708a4",
+   "rating": 4,
+   "reviews": 6500,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "183, 16, 5th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.927573,
+    "longitude": 77.58081
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "The Bangalore Cafe",
+   "place_id": "ChIJo0tJmV8VrjsR0vWuyvPK9DM",
+   "data_id": "0x3bae155f99494ba3:0x33f4caf3caaef5d2",
+   "rating": 4.3,
+   "reviews": 13000,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "4, Kengal Hanumanthaiah Rd",
+   "gps_coordinates": {
+    "latitude": 12.961559,
+    "longitude": 77.594696
+   }
+  },
+  {
+   "position": 8,
+   "title": "Brewing Untold Stories",
+   "place_id": "ChIJs6MQyP4VrjsRJmfH9LglW_c",
+   "data_id": "0x3bae15fec810a3b3:0xf75b25b8f4c76726",
+   "rating": 4.4,
+   "reviews": 456,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Cafe",
+   "address": "Ground Floor 2, 40th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.919978,
+    "longitude": 77.58982
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Iris Café & Kitchen, JP Nagar",
+   "place_id": "ChIJ_1emfJ8VrjsRlA1C2tIHeDg",
+   "data_id": "0x3bae159f7ca657ff:0x387807d2da420d94",
+   "rating": 4.5,
+   "reviews": 3400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "735, 16th Cross, 29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905674,
+    "longitude": 77.58318
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Café Amudham Restaurant Basavanagudi",
+   "place_id": "ChIJ3xLGpUEVrjsRw4-DP0uV2rs",
+   "data_id": "0x3bae1541a5c612df:0xbbda954b3f838fc3",
+   "rating": 4.2,
+   "reviews": 4600,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "Ground Floor, No. 31, Rashtriya Vidyalaya Rd, opp. Vijaya College",
+   "gps_coordinates": {
+    "latitude": 12.940201,
+    "longitude": 77.57992
+   }
+  },
+  {
+   "position": 11,
+   "title": "Offbeat Cafe",
+   "place_id": "ChIJDSq65SQVrjsRdSnhs0JNxn0",
+   "data_id": "0x3bae1524e5ba2a0d:0x7dc64d42b3e12975",
+   "rating": 4.3,
+   "reviews": 167,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "25, 3rd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.929783,
+    "longitude": 77.5796
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Ground Up Coffee & Roastery",
+   "place_id": "ChIJR3mWbXcVrjsRC9pJZEGkBLA",
+   "data_id": "0x3bae15776d967947:0xb004a4416449da0b",
+   "rating": 4.4,
+   "reviews": 605,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "265, T Mariappa Rd",
+   "gps_coordinates": {
+    "latitude": 12.93784,
+    "longitude": 77.58529
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Studio Cafe",
+   "place_id": "ChIJw1c_BpcVrjsRHhI3aDdBGHs",
+   "data_id": "0x3bae1597063f57c3:0x7b1841376837121e",
+   "rating": 4.7,
+   "reviews": 1000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "street, south end circle, 16-25, Pattalamma Temple Rd",
+   "gps_coordinates": {
+    "latitude": 12.937351,
+    "longitude": 77.57984
+   },
+   "comment": "Cosy locale for snacks & desserts",
+   "extensions": [
+    "Closed",
+    "Opens 11 am Tue"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Blue Tokai Coffee Roasters | Jayanagar",
+   "place_id": "ChIJI07gg0IVrjsRbzuWqyD8tjE",
+   "data_id": "0x3bae154283e04e23:0x31b6fc20ab963b6f",
+   "rating": 4.5,
+   "reviews": 777,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "303/A-38, 10th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.922657,
+    "longitude": 77.58463
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Toffee And Talk - Best Cafe in Jayanagar Bangalore",
+   "place_id": "ChIJeTLvKnYVrjsRUi6G2Jc-k20",
+   "data_id": "0x3bae15762aef3279:0x6d933e97d8862e52",
+   "rating": 4.5,
+   "reviews": 663,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "36th Cross, 20th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.923159,
+    "longitude": 77.59066
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Funzy Cafe - Jayanagar",
+   "place_id": "ChIJLdcMmikVrjsReOPPLJG0HVE",
+   "data_id": "0x3bae15299a0cd72d:0x511db4912ccfe378",
+   "rating": 4.4,
+   "reviews": 986,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "46th Cross Rd, beside Naarithva",
+   "gps_coordinates": {
+    "latitude": 12.917203,
+    "longitude": 77.58683
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJ9aAFdEkVrjsRV4wLwQo7CkY",
+   "data_id": "0x3bae15497405a0f5:0x460a3b0ac10b8c57",
+   "rating": 4.4,
+   "reviews": 2500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "220, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.921008,
+    "longitude": 77.58357
+   },
+   "extensions": [
+    "Closes soon",
+    "12 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Bengaluru Cafe",
+   "place_id": "ChIJ0X__7pUVrjsRQMKU3ykW3zk",
+   "data_id": "0x3bae1595eeff7fd1:0x39df1629df94c240",
+   "rating": 4.4,
+   "reviews": 15000,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "South Indian",
+   "address": "9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.939287,
+    "longitude": 77.58392
+   },
+   "extensions": [
+    "Closed",
+    "Opens 7 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Now Boarding Café (Board Game Café)",
+   "place_id": "ChIJrfYaTuMVrjsRh87szDumUOs",
+   "data_id": "0x3bae15e34e1af6ad:0xeb50a63bccecce87",
+   "rating": 4.4,
+   "reviews": 1900,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "Second Floor, 68/150/4, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933847,
+    "longitude": 77.58379
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Iris Cafe and Kitchen - Jayanagar",
+   "place_id": "ChIJY9ddbwAVrjsRqcG83nfkjC0",
+   "data_id": "0x3bae15006f5dd763:0x2d8ce477debcc1a9",
+   "rating": 4.4,
+   "reviews": 1300,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "554,10 th A main, 554, 36th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.92317,
+    "longitude": 77.58529
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  }
+ ]
+}

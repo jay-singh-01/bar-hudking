@@ -1,0 +1,409 @@
+{
+ "q": "best sushi and japanese restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:39:13.058Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "EBISU Fine Japanese Cuisine",
+   "place_id": "ChIJU8jftUkXrjsR7iMxgLW5Wuc",
+   "data_id": "0x3bae1749b5dfc853:0xe75ab9b5803123ee",
+   "rating": 4.7,
+   "reviews": 424,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Japanese",
+   "address": "EBISU, No. 171-172, Unit No. 203, Second Floor, FORUM REX WALK, Brigade Road, Shanthalanagar, Bengaluru - 560001, Shanthinagara, B.B",
+   "gps_coordinates": {
+    "latitude": 12.972698,
+    "longitude": 77.606735
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Kuuraku",
+   "place_id": "ChIJlc4a42AXrjsRmxOvhd194fA",
+   "data_id": "0x3bae1760e31ace95:0xf0e17ddd85af139b",
+   "rating": 4.5,
+   "reviews": 2300,
+   "type": "Japanese",
+   "address": "1st Floor, Forum Rex Walk",
+   "gps_coordinates": {
+    "latitude": 12.972673,
+    "longitude": 77.60688
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Shiro Bengaluru",
+   "place_id": "ChIJ897J43kWrjsRwLzr4oSg67c",
+   "data_id": "0x3bae1679e3c9def3:0xb7eba084e2ebbcc0",
+   "rating": 4.5,
+   "reviews": 6800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan Asian",
+   "address": "3rd Floor, 222, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.97185,
+    "longitude": 77.59662
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Shokudo - Jayanagar",
+   "place_id": "ChIJwV40o14VrjsRJC12LzrC0Rs",
+   "data_id": "0x3bae155ea3345ec1:0x1bd1c23a2f762d24",
+   "rating": 4.6,
+   "reviews": 7100,
+   "type": "Japanese",
+   "address": "1st Floor, Shokudo Restaurant, 670, 11th, Aurobindo Marg",
+   "gps_coordinates": {
+    "latitude": 12.924548,
+    "longitude": 77.58584
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Azuki Japan Travel Bistro and Sake",
+   "place_id": "ChIJ4QY9Z4AWrjsRf6mf78tXvfM",
+   "data_id": "0x3bae1680673d06e1:0xf3bd57cbef9fa97f",
+   "rating": 4.5,
+   "reviews": 2000,
+   "type": "Authentic Japanese",
+   "address": "11/1, Alfred St, behind Baldwin Boys High school back gate",
+   "gps_coordinates": {
+    "latitude": 12.961291,
+    "longitude": 77.604774
+   },
+   "comment": "Japanese locale with a casual vibe",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Yuki - Pan Asian Kitchen and Bar | JP Nagar",
+   "place_id": "ChIJCX6MvmwVrjsRYJRBPVVJeyk",
+   "data_id": "0x3bae156cbe8c7e09:0x297b49553d419460",
+   "rating": 4.5,
+   "reviews": 3100,
+   "type": "Pan Asian",
+   "address": "No. 3, First Floor, 15th Cross Road, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906127,
+    "longitude": 77.58976
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Daily Sushi - Church Street",
+   "place_id": "ChIJB_83_TQXrjsRZTuPixzQA_0",
+   "data_id": "0x3bae1734fd37ff07:0xfd03d01c8b8f3b65",
+   "rating": 4.7,
+   "reviews": 1800,
+   "type": "Japanese",
+   "address": "1st floor, 1, 1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975772,
+    "longitude": 77.602646
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Edo - Japanese Restaurant and Bar, ITC Gardenia",
+   "place_id": "ChIJ92Zt5i8XrjsRc5p59i3o5oE",
+   "data_id": "0x3bae172fe66d66f7:0x81e6e82df6799a73",
+   "rating": 4.6,
+   "reviews": 236,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Authentic Japanese",
+   "address": "1, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.967128,
+    "longitude": 77.59567
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Harima Japanese Restaurant",
+   "place_id": "ChIJFwEGnXgWrjsRLXLUNIizrOU",
+   "data_id": "0x3bae16789d060117:0xe5acb38834d4722d",
+   "rating": 4.3,
+   "reviews": 2300,
+   "type": "Japanese",
+   "address": "4th Floor, Devatha Plaza, 131, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.967502,
+    "longitude": 77.59996
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Daily Sushi - Koramangala",
+   "place_id": "ChIJF6p5B-kVrjsRJ4mSNiEGqaY",
+   "data_id": "0x3bae15e90779aa17:0xa6a9062136928927",
+   "rating": 4.8,
+   "reviews": 2100,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Japanese",
+   "address": "1st floor, 1st A Cross, 17th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.933432,
+    "longitude": 77.62234
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Yuki - Brewhouse and Kitchen | Koramangala",
+   "place_id": "ChIJ-_FswFcVrjsRXts7ANneoIA",
+   "data_id": "0x3bae1557c06cf1fb:0x80a0ded9003bdb5e",
+   "rating": 4.5,
+   "reviews": 2400,
+   "type": "Asian",
+   "address": "A/4, 3rd Floor, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.934227,
+    "longitude": 77.62329
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Lucky Chan",
+   "place_id": "ChIJB5X5zngXrjsRrsj2foOpWzg",
+   "data_id": "0x3bae1778cef99507:0x385ba9837ef6c8ae",
+   "rating": 4.4,
+   "reviews": 4100,
+   "type": "Japanese",
+   "address": "594, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.970442,
+    "longitude": 77.64276
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Daily Sushi - Indiranagar",
+   "place_id": "ChIJX6FWx1MXrjsR7ScRok75IiA",
+   "data_id": "0x3bae1753c756a15f:0x2022f94ea21127ed",
+   "rating": 4.6,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Japanese",
+   "address": "1st Floor, No, 1084, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.969932,
+    "longitude": 77.63853
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Izanagi Japanese Restaurant",
+   "place_id": "ChIJqVaXkOgXrjsRToOxTFZrYeA",
+   "data_id": "0x3bae17e8909756a9:0xe0616b564cb1834e",
+   "rating": 4.5,
+   "reviews": 624,
+   "type": "Authentic Japanese",
+   "address": "Metro Pillar No. 54, 2nd Floor, 311, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.981251,
+    "longitude": 77.64051
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "KOKO",
+   "place_id": "ChIJ116PQYIVrjsRf3FiXYSq07w",
+   "data_id": "0x3bae1582418f5ed7:0xbcd3aa845d62717f",
+   "rating": 4.4,
+   "reviews": 963,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Japanese",
+   "address": "Prestige Icon, 4121/S HAL, 2nd Stage Kodihalli",
+   "gps_coordinates": {
+    "latitude": 12.960166,
+    "longitude": 77.647934
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Hokkaido Japanese & korean Restaurants",
+   "place_id": "ChIJ79yaU6oXrjsRnDDgiTzqwE8",
+   "data_id": "0x3bae17aa539adcef:0x4fc0ea3c89e0309c",
+   "rating": 4.5,
+   "reviews": 1500,
+   "type": "Authentic Japanese",
+   "address": "NO.10/1-1,Ist Floor, 7th Main, 1st Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.972459,
+    "longitude": 77.63705
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Matsuri",
+   "place_id": "ChIJo3WXuZMXrjsRMjNOBmfbXq8",
+   "data_id": "0x3bae1793b99775a3:0xaf5edb67064e3332",
+   "rating": 4.5,
+   "reviews": 445,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Japanese",
+   "address": "10-6, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.975672,
+    "longitude": 77.59922
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Daily Sushi - Jayanagar",
+   "place_id": "ChIJy-KyZYYVrjsRJPJ2e5B745U",
+   "data_id": "0x3bae158665b2e2cb:0x95e37b907b76f224",
+   "rating": 4.4,
+   "reviews": 939,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Japanese",
+   "address": "1st Floor, No, 5, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.92237,
+    "longitude": 77.58392
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Foo Brigade Road",
+   "place_id": "ChIJZ7erNjIXrjsR5Ticr5bhjMQ",
+   "data_id": "0x3bae173236abb767:0xc48ce196af9c38e5",
+   "rating": 4.4,
+   "reviews": 2200,
+   "type": "Pan Asian",
+   "address": "Ground Floor, Forum Rex Walk, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.972899,
+    "longitude": 77.60637
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Kazan Japanese Ramen",
+   "place_id": "ChIJcbCn7B8XrjsRUT-RGAHAnRw",
+   "data_id": "0x3bae171feca7b071:0x1c9dc00118913f51",
+   "rating": 4.6,
+   "reviews": 2900,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Ramen",
+   "address": "185, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975836,
+    "longitude": 77.60205
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "q": "bars and pubs in J. P. Nagar Bangalore",
+ "ll": "@12.906,77.5836,14z",
+ "page": 3,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:43:18.755Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Charlie's",
+   "place_id": "ChIJDfYm8CkVrjsRpesF4DJc908",
+   "data_id": "0x3bae1529f026f60d:0x4ff75c32e005eba5",
+   "rating": 3.1,
+   "reviews": 38,
+   "type": "Bar",
+   "address": "45, 100 Feet Ring Rd, opposite to Vega City Mall Road",
+   "gps_coordinates": {
+    "latitude": 12.906969,
+    "longitude": 77.60034
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Yuki - Pan Asian Kitchen and Bar | JP Nagar",
+   "place_id": "ChIJCX6MvmwVrjsRYJRBPVVJeyk",
+   "data_id": "0x3bae156cbe8c7e09:0x297b49553d419460",
+   "rating": 4.5,
+   "reviews": 3100,
+   "type": "Pan Asian",
+   "address": "No. 3, First Floor, 15th Cross Road, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906127,
+    "longitude": 77.58976
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "DIHA",
+   "place_id": "ChIJY5R8j4oVrjsRfz4CCLXLJ2c",
+   "data_id": "0x3bae158a8f7c9463:0x6727cbb508023e7f",
+   "rating": 4.6,
+   "reviews": 1100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "17, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906116,
+    "longitude": 77.59726
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Swargaloka Bar,Pub & Fine dining",
+   "place_id": "ChIJb1LA1d1rrjsRHOJK873x-p8",
+   "data_id": "0x3bae6bddd5c0526f:0x9ffaf1bdf34ae21c",
+   "rating": 4.2,
+   "reviews": 201,
+   "price": "₹200–800",
+   "extracted_price": {
+    "min": 200,
+    "max": 800
+   },
+   "type": "Pub",
+   "address": "6, Kothnur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.871672,
+    "longitude": 77.58348
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "24th Main Pub&Kitchen",
+   "place_id": "ChIJy4Hc8nYVrjsRIUyhBFcnNRk",
+   "data_id": "0x3bae1576f2dc81cb:0x1935275704a14c21",
+   "rating": 3.9,
+   "reviews": 7,
+   "type": "Pub",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.897244,
+    "longitude": 77.585884
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Eagle Bar and Restaurant",
+   "place_id": "ChIJZ2OF4BMVrjsR5zsLNp9Pz48",
+   "data_id": "0x3bae1513e0856367:0x8fcf4f9f360b3be7",
+   "rating": 3.8,
+   "reviews": 682,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "288, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906192,
+    "longitude": 77.59041
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "MR BARTINI",
+   "place_id": "ChIJIUYEx7AVrjsRtWEL_OIw9wY",
+   "data_id": "0x3bae15b0c7044621:0x6f730e2fc0b61b5",
+   "rating": 4.5,
+   "reviews": 32,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "Ground Floor and 4th floor, ROYAL INN Building, M.R, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.910913,
+    "longitude": 77.57683
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Brahma Brews",
+   "place_id": "ChIJpcKwSXEVrjsRkCqHXhr69po",
+   "data_id": "0x3bae157149b0c2a5:0x9af6fa1a5e872a90",
+   "rating": 4.6,
+   "reviews": 12000,
+   "type": "Brewery",
+   "address": "35/38, 24th Main Rd, opposite Brigade Palmsprings",
+   "gps_coordinates": {
+    "latitude": 12.893335,
+    "longitude": 77.58647
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "The Dennys Pub",
+   "place_id": "ChIJ46PfBwYVrjsR-QQs8tF014k",
+   "data_id": "0x3bae150607dfa3e3:0x89d774d1f22c04f9",
+   "rating": 3.9,
+   "reviews": 1500,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Pub",
+   "address": "1550, East End Circle JP Nagar 3rd phase",
+   "gps_coordinates": {
+    "latitude": 12.916619,
+    "longitude": 77.59712
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Toast on Terrace",
+   "place_id": "ChIJ9zv2qFoVrjsRoJ7ZkMm0fhI",
+   "data_id": "0x3bae155aa8f63bf7:0x127eb4c990d99ea0",
+   "rating": 4.1,
+   "reviews": 1500,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "Opens 12 pm",
+   "gps_coordinates": {
+    "latitude": 12.896777,
+    "longitude": 77.5704
+   },
+   "extensions": [
+    "Closed"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Ninan's Steakhouse",
+   "place_id": "ChIJh7DypD8VrjsRbb7ERydU5og",
+   "data_id": "0x3bae153fa4f2b087:0x88e6542747c4be6d",
+   "rating": 4.6,
+   "reviews": 780,
+   "price": "₹800–2,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 2000
+   },
+   "type": "Steak",
+   "address": "3rd Floor, Om Towers, 33, opp. to Dakshin cafe, above Ganesh medicals",
+   "gps_coordinates": {
+    "latitude": 12.886356,
+    "longitude": 77.58212
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Lotus kitchen and bar",
+   "place_id": "ChIJoyPuCgBrrjsRaWjtcJqbo5Q",
+   "data_id": "0x3bae6b000aee23a3:0x94a39b9a70ed6869",
+   "rating": 4,
+   "reviews": 10,
+   "type": "Bar",
+   "address": "Lakshman Layout, 28, 80 Feet Road",
+   "gps_coordinates": {
+    "latitude": 12.869037,
+    "longitude": 77.575745
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "LIT Gastropub Bangalore",
+   "place_id": "ChIJiaaEup8VrjsRf5NqU2pOZsI",
+   "data_id": "0x3bae159fba84a689:0xc2664e6a536a937f",
+   "rating": 3.4,
+   "reviews": 1300,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "9th Main Road, No. 233, 40th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.920005,
+    "longitude": 77.58352
+   },
+   "comment": "Laid-back hangout for drinks & bar bites",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "HIGH MOUNT10 RESTO BAR",
+   "place_id": "ChIJY7iG2HEVrjsR4RYP1XKHyac",
+   "data_id": "0x3bae1571d886b863:0xa7c98772d50f16e1",
+   "rating": 4.4,
+   "reviews": 19,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Grill",
+   "address": "METRO PILLAR NO -45, 32, Street 1, opp. Kanakapura Main Road",
+   "gps_coordinates": {
+    "latitude": 12.912458,
+    "longitude": 77.57318
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Jp nagar",
+   "place_id": "ChIJm_09EgAVrjsR4KXB8SDroTM",
+   "data_id": "0x3bae1500123dfd9b:0x33a1eb20f1c1a5e0",
+   "type": "Bar",
+   "address": "WH5W+P42",
+   "gps_coordinates": {
+    "latitude": 12.909262,
+    "longitude": 77.59531
+   }
+  },
+  {
+   "position": 16,
+   "title": "Pub 1992",
+   "place_id": "ChIJOZ3cMhcVrjsR_rDpZQf1XSg",
+   "data_id": "0x3bae151732dc9d39:0x285df50765e9b0fe",
+   "rating": 4.3,
+   "reviews": 67,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "Bengaluru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.890974,
+    "longitude": 77.571724
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Jp nagar 1st phase",
+   "place_id": "ChIJ5WrOTQAVrjsR-cu9TOgpTD4",
+   "data_id": "0x3bae15004dce6ae5:0x3e4c29e84cbdcbf9",
+   "type": "Bar",
+   "address": "28, Outer Ring Rd",
+   "gps_coordinates": {
+    "latitude": 12.906791,
+    "longitude": 77.57479
+   }
+  },
+  {
+   "position": 18,
+   "title": "IMI’s Lounge",
+   "place_id": "ChIJ4YLLQHsVrjsRxeFUWn7Rx5I",
+   "data_id": "0x3bae157b40cb82e1:0x92c7d17e5a54e1c5",
+   "rating": 5,
+   "reviews": 3,
+   "type": "Lounge bar",
+   "address": "1496, S End B Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.916285,
+    "longitude": 77.59376
+   }
+  },
+  {
+   "position": 19,
+   "title": "Turquoise The Underground Club",
+   "place_id": "ChIJYQEkVxoVrjsRWH3qA8Z-lfs",
+   "data_id": "0x3bae151a57240161:0xfb957ec603ea7d58",
+   "rating": 3.8,
+   "reviews": 51,
+   "type": "Lounge bar",
+   "address": "60, 13th Cross, Quality Inn Shravanthi, 2nd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.907433,
+    "longitude": 77.5985
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Ambedo Restaurant & Cocktail Bar",
+   "place_id": "ChIJtZKuDc0VrjsRGeBGCYzYdhc",
+   "data_id": "0x3bae15cd0dae92b5:0x1776d88c0946e019",
+   "rating": 4.5,
+   "reviews": 731,
+   "price": "₹600–1,400",
+   "extracted_price": {
+    "min": 600,
+    "max": 1400
+   },
+   "type": "Continental restaurant",
+   "address": "554, Ground Floor, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.910332,
+    "longitude": 77.59805
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

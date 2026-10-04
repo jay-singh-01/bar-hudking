@@ -1,0 +1,450 @@
+{
+ "q": "best biryani in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:32:54.503Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "RNR Biryani - Jayanagar",
+   "place_id": "ChIJ4SOBNhwVrjsRJf8wyc6izjk",
+   "data_id": "0x3bae151c368123e1:0x39cea2cec930ff25",
+   "rating": 4.4,
+   "reviews": 7000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Biryani",
+   "address": "30th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.92861,
+    "longitude": 77.58263
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Chickpet donne biryani house Jayanagar",
+   "place_id": "ChIJ8zgxfHMVrjsRwvHuz5_hEvs",
+   "data_id": "0x3bae15737c3138f3:0xfb12e19fcfeef1c2",
+   "rating": 4.5,
+   "reviews": 6500,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "South Indian",
+   "address": "Ground floor, 140, 9th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.932382,
+    "longitude": 77.5838
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Aromas of Biryani, Jayanagar",
+   "place_id": "ChIJHW8IO-4VrjsRoJ7edhT4kdA",
+   "data_id": "0x3bae15ee3b086f1d:0xd091f81476de9ea0",
+   "rating": 4.4,
+   "reviews": 3100,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Biryani",
+   "address": "No. 50, Old No. 665, Ground and First Floor, 11th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.925274,
+    "longitude": 77.58586
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Aromas of Biryani, Koramangala",
+   "place_id": "ChIJN1X8WgAVrjsRC9D6Nvva44k",
+   "data_id": "0x3bae15005afc5537:0x89e3dafb36fad00b",
+   "rating": 4.7,
+   "reviews": 905,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Biryani",
+   "address": "1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.934716,
+    "longitude": 77.61588
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Meghana Foods",
+   "place_id": "ChIJDZDp46EVrjsRgObcqyJbfyA",
+   "data_id": "0x3bae15a1e3e9900d:0x207f5b22abdce680",
+   "rating": 4.3,
+   "reviews": 36000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Hyderabadi",
+   "address": "52, 1st Floor, 33rd Cross Rd, near Cafe Coffee Day",
+   "gps_coordinates": {
+    "latitude": 12.926151,
+    "longitude": 77.58458
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "SGS Nonveg Gundu Palav balepete",
+   "place_id": "ChIJyztPPQYWrjsRPD0vgZFSLxc",
+   "data_id": "0x3bae16063d4f3bcb:0x172f5291812f3d3c",
+   "rating": 4.4,
+   "reviews": 8000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "21, K.V. Temple Street, 2nd Cross, Sowrastra Pet Rd, near Balepet",
+   "gps_coordinates": {
+    "latitude": 12.970332,
+    "longitude": 77.57269
+   },
+   "comment": "Chicken & mutton pulao restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 10 am Tue"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Hyderabad Biryani Hotel",
+   "place_id": "ChIJF2yEZCMWrjsR_P9kAMiYUGo",
+   "data_id": "0x3bae162364846c17:0x6a5098c80064fffc",
+   "rating": 4.2,
+   "reviews": 10000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Hyderabadi",
+   "address": "1st, Benson Cross Road, 9, Sampige Rd",
+   "gps_coordinates": {
+    "latitude": 12.993921,
+    "longitude": 77.57132
+   },
+   "comment": "Casual restaurant with regional dishes",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Deccan Paradise | Hyderabadi Biryani | Best Biryani in Bengaluru",
+   "place_id": "ChIJIe_H5n0RrjsRUQGOlUxXP04",
+   "data_id": "0x3bae117de6c7ef21:0x4e3f574c958e0151",
+   "rating": 4.7,
+   "reviews": 2900,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "Flavours Food Court, Ascendas Park Square Mall",
+   "gps_coordinates": {
+    "latitude": 12.986947,
+    "longitude": 77.73673
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Shivaji Military Hotel",
+   "place_id": "ChIJqW0KBHcVrjsR6ZxxwAWap8U",
+   "data_id": "0x3bae1577040a6da9:0xc5a79a05c0719ce9",
+   "rating": 3.8,
+   "reviews": 25000,
+   "type": "Indian",
+   "address": "1st C, 718, Main, 45th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.918006,
+    "longitude": 77.57397
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Wodeyars Biriyani Rajajinagar",
+   "place_id": "ChIJjeJXHQA9rjsRsxgzfrmggVc",
+   "data_id": "0x3bae3d001d57e28d:0x5781a0b97e3318b3",
+   "rating": 4.6,
+   "reviews": 453,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Non Vegetarian Restaurant",
+   "address": "420/3, Dr Rajkumar Rd, opp. Nanda Fashions",
+   "gps_coordinates": {
+    "latitude": 12.979562,
+    "longitude": 77.55383
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Meghana Foods Indira Nagar",
+   "place_id": "ChIJRTef86QWrjsR8V9GcFSgK0I",
+   "data_id": "0x3bae16a4f39f3745:0x422ba05470465ff1",
+   "rating": 4.3,
+   "reviews": 23000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Biryani",
+   "address": "Metro Station Indira Nagar, Near, 544, Chinmaya Mission Hospital Rd",
+   "gps_coordinates": {
+    "latitude": 12.978092,
+    "longitude": 77.637856
+   }
+  },
+  {
+   "position": 12,
+   "title": "Nagarjuna Restaurant - Residency Road",
+   "place_id": "ChIJ-2WNtoAWrjsRtXDAJnU_8AI",
+   "data_id": "0x3bae1680b68d65fb:0x2f03f7526c070b5",
+   "rating": 4.2,
+   "reviews": 22000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "44/1, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.973203,
+    "longitude": 77.60913
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Mallika Biryani",
+   "place_id": "ChIJ2Rs8Tq8QrjsRU9dpHU0t8fk",
+   "data_id": "0x3bae10af4e3c1bd9:0xf9f12d4d1d69d753",
+   "rating": 4.3,
+   "reviews": 24000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "Bileshivale Main Rd, Near SSR College",
+   "gps_coordinates": {
+    "latitude": 13.055268,
+    "longitude": 77.66387
+   },
+   "comment": "Simple eatery serving curry & rice meals",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am Tue"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Meghana Foods Residency Road",
+   "place_id": "ChIJc8Zlt4AWrjsRrRLGcTlDaCQ",
+   "data_id": "0x3bae1680b765c673:0x2468433971c612ad",
+   "rating": 4.3,
+   "reviews": 23000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Andhra",
+   "address": "57/1, 1st, Jayalakshmi Chambers, Residency Rd, next to Old Galaxy Theatre",
+   "gps_coordinates": {
+    "latitude": 12.972891,
+    "longitude": 77.60923
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Shaadi Ki Biryani",
+   "place_id": "ChIJG69BJWIXrjsR-MVzF4bkwBA",
+   "data_id": "0x3bae17622541af1b:0x10c0e4861773c5f8",
+   "rating": 4.7,
+   "reviews": 266,
+   "type": "Biryani",
+   "address": "32/3, 1st Floor, Spencer Rd",
+   "gps_coordinates": {
+    "latitude": 12.995906,
+    "longitude": 77.60964
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Tue"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Brothers Biriyani",
+   "place_id": "ChIJV-DaPWc_rjsRjSMoS7BkybI",
+   "data_id": "0x3bae3f673ddae057:0xb2c964b04b28238d",
+   "rating": 4.4,
+   "reviews": 3000,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "560050, 50 ft main rd",
+   "gps_coordinates": {
+    "latitude": 12.942317,
+    "longitude": 77.5483
+   },
+   "comment": "Everyday meals in an unfussy eatery",
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am Tue"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Afsal's Rahumania Biriyani Bengaluru",
+   "place_id": "ChIJp2KuC2oVrjsREHDGZrZ7YNU",
+   "data_id": "0x3bae156a0bae62a7:0xd5607bb666c67010",
+   "rating": 4.6,
+   "reviews": 384,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Biryani",
+   "address": "1st A Cross road, Near Jyoti Nivas College Road,KHB Colony, 5th block koramangala, Bengaluru, Bangalore South, Bangalore Urban, Karnataka 5th block, koramangala, Bengaluru, Bangalore South",
+   "gps_coordinates": {
+    "latitude": 12.934589,
+    "longitude": 77.61638
+   }
+  },
+  {
+   "position": 18,
+   "title": "Hyderabad Biryaani House",
+   "place_id": "ChIJKRmdKlAUrjsRnEiIjtgmKDE",
+   "data_id": "0x3bae14502a9d1929:0x312826d88e88489c",
+   "rating": 4,
+   "reviews": 3200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "3rd Floor, 61, 1st Main Rd, above Corner House Icecreams",
+   "gps_coordinates": {
+    "latitude": 12.936333,
+    "longitude": 77.61514
+   }
+  },
+  {
+   "position": 19,
+   "title": "Dum Durrust",
+   "place_id": "ChIJKRV12dsXrjsRVPL34-78uss",
+   "data_id": "0x3bae17dbd9751529:0xcbbafceee3f7f254",
+   "rating": 4.6,
+   "reviews": 887,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Biryani",
+   "address": "Sy No. 87/3, No 49 62, Manin Road, Doddanekundi Main Rd, opp. Alpine Eco Apt",
+   "gps_coordinates": {
+    "latitude": 12.972603,
+    "longitude": 77.700905
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Subbanna's Biryani",
+   "place_id": "ChIJT81YPT0VrjsRwugqOPl792M",
+   "data_id": "0x3bae153d3d58cd4f:0x63f77bf9382ae8c2",
+   "rating": 4.7,
+   "reviews": 557,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Biryani",
+   "address": "No:479/31, 12 Th Cross, BTS Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.949184,
+    "longitude": 77.59935
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12:30 pm Tue"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "q": "bars and pubs in Whitefield Bangalore",
+ "ll": "@12.9698,77.75,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:31:41.582Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "SAKI - PAN ASIAN KITCHEN & BAR",
+   "place_id": "ChIJVdPtYXwPrjsRXn4TxiW3NnE",
+   "data_id": "0x3bae0f7c61edd355:0x7136b725c6137e5e",
+   "rating": 4.6,
+   "reviews": 41,
+   "type": "Bar",
+   "address": "5th & 6th Floor, Vijayanagar Main Rd, above Addin Spirits, opposite to Gopalan Aqua",
+   "gps_coordinates": {
+    "latitude": 12.978565,
+    "longitude": 77.75735
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Whitefield Bar & Grill",
+   "place_id": "ChIJB-GTq_YRrjsRo0zatccjqFc",
+   "data_id": "0x3bae11f6ab93e107:0x57a823c7b5da4ca3",
+   "rating": 4.2,
+   "reviews": 318,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Grill",
+   "address": "Plot No 75, 8th Rd",
+   "gps_coordinates": {
+    "latitude": 12.979001,
+    "longitude": 77.72833
+   },
+   "comment": "Casual spot for burgers & grills",
+   "extensions": [
+    "Closed",
+    "Opens 5 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Tipsyy Bull Brewhouse And Kitchen - Whitefield",
+   "place_id": "ChIJ9_RrTQARrjsRmoQ1jNDipmk",
+   "data_id": "0x3bae11004d6bf4f7:0x69a6e2d08c35849a",
+   "rating": 4.7,
+   "reviews": 4300,
+   "type": "Brewery",
+   "address": "13/4, Hoodi Main Road, Graphite India Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.988455,
+    "longitude": 77.710304
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Red Rhino - Craft Brewery and Inspired Kitchen",
+   "place_id": "ChIJ-10tE8wPrjsRsEJdrf0-q2g",
+   "data_id": "0x3bae0fcc132d5dfb:0x68ab3efdad5d42b0",
+   "rating": 4.2,
+   "reviews": 14000,
+   "type": "Brewpub",
+   "address": "4th Floor, Uptown Square, Whitefield - Hoskote Rd",
+   "gps_coordinates": {
+    "latitude": 13.024742,
+    "longitude": 77.761246
+   },
+   "comment": "Trendy brewpub serving varied cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Hitchki, Whitefield",
+   "place_id": "ChIJlSlw508RrjsRis8mTTarffI",
+   "data_id": "0x3bae114fe7702995:0xf27dab364d26cf8a",
+   "rating": 4.1,
+   "reviews": 1700,
+   "type": "Bar",
+   "address": "Ground Flr, Phoenix Market City, Whitefield Main Rd, Mall",
+   "gps_coordinates": {
+    "latitude": 12.997372,
+    "longitude": 77.696396
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Reboot The Pub",
+   "place_id": "ChIJzbyn-BQTrjsRx5l9t_JuHrI",
+   "data_id": "0x3bae1314f8a7bccd:0xb21e6ef2b77d99c7",
+   "rating": 4.6,
+   "reviews": 3600,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "No. 90/2, and 90/3, Above Titan World Marathahalli Outer Ring Road, Service Rd, opposite Iron Hill",
+   "gps_coordinates": {
+    "latitude": 12.9509325,
+    "longitude": 77.700035
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "KHA RESTO BAR",
+   "place_id": "ChIJE_TQu3wNrjsRDtRjRk6CnnY",
+   "data_id": "0x3bae0d7cbbd0f413:0x769e824e4663d40e",
+   "rating": 4.8,
+   "reviews": 263,
+   "type": "Pub",
+   "address": "1st Floor, Whitefield Main Rd, next to Malabar Gold and Diamonda",
+   "gps_coordinates": {
+    "latitude": 12.967976,
+    "longitude": 77.74977
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Chime",
+   "place_id": "ChIJC7fCGFcRrjsRt923tSN-G5w",
+   "data_id": "0x3bae115718c2b70b:0x9c1b7e23b5b7ddb7",
+   "rating": 4.3,
+   "reviews": 82,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "gps_coordinates": {
+    "latitude": 12.98909,
+    "longitude": 77.729805
+   },
+   "comment": "Refined bar for cocktails & small plates",
+   "extensions": [
+    "Sheraton Grand Bengaluru Whitefield Hotel & Convention Center",
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Dizzy Resto bar",
+   "place_id": "ChIJGeVaEuQTrjsRs-xwTJEhRdw",
+   "data_id": "0x3bae13e4125ae519:0xdc4521914c70ecb3",
+   "rating": 3.7,
+   "reviews": 697,
+   "price": "₹600–800",
+   "extracted_price": {
+    "min": 600,
+    "max": 800
+   },
+   "type": "Pub",
+   "address": "125, Kundalahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.967355,
+    "longitude": 77.71468
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Amoeba Sports Bar",
+   "place_id": "ChIJizF6HOURrjsRKMyA0ufalJ8",
+   "data_id": "0x3bae11e51c7a318b:0x9f94dae7d280cc28",
+   "rating": 4.3,
+   "reviews": 4000,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Sports bar",
+   "address": "ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.987144,
+    "longitude": 77.73666
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "URU (Kaavu) - Whitefield",
+   "place_id": "ChIJSaUs_LYTrjsRiIU1zCUr4rs",
+   "data_id": "0x3bae13b6fc2ca549:0xbbe22b25cc358588",
+   "rating": 4.3,
+   "reviews": 3900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Bar",
+   "gps_coordinates": {
+    "latitude": 12.96133,
+    "longitude": 77.73249
+   },
+   "extensions": [
+    "Pattandur Agrahara Village Main Rd",
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "SOL55 - RESTOBAR | WHITEFIELD",
+   "place_id": "ChIJXWZglVcPrjsRIQnaHJii1Uc",
+   "data_id": "0x3bae0f579560665d:0x47d5a2981cda0921",
+   "type": "Bar",
+   "address": "Terrace Floor, Vijayanagar Main Rd, above Addin Spirits, opposite to Gopalan Aqua",
+   "gps_coordinates": {
+    "latitude": 12.978615,
+    "longitude": 77.757355
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Biergarten",
+   "place_id": "ChIJuRJGo4URrjsRSyNZtkBQMZY",
+   "data_id": "0x3bae1185a34612b9:0x96315040b659234b",
+   "rating": 4.5,
+   "reviews": 6500,
+   "type": "Brewery",
+   "address": "2, Rd Number 2",
+   "gps_coordinates": {
+    "latitude": 12.98245,
+    "longitude": 77.70873
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "The Chocolate Room, Whitefield",
+   "place_id": "ChIJLVJYDQARrjsRb9zJLllrwoQ",
+   "data_id": "0x3bae11000d58522d:0x84c26b592ec9dc6f",
+   "rating": 4.2,
+   "reviews": 1200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Restaurant",
+   "address": "ITPL Main Road, next to Bhima Jewellers, Whitefield, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.992321,
+    "longitude": 77.71971
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Marigold Restaurant Bar & Pub",
+   "place_id": "ChIJ2bhfawMSrjsRjsSqBfkBFGM",
+   "data_id": "0x3bae12036b5fb8d9:0x631401f905aac48e",
+   "rating": 4.1,
+   "reviews": 3000,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "Nallurahalli Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.969669,
+    "longitude": 77.7356
+   },
+   "comment": "Continental, Indian & fusion cuisine",
+   "extensions": [
+    "Closed",
+    "Opens 7:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "M Bar",
+   "place_id": "ChIJG857VPERrjsRZnK11YAlJKg",
+   "data_id": "0x3bae11f1547bce1b:0xa8242580d5b57266",
+   "rating": 4.5,
+   "reviews": 88,
+   "type": "Bar",
+   "address": "Marriott Hotel",
+   "gps_coordinates": {
+    "latitude": 12.979455,
+    "longitude": 77.72837
+   },
+   "comment": "Stylish cocktail bar in a luxury hotel",
+   "extensions": [
+    "Closed",
+    "Opens 6 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Whitefield SOCIAL",
+   "place_id": "ChIJdxAI4AoRrjsRcYNOSqAim5A",
+   "data_id": "0x3bae110ae0081077:0x909b22a04a4e8371",
+   "rating": 4,
+   "reviews": 13000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Bar",
+   "address": "Shop 29, Ground Floor, Phoenix Market city, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.997596,
+    "longitude": 77.6967
+   },
+   "comment": "Stylish venue serving global bites",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "LMNO - Let’s Make New Obsessions",
+   "place_id": "ChIJCXXtBNITrjsR8Ypt6gED92Q",
+   "data_id": "0x3bae13d204ed7509:0x64f70301ea6d8af1",
+   "rating": 4.7,
+   "reviews": 197,
+   "price": "₹400–1,000",
+   "extracted_price": {
+    "min": 400,
+    "max": 1000
+   },
+   "type": "Pub",
+   "address": "Astra Hotel 32, 31, Varthur Main Road, Silver Spring Layout, 30, Varthur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.957512,
+    "longitude": 77.70901
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Layla – An Indian -Terranean Love Story",
+   "place_id": "ChIJS6P5CMYRrjsRovtN9U_8w2M",
+   "data_id": "0x3bae11c608f9a34b:0x63c3fc4ff54dfba2",
+   "rating": 4,
+   "reviews": 700,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.987413,
+    "longitude": 77.73332
+   },
+   "comment": "Chic rooftop locale for drinks & tapas",
+   "extensions": [
+    "Closed",
+    "Opens 6:30 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Neeru Bar and Kitchen",
+   "place_id": "ChIJoQJtYQARrjsR8-HqKYBIT3o",
+   "data_id": "0x3bae1100616d02a1:0x7a4f488029eae1f3",
+   "rating": 4.7,
+   "reviews": 18,
+   "price": "₹800–1,800",
+   "extracted_price": {
+    "min": 800,
+    "max": 1800
+   },
+   "type": "Bar",
+   "address": "Plot No 5-PI, ITPL Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9876995,
+    "longitude": 77.726776
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "q": "best restaurants in Domlur/Old Airport Road Bangalore",
+ "ll": "@12.9611,77.6387,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:41:39.499Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "ATIL - Domlur",
+   "place_id": "ChIJYxR3cAAVrjsR7uyGXaVidjI",
+   "data_id": "0x3bae150070771463:0x327662a55d86ecee",
+   "rating": 4.7,
+   "reviews": 253,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Seafood",
+   "address": "24/A",
+   "gps_coordinates": {
+    "latitude": 12.956246,
+    "longitude": 77.63639
+   },
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Sidewalk Cafe & Bar",
+   "place_id": "ChIJ-7nuGmwUrjsRr6TgD-2Yrds",
+   "data_id": "0x3bae146c1aeeb9fb:0xdbad98ed0fe0a4af",
+   "rating": 4.6,
+   "reviews": 1100,
+   "type": "Eclectic",
+   "address": "139/28, off Intermediate Ring Road, opposite Embassy Golf Links",
+   "gps_coordinates": {
+    "latitude": 12.95379,
+    "longitude": 77.63946
+   },
+   "comment": "Global menus in a hotel lobby space"
+  },
+  {
+   "position": 3,
+   "title": "Zaitoon Restaurant - Indiranagar",
+   "place_id": "ChIJWT026AUUrjsRzL8m5bBWTQg",
+   "data_id": "0x3bae1405e8363d59:0x84d56b0e526bfcc",
+   "rating": 4.5,
+   "reviews": 18000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Middle Eastern",
+   "address": "Maruthi Towers 138, HAL Old Airport Rd, opposite Leela Palace Road",
+   "gps_coordinates": {
+    "latitude": 12.959778,
+    "longitude": 77.647026
+   }
+  },
+  {
+   "position": 4,
+   "title": "Jamavar",
+   "place_id": "ChIJt6I4ZQYUrjsR94dGcLTUbOc",
+   "data_id": "0x3bae14066538a2b7:0xe76cd4b4704687f7",
+   "rating": 4.5,
+   "reviews": 1300,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Restaurant",
+   "address": "23, The Leela Palace, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.960216,
+    "longitude": 77.64851
+   },
+   "comment": "Opulent North Indian choice in a hotel"
+  },
+  {
+   "position": 5,
+   "title": "Ravyaa Kitchen",
+   "place_id": "ChIJH9_37PETrjsRwzg8dSOY3qU",
+   "data_id": "0x3bae13f1ecf7df1f:0xa5de9823753c38c3",
+   "rating": 4.7,
+   "reviews": 1100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "North Indian",
+   "address": "Shop No. 03, Santhosh Rifco Apartment, Wind Tunnel Rd",
+   "gps_coordinates": {
+    "latitude": 12.957728,
+    "longitude": 77.65402
+   }
+  },
+  {
+   "position": 6,
+   "title": "Vembanad",
+   "place_id": "ChIJB9cynhEUrjsRXZYozJ3GBww",
+   "data_id": "0x3bae14119e32d707:0xc07c69dcc28965d",
+   "rating": 4.6,
+   "reviews": 1900,
+   "type": "Keralan",
+   "address": "138/28, Off, Intermediate Ring Rd, opposite Embassy Golf Links",
+   "gps_coordinates": {
+    "latitude": 12.953797,
+    "longitude": 77.6397
+   },
+   "comment": "Colonial-style eatery for Kerala fare",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Coracle",
+   "place_id": "ChIJKyAMes0VrjsRjJI-NeeMqy0",
+   "data_id": "0x3bae15cd7a0c202b:0x2dab8ce7353e928c",
+   "rating": 4.5,
+   "reviews": 209,
+   "type": "Keralan",
+   "address": "Bangalore International Center, 7, 4th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.966741,
+    "longitude": 77.6354
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Tiger Trail Restaurant",
+   "place_id": "ChIJ6eFicGYWrjsRR0oUUrRPpB0",
+   "data_id": "0x3bae16667062e1e9:0x1da44fb452144a47",
+   "rating": 4,
+   "reviews": 918,
+   "type": "North Indian",
+   "address": "Hotel Royal Orchid, Golf Avenue KGA Golf Course, 1, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.957354,
+    "longitude": 77.64401
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Navathanyam",
+   "place_id": "ChIJo52D31cVrjsRPIyDsI7ywds",
+   "data_id": "0x3bae1557df839da3:0xdbc1f28eb0838c3c",
+   "rating": 4.4,
+   "reviews": 877,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Vegetarian",
+   "address": "First Floor, 288, 3rd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.966681,
+    "longitude": 77.63697
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Jamming Goat",
+   "place_id": "ChIJYUH8kPIVrjsRMM5T_nx6Stc",
+   "data_id": "0x3bae15f290fc4161:0xd74a7a7cfe53ce30",
+   "rating": 4.3,
+   "reviews": 1400,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Restaurant",
+   "address": "1st & 2nd floor, 2010 PID- 74-1, 2010, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.965356,
+    "longitude": 77.641785
+   },
+   "extensions": [
+    "Open now"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Toastid Co",
+   "place_id": "ChIJi7UwawAVrjsRiZuZrrdxYOs",
+   "data_id": "0x3bae15006b30b58b:0xeb6071b7ae999b89",
+   "rating": 4.6,
+   "reviews": 251,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Toast restaurant",
+   "address": "225, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.966398,
+    "longitude": 77.63722
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am Tue"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "The Azulian House",
+   "place_id": "ChIJbwzo530VrjsRIwlHuypFHUc",
+   "data_id": "0x3bae157de7e80c6f:0x471d452abb470923",
+   "rating": 4.2,
+   "reviews": 60,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pan-Latin restaurant",
+   "address": "The Leela Palace, 23, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.960102,
+    "longitude": 77.64863
+   }
+  },
+  {
+   "position": 13,
+   "title": "Vesparo",
+   "place_id": "ChIJqwAjOQAVrjsR0uSIXyQW80Y",
+   "data_id": "0x3bae1500392300ab:0x46f316245f88e4d2",
+   "rating": 4.3,
+   "reviews": 1200,
+   "type": "Eclectic",
+   "address": "KRISHVI Evara, 2018, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.966476,
+    "longitude": 77.64172
+   }
+  },
+  {
+   "position": 14,
+   "title": "Babaji Bites",
+   "place_id": "ChIJ7b3AI6UVrjsRwMRLIO92bYk",
+   "data_id": "0x3bae15a523c0bded:0x896d76ef204bc4c0",
+   "rating": 4.3,
+   "reviews": 365,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "North Indian",
+   "address": "HAL Old Airport Rd, opposite to water tank",
+   "gps_coordinates": {
+    "latitude": 12.961189,
+    "longitude": 77.63803
+   },
+   "comment": "Tiny eatery with down-home cooking",
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Limelight",
+   "place_id": "ChIJdWBesa8VrjsRfEG2pRwlJTQ",
+   "data_id": "0x3bae15afb15e6075:0x3425251ca5b6417c",
+   "rating": 4.3,
+   "reviews": 1400,
+   "type": "Bistro",
+   "address": "Hotel Royal Orchid Bangalore, 1, HAL Old Airport Rd, adjoining KGA Golf Course",
+   "gps_coordinates": {
+    "latitude": 12.957129,
+    "longitude": 77.64398
+   },
+   "comment": "Airy hotel cafe with buffet comfort food",
+   "extensions": [
+    "Open now"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Dock 66",
+   "place_id": "ChIJccImr2gTrjsRgHqqvhNKl6U",
+   "data_id": "0x3bae1368af26c271:0xa5974a13beaa7a80",
+   "rating": 4.5,
+   "reviews": 3500,
+   "type": "Gastropub",
+   "address": "Doddanakundi Post, LITBOX, G-21, Sy. No. 36/2 and 36/3,, Kundanahalli Village",
+   "gps_coordinates": {
+    "latitude": 12.970976,
+    "longitude": 77.72516
+   }
+  },
+  {
+   "position": 17,
+   "title": "Chianti, Indiranagar",
+   "place_id": "ChIJ85IJkKcWrjsRDcVh5mERk6s",
+   "data_id": "0x3bae16a7900992f3:0xab931161e661c50d",
+   "rating": 4.5,
+   "reviews": 8700,
+   "type": "Italian",
+   "address": "960, 12th Main Rd, near Gold Gym",
+   "gps_coordinates": {
+    "latitude": 12.969961,
+    "longitude": 77.64023
+   },
+   "comment": "Chic & classic Italian restaurant"
+  },
+  {
+   "position": 18,
+   "title": "Jeff's",
+   "place_id": "ChIJIVihkQ8UrjsR9FhE552-ZDs",
+   "data_id": "0x3bae140f91a15821:0x3b64be9de74458f4",
+   "rating": 4,
+   "reviews": 541,
+   "type": "Restaurant",
+   "address": "Hotel Royal Orchid, 1, HAL Old Airport Rd, adjoining KGA Golf Course",
+   "gps_coordinates": {
+    "latitude": 12.957348,
+    "longitude": 77.64405
+   }
+  },
+  {
+   "position": 19,
+   "title": "20Char Restaurant",
+   "place_id": "ChIJg0GJBAYUrjsRM_7echOp7W0",
+   "data_id": "0x3bae140604894183:0x6deda91372defe33",
+   "rating": 4.2,
+   "reviews": 281,
+   "type": "Eclectic",
+   "address": "20chat at, Sterlings Mac Hotels, 134, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.959456,
+    "longitude": 77.64875
+   }
+  },
+  {
+   "position": 20,
+   "title": "Citrus",
+   "place_id": "ChIJ84MVfAYUrjsRtlFdAqVxbi0",
+   "data_id": "0x3bae14067c1583f3:0x2d6e71a5025d51b6",
+   "rating": 4.3,
+   "reviews": 2300,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Eclectic",
+   "address": "Lobby level, The Leela Palace, 23, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.96023,
+    "longitude": 77.64854
+   },
+   "comment": "Global cuisine in bright & breezy joint",
+   "extensions": [
+    "Closes soon",
+    "10:30 pm"
+   ]
+  }
+ ]
+}

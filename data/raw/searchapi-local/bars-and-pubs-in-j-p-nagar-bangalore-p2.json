@@ -1,0 +1,402 @@
+{
+ "q": "bars and pubs in J. P. Nagar Bangalore",
+ "ll": "@12.906,77.5836,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:31:03.529Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "JP Nagar SOCIAL",
+   "place_id": "ChIJSUPfKYEVrjsR7Lm50KsG0Dc",
+   "data_id": "0x3bae158129df4349:0x37d006abd0b9b9ec",
+   "rating": 3.9,
+   "reviews": 2600,
+   "type": "Pub",
+   "address": "7, 33rd Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.906199,
+    "longitude": 77.580666
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Millennials",
+   "place_id": "ChIJnRMvkwgVrjsRqAt0wYb_irM",
+   "data_id": "0x3bae1508932f139d:0xb38aff86c1740ba8",
+   "rating": 4.1,
+   "reviews": 1100,
+   "type": "Pub",
+   "address": "46, 100 Feet Ring Rd, opposite mandovi motors",
+   "gps_coordinates": {
+    "latitude": 12.907002,
+    "longitude": 77.6003
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Tyla Brewery and Kitchen",
+   "place_id": "ChIJh_skfwAVrjsRjPVWY8P4xKc",
+   "data_id": "0x3bae15007f24fb87:0xa7c4f8c36356f58c",
+   "rating": 4.5,
+   "reviews": 561,
+   "type": "Brewpub",
+   "address": "3rd floor, 57, 1st Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.907527,
+    "longitude": 77.59942
+   }
+  },
+  {
+   "position": 4,
+   "title": "Hakuna Matata",
+   "place_id": "ChIJAWNPNz8VrjsRmm4btDLh1Sw",
+   "data_id": "0x3bae153f374f6301:0x2cd5e132b41b6e9a",
+   "rating": 4.3,
+   "reviews": 18000,
+   "type": "North Indian",
+   "address": "1231/35/2, Brigade Millenium Rd, opposite Brigade Palmsprings",
+   "gps_coordinates": {
+    "latitude": 12.893941,
+    "longitude": 77.58658
+   },
+   "comment": "African-themed multi-cuisine rooftop bar",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "TIMBAR",
+   "place_id": "ChIJi6D_mCUVrjsRYdxcszx2JzQ",
+   "data_id": "0x3bae152598ffa08b:0x3427763cb35cdc61",
+   "rating": 4.6,
+   "reviews": 994,
+   "type": "Bar",
+   "address": "No. N15, 15, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.913527,
+    "longitude": 77.58556
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "STORIES BREWERY & KITCHEN",
+   "place_id": "ChIJTTQvLiQVrjsRFEhwVO4siiU",
+   "data_id": "0x3bae15242e2f344d:0x258a2cee54704814",
+   "rating": 4.4,
+   "reviews": 9000,
+   "type": "Brewpub",
+   "address": "29th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.905697,
+    "longitude": 77.60852
+   },
+   "comment": "Beer & quick bites in a hip, stylish bar",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Mykos Craft Kitchen & Bar",
+   "place_id": "ChIJq9vDfwAVrjsRmI7oo0vLnJc",
+   "data_id": "0x3bae15007fc3dbab:0x979ccb4ba3e88e98",
+   "rating": 4.5,
+   "reviews": 6500,
+   "type": "Pub",
+   "address": "SRK Towers, 448/338, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.897574,
+    "longitude": 77.599686
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Jewel Sizzle - Luxury Dining | Cocktail Lounge",
+   "place_id": "ChIJJ-5jt-cVrjsR1a8z_EBHybc",
+   "data_id": "0x3bae15e7b763ee27:0xb7c94740fc33afd5",
+   "rating": 4.6,
+   "reviews": 3300,
+   "type": "Modern Indian restaurant",
+   "address": "1st Floor, No. 17, 24th Main Rd, opposite to HDFC Bank",
+   "gps_coordinates": {
+    "latitude": 12.900976,
+    "longitude": 77.58578
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Mockaholic- OG Bar & Kitchen",
+   "place_id": "ChIJG6ucuwwVrjsRXpyO4lgEi5o",
+   "data_id": "0x3bae150cbb9cab1b:0x9a8b0458e28e9c5e",
+   "rating": 3.9,
+   "reviews": 4400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Bar",
+   "address": "1107, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.915277,
+    "longitude": 77.58556
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Gatsby Cocktails & Cuisines",
+   "place_id": "ChIJxeZMypgVrjsRx5pHCly_Hco",
+   "data_id": "0x3bae1598ca4ce6c5:0xca1dbf5c0a479ac7",
+   "rating": 4.1,
+   "reviews": 4900,
+   "type": "Eclectic",
+   "address": "Survey No.2&3, ASR Group, ASR Group, Survey No. 23/1, 1st floor 1st floor, 1, Bannerghatta Rd",
+   "gps_coordinates": {
+    "latitude": 12.885764,
+    "longitude": 77.59633
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Brew Meister Craft Beer and Kitchen",
+   "place_id": "ChIJW5iH5aEVrjsR8sJmUYg-hjM",
+   "data_id": "0x3bae15a1e587985b:0x33863e885166c2f2",
+   "rating": 4.1,
+   "reviews": 6700,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Brewpub",
+   "address": "523, 33rd Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.9265,
+    "longitude": 77.584625
+   },
+   "comment": "Soothing vibe for house craft beers",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Casa Karaoke - Karaoke Singing Fun & Learning Studio",
+   "place_id": "ChIJ95mfMAwVrjsR9Fm7AklGCqM",
+   "data_id": "0x3bae150c309f99f7:0xa30a464902bb59f4",
+   "rating": 4.9,
+   "reviews": 1500,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Karaoke bar",
+   "address": "AI 1, 2nd floor, 15th Cross, 100 Feet Ring Rd, above Pizza Hut",
+   "gps_coordinates": {
+    "latitude": 12.906094,
+    "longitude": 77.5953
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "The Iron Horse Pub",
+   "place_id": "ChIJNT_sDWk_rjsRikLCBaLITCo",
+   "data_id": "0x3bae3f690dec3f35:0x2a4cc8a205c2428a",
+   "rating": 4.6,
+   "reviews": 59,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Pub",
+   "address": "No 3,pillar no 104, metro station, 30/1a, Kanakapura Main Rd, near Yelachenahalli",
+   "gps_coordinates": {
+    "latitude": 12.896896,
+    "longitude": 77.571236
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "La Villa Restobar & Pub (Henchina Mane)",
+   "place_id": "ChIJ8_oYhE5rrjsRZ4HYomMteBM",
+   "data_id": "0x3bae6b4e8418faf3:0x13782d63a2d88167",
+   "rating": 4.2,
+   "reviews": 412,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Bar",
+   "address": "44, 1, Kothnur Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.870142,
+    "longitude": 77.58336
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "TRIPLE EIGHT Rooftop Bar & Kitchen",
+   "place_id": "ChIJE8R9PncWrjsRujLL8th6zl0",
+   "data_id": "0x3bae16773e7dc413:0x5dce7ad8f2cb32ba",
+   "rating": 4.1,
+   "reviews": 4600,
+   "type": "Pub",
+   "address": "Devarachikkanahalli main road, Bannerghatta Rd, above Akshara eye hospital",
+   "gps_coordinates": {
+    "latitude": 12.899056,
+    "longitude": 77.60569
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Red Room Cocktail Bar",
+   "place_id": "ChIJRc5Y0koVrjsReqLYXSts5MI",
+   "data_id": "0x3bae154ad258ce45:0xc2e46c2b5dd8a27a",
+   "rating": 5,
+   "reviews": 10,
+   "type": "Cocktail bar",
+   "address": "No 610, 100ft Ring Road, 15th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.906556,
+    "longitude": 77.58141
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "BOPTTLES UP RESTO BAR JP NAGAR",
+   "place_id": "ChIJq-hyHQAVrjsRzH0_-zuwjnE",
+   "data_id": "0x3bae15001d72e8ab:0x718eb03bfb3f7dcc",
+   "rating": 3,
+   "reviews": 2,
+   "type": "Bar",
+   "address": "363/71, Kanakapura Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.904758,
+    "longitude": 77.57346
+   }
+  },
+  {
+   "position": 18,
+   "title": "The Tribal Restro Cafe | Draft Beer",
+   "place_id": "ChIJtcDWBycVrjsRG8Ks1-am3nk",
+   "data_id": "0x3bae152707d6c0b5:0x79dea6e6d7acc21b",
+   "rating": 4.6,
+   "reviews": 1800,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Bar",
+   "address": "35-3, 3rd Floor, 1232, 24th Main Rd, above saphire honda service center",
+   "gps_coordinates": {
+    "latitude": 12.8939495,
+    "longitude": 77.58617
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Rajarajeshwari Bar& Restaurant",
+   "place_id": "ChIJnV11uGMVrjsRXYP-r4L-X-U",
+   "data_id": "0x3bae1563b8755d9d:0xe55ffe82affe835d",
+   "rating": 4.2,
+   "reviews": 447,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Bar",
+   "address": "A-536, Chunchaghatta Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.891162,
+    "longitude": 77.5717
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Mayuri",
+   "place_id": "ChIJbZDy4d8VrjsR2ryRpKGog6M",
+   "data_id": "0x3bae15dfe1f2906d:0xa383a8a1a491bcda",
+   "rating": 4.2,
+   "reviews": 3200,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Bar",
+   "address": "N-7, 24th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.912806,
+    "longitude": 77.58562
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  }
+ ]
+}

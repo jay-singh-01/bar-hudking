@@ -1,0 +1,417 @@
+{
+ "q": "cafes in Church Street/Lavelle Road Bangalore",
+ "ll": "@12.9718,77.5985,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:43:41.518Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "Over Coffee",
+   "place_id": "ChIJJWmX2SAXrjsRT9QGJFeKEKQ",
+   "data_id": "0x3bae1720d9976925:0xa4108a572406d44f",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "European",
+   "address": "Ground Floor, Chowriappa Complex, 41, B\" wing, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974978,
+    "longitude": 77.59952
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "ISOBEL COFFEE HOUSE",
+   "place_id": "ChIJbzijkaYXrjsRI6JFOBIZN7U",
+   "data_id": "0x3bae17a691a3386f:0xb53719123845a223",
+   "rating": 4.4,
+   "reviews": 1100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Coffee shop",
+   "address": "118, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.968534,
+    "longitude": 77.59651
+   }
+  },
+  {
+   "position": 3,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJcTcsJ1sXrjsR4zBGxzA2Ae8",
+   "data_id": "0x3bae175b272c3771:0xef013630c74630e3",
+   "rating": 4.5,
+   "reviews": 1000,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Corporation No 13, Old no 4/1, Ground Floor, Lavelle Road Junction, Walton, North",
+   "gps_coordinates": {
+    "latitude": 12.971427,
+    "longitude": 77.59788
+   }
+  },
+  {
+   "position": 4,
+   "title": "Dolci - Lavelle Road",
+   "place_id": "ChIJX5IXDZoXrjsRo7lA59Phnnc",
+   "data_id": "0x3bae179a0d17925f:0x779ee1d3e740b9a3",
+   "rating": 4.6,
+   "reviews": 639,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "55/2-1, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.970536,
+    "longitude": 77.59773
+   }
+  },
+  {
+   "position": 5,
+   "title": "Hatti Kaapi Signature",
+   "place_id": "ChIJuw1cSAAXrjsRWWYA7lw90VQ",
+   "data_id": "0x3bae1700485c0dbb:0x54d13d5cee006659",
+   "rating": 4.9,
+   "reviews": 1600,
+   "price": "₹200–1,200",
+   "extracted_price": {
+    "min": 200,
+    "max": 1200
+   },
+   "type": "Coffee shop",
+   "address": "55-1, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.970707,
+    "longitude": 77.59777
+   }
+  },
+  {
+   "position": 6,
+   "title": "Copper + Cloves, Lavelle Road",
+   "place_id": "ChIJ-_qirXcXrjsRHa1mcsl2Zho",
+   "data_id": "0x3bae1777ada2fafb:0x1a6676c97266ad1d",
+   "rating": 4.5,
+   "reviews": 38,
+   "price": "₹400–600",
+   "extracted_price": {
+    "min": 400,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "4, Walton Rd, off Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.97164,
+    "longitude": 77.597885
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "The Caffeine Baar Cafe / Church Street",
+   "place_id": "ChIJwfF5p-MXrjsR3XFCQ91u6BU",
+   "data_id": "0x3bae17e3a779f1c1:0x15e86edd434271dd",
+   "rating": 4.3,
+   "reviews": 445,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "46, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975729,
+    "longitude": 77.602394
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "Café Memoire",
+   "place_id": "ChIJKQrznNIXrjsRWbVslMag98A",
+   "data_id": "0x3bae17d29cf30a29:0xc0f7a0c6946cb559",
+   "rating": 4.5,
+   "reviews": 28,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "Food District, Ground Floor, 1 Sobha Mall, St. Mark's Road, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975451,
+    "longitude": 77.602295
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "SMOOR Signature Lounge - Lavelle Road",
+   "place_id": "ChIJhzz1ifkXrjsRb5zkZn9T9xg",
+   "data_id": "0x3bae17f989f53c87:0x18f7537f66e49c6f",
+   "rating": 4.5,
+   "reviews": 1000,
+   "type": "Chocolate cafe",
+   "address": "Ground Floor, Prestige Sterling Square, State Bank of India Rd",
+   "gps_coordinates": {
+    "latitude": 12.97296,
+    "longitude": 77.60035
+   }
+  },
+  {
+   "position": 10,
+   "title": "Garden Cafe Foodstories Bangalore",
+   "place_id": "ChIJrULFmP0XrjsRln0tgA4F-y0",
+   "data_id": "0x3bae17fd98c542ad:0x2dfb050e802d7d96",
+   "rating": 4.5,
+   "reviews": 552,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Coffee store",
+   "address": "Ground Floor, Lavelle Road, next to Airline Hotel",
+   "gps_coordinates": {
+    "latitude": 12.972855,
+    "longitude": 77.6003
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am Mon"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Zed The Baker @ Bowring Club",
+   "place_id": "ChIJ4ymiSl8XrjsRMHanTvAO4wY",
+   "data_id": "0x3bae175f4aa229e3:0x6e30ef04ea77630",
+   "rating": 4.2,
+   "reviews": 49,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.9742775,
+    "longitude": 77.600136
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Glen's Bakehouse",
+   "place_id": "ChIJKaFXNHgWrjsRuoVUhT-DzDY",
+   "data_id": "0x3bae16783457a129:0x36cc833f855485ba",
+   "rating": 4.4,
+   "reviews": 12000,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Cafe",
+   "address": "24/1, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.969829,
+    "longitude": 77.597435
+   },
+   "comment": "Destination for baking & cafe dishes"
+  },
+  {
+   "position": 13,
+   "title": "Zed The Baker @ Museum Road",
+   "place_id": "ChIJp1pyWbwXrjsRQT4hpBk3i8w",
+   "data_id": "0x3bae17bc59725aa7:0xcc8b3719a4213e41",
+   "rating": 4.2,
+   "reviews": 1300,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "1 1, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.975854,
+    "longitude": 77.60263
+   },
+   "comment": "Sleek venue making handmade desserts"
+  },
+  {
+   "position": 14,
+   "title": "Cafelore",
+   "place_id": "ChIJg7dEawCrrzsRE467KiE91kc",
+   "data_id": "0x3bafab006b44b783:0x47d63d212abb8e13",
+   "rating": 4.6,
+   "reviews": 20,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "XJG3+4Q2, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975272,
+    "longitude": 77.60439
+   }
+  },
+  {
+   "position": 15,
+   "title": "The White Room Coffee & Kitchen",
+   "place_id": "ChIJb6vjaHwWrjsR3EQYgm4n-y4",
+   "data_id": "0x3bae167c68e3ab6f:0x2efb276e821844dc",
+   "rating": 4.1,
+   "reviews": 2500,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "33, Church St",
+   "gps_coordinates": {
+    "latitude": 12.975119,
+    "longitude": 77.60331
+   },
+   "comment": "Stylish international cafe dining",
+   "extensions": [
+    "Closed",
+    "Opens 8 am Mon"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Lavonne Café",
+   "place_id": "ChIJwcI4RyoXrjsRBCMjASRVf90",
+   "data_id": "0x3bae172a4738c2c1:0xdd7f552401232304",
+   "rating": 4.4,
+   "reviews": 1400,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Cafe",
+   "address": "Samrah Plaza, 4/2, Ground Floor St. Mark, s Road",
+   "gps_coordinates": {
+    "latitude": 12.969418,
+    "longitude": 77.60032
+   },
+   "extensions": [
+    "Closes soon",
+    "11 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Amintiri - Cafe | Patisserie | Gifting",
+   "place_id": "ChIJI_uzjBcXrjsRYJ-spWNxLYA",
+   "data_id": "0x3bae17178cb3fb23:0x802d7163a5ac9f60",
+   "rating": 4.4,
+   "reviews": 7200,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Cafe",
+   "address": "9/3, Museum Rd",
+   "gps_coordinates": {
+    "latitude": 12.973737,
+    "longitude": 77.60326
+   },
+   "comment": "Sleek bakery making cakes & snacks"
+  },
+  {
+   "position": 18,
+   "title": "That Grocery Cafe By Foodstories, Bangalore",
+   "place_id": "ChIJk15MFjQXrjsRGfZT8dYJmrk",
+   "data_id": "0x3bae1734164c5e93:0xb99a09d6f153f619",
+   "rating": 4.4,
+   "reviews": 7,
+   "type": "Cafe",
+   "address": "Prestige Sterling Square, Lavelle Road, next to Airline Hotel",
+   "gps_coordinates": {
+    "latitude": 12.971174,
+    "longitude": 77.59787
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am Mon"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Reva's Bistro",
+   "place_id": "ChIJlTXDxWwXrjsR_vKVTDpQZQM",
+   "data_id": "0x3bae176cc5c33595:0x365503a4c95f2fe",
+   "rating": 4.7,
+   "reviews": 52,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Coffee shop",
+   "address": "XJF4+7X8 Brigade Gardens, G 35, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974644,
+    "longitude": 77.60552
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am Mon"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Starbucks",
+   "place_id": "ChIJWV_DYgAXrjsR8Idh0AW11PA",
+   "data_id": "0x3bae170062c35f59:0xf0d4b505d06187f0",
+   "rating": 4.4,
+   "reviews": 9,
+   "type": "Coffee shop",
+   "address": "XHCX+C4P, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.971073,
+    "longitude": 77.597855
+   }
+  }
+ ]
+}

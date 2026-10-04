@@ -1,0 +1,1061 @@
+{
+ "q": "bars and pubs in Rajajinagar Bangalore",
+ "ll": "@12.9911,77.5554,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T16:40:31.147Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJuxfxieE9rjsRdZMmxqUeJG8",
+   "data_id": "0x3bae3de189f117bb:0x6f241ea5c6269375",
+   "title": "Stories Bar & Kitchen - Rajajinagar",
+   "description": "Modern, indoor/outdoor cocktail bar. Trendy bar featuring beer, wine, cocktails, a rooftop terrace & eclectic fusion fare.",
+   "address": "4th Floor, 1st Block, 77, Chord Rd, 1st R Block, Rajajinagar, Yeswanthpur, Bengaluru, Karnataka 560086",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4680 9322",
+   "rating": 4.1,
+   "reviews": 10255,
+   "gps_coordinates": {
+    "latitude": 13.0085549,
+    "longitude": 77.5491036
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "Closed",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/stories-bar-kitchen-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_h7SnxigbDkk4MMOW83jnKu7cg0q93oosJ9LSckSv9W5xKVpSN5dlJAY82PrSAA7MmkvyWbzRB6OK-WBf-JjmmBIVc0Y1gaJZ5h7iQzWPgkI-YY7YY%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TcCp8SseRLMs37eEdpCi2ThwwjT4maF0Gv54ld7jC8y_LwA559Rop6YVqVZzZ8CN_PPOjFqXX18sHEZAoZ2qABmaML1e5skIi4nhldYQ4CsnTdWUXRfQ9SovkHZFYdNjlw0G_K=w122-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJVS8uVHU9rjsRb77rItbSNJ8",
+   "data_id": "0x3bae3d75542e2f55:0x9f34d2d622ebbe6f",
+   "title": "5C Resto Pub & Kitchen",
+   "address": "No 37/1, West of Chord road, 1st Main Rd, Shivanagar, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "085500 21314",
+   "rating": 4.5,
+   "reviews": 816,
+   "gps_coordinates": {
+    "latitude": 12.9883254,
+    "longitude": 77.54897799999999
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "11 am–12:30 am",
+    "monday": "11 am–12:30 am",
+    "tuesday": "11 am–12:30 am",
+    "wednesday": "11 am–12:30 am",
+    "thursday": "11 am–12:30 am",
+    "friday": "11 am–12:30 am",
+    "saturday": "11 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/5-c-restobar-rajajinagar-bangalore-573627/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SBiNTZAPXz2ta5r-bZo-k_NbSm8ibJ9vG5hknmi4sdObi2GKf7-AZxQZTBa42nufiZqJ6dEv4wDDtwx2ySnATSFTg1eHwbym25IFiuRf2E4xqpULL7M-Qc5nY1LKZ-gWjLDv-acA=w163-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJO8sFs-Q9rjsRP0IHDscpyi8",
+   "data_id": "0x3bae3de4b305cb3b:0x2fca29c70e07423f",
+   "title": "Jetlag Bar and Grill",
+   "address": "opp. to Sherton Hotel, 6th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2337 8007",
+   "rating": 4.1,
+   "reviews": 11299,
+   "gps_coordinates": {
+    "latitude": 13.0122906,
+    "longitude": 77.5540973
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar & grill"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/jetlag-rajajinagar-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jlXbb8m6UOstwlnk2WHW-yh3IbSRXC3_gXXMvEMdWjmvFP99kBm1n8LIJtT-tmrPiWPxeQXujry_EVYBozS5cYLjQZZGSkw_WnMpnq5683YOvn9kk%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TDwVC1bV4-Cga7k_LgyW0nrV7HMS9WTNXRE017F0VUY0NKYre1zqNSTqsQztn5W15J464TP5D3ypo6a-pcX1fzq0rctZpxZVB4y646BJRgg4xWez5GkcBGZ9HrQgUHg9qpwcc-xw=w122-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJiSa7saM9rjsRxfhYLfOmXTY",
+   "data_id": "0x3bae3da3b1bb2689:0x365da6f32d58f8c5",
+   "title": "Le Grapes Restobar",
+   "address": "31, Chord Rd, 2nd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090662 29980",
+   "rating": 4.2,
+   "reviews": 3836,
+   "gps_coordinates": {
+    "latitude": 12.9963281,
+    "longitude": 77.5509276
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/le-grapes-restobar-rajajinagar-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_itPGmy3-f2DVARBD1Ae5wCySVvwTyYvzixAxc3dqNZTAUcW1V1s4RVNWlTFOOTI5hQIdZ5qXysGCMxEbToxOemb2ipS45PQOo3qmOFeuendthUtz8%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RB2Dxzxl5f0jdWwuRReeB450UysrD7knv_Ee-kZ9vOWJyeGyHuWd3gaQXGJ3hkR74jLxtAJdPwqJhDqAlVhLL7fZ7KNrNZjIU_xM9WvPM1jrXoVLrAvthvC87h8B5kq6sdPqer=w122-h92-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJtcHnw3g9rjsROTzAoEmcyQw",
+   "data_id": "0x3bae3d78c3e7c1b5:0xcc99c49a0c03c39",
+   "title": "District 6 - Best German Microbrewery in Bangalore | Pub Rajajinagar",
+   "description": "Rustic-chic German eatery & brewpub. German dishes & beers featured in a European-style microbrewery with woodsy-chic, golden-hued decor.",
+   "address": "G-03, G-04, G-05 26/1, Dr Rajkumar Road, Malleshwaram, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072599 06666",
+   "rating": 4.4,
+   "reviews": 12618,
+   "website": "https://www.district6.in/",
+   "domain": "district6.in",
+   "gps_coordinates": {
+    "latitude": 13.0124183,
+    "longitude": 77.55475679999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Bar",
+    "Beer garden",
+    "Beer hall",
+    "Brewery",
+    "Brewpub",
+    "European restaurant",
+    "German restaurant",
+    "Live music bar",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/district-6-pub-brewery-and-kitchen-malleshwaram-331921",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Twya9eiITiS5LOr9AGrGAmjjBAzM7LnHJLTVibJz53rvW6iTR6uAsXb7OFOGdR16fhwtK7_AzbA9_3Stj9pAw8STQsf3zMGONLpD9nEXiISTwNCGEO4No5h5C-558-F38bqenZ=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJ-dumm509rjsRBmSfHIrsnQA",
+   "data_id": "0x3bae3d9d9ba6dbf9:0x9dec8a1c9f6406",
+   "title": "Copper Finch",
+   "address": "3, Industrial Suburb, opp. to Sheraton Hotel, 6th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2337 8007",
+   "rating": 4.6,
+   "reviews": 106,
+   "gps_coordinates": {
+    "latitude": 13.0123298,
+    "longitude": 77.5540529
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/copper-finch-rajajinagar-koramangala-bangalore-1395226/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVV8MffPlKLmnyED8_r8iMe20R9F9ozMpZQwWQLMV8bonFneAjJjhJkJygio-XoYprPIsyuveAxI22jfFAwC_7vdpniVYhBjCbLTvwXYiw8zF-bjGsSAGyfXaIS_dJWYbmdIvhYfJjZpg=w80-h100-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJAauS2Io9rjsR1nsLNuuOMw4",
+   "data_id": "0x3bae3d8ad892ab01:0xe338eeb360b7bd6",
+   "title": "High Ultra Lounge",
+   "description": "Chic rooftop bar & Asian restaurant. Sleek, modern venue offering far-reaching views over the city, DJ music & a varied Asian menu.",
+   "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096869 23311",
+   "rating": 4.1,
+   "reviews": 7860,
+   "website": "https://www.sevenrooms.com/reservations/highultraloungebengaluru?venues=highultraloungebengaluru,thepersianterraceblrgs",
+   "domain": "sevenrooms.com",
+   "gps_coordinates": {
+    "latitude": 13.0122829,
+    "longitude": 77.5561431
+   },
+   "type": "Lounge bar",
+   "types": [
+    "Lounge bar",
+    "Bar",
+    "Cocktail bar",
+    "Fine dining restaurant",
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "1 pm–1 am",
+    "monday": "4 pm–1 am",
+    "tuesday": "4 pm–1 am",
+    "wednesday": "4 pm–1 am",
+    "thursday": "4 pm–1 am",
+    "friday": "4 pm–1 am",
+    "saturday": "4 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/high-ultra-lounge-malleshwaram-rajajinagar-bangalore-687394/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTdpanGmEgqfARYdB_Q2WHUyBmmSDh0zRCJU-2B6SxXI7Wub22UKz1NWkG9j2wh-r40E7PF-gW2OwMQSK5N6BXHwyVB_2IeboEzr7MVHjjbsh-MJQ--VHONelkXJTcFTGGQ6qoFA=w248-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJ_____4w9rjsRPgrjFCePYkQ",
+   "data_id": "0x3bae3d8cffffffff:0x44628f2714e30a3e",
+   "title": "SAPTHAGIRI RESTOBAR & PUB",
+   "address": "No 638-E, 2nd Main, Near-Navarang Theater, Dr Rajkumar Rd, D-Block, Gayatrinagar, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 3597 9343",
+   "rating": 3.9,
+   "reviews": 2103,
+   "gps_coordinates": {
+    "latitude": 13.0014144,
+    "longitude": 77.55328829999999
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "10:30 am–11:30 pm",
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "10:30 am–11:30 pm",
+    "wednesday": "10:30 am–11:30 pm",
+    "thursday": "10:30 am–11:30 pm",
+    "friday": "10:30 am–11:30 pm",
+    "saturday": "10:30 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPkrK3OgLswnXSIN1khC_cmrAkAJi42jU9SBbQCVG5i4hzJgU8OGCM9fqmgegu_ASJbTiaKDDbVXv7rV9dN8iupo1HrDEIM-04WLzT83ugyKuFjXiOqWWI9D3OYIh68ZafhrhI=w122-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJM3GGmqMXrjsR-9Bn6CtJsEQ",
+   "data_id": "0x3bae17a39a867133:0x44b0492be867d0fb",
+   "title": "Geometry Brewery & Kitchen-Rajajinagar",
+   "address": "59, 8th Main, \"A\" Block, Subramanya Nagar, 2nd Stage, Malleshwaram, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095131 20033",
+   "rating": 4.4,
+   "reviews": 5397,
+   "gps_coordinates": {
+    "latitude": 13.0080431,
+    "longitude": 77.55710049999999
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "11:30 am–11:30 pm",
+    "monday": "11:30 am–11:30 pm",
+    "tuesday": "11:30 am–11:30 pm",
+    "wednesday": "11:30 am–11:30 pm",
+    "thursday": "11:30 am–11:30 pm",
+    "friday": "11:30 am–11:30 pm",
+    "saturday": "11:30 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/geometry-brewery-and-kitchen-malleshwaram-bangalore-211111/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfdncFauLWkO2_pFgCi8LQeTB3IjczArT8qvtjiyIti3fYaGLMgN9WgszEsS6TxZLBZl_ESZITNHQh8VVVb6etQaEXjmWcpFtSDXCsS5fXkKXuBWk6UsfWXPwoxZIborQPP0w=w138-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJJ7xGhfo9rjsRfceU-8d7BdM",
+   "data_id": "0x3bae3dfa8546bc27:0xd3057bc7fb94c77d",
+   "title": "MAYURA 1989 Bar & Kitchen",
+   "description": "Elegant rooftop spot for Andhra cuisine. Biryani & Andhra cuisine served alongside North Indian & Chinese fare in an elegant rooftop setting.",
+   "address": "46/3, Dr, Dr Rajkumar Rd, 6th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2350 6361",
+   "rating": 4,
+   "reviews": 7287,
+   "gps_coordinates": {
+    "latitude": 12.9758777,
+    "longitude": 77.55271499999999
+   },
+   "type": "Andhra restaurant",
+   "types": [
+    "Andhra restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "11 am–11:30 pm",
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RkI9Ew_3VaQCRPdw4sahI-jyKaJKDdAct86Me_zPs5IfUU_vVj4Q8KxMeSVL9FS8-WXUl64cidOjakxuf3HTcc6BHmkOmZk1NPPBRRi5vQ8SFsWP5_GymjLLax2BNH7rst_uEdhKoTIFU=w122-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJ3TB2wng9rjsRCqUr1KgqO78",
+   "data_id": "0x3bae3d78c27630dd:0xbf3b2aa8d42ba50a",
+   "title": "Hydeout Bar and Lounge at Sheraton Grand Bangalore Hotel @ Brigade Gateway",
+   "description": "Upscale Italian spot with a city view. Rooftop restaurant in an upscale hotel offering Italian cuisine & cocktails with a city view.",
+   "address": "4th Floor, at, Sheraton Grand, Brigade Gateway, Dr Rajkumar Rd, A Block, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4252 1000",
+   "rating": 4.2,
+   "reviews": 128,
+   "website": "https://www.marriott.com/en-us/dining/restaurant-bar/blrgs-sheraton-grand-bangalore-hotel-at-brigade-gateway/6088882-hydeout-bar-and-lounge.mi",
+   "domain": "marriott.com",
+   "gps_coordinates": {
+    "latitude": 13.0111831,
+    "longitude": 77.5569838
+   },
+   "type": "Bar",
+   "types": [
+    "Bar",
+    "Lounge bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "3 pm–12 am",
+    "tuesday": "3 pm–12 am",
+    "wednesday": "3 pm–12 am",
+    "thursday": "3 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/hydeout-bar-and-lounge-sheraton-grand-malleshwaram-rajajinagar-bangalore-687399/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TMeyRUHUG4uBCHdrQ8VsGMAyk6PsOSgVPYcYvQd6L-Ey3pdiXioRef24yBmBjFJwIvHiH3llOwFS_XQxY3AjQG89c7Qh4Fvam6L0WoTlHD5KSZulrXeBonAqtdi5_4XaylhlVA=w133-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJ5SxvnYE9rjsR2l1qVKmLTNg",
+   "data_id": "0x3bae3d819d6f2ce5:0xd84c8ba9546a5dda",
+   "title": "1522 The Pub Malleshwara",
+   "description": "Roomy rock-music bar with live events. Big rock-&-roll pub featuring live bands, DJs & karaoke, plus cocktails & snacks.",
+   "address": "1522, 17th Cross Rd, A Block, Milk Colony, Subramanyanagar,2 State, Malleshwaram, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096865 87469",
+   "rating": 4.3,
+   "reviews": 11160,
+   "website": "http://1522thepub.com/",
+   "domain": "1522thepub.com",
+   "gps_coordinates": {
+    "latitude": 13.0078049,
+    "longitude": 77.5571212
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/1522-the-pub-malleshwaram-west-bengaluru-330157",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QtLDkgtxEeqhN4bpEOHUVeqUi5JvN_2MgHBwiw3ADs7w5G4qCeyLIZDXuCl5fyS-d53LFLvvsBvjFg0ZHSF4_paC3vVQdiDetDi6Oj-LmkiTFIQvrP46cU_vUvaKJWAzlh36FOtg=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJ9SAbWqA9rjsRRbSDfVyulNU",
+   "data_id": "0x3bae3da05a1b20f5:0xd594ae5c7d83b445",
+   "title": "BAR OH !",
+   "address": "Plot 1699, 43, Dr Rajkumar Rd, Prakash Nagar, Rajajinagar, Bengaluru, Karnataka 560021",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 4,
+   "gps_coordinates": {
+    "latitude": 12.9939374,
+    "longitude": 77.5558326
+   },
+   "type": "Pub",
+   "types": [
+    "Pub"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QN2YIE8u2QlNe1vWaQuAqjdc6ps4FwAEKMunF74cLRBefadXHeYL0vZdOLgWqFw3x5Be6UY5fwZshT5c2PPS-Phj3ZftuVpRGH0GvRawjX5Rk6x48gZwOg_8nfzdqCJIOmEdwyO90G1Cfr=w138-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJ-yX-vUcXrjsRFBOh_0TwqB0",
+   "data_id": "0x3bae1747bdfe25fb:0x1da8f044ffa11314",
+   "title": "Taffy's",
+   "address": "3rd floor, No. 725, WCR Road, 1st Stage, Manjunath Nagar, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099001 30615",
+   "rating": 4.7,
+   "reviews": 282,
+   "gps_coordinates": {
+    "latitude": 12.9973345,
+    "longitude": 77.54729929999999
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/taffys-rajajinagar-koramangala-bangalore-1088535/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QyDHiEos3XJaKfotzru0Xo4U1TBseCRim13E0qf8QrchOGmDGjMsSF9YSqaWIYZmgtdJta9GM39tUH9oY4Yb9d6K2KPHcrFntZLoOLkIArohKM325pFPETtqvb6dP3sW0ue8sCbKjDREo=w80-h106-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJ9U4P4j49rjsRtI-gNgfLpV4",
+   "data_id": "0x3bae3d3ee20f4ef5:0x5ea5cb0736a08fb4",
+   "title": "Geist Brewing Co. Rajajinagar",
+   "address": "UG - 09 C, Upper Ground Floor, Orion Mall, Brigade Gateway 26 / 1 Dr Rajkumar Road, Malleswaram, West, Rajajinagar, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "088677 07102",
+   "rating": 4.3,
+   "reviews": 673,
+   "website": "http://geist.in/",
+   "domain": "geist.in",
+   "gps_coordinates": {
+    "latitude": 13.0115187,
+    "longitude": 77.5553778
+   },
+   "type": "Brewpub",
+   "types": [
+    "Brewpub",
+    "Brewery",
+    "Cocktail bar"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–11 pm",
+    "monday": "12–11 pm",
+    "tuesday": "12–11 pm",
+    "wednesday": "12–11 pm",
+    "thursday": "12–11 pm",
+    "friday": "12–11 pm",
+    "saturday": "12–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/geist-brewing-co-malleshwaram-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_hC39kINk2zQcng-p6myV65RwnLSc4VL5M7bOXNHfoFnz2QyMNN_c0vHmh68YmOjzwq5K9RvMsVofPK7Gaz3y8nYhFOo17EzOqn7lds5o-PDK0IIPE%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RjgLZ0YuZxW3ow3KTS1eu_TnvBKaJtiKnxUSyB1uryCem_it8a1Crh043CGWk_OmKF9VdHRTtvVBeHvItqFqyfPxUyMBtbtX6Hbd4HDH4obZLLia_JD0cvHIJ_O5JcoE817BWyP0Iy26Ol=w122-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJTb0-PfE9rjsRjaQ54F8hecs",
+   "data_id": "0x3bae3df13d3ebd4d:0xcb79215fe039a48d",
+   "title": "Nemdhi Rooftop Pub & Kitchen",
+   "address": "3RD FLOOR, MK Towers, NO 725, WCR ROAD, 1st Stage, Manjunath Nagar, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 5,
+   "reviews": 2,
+   "gps_coordinates": {
+    "latitude": 12.9973598,
+    "longitude": 77.54731199999999
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=w7AxymiMn6hKk8CVfBCSNw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=168.05142&pitch=0&thumbfov=100"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJ3y3tlFg9rjsRUMFmEFt9S4s",
+   "data_id": "0x3bae3d5894ed2ddf:0x8b4b7d5b1066c150",
+   "title": "DWINKS Resto Bar and Lounge",
+   "address": "4th Floor, # 46, 10th Cross Rd, West of Chord Road 2nd Stage, West of Chord Road, Stage 2, Rajajinagar, Bengaluru, Karnataka 560086",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063644 44771",
+   "rating": 4,
+   "reviews": 834,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9993056,
+    "longitude": 77.54955439999999
+   },
+   "type": "Food court",
+   "types": [
+    "Food court",
+    "Gastropub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "10:30 am–12:30 am",
+    "monday": "10:30 am–12:30 am",
+    "tuesday": "10:30 am–12:30 am",
+    "wednesday": "10:30 am–12:30 am",
+    "thursday": "10:30 am–12:30 am",
+    "friday": "10:30 am–12:30 am",
+    "saturday": "10:30 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/dwinks-rajajinagar-koramangala-bangalore-1112853/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SbBP7krfH4xjKZdkmtyJgaoQ1uGOXcBq6YNZSSWcX_q9RHQ8aIK3h7PyaEWrMkcQY1suIb0uzQ2Fzfv7OkvYxJKRyUDgPcvFB7ZuFvwzChOp_NgpTtqBAobJ8XkA98MopXAnqG=w204-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJ_____4w9rjsRPo2kOJuIUhg",
+   "data_id": "0x3bae3d8cffffffff:0x1852889b38a48d3e",
+   "title": "White Horse",
+   "address": "Shop No, Lepakshi Building, 1522, 17th Cross Rd, A Block, Milk Colony, Malleshwaram, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 2357 7073",
+   "rating": 4.3,
+   "reviews": 1091,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 13.0078092,
+    "longitude": 77.5570977
+   },
+   "type": "Sports bar",
+   "types": [
+    "Sports bar",
+    "Pub",
+    "Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "10 am–1 am",
+    "tuesday": "10 am–1 am",
+    "wednesday": "10 am–1 am",
+    "thursday": "10 am–1 am",
+    "friday": "10 am–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXa6z16V54W0zcNm0Vu8xzva_cyYClqtiHui192tLjx1l8Ktrph7HSrTb29vlXSMxzKo_MpZ1dyjdwU8xHF0PpWlP_X90ioCeshnTyiPN4w720M1U3SuZrwjYMtaPBX4uCEUIi=w122-h92-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJgaeWo-09rjsRW92CefNh6uE",
+   "data_id": "0x3bae3deda396a781:0xe1ea61f37982dd5b",
+   "title": "GD Bar and Restaurant",
+   "address": "XGMX+HFQ, Rajaji Nagar Industrial Town, Rajajinagar, Bengaluru, Karnataka 560010",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 3.7,
+   "reviews": 346,
+   "is_unclaimed_listing": true,
+   "gps_coordinates": {
+    "latitude": 12.9839717,
+    "longitude": 77.54874749999999
+   },
+   "type": "Gastropub",
+   "types": [
+    "Gastropub",
+    "Bar",
+    "Restaurant"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–10 pm",
+    "monday": "11 am–10 pm",
+    "tuesday": "11 am–10 pm",
+    "wednesday": "11 am–10 pm",
+    "thursday": "11 am–10 pm",
+    "friday": "11 am–10 pm",
+    "saturday": "11 am–10 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ra6QSw5RJUhhVLy4fEqdeQgY1bAVMHfgf8fBoLHj3JleN2ooJotn9MpiPorUsz9WtZRd6sBKtMyGIZKVs-oKT967d_c6R8ujJQYvXY2t9Eqqu6qj2RLKmDdn3OL_jjWehVJ5Tt=w122-h92-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJgXyHLoI9rjsRiBLdEun9fJI",
+   "data_id": "0x3bae3d822e877c81:0x927cfde912dd1288",
+   "title": "BELL BAR AND RESTAURANT",
+   "address": "465/25/1, Tank Bund road, Milk Colony, 2nd Stage, Malleshwaram, Bengaluru, Karnataka 560055",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097408 40304",
+   "rating": 3.7,
+   "reviews": 378,
+   "website": "https://bellbarandrestaurant.netlify.app/",
+   "domain": "bellbarandrestaurant.netlify.app",
+   "gps_coordinates": {
+    "latitude": 13.0081703,
+    "longitude": 77.555737
+   },
+   "type": "Bar",
+   "types": [
+    "Bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "10 am–12:30 am",
+    "monday": "10 am–12:30 am",
+    "tuesday": "10 am–12:30 am",
+    "wednesday": "10 am–12:30 am",
+    "thursday": "10 am–12:30 am",
+    "friday": "10 am–12:30 am",
+    "saturday": "10 am–12:30 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QVYE66kS1RFeKHEo5TkGpy13t1fGDRKJwaob0Ji-Q-24tT2LIkl362W8DmRHByX7gb8pc_fIKlFQpYIe2QxJc8p0OxKyfClUB1J5FFc2ZkjntTz6JVxp_VbWoA4RWRpHtwkzK2ZBkY8qGc=w80-h106-k-no"
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+ "q": "best italian restaurants in Bangalore",
+ "ll": "@12.9716,77.5946,12z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:33:21.964Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "La Gioia - Italian Bar and Restaurant | Pizzeria",
+   "place_id": "ChIJH-A7tKkXrjsRbHNXqczWCkw",
+   "data_id": "0x3bae17a9b43be01f:0x4c0ad6cca957736c",
+   "rating": 4.4,
+   "reviews": 1800,
+   "type": "Italian",
+   "address": "1085, 12th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9698305,
+    "longitude": 77.638374
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Olive Beach",
+   "place_id": "ChIJ03xVrSoUrjsRfYzAUhym4eY",
+   "data_id": "0x3bae142aad557cd3:0xe6e1a61c52c08c7d",
+   "rating": 4.5,
+   "reviews": 8200,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Mediterranean",
+   "address": "16, Wood St, near Karnataka Bank",
+   "gps_coordinates": {
+    "latitude": 12.966852,
+    "longitude": 77.60807
+   },
+   "comment": "Stylish, white-walled Mediterranean spot",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Chianti, Forum South Bengaluru",
+   "place_id": "ChIJb0zah_cVrjsRS4gOsTx372g",
+   "data_id": "0x3bae15f787da4c6f:0x68ef773cb10e884b",
+   "rating": 4.7,
+   "reviews": 1700,
+   "type": "Italian",
+   "address": "Cross Metro Station, Prestige Falcon City, Ground Floor, Forum Mall, Kanakapura Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.887816,
+    "longitude": 77.56316
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "Chianti, Indiranagar",
+   "place_id": "ChIJ85IJkKcWrjsRDcVh5mERk6s",
+   "data_id": "0x3bae16a7900992f3:0xab931161e661c50d",
+   "rating": 4.5,
+   "reviews": 8700,
+   "type": "Italian",
+   "address": "960, 12th Main Rd, near Gold Gym",
+   "gps_coordinates": {
+    "latitude": 12.969961,
+    "longitude": 77.64023
+   },
+   "comment": "Chic & classic Italian restaurant",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Light of Italy",
+   "place_id": "ChIJO8xaIwIVrjsRoJaH5hEOo5Y",
+   "data_id": "0x3bae1502235acc3b:0x96a30e11e68796a0",
+   "rating": 4.7,
+   "reviews": 4500,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Italian",
+   "address": "669, 13th cross, 27th Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.91607,
+    "longitude": 77.651085
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "Bologna Italian Restaurant - Indiranagar",
+   "place_id": "ChIJi4ERzKcWrjsR4wNud81bnvc",
+   "data_id": "0x3bae16a7cc11818b:0xf79e5bcd776e03e3",
+   "rating": 4.4,
+   "reviews": 4500,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Italian",
+   "address": "First Floor, 759, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.971816,
+    "longitude": 77.64102
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Chianti, The Bay- ECOWORLD",
+   "place_id": "ChIJIyjCmioTrjsRX8uhIEEcAhg",
+   "data_id": "0x3bae132a9ac22823:0x18021c4120a1cb5f",
+   "rating": 4.8,
+   "reviews": 1700,
+   "type": "Italian",
+   "address": "Ground floor, Unit AR 1, Art Gallery, The Bay, ECOWORLD",
+   "gps_coordinates": {
+    "latitude": 12.920409,
+    "longitude": 77.68376
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "LUPA",
+   "place_id": "ChIJwWzHW5cXrjsRSUYk6pvrsjU",
+   "data_id": "0x3bae17975bc76cc1:0x35b2eb9bea244649",
+   "rating": 4.3,
+   "reviews": 1500,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Modern European",
+   "address": "Ground Floor, NO.86, SPENCER'S TOWERS, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.975749,
+    "longitude": 77.60462
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Chianti, Koramangala",
+   "place_id": "ChIJwTjQW0EUrjsRIRf9d3YjyK4",
+   "data_id": "0x3bae14415bd038c1:0xaec8237677fd1721",
+   "rating": 4.5,
+   "reviews": 6700,
+   "type": "Italian",
+   "address": "No 12,, 5th Block, Koramangala",
+   "gps_coordinates": {
+    "latitude": 12.933465,
+    "longitude": 77.62191
+   },
+   "comment": "Cozy restaurant showcasing Italian fare",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Chianti, MG Road",
+   "place_id": "ChIJ184uJb0XrjsRFuBTcHkYSYA",
+   "data_id": "0x3bae17bd252eced7:0x804918797053e016",
+   "rating": 4.5,
+   "reviews": 4000,
+   "type": "Italian",
+   "address": "Ground Floor, Ramanashree Arcade, Post Old Kid's Kemo Building",
+   "gps_coordinates": {
+    "latitude": 12.972355,
+    "longitude": 77.61883
+   },
+   "comment": "Italian fare in a rustic-chic ambiance",
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Toscano",
+   "place_id": "ChIJd_D2XncWrjsRSiEU0n0jAOw",
+   "data_id": "0x3bae16775ef6f077:0xec00237dd214214a",
+   "rating": 4.4,
+   "reviews": 2600,
+   "type": "Italian",
+   "address": "24, Vittal Mallya Rd",
+   "gps_coordinates": {
+    "latitude": 12.971677,
+    "longitude": 77.596275
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "Bologna Italian Restaurant - J.P. Nagar",
+   "place_id": "ChIJl2wxHwAVrjsR5TeVF2Xy3dg",
+   "data_id": "0x3bae15001f316c97:0xd8ddf265179537e5",
+   "rating": 4.7,
+   "reviews": 117,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Italian",
+   "address": "543, 9th Cross Rd",
+   "gps_coordinates": {
+    "latitude": 12.910616,
+    "longitude": 77.596886
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Toscano",
+   "place_id": "ChIJXx535Io9rjsRxPHSPe5DJvw",
+   "data_id": "0x3bae3d8ae4771e5f:0xfc2643ee3dd2f1c4",
+   "rating": 4.3,
+   "reviews": 5500,
+   "type": "Italian",
+   "address": "26/1, Dr Rajkumar Rd",
+   "gps_coordinates": {
+    "latitude": 13.011326,
+    "longitude": 77.555336
+   },
+   "comment": "Stylish venue for Italian fine dining",
+   "extensions": [
+    "Closed",
+    "Opens 11:30 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Rosmarino Neapolitan Pizza & Trattoria",
+   "place_id": "ChIJQ2PJnHkVrjsRiZLTrn9pXrI",
+   "data_id": "0x3bae15799cc96343:0xb25e697faed39289",
+   "rating": 4.8,
+   "reviews": 264,
+   "price": "₹800–1,800",
+   "extracted_price": {
+    "min": 800,
+    "max": 1800
+   },
+   "type": "Italian",
+   "address": "Unit Nos 21, 22, 23, Carlton Towers, 1, HAL Old Airport Rd",
+   "gps_coordinates": {
+    "latitude": 12.960866,
+    "longitude": 77.64383
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm Tue"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Casa Napoli",
+   "place_id": "ChIJ6x15PSkRrjsR4kYXbTGhNPw",
+   "data_id": "0x3bae11293d791deb:0xfc34a1316d1746e2",
+   "rating": 4.8,
+   "reviews": 378,
+   "price": "₹200–600",
+   "extracted_price": {
+    "min": 200,
+    "max": 600
+   },
+   "type": "Italian",
+   "address": "SITE NO 09, Kanakashree Layout, BYRATHI, BIDARAHALLI HOBLI, POST",
+   "gps_coordinates": {
+    "latitude": 13.054534,
+    "longitude": 77.653725
+   },
+   "extensions": [
+    "Closed",
+    "Opens 1:30 pm Tue"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Spettacolare",
+   "place_id": "ChIJkfzKneMXrjsR7Kk5Yepd8bc",
+   "data_id": "0x3bae17e39dcafc91:0xb7f15dea6139a9ec",
+   "rating": 4.3,
+   "reviews": 2200,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Italian",
+   "address": "208, Paramahansa Yogananda Rd",
+   "gps_coordinates": {
+    "latitude": 12.979603,
+    "longitude": 77.63682
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Bologna Italian Restaurant - Whitefield",
+   "place_id": "ChIJr2e7gdYPrjsRQ3glLYGrg6k",
+   "data_id": "0x3bae0fd681bb67af:0xa983ab812d257843",
+   "rating": 4.6,
+   "reviews": 773,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Italian",
+   "address": "No 921,Old no 634/494/1, Belathur Village, Post",
+   "gps_coordinates": {
+    "latitude": 13.003342,
+    "longitude": 77.75696
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Moonstone Italian Restaurant (Pure veg)",
+   "place_id": "ChIJ0fxK7kQVrjsRMx-55uefdpM",
+   "data_id": "0x3bae1544ee4afcd1:0x93769fe7e6b91f33",
+   "rating": 4.8,
+   "reviews": 224,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Italian",
+   "address": "23, Kanakapura Main Rd",
+   "gps_coordinates": {
+    "latitude": 12.9453335,
+    "longitude": 77.576935
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Pasta Street - Indiranagar",
+   "place_id": "ChIJ7VssrhwUrjsRsUVHewyWzbM",
+   "data_id": "0x3bae141cae2c5bed:0xb3cd960c7b4745b1",
+   "rating": 4.4,
+   "reviews": 8100,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Italian",
+   "address": "2022, 100 Feet Rd",
+   "gps_coordinates": {
+    "latitude": 12.967053,
+    "longitude": 77.641716
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Meloghrano",
+   "place_id": "ChIJB2BCtZoVrjsR5Ic03p3oeOg",
+   "data_id": "0x3bae159ab5426007:0xe878e89dde3487e4",
+   "rating": 4.5,
+   "reviews": 741,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Italian",
+   "address": "3801, 13th Cross",
+   "gps_coordinates": {
+    "latitude": 12.92885,
+    "longitude": 77.56702
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9 am"
+   ]
+  }
+ ]
+}

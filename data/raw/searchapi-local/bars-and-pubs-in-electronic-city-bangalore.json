@@ -1,0 +1,342 @@
+{
+ "q": "bars and pubs in Electronic City Bangalore",
+ "ll": "@12.8452,77.6602,14z",
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T16:40:11.865Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "SECTOR 144 - Electronic City",
+   "place_id": "ChIJtTFjoYlrrjsR8UyC70cniOQ",
+   "data_id": "0x3bae6b89a16331b5:0xe4882747ef824cf1",
+   "rating": 4.7,
+   "reviews": 5200,
+   "type": "Pub",
+   "address": "5th Floor, 152/2, Rebus Realm 2, Neeladri Rd, opposite to Westside",
+   "gps_coordinates": {
+    "latitude": 12.841979,
+    "longitude": 77.64435
+   }
+  },
+  {
+   "position": 2,
+   "title": "Destini Night Club Ecity (Destini Bar & Kitchen )",
+   "place_id": "ChIJtT4Lu-9trjsRZ0tKopFurDs",
+   "data_id": "0x3bae6defbb0b3eb5:0x3bac6e91a24a4b67",
+   "rating": 4.6,
+   "reviews": 778,
+   "type": "Brewery",
+   "address": "3rd Floor, M5 Ecity Mall, Hosur Rd, next to Audi showroom, opposite to Electronic City Flyover",
+   "gps_coordinates": {
+    "latitude": 12.841791,
+    "longitude": 77.67678
+   }
+  },
+  {
+   "position": 3,
+   "title": "XYLON Bar & Kitchen",
+   "place_id": "ChIJOfU0TblrrjsR8TWT_apv_cg",
+   "data_id": "0x3bae6bb94d34f539:0xc8fd6faafd9335f1",
+   "rating": 4.8,
+   "reviews": 462,
+   "type": "Pub",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.841519,
+    "longitude": 77.64508
+   }
+  },
+  {
+   "position": 4,
+   "title": "Bier Loft - Brewery & Kitchen",
+   "place_id": "ChIJGTYemwlrrjsRGZOacltDH3I",
+   "data_id": "0x3bae6b099b1e3619:0x721f435b729a9319",
+   "rating": 4.6,
+   "reviews": 1200,
+   "type": "Pub",
+   "address": "4th Floor, Nishaanth Elegance, Neeladri Rd, opposite Cloudnine Hospital",
+   "gps_coordinates": {
+    "latitude": 12.841595,
+    "longitude": 77.644554
+   }
+  },
+  {
+   "position": 5,
+   "title": "Jack's Bar",
+   "place_id": "ChIJ2yhNMWptrjsRS65PVFLvtzI",
+   "data_id": "0x3bae6d6a314d28db:0x32b7ef52544fae4b",
+   "rating": 4.6,
+   "reviews": 1500,
+   "type": "Bar",
+   "address": "Monk Mansion, SY NO 94/1A . Electronic city Phase 1 Veerasandra, Hobli",
+   "gps_coordinates": {
+    "latitude": 12.84098,
+    "longitude": 77.66492
+   }
+  },
+  {
+   "position": 6,
+   "title": "46 Ounces Brewgarden",
+   "place_id": "ChIJK_DYjyRtrjsRpidHSGoflWU",
+   "data_id": "0x3bae6d248fd8f02b:0x65951f6a484727a6",
+   "rating": 4.5,
+   "reviews": 17000,
+   "type": "Brewpub",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.849616,
+    "longitude": 77.657814
+   },
+   "comment": "Chic option for housemade beers & pizza"
+  },
+  {
+   "position": 7,
+   "title": "BLR Brewing Co - Electronic City",
+   "place_id": "ChIJOVrqGt9rrjsRk8ByPz0r9Mc",
+   "data_id": "0x3bae6bdf1aea5a39:0xc7f42b3d3f72c093",
+   "rating": 4.4,
+   "reviews": 5000,
+   "type": "Brewery",
+   "address": "4th Floor, 84/4, Neeladri Rd, opposite to Wipro Gate",
+   "gps_coordinates": {
+    "latitude": 12.8403,
+    "longitude": 77.6534
+   },
+   "comment": "Hip brewpub with global menu & beer"
+  },
+  {
+   "position": 8,
+   "title": "E-City SOCIAL",
+   "place_id": "ChIJw-QT6QlrrjsRTHGNjJKNEJo",
+   "data_id": "0x3bae6b09e913e4c3:0x9a108d928c8d714c",
+   "rating": 4.3,
+   "reviews": 1100,
+   "type": "Bar",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.843697,
+    "longitude": 77.644966
+   }
+  },
+  {
+   "position": 9,
+   "title": "EtOH Rooftop Restaurant | Bar",
+   "place_id": "ChIJsYyr7TxtrjsREAsBU_LCvjc",
+   "data_id": "0x3bae6d3cedab8cb1:0x37bec2f253010b10",
+   "rating": 4.6,
+   "reviews": 270,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Pub",
+   "address": "Hebbagodi, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.835908,
+    "longitude": 77.665276
+   }
+  },
+  {
+   "position": 10,
+   "title": "TAP House 2.0 Bar & Kitchen Electronic City",
+   "place_id": "ChIJ03u9s4RtrjsRgxw0XCalRY8",
+   "data_id": "0x3bae6d84b3bd7bd3:0x8f45a5265c341c83",
+   "rating": 4.6,
+   "reviews": 323,
+   "type": "Grill",
+   "address": "Hebbagodi, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.83945,
+    "longitude": 77.665215
+   }
+  },
+  {
+   "position": 11,
+   "title": "City Vibes ecity Cocktail Bar & Kitchen",
+   "place_id": "ChIJXzL6ldhtrjsRuCiUe5ogIv8",
+   "data_id": "0x3bae6dd895fa325f:0xff22209a7b9428b8",
+   "rating": 4.8,
+   "reviews": 101,
+   "type": "Pub",
+   "address": "5th Floor, 121/122, Haripriya Samruddhi, 14th Cross, Neeladri Rd, above Mc Donald's",
+   "gps_coordinates": {
+    "latitude": 12.841731,
+    "longitude": 77.64682
+   }
+  },
+  {
+   "position": 12,
+   "title": "Fire Station - Bar & Kitchen",
+   "place_id": "ChIJwQFZfnFrrjsRHbl9dheUEMk",
+   "data_id": "0x3bae6b717e5901c1:0xc9109417767db91d",
+   "rating": 4.1,
+   "reviews": 7100,
+   "price": "₹400–1,400",
+   "extracted_price": {
+    "min": 400,
+    "max": 1400
+   },
+   "type": "Grill",
+   "address": "154, Above Unlimited Store, Neeladri Main Road Electronic City",
+   "gps_coordinates": {
+    "latitude": 12.841536,
+    "longitude": 77.64737
+   },
+   "comment": "Vibrant gastropub with mixed fare"
+  },
+  {
+   "position": 13,
+   "title": "Highlander The Restobar -Best Restaurant and Bar in ECity",
+   "place_id": "ChIJcZKH7V9trjsRwElmTeRvVp4",
+   "data_id": "0x3bae6d5fed879271:0x9e566fe44d6649c0",
+   "rating": 4.7,
+   "reviews": 54,
+   "type": "Bar",
+   "address": "Konappana Agrahara, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.853007,
+    "longitude": 77.67552
+   }
+  },
+  {
+   "position": 14,
+   "title": "Macaw By Stories",
+   "place_id": "ChIJmc-EZGcVrjsRyD0eKRt8wRk",
+   "data_id": "0x3bae15676484cf99:0x19c17c1b291e3dc8",
+   "rating": 4.4,
+   "reviews": 5600,
+   "type": "Pub",
+   "address": "No 2224, 2225, Service Rd",
+   "gps_coordinates": {
+    "latitude": 12.884246,
+    "longitude": 77.64344
+   }
+  },
+  {
+   "position": 15,
+   "title": "The Terminus - Restobar",
+   "place_id": "ChIJX4QzkptsrjsR1hEiRwSXGb8",
+   "data_id": "0x3bae6c9b9233845f:0xbf199704472211d6",
+   "rating": 4.4,
+   "reviews": 265,
+   "price": "₹2,000+",
+   "extracted_price": {
+    "min": 2000
+   },
+   "type": "Sports bar",
+   "address": "The Oterra Hotel, 43, Hewlett Packard Avenue",
+   "gps_coordinates": {
+    "latitude": 12.85001,
+    "longitude": 77.660225
+   },
+   "comment": "Sports bar & lounge at a business hotel"
+  },
+  {
+   "position": 16,
+   "title": "PlanB Electronic City",
+   "place_id": "ChIJQURGaaFrrjsRvwgLtnKsxIs",
+   "data_id": "0x3bae6ba169464441:0x8bc4ac72b60b08bf",
+   "rating": 3.9,
+   "reviews": 537,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "RM72+366",
+   "gps_coordinates": {
+    "latitude": 12.812688,
+    "longitude": 77.650566
+   }
+  },
+  {
+   "position": 17,
+   "title": "The Big Baadshaah - E City",
+   "place_id": "ChIJRVXuU4JrrjsRJ16EKcMV0u8",
+   "data_id": "0x3bae6b8253ee5545:0xefd215c329845e27",
+   "rating": 4.7,
+   "reviews": 900,
+   "price": "₹600–1,800",
+   "extracted_price": {
+    "min": 600,
+    "max": 1800
+   },
+   "type": "Bar",
+   "address": "Doddathoguru, Karnataka",
+   "gps_coordinates": {
+    "latitude": 12.841636,
+    "longitude": 77.6468
+   },
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Skyline Lounge and Rooftop",
+   "place_id": "ChIJoYrFz85trjsRxDwLcOsKmQM",
+   "data_id": "0x3bae6dcecfc58aa1:0x3990aeb700b3cc4",
+   "rating": 4.2,
+   "reviews": 203,
+   "price": "₹200–1,400",
+   "extracted_price": {
+    "min": 200,
+    "max": 1400
+   },
+   "type": "Lounge bar",
+   "address": "5th Floor, 152/5, Neeladri Rd, above Puma Show Room",
+   "gps_coordinates": {
+    "latitude": 12.841597,
+    "longitude": 77.64473
+   },
+   "extensions": [
+    "Temporarily closed"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "The 90s Club",
+   "place_id": "ChIJ_Urd89dtrjsRuQZqlVH1N0o",
+   "data_id": "0x3bae6dd7f3dd4afd:0x4a37f551956a06b9",
+   "rating": 4.7,
+   "reviews": 98,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Pub",
+   "address": "millennium plaza, 396/48, Hosur Rd",
+   "gps_coordinates": {
+    "latitude": 12.83463,
+    "longitude": 77.67936
+   }
+  },
+  {
+   "position": 20,
+   "title": "Sky Lounge",
+   "place_id": "ChIJLfyVzoZsrjsRfo5ICM4JwTM",
+   "data_id": "0x3bae6c86ce95fc2d:0x33c109ce08488e7e",
+   "rating": 3.7,
+   "reviews": 911,
+   "price": "₹800–1,000",
+   "extracted_price": {
+    "min": 800,
+    "max": 1000
+   },
+   "type": "Lounge bar",
+   "address": "No. 56D, Rooftop, Svenska Design Hotel, 5, opp. Wipro Avenue",
+   "gps_coordinates": {
+    "latitude": 12.839275,
+    "longitude": 77.659225
+   },
+   "comment": "Rooftop hotel lounge with chic decor",
+   "extensions": [
+    "Closes soon",
+    "10:45 pm"
+   ]
+  }
+ ]
+}

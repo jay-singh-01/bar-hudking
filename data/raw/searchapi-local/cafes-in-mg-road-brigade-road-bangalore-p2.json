@@ -1,0 +1,427 @@
+{
+ "q": "cafes in MG Road/Brigade Road Bangalore",
+ "ll": "@12.9752,77.6065,14z",
+ "page": 2,
+ "engine": "google_local",
+ "fetchedAt": "2026-10-04T18:41:55.073Z",
+ "results": [
+  {
+   "position": 1,
+   "title": "The Good Food Cafe",
+   "place_id": "ChIJQ2PbUwAXrjsRb_G7t7Yqgfg",
+   "data_id": "0x3bae170053db6343:0xf8812ab6b7bbf16f",
+   "rating": 4.8,
+   "reviews": 184,
+   "price": "₹200–1,000",
+   "extracted_price": {
+    "min": 200,
+    "max": 1000
+   },
+   "type": "Cafe",
+   "address": "XJF9+PW5, Nature's Basket Artisan Pantry, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.974255,
+    "longitude": 77.619865
+   }
+  },
+  {
+   "position": 2,
+   "title": "Coffee All Day",
+   "place_id": "ChIJaY3kXAAXrjsRm58Qljrp_oM",
+   "data_id": "0x3bae17005ce48d69:0x83fee93a96109f9b",
+   "rating": 4,
+   "reviews": 410,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Coffee shop",
+   "address": "Deenas Complex, 185/1, Brigade Rd, opp. to McDonald's",
+   "gps_coordinates": {
+    "latitude": 12.97321,
+    "longitude": 77.6073
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 3,
+   "title": "Hard Rock Cafe Bengaluru",
+   "place_id": "ChIJ3f5vgnsWrjsRhDkIjzW274o",
+   "data_id": "0x3bae167b826ffedd:0x8aefb6358f083984",
+   "rating": 4.4,
+   "reviews": 17000,
+   "type": "Cafe",
+   "address": "40, St Mark's Rd",
+   "gps_coordinates": {
+    "latitude": 12.976179,
+    "longitude": 77.60154
+   },
+   "comment": "Music-themed chain with an American menu",
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 4,
+   "title": "COFFEE ALL DAY (CAD)",
+   "place_id": "ChIJH-fkbQAXrjsRsLUYw76AjqI",
+   "data_id": "0x3bae17006de4e71f:0xa28e80bec318b5b0",
+   "rating": 4.4,
+   "reviews": 49,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "GROUND FLOOR, Coffee All Day, Flagship Cafe, Deena's Complex, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973254,
+    "longitude": 77.60727
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 5,
+   "title": "Third Wave Coffee",
+   "place_id": "ChIJoVIBOaUXrjsRbF451NgeXrA",
+   "data_id": "0x3bae17a5390152a1:0xb05e1ed8d4395e6c",
+   "rating": 4.4,
+   "reviews": 1100,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "Shop 52/2, Sujaya Pride Building, Church St",
+   "gps_coordinates": {
+    "latitude": 12.974659,
+    "longitude": 77.60675
+   },
+   "extensions": [
+    "Closed",
+    "Opens 8 am"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "TOCA Brigade and Terrace",
+   "place_id": "ChIJ62siEjQXrjsRoy7xHOObj_c",
+   "data_id": "0x3bae173412226beb:0xf78f9be31cf12ea3",
+   "rating": 4.4,
+   "reviews": 2800,
+   "type": "Restaurant",
+   "address": "3rd and 4th floor, 25, Brigade Rd, above Levi’s showroom",
+   "gps_coordinates": {
+    "latitude": 12.973753,
+    "longitude": 77.607704
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "BROWN BOY CAFE",
+   "place_id": "ChIJnQEUFgAXrjsRk2VNfuU0dr8",
+   "data_id": "0x3bae17001614019d:0xbf7634e57e4d6593",
+   "rating": 4.6,
+   "reviews": 70,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Cafe",
+   "address": "G-02, Smart avenue, G-02, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.971672,
+    "longitude": 77.60628
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "We:Neighborhood",
+   "place_id": "ChIJiUfMjSAXrjsRGvFZeLpuGiQ",
+   "data_id": "0x3bae17208dcc4789:0x241a6eba7859f11a",
+   "rating": 4.3,
+   "reviews": 2000,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "Brewpub",
+   "address": "No. 67/1, Brigade Solitare, Residency Rd",
+   "gps_coordinates": {
+    "latitude": 12.9724245,
+    "longitude": 77.60825
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "India Chai Brigade Road",
+   "place_id": "ChIJMabbIWAXrjsRJ29Tx9isVYY",
+   "data_id": "0x3bae176021dba631:0x8655acd8c7536f27",
+   "rating": 4.2,
+   "reviews": 111,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "2nd Floor, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973254,
+    "longitude": 77.60727
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 10,
+   "title": "Kake Di Hatti Brigade Road",
+   "place_id": "ChIJi3tty1MXrjsR1ljnLikBz9k",
+   "data_id": "0x3bae1753cb6d7b8b:0xd9cf01292ee758d6",
+   "rating": 4.4,
+   "reviews": 1400,
+   "price": "₹400–1,200",
+   "extracted_price": {
+    "min": 400,
+    "max": 1200
+   },
+   "type": "Vegetarian",
+   "address": "above Mochi Shoes, Brigade Rd, opposite to Nike store",
+   "gps_coordinates": {
+    "latitude": 12.974353,
+    "longitude": 77.607864
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "Le Rock",
+   "place_id": "ChIJ0w3T4n0WrjsRfJAwzRWW7pE",
+   "data_id": "0x3bae167de2d30dd3:0x91ee9615cd30907c",
+   "rating": 4.2,
+   "reviews": 4300,
+   "type": "Pub",
+   "address": "3, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973636,
+    "longitude": 77.60724
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "RCB Bar and Cafe",
+   "place_id": "ChIJMYZlS40XrjsRB_M-a_xVlfw",
+   "data_id": "0x3bae178d4b658631:0xfc9555fc6b3ef307",
+   "rating": 4.3,
+   "reviews": 3500,
+   "type": "Sports bar",
+   "address": "5th & 6 th Floor, Garuda Mall, Magrath Rd",
+   "gps_coordinates": {
+    "latitude": 12.970054,
+    "longitude": 77.60961
+   },
+   "extensions": [
+    "Closes soon",
+    "12:30 am"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "NChef Restaurant Brigade Road",
+   "place_id": "ChIJk3RqVuQXrjsRJU3zMndnMSM",
+   "data_id": "0x3bae17e4566a7493:0x2331677732f34d25",
+   "rating": 4.7,
+   "reviews": 3200,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Restaurant",
+   "address": "181, Brigade Rd, opp. selec hyper mart",
+   "gps_coordinates": {
+    "latitude": 12.973011,
+    "longitude": 77.60713
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Yumm Keralam Brigade Road",
+   "place_id": "ChIJUSJu0RMXrjsRFcEB7xiIOXc",
+   "data_id": "0x3bae1713d16e2251:0x77398818ef01c115",
+   "rating": 4.9,
+   "reviews": 198,
+   "price": "₹200–400",
+   "extracted_price": {
+    "min": 200,
+    "max": 400
+   },
+   "type": "Keralan",
+   "address": "B Block, Brigade Road, 6th Level, Forum Rex Walk",
+   "gps_coordinates": {
+    "latitude": 12.9726,
+    "longitude": 77.60707
+   },
+   "extensions": [
+    "Closed",
+    "Opens 12 pm"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "Hatti Kaapi - 5th Avenue Mall",
+   "place_id": "ChIJDZ9LyJwXrjsRiKODLQQ8Bj0",
+   "data_id": "0x3bae179cc84b9f0d:0x3d063c042d83a388",
+   "rating": 4,
+   "reviews": 355,
+   "type": "Cafe",
+   "address": "5th Avenue mall, 5th Avenue Mall, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973204,
+    "longitude": 77.60702
+   },
+   "extensions": [
+    "Closed",
+    "Opens 9:30 am"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Cafe Saranghae",
+   "place_id": "ChIJlTrEaAAXrjsRseocr-S0pqk",
+   "data_id": "0x3bae170068c43a95:0xa9a6b4e4af1ceab1",
+   "rating": 4.5,
+   "reviews": 47,
+   "price": "₹1–200",
+   "extracted_price": {
+    "min": 1,
+    "max": 200
+   },
+   "type": "Cafe",
+   "address": "27, Rest House Rd, off Brigade Road, beside Purple brigade hotel",
+   "gps_coordinates": {
+    "latitude": 12.973841,
+    "longitude": 77.60674
+   },
+   "extensions": [
+    "Closed",
+    "Opens 11 am"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Over Coffee",
+   "place_id": "ChIJJWmX2SAXrjsRT9QGJFeKEKQ",
+   "data_id": "0x3bae1720d9976925:0xa4108a572406d44f",
+   "rating": 4.3,
+   "reviews": 1200,
+   "price": "₹400–1,600",
+   "extracted_price": {
+    "min": 400,
+    "max": 1600
+   },
+   "type": "European",
+   "address": "Ground Floor, Chowriappa Complex, 41, B\" wing, Lavelle Road",
+   "gps_coordinates": {
+    "latitude": 12.974978,
+    "longitude": 77.59952
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10 am"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "By Chance - Resto Pub",
+   "place_id": "ChIJ4_aw2woXrjsREdhPyJnv3nE",
+   "data_id": "0x3bae170adbb0f6e3:0x71deef99c84fd811",
+   "rating": 4.2,
+   "reviews": 2500,
+   "type": "Restaurant",
+   "address": "No 51 & 52, Brigade Rd",
+   "gps_coordinates": {
+    "latitude": 12.973135,
+    "longitude": 77.60744
+   },
+   "extensions": [
+    "Closes soon",
+    "1 am"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Bright path cafe",
+   "place_id": "ChIJqzQDLQAXrjsR4OgEPG64bLE",
+   "data_id": "0x3bae17002d0334ab:0xb16cb86e3c04e8e0",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Coffee shop",
+   "address": "123, Mahatma Gandhi Rd",
+   "gps_coordinates": {
+    "latitude": 12.973932,
+    "longitude": 77.61221
+   }
+  },
+  {
+   "position": 20,
+   "title": "Trippy Goat Cafe",
+   "place_id": "ChIJibah5rEXrjsRBqh68oiwMcM",
+   "data_id": "0x3bae17b1e6a1b689:0xc331b088f27aa806",
+   "rating": 4.3,
+   "reviews": 992,
+   "price": "₹600–1,600",
+   "extracted_price": {
+    "min": 600,
+    "max": 1600
+   },
+   "type": "Cafe",
+   "address": "Indicube Symphony, Shankarnarayan Building, Mahatma Gandhi Rd, opposite East Parade Church",
+   "gps_coordinates": {
+    "latitude": 12.973179,
+    "longitude": 77.61495
+   },
+   "extensions": [
+    "Closed",
+    "Opens 10:30 am"
+   ]
+  }
+ ]
+}

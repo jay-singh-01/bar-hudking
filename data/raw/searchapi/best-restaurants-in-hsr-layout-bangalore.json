@@ -1,0 +1,1232 @@
+{
+ "q": "best restaurants in HSR Layout Bangalore",
+ "ll": "@12.9121,77.6446,14z",
+ "engine": "google_maps",
+ "fetchedAt": "2026-10-04T16:41:30.850Z",
+ "results": [
+  {
+   "position": 1,
+   "place_id": "ChIJa-jPFNsVrjsRkXlyYRsufk4",
+   "data_id": "0x3bae15db14cfe86b:0x4e7e2e1b61727991",
+   "title": "Oyster, Bar & Kitchen",
+   "address": "#36, 3rd floor, 14th Main Rd, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095918 18470",
+   "rating": 4.5,
+   "reviews": 9431,
+   "website": "https://www.oystercommunity.com/OysterBarAndKitchen",
+   "domain": "oystercommunity.com",
+   "gps_coordinates": {
+    "latitude": 12.9118437,
+    "longitude": 77.6379116
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Asian restaurant",
+    "Breakfast restaurant",
+    "Buffet restaurant",
+    "Cocktail bar",
+    "Continental restaurant",
+    "Lounge bar",
+    "Pub",
+    "Bar",
+    "Seafood restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "10 am–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "10 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/oyster-hsr-south-bengaluru-670485",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2aeY1Yv8F8A0ZyyKb4PI2muXN1uJgruvRtV7if6QNwrnMFDLFSDh09mHdALE6f_1hn9vOj5VYykq0cBbq6H0fe8yzBGcHfM260961wppq_rVrWxB5mI0bcGp-YNYmwVEoORBz0A=w138-h92-k-no"
+  },
+  {
+   "position": 2,
+   "place_id": "ChIJ2a3bnVcVrjsRaESTIVZS5Kg",
+   "data_id": "0x3bae15579ddbadd9:0xa8e4525621934468",
+   "title": "The Dome Cafe - HSR Layout",
+   "address": "5th floor, #16, 9th main, 17th Cross Rd, above Lenskart, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096064 59936",
+   "rating": 4.1,
+   "reviews": 1847,
+   "website": "https://www.eazydiner.com/bengaluru/the-dome-cafe-hsr-south-bengaluru-683746/menu",
+   "domain": "eazydiner.com",
+   "gps_coordinates": {
+    "latitude": 12.9122262,
+    "longitude": 77.6359496
+   },
+   "type": "Eclectic restaurant",
+   "types": [
+    "Eclectic restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11 am–12 am",
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-dome-cafe-hsr-south-bengaluru-683746",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHPHa6AOpuFmHN27zoaQk5_cdpIoEr7Qq5mV6d-eGfjnfpS5tSAqVMDk903oUDyNiwcnaje0EaOUkDM5N1j4VS8kqSPCQxasLNC8fGXa-6AKwJbEs9wISAm6x4DphG5f7N_a063g=w163-h92-k-no"
+  },
+  {
+   "position": 3,
+   "place_id": "ChIJFyeoU58VrjsRn6cWjXmdt5M",
+   "data_id": "0x3bae159f53a82717:0x93b79d798d16a79f",
+   "title": "Copper Kitchen Restaurant",
+   "address": "L 147, 5th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090033 88800",
+   "rating": 4.3,
+   "reviews": 5995,
+   "website": "http://www.copperkitchen.in/",
+   "domain": "copperkitchen.in",
+   "gps_coordinates": {
+    "latitude": 12.9149468,
+    "longitude": 77.6321418
+   },
+   "type": "Modern Indian restaurant",
+   "types": [
+    "Modern Indian restaurant",
+    "Biryani restaurant",
+    "Caterer",
+    "Chettinad restaurant",
+    "Halal restaurant",
+    "Takeout restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "11 am–11:30 pm",
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmj_phnpeJXxCM7k2XUyLSr1hND6XERu_BUaTtS0TM4okvy3FR9_9_B6imWuQRY_Ey0NQkBZSCXKxr0cG7VxGMT3rn11kyTIo3bNAyk7_Gya_s7WPYVTGAJww7CDbzaoAYBJZA=w163-h92-k-no"
+  },
+  {
+   "position": 4,
+   "place_id": "ChIJ79NgRu4VrjsRgbHG8a2jrbM",
+   "data_id": "0x3bae15ee4660d3ef:0xb3ada3adf1c6b181",
+   "title": "Imperio Restaurant - HSR Layout",
+   "address": "495, 17th Cross Rd, Parangi Palaya, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080505 15151",
+   "rating": 4.4,
+   "reviews": 6122,
+   "website": "https://imperiorestaurant.in/",
+   "domain": "imperiorestaurant.in",
+   "gps_coordinates": {
+    "latitude": 12.9116823,
+    "longitude": 77.6495233
+   },
+   "type": "Biryani restaurant",
+   "types": [
+    "Biryani restaurant",
+    "Chinese takeaway",
+    "Delivery service",
+    "Fried chicken takeaway",
+    "Hamburger restaurant",
+    "Takeout restaurant",
+    "North Indian restaurant",
+    "Restaurant",
+    "Sandwich shop",
+    "South Indian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 3 am",
+   "open_hours": {
+    "sunday": "7 am–3 am",
+    "monday": "7 am–3 am",
+    "tuesday": "7 am–3 am",
+    "wednesday": "7 am–3 am",
+    "thursday": "7 am–3 am",
+    "friday": "7 am–3 am",
+    "saturday": "7 am–3 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/gochick-by-imperio-sector-2-hsr-bangalore-709171/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmr5Qpdi8zak5tIhJI6ktNMDqEYWlsJ-b5PmzTlntPwbkg4-Tac0UClSLv_NXx-EZs0m7pPJ8GWe3_RjHJ7nGMIWMM57hReaFyuy2V7IRsRUQ87wPQwZgzIymAHPSuWTL4gNIQ_7Q=w80-h106-k-no"
+  },
+  {
+   "position": 5,
+   "place_id": "ChIJ5aUHr6QVrjsRN_LujB9jGVc",
+   "data_id": "0x3bae15a4af07a5e5:0x5719631f8ceef237",
+   "title": "SOMRAS BAR & KITCHEN",
+   "address": "2331, 17th Cross Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096638 46153",
+   "rating": 4.8,
+   "reviews": 7260,
+   "gps_coordinates": {
+    "latitude": 12.9120766,
+    "longitude": 77.6494981
+   },
+   "type": "Bar & grill",
+   "types": [
+    "Bar & grill",
+    "Cocktail bar",
+    "Pub"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/somras-bar-and-kitchen-layout-hsr-bangalore-947601/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn3M0QYt3KzRF0BcGgwQin0k1atdlfiuCHuKUjb2LzS4hO0x8aXH5sJYFMK35Dh9sAbGK7bMapHwq9p25QYH7l0hWB2sw-zJfrRuj8a-wXj6bgdfTV9y-8IIL1atuDAvittbRaFoctOHXgd=w122-h92-k-no"
+  },
+  {
+   "position": 6,
+   "place_id": "ChIJZ83YgrIVrjsR-N-HEV3Giwg",
+   "data_id": "0x3bae15b282d8cd67:0x88bc65d1187dff8",
+   "title": "HSR High Street 2.0",
+   "description": "Casual spot for biryani & Indian fare. Biryani & other Indian fare served along side Chinese staples in a bright space with wooden benches.",
+   "address": "235, 9th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "rating": 4.1,
+   "reviews": 11133,
+   "website": "https://hsrhighstreet.com/",
+   "domain": "hsrhighstreet.com",
+   "gps_coordinates": {
+    "latitude": 12.912841,
+    "longitude": 77.6351371
+   },
+   "type": "Food court",
+   "types": [
+    "Food court",
+    "Ice cream shop",
+    "North Indian restaurant",
+    "Shawarma restaurant",
+    "South Indian restaurant",
+    "Tiffin center"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 2 am",
+   "open_hours": {
+    "sunday": "7 am–2 am",
+    "monday": "7 am–2 am",
+    "tuesday": "7 am–2 am",
+    "wednesday": "7 am–2 am",
+    "thursday": "7 am–2 am",
+    "friday": "7 am–2 am",
+    "saturday": "7 am–2 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/hsr-high-street-hsr/book?ref=google_book_action",
+    "source": "zomato.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxY7MbanOn0trV8ebFTKOT8ydZ5m8xE98AieuVVl15tkoFiTcrKlcYSANPxDmS4t73oBhLfIcnBpsLk7msvOz3wlRn6du9uRUPrZ7GPBCpw4QvH5dLF92jHZVXnDhaCQX8RaOS5g=w122-h92-k-no"
+  },
+  {
+   "position": 7,
+   "place_id": "ChIJA-bOvIEUrjsRjroC8F7zvpk",
+   "data_id": "0x3bae1481bccee603:0x99bef35ef002ba8e",
+   "title": "AL-DAAZ HSR LAYOUT",
+   "description": "Mixed cuisine in simple surrounds. Spacious & well-lit restaurant with a low-key ambience offering a multicuisine menu.",
+   "address": "64 & 65, 27th Main Rd, Phase 3, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096207 37111",
+   "rating": 4.1,
+   "reviews": 26730,
+   "website": "http://aldaaz.com/",
+   "domain": "aldaaz.com",
+   "gps_coordinates": {
+    "latitude": 12.920787,
+    "longitude": 77.65144409999999
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Arab restaurant",
+    "Barbecue restaurant",
+    "Biryani restaurant",
+    "Chinese restaurant",
+    "Continental restaurant",
+    "Family restaurant",
+    "Halal restaurant",
+    "Indian restaurant",
+    "Pizza restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12 pm–12:30 am",
+    "tuesday": "12 pm–12:30 am",
+    "wednesday": "12 pm–12:30 am",
+    "thursday": "12 pm–12:30 am",
+    "friday": "1:45 pm–12:30 am",
+    "saturday": "12 pm–12:30 am"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmk6re37gTT5ERIUTBvQsf_DILxak1yXG4B39L0QIriGKwUsGbdtih9DhLRvPOPzRTGLIpF1Kny5Y6xqjkDHeWRLvMoIjcuvIKOiq2sTdc-Y--gJNNY6oEr1FJ7TKKhMrjbtso=w122-h92-k-no"
+  },
+  {
+   "position": 8,
+   "place_id": "ChIJRR5KsJoUrjsRT8iB6r8A8N0",
+   "data_id": "0x3bae149ab04a1e45:0xddf000bfea81c84f",
+   "title": "The Rasoiya Street | Pure Veg Restaurant In HSR Layout",
+   "address": "3rd floor, 441 anantha, 17th Cross Rd, above madhuloka liquor boutique, 4th sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096630 30533",
+   "rating": 4.1,
+   "reviews": 8084,
+   "website": "https://therasoiyastreet.com/",
+   "domain": "therasoiyastreet.com",
+   "gps_coordinates": {
+    "latitude": 12.9124612,
+    "longitude": 77.6429678
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Banquet hall",
+    "Family restaurant",
+    "Indian restaurant",
+    "North Indian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "reservation": {
+    "link": "https://www.eazydiner.com/bengaluru/the-rasoiya-street-hsr-south-bengaluru-707445",
+    "source": "eazydiner.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "No wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlgF9T7GQruS_ECIW4VFS2chYRQzO19ItR3dscP6iZe4cG66xq181acAut7sTDdNzxh27_W3VaeUPxwTII1w877WlHU6IFxKys_KT9XYztVAuwSNDlVtUirdgdKv6U6_12R45a9Mg=w163-h92-k-no"
+  },
+  {
+   "position": 9,
+   "place_id": "ChIJMX1sg3UVrjsRg4gboDJhY1g",
+   "data_id": "0x3bae1575836c7d31:0x58636132a01b8883",
+   "title": "The Spicy Plate - HSR Layout | Authentic North Indian Food",
+   "address": "4th Floor, 95, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "094801 04000",
+   "rating": 4.5,
+   "reviews": 983,
+   "website": "https://www.thespicyplate.com/",
+   "domain": "thespicyplate.com",
+   "gps_coordinates": {
+    "latitude": 12.9124667,
+    "longitude": 77.63929209999999
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Chinese restaurant",
+    "Family restaurant",
+    "Indian restaurant",
+    "Restaurant",
+    "Vegetarian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "1 pm–12 am",
+    "monday": "1 pm–12 am",
+    "tuesday": "1 pm–12 am",
+    "wednesday": "1 pm–12 am",
+    "thursday": "1 pm–12 am",
+    "friday": "1 pm–12 am",
+    "saturday": "1 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.zomato.com/bangalore/the-spicy-plate-hsr-bangalore/book?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "source": "zomato.com"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlA2owA2HkmLWvsyGpijuEG10rjQPvJdPO63UpZC4fjIRRKn4PTlcvoMdNGSBjDwhGFWNCt6aFpXBSmBp5JJjMaxvPMBIk6KgUK3T9sXrcHQWm1ix9PaCiDyI47YqR8yPdQxD7bpkyeJkB5=w137-h92-k-no"
+  },
+  {
+   "position": 10,
+   "place_id": "ChIJO8xaIwIVrjsRoJaH5hEOo5Y",
+   "data_id": "0x3bae1502235acc3b:0x96a30e11e68796a0",
+   "title": "Light of Italy",
+   "address": "669, 13th cross, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "090193 58401",
+   "rating": 4.7,
+   "reviews": 4460,
+   "website": "https://lightofitaly.com/",
+   "domain": "lightofitaly.com",
+   "gps_coordinates": {
+    "latitude": 12.9160697,
+    "longitude": 77.6510845
+   },
+   "type": "Italian restaurant",
+   "types": [
+    "Italian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "11 am–12:30 am",
+    "monday": "11 am–12:30 am",
+    "tuesday": "11 am–12:30 am",
+    "wednesday": "11 am–12:30 am",
+    "thursday": "11 am–12:30 am",
+    "friday": "11 am–12:30 am",
+    "saturday": "11 am–12:30 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/light-of-italy-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gm6oCRgvk4IGcdRNTrnP298Tz5mYfZqEcWq_PxeFtQuyXi3dbpVdCUPMuS_oq1TLZ2LCgMHtMpA2ygeTMsgMTFbDlV12X9HU8H7iqqU2xEMGtyO6s%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnshSq4ECh3b4Jb4YaEibrUNxgZL6kqSoGssbdAEKE8qOOZlZasdAU3wG6ZpWHLFNqLpM3AHA4-gcslusUFRupd6WApWkcxDGKvUbTCwzCCdf5I2iQUhg_sRCX1dp90sIbnbPSh9apTGxnm=w163-h92-k-no"
+  },
+  {
+   "position": 11,
+   "place_id": "ChIJd9DFZ4AUrjsRMvg9cEl-fJM",
+   "data_id": "0x3bae148067c5d077:0x937c7e49703df832",
+   "title": "To Be Continued Sky Lounge TBC",
+   "description": "Global eats & a stylish greenhouse vibe. Cocktails, global fare & outdoor dining in a dramatic, 2-story glass structure filled with plants.",
+   "address": "2795, 27th Main Rd, near Sony Center, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "072595 40555",
+   "rating": 4.4,
+   "reviews": 14804,
+   "gps_coordinates": {
+    "latitude": 12.9228924,
+    "longitude": 77.6514497
+   },
+   "type": "Restaurant",
+   "types": [
+    "Restaurant",
+    "Bar",
+    "Lounge bar"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "12 pm–1 am",
+    "monday": "12 pm–1 am",
+    "tuesday": "12 pm–1 am",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/tbc-sky-lounge-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_jm203Glb5ofoDLmUEo0yD2ssug9BLJvJu2GCgl0nhvCnEZFKTmEo-cuMVp7BYM4QLf42ciofnpdxkpJvmgdMtLD_mDwBMsBThxFo9jL2A_Vxj7XHA%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljunk2jLIKKKV_LNa3CaP4XxXde48WZQrGKs9gMK0bhG-BZ22VgOiNoNZGmGz4N7UdIQOu80duiKO7gan0kukqR5hEz5iC4dMw20dUAJJ3yhzyMsFRL_fxms_dT85TfNZvUw1jcGbjhg4=w122-h92-k-no"
+  },
+  {
+   "position": 12,
+   "place_id": "ChIJOzcbvJ0UrjsR-TvWCd5kBg0",
+   "data_id": "0x3bae149dbc1b373b:0xd0664de09d63bf9",
+   "title": "Broadway - The Gourmet Theatre",
+   "description": "Airy eatery serving global cuisine. Sprawling, easygoing restaurant featuring international cuisine, a bar & a roof terrace.",
+   "address": "4th Floor, 2802, 27th Main Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "098458 56677",
+   "rating": 4.2,
+   "reviews": 2368,
+   "website": "http://broadwayhsr.com/",
+   "domain": "broadwayhsr.com",
+   "gps_coordinates": {
+    "latitude": 12.9237763,
+    "longitude": 77.6515673
+   },
+   "type": "Japanese restaurant",
+   "types": [
+    "Japanese restaurant",
+    "Asian restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11 am–12 am",
+    "monday": "11 am–12 am",
+    "tuesday": "11 am–12 am",
+    "wednesday": "11 am–12 am",
+    "thursday": "11 am–12 am",
+    "friday": "11 am–12 am",
+    "saturday": "11 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/broadway-the-gourmet-theatre-hsr/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_i5fhcR6b79oHcE9DVsRTQK9ZEl6MXISRt-8i36jYmaEvLN99q5thGK1Upjm_Fi9Ag6HMP69i__NheirJq55h-F90I6EKI-F2Q17_sJDZaTb3ugl4o%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn0DiQOcy1Q5BfREShxnVNj-WMXsglX3ObAlNm2Qi1mW5NPeUrZbbeyEePlz0AiUUXGrurBLDEMgJACtyAVtVjnMWjzbs9SwO3184pFFULHjzFPi8gLL2jyBmTOF5TlStIQfqdI6g=w122-h92-k-no"
+  },
+  {
+   "position": 13,
+   "place_id": "ChIJs9eXAwAVrjsRxc8J6XjdWbg",
+   "data_id": "0x3bae15000397d7b3:0xb859dd78e909cfc5",
+   "title": "HSR Coastal Curry",
+   "address": "172, 9th Main Rd, 7th Sector, HSR, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096320 82153",
+   "rating": 4.4,
+   "reviews": 206,
+   "gps_coordinates": {
+    "latitude": 12.9110545,
+    "longitude": 77.63530469999999
+   },
+   "type": "Fine dining restaurant",
+   "types": [
+    "Fine dining restaurant",
+    "North Indian restaurant",
+    "Seafood restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "12 pm–12 am",
+    "monday": "12 pm–12 am",
+    "tuesday": "12 pm–12 am",
+    "wednesday": "12 pm–12 am",
+    "thursday": "12 pm–12 am",
+    "friday": "12 pm–12 am",
+    "saturday": "12 pm–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/hsr-coastal-curry-3-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gU1dzQMBuj36cRv5I63KWYCkpvy4WchXzsrDvAGof2YcW3cREKZoS_LsaU1U2obYVzu-uULZ4_qViQEMoAH_FSuv918rEDViz1G1IsgBod-O-y4Zk%3D",
+    "source": "district.in"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmP6l4FCtc-G51-SMsojMXIcKOxST-qYFGzqCaYjDuWiMoGsEMV54RQv0Q_lh0wwcAWH9fuTsktQYzxOIHzT4oEuH3q60ZSck0xyK24LLQrn6yS2bZNQSQeS2lcIuAe-PXLjTX3PSrleJAP=w122-h92-k-no"
+  },
+  {
+   "position": 14,
+   "place_id": "ChIJ82f0WWUVrjsRjrkZpmxO1xU",
+   "data_id": "0x3bae156559f467f3:0x15d74e6ca619b98e",
+   "title": "The Chill House - Restaurant | HSR Layout",
+   "address": "Rooftop # 1329, 24th Main Rd, opp. indiqube orion, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "097419 74129",
+   "rating": 4.3,
+   "reviews": 326,
+   "website": "https://www.thechillhouseblr.in/",
+   "domain": "thechillhouseblr.in",
+   "gps_coordinates": {
+    "latitude": 12.9038487,
+    "longitude": 77.64898579999999
+   },
+   "type": "Pub",
+   "types": [
+    "Pub",
+    "Family restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12 am",
+   "open_hours": {
+    "sunday": "11:30 am–12 am",
+    "monday": "11:30 am–12 am",
+    "tuesday": "11:30 am–12 am",
+    "wednesday": "11:30 am–12 am",
+    "thursday": "11:30 am–12 am",
+    "friday": "11:30 am–12 am",
+    "saturday": "11:30 am–12 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/the-chill-house-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_h2SjkpzLtWijQl2hYqfSThlw4gedg8k9VysdEnIUmlQq1cxEWTEpGqd1NGzco0iEJnjGR2n11i237vTQQWHop5gOg-S9xLQWWdd0ppC7_6wnXi2JY%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Does not have assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZYUAd6yXpolChhjWBGqG7FJNZGzaV0NOcrBiBddgo7bMUj05gRylqEl85EfV9mSnsaWO6sQGVa1SRQpoUIAXynjtM7qNNG0bPWedqThznSATuQThRndAlKYhe5uOmyyoc6dyLzQ=w115-h92-k-no"
+  },
+  {
+   "position": 15,
+   "place_id": "ChIJv6dxP_UVrjsRM3WLfv9Yh5Y",
+   "data_id": "0x3bae15f53f71a7bf:0x968758ff7e8b7533",
+   "title": "Go Native HSR",
+   "address": "29, 14th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "063648 98469",
+   "rating": 4.4,
+   "reviews": 5620,
+   "website": "http://gonative.in/",
+   "domain": "gonative.in",
+   "gps_coordinates": {
+    "latitude": 12.913355,
+    "longitude": 77.638311
+   },
+   "type": "Vegetarian restaurant",
+   "types": [
+    "Vegetarian restaurant",
+    "Health food restaurant",
+    "Organic restaurant",
+    "Restaurant",
+    "Vegetarian cafe and deli"
+   ],
+   "open_state": "Closed",
+   "hours": "Closed · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "8 am–10 pm",
+    "monday": "11 am–10 pm",
+    "tuesday": "11 am–10 pm",
+    "wednesday": "11 am–10 pm",
+    "thursday": "11 am–10 pm",
+    "friday": "11 am–10 pm",
+    "saturday": "8 am–10 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/go-native-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_g2_ragnIXrDGZ09tFyytIxukFYxKWCVdUuJilf6ro4Js-G4xDwOwgTgpP3YqU16tMWJrtMq3EzKbJqOnFen6of45430NGjYapirtU0CRgyz7k_sWQ%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxASZH-VX_WPvr1CvNMv3JsjBJFPDByPMagyEd_8JmdSy7ue06KBCd9dfdk6NslQK46VGC7ZIFFClW-LPsahVRUu6wK7QPyQbpo-p7Qyk5YpSqVRwvT-9As4Crc6LWG8zhesX6=w163-h92-k-no"
+  },
+  {
+   "position": 16,
+   "place_id": "ChIJtb-KLvoVrjsR6JaMUlM01lA",
+   "data_id": "0x3bae15fa2e8abfb5:0x50d63453528c96e8",
+   "title": "CEVI - Fine Dine Indian Restaurant, HSR Layout",
+   "address": "1508, 19th Main Rd, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "099015 60088",
+   "rating": 4.4,
+   "reviews": 871,
+   "gps_coordinates": {
+    "latitude": 12.9168407,
+    "longitude": 77.64504389999999
+   },
+   "type": "Fine dining restaurant",
+   "types": [
+    "Fine dining restaurant",
+    "Biryani restaurant",
+    "Non Vegetarian Restaurant",
+    "North Indian restaurant",
+    "Seafood restaurant",
+    "South Indian restaurant",
+    "Vegetarian restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly",
+    "Identifies as women-owned"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 10:30 pm · Opens 12 pm Mon",
+   "open_hours": {
+    "sunday": "12–10:30 pm",
+    "monday": "12–3:30 pm, 6:30–10:30 pm",
+    "tuesday": "12–3:30 pm, 6:30–10:30 pm",
+    "wednesday": "12–10:30 pm",
+    "thursday": "12–10:30 pm",
+    "friday": "12–10:30 pm",
+    "saturday": "12–10:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/cevi-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_j45ywbrLCj05eIqU1Fkm4WoQNKzcGt3EQXSJ4yLEgphlNWKNSg6LydSZi2kOxLDqbd8BdoQ6tQGGtzp-21lx-bDM4mKlbVNXxKxDrtLdkHbJbWekc%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXupz4vwxqU_XDH9JR3rPNu87b6nCd83ABlMHZ-DRCGlkYwZo_4S7lmjGezpN1IrPJQx_lw-hkVIYpCrMIcmMmZ6fVFI6ZmFuU28MQIS7BmVsZJOuHjRNa93ftYkOIiW6PdSY7DM1Crxr-=w122-h92-k-no"
+  },
+  {
+   "position": 17,
+   "place_id": "ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+   "data_id": "0x3bae15804ad3fe67:0x722e32f9dba764b1",
+   "title": "BLR Brewing Co - HSR Layout",
+   "address": "1st Floor, 450, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 6850 7771",
+   "rating": 4.4,
+   "reviews": 3656,
+   "website": "https://www.blrbrewing.com/",
+   "domain": "blrbrewing.com",
+   "gps_coordinates": {
+    "latitude": 12.9123236,
+    "longitude": 77.64160389999999
+   },
+   "type": "Brewery",
+   "types": [
+    "Brewery",
+    "Bar",
+    "Fine dining restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 12:30 am",
+   "open_hours": {
+    "sunday": "12 pm–12:30 am",
+    "monday": "12–11:30 pm",
+    "tuesday": "12–11:30 pm",
+    "wednesday": "12 pm–1 am",
+    "thursday": "12 pm–1 am",
+    "friday": "12 pm–1 am",
+    "saturday": "12 pm–1 am"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/blr-brewing-co-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_gMarPXjYPHZa29ksTTqnRd8hf4mVDpzlRnJP_nqoJnXNE8pAyZBpe8mbLuy-0PA55hrUhp1YN9GVpNaKJJ8FksLemb5anpEoRS0rS6__p6WoNBHMY%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn6SKcjmwB4oSCYQWIpSh_GxDjdu_mTcxXLyYnmLiAr-VHetnKSvMATVvQY_im_4aUw8RwN801zKMDXzpmiQPPmk5520HPXZV-VYp7acvA9aaADJwqT03iRavLcrg7imnzdQVs=w122-h92-k-no"
+  },
+  {
+   "position": 18,
+   "place_id": "ChIJ999fMQAVrjsRx_GEStRM5Z8",
+   "data_id": "0x3bae1500315fdff7:0x9fe54cd44a84f1c7",
+   "title": "Kake Di Hatti HSR Layout",
+   "address": "2330, 17th Cross, 24th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "096060 70420",
+   "rating": 4.3,
+   "reviews": 867,
+   "website": "https://kakedihatti.com/",
+   "domain": "kakedihatti.com",
+   "gps_coordinates": {
+    "latitude": 12.9121263,
+    "longitude": 77.64997749999999
+   },
+   "type": "North Indian restaurant",
+   "types": [
+    "North Indian restaurant",
+    "Restaurant"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 11:30 pm",
+   "open_hours": {
+    "sunday": "11 am–11:30 pm",
+    "monday": "11 am–11:30 pm",
+    "tuesday": "11 am–11:30 pm",
+    "wednesday": "11 am–11:30 pm",
+    "thursday": "11 am–11:30 pm",
+    "friday": "11 am–11:30 pm",
+    "saturday": "11 am–11:30 pm"
+   },
+   "reservation": {
+    "link": "https://www.district.in/dining/bangalore/kake-di-hatti-1-hsr-bangalore/book?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=AE37R_h4wxPvNGc65KwxsbUpr31dgTA1mJZ_cqw5xhgUtwvKu05opsjuJyn6ZpuNyFBhNhbiqTgPGxxIJLe83tT0rADnBzzQmnqsp-usLk0f02eMBYMKVpQ%3D",
+    "source": "district.in"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQHCC-nKbCvy-TJz3zJ7vbCmFwDG7kcAYOmGJJD8uINtfCs_2vm4NshkWxsVsw_ycstkXCoBa6yWz-8Di78RYpnIELu5C0iM6O63ag-I8k6CY55dPNMl_E_1Xcr7ugiKZ-KllLsG_xLwYJ=w80-h106-k-no"
+  },
+  {
+   "position": 19,
+   "place_id": "ChIJQ3bQq8UVrjsRaWFXJ7hwcv0",
+   "data_id": "0x3bae15c5abd07643:0xfd7270b827576169",
+   "title": "Olive Street Food Cafe - HSR LAYOUT",
+   "address": "2727/1, 16th Cross, 27th Main Rd, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "095268 94116",
+   "rating": 4.5,
+   "reviews": 2279,
+   "gps_coordinates": {
+    "latitude": 12.9126299,
+    "longitude": 77.6530427
+   },
+   "type": "Kerala restaurant",
+   "types": [
+    "Kerala restaurant",
+    "Cafe"
+   ],
+   "highlights": [
+    "LGBTQ+ friendly"
+   ],
+   "open_state": "Open",
+   "hours": "Closes soon · 11 pm · Opens 11 am Mon",
+   "open_hours": {
+    "sunday": "11 am–11 pm",
+    "monday": "11 am–11 pm",
+    "tuesday": "11 am–11 pm",
+    "wednesday": "11 am–11 pm",
+    "thursday": "11 am–11 pm",
+    "friday": "11 am–11 pm",
+    "saturday": "11 am–11 pm"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Assistive hearing loop",
+       "value": "Has assistive hearing loop"
+      },
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "Has wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "Has wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "Has wheelchair-accessible seating"
+      },
+      {
+       "title": "Wheelchair-accessible toilet",
+       "value": "Has wheelchair-accessible toilet"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1mcdwPykqAT9HkQJGNaXxalyfAqLxDuqLfhsuv1TFK2F4k8Lb-_ftRy63g_U4pbSZ0IQ59Dop9gxlJiGiZFyCEvtFJF9pk36pEN6KbgEq5wXtE7PrN76BQzSE93ZLsKd1nNrLhW2lsILC=w80-h106-k-no"
+  },
+  {
+   "position": 20,
+   "place_id": "ChIJrYKBzo0UrjsRJCJqXQdSsZg",
+   "data_id": "0x3bae148dce8182ad:0x98b152075d6a2224",
+   "title": "Empire Restaurant- HSR LAYOUT",
+   "address": "169/A/170, 9th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru, Karnataka",
+   "country_code": "IN",
+   "timezone": "Asia/Calcutta",
+   "phone": "080 4041 4141",
+   "rating": 4.2,
+   "reviews": 38631,
+   "website": "http://www.hotelempire.in/",
+   "domain": "hotelempire.in",
+   "gps_coordinates": {
+    "latitude": 12.9151617,
+    "longitude": 77.63543059999999
+   },
+   "type": "Non Vegetarian Restaurant",
+   "types": [
+    "Non Vegetarian Restaurant"
+   ],
+   "open_state": "Open",
+   "hours": "Open · Closes 1 am",
+   "open_hours": {
+    "sunday": "11 am–1 am",
+    "monday": "11 am–1 am",
+    "tuesday": "11 am–1 am",
+    "wednesday": "11 am–1 am",
+    "thursday": "11 am–1 am",
+    "friday": "11 am–1 am",
+    "saturday": "11 am–1 am"
+   },
+   "reservation": {
+    "link": "https://www.swiggy.com/restaurants/hotel-empire-layout-hsr-bangalore-426/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+    "source": "swiggy.com"
+   },
+   "extensions": [
+    {
+     "title": "Accessibility",
+     "items": [
+      {
+       "title": "Wheelchair-accessible car park",
+       "value": "No wheelchair-accessible car park"
+      },
+      {
+       "title": "Wheelchair-accessible entrance",
+       "value": "No wheelchair-accessible entrance"
+      },
+      {
+       "title": "Wheelchair-accessible seating",
+       "value": "No wheelchair-accessible seating"
+      }
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYp189AsTDZnXZVJgJH4gOvzveM6jr3SosTDKJw0F5y7STORzHc20fqV23ZXuDa2YNLLKKq-D23AdpEfLsVxNb7K_tv7376RbcFly5wNRdAHQeKPl7LNCvkBqcJ_KIzZv2RH0=w138-h92-k-no"
+  }
+ ]
+}
