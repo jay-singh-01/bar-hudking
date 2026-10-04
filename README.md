@@ -1,115 +1,110 @@
 # BarHudking
 
-Personal bar/restaurant discovery PWA for Bangalore. Built to run at zero
-ongoing cost: static frontend on Vercel/Netlify, Supabase free tier for
-backend.
+Bangalore bar & restaurant discovery PWA: ~4,800 bars, pubs, breweries, cafés,
+clubs and restaurants with ratings, approximate cost for two, opening hours,
+a map, personal lists and a visit journal.
 
-## Tech stack
+**v2 works with no backend at all.** The place catalogue ships with the app
+(`public/data/places.json`) and each person's favorites, visits, notes and
+lists live on their own device. Supabase is now *optional* — it only adds
+email sign-in, cross-device sync and community stats. If it disappears again,
+nothing breaks.
 
-- React + Vite + TypeScript
-- Tailwind CSS v4 (via `@tailwindcss/vite`)
-- `vite-plugin-pwa` for installable/offline shell
-- Supabase (Postgres + Auth), free tier
+## What changed in v2 (and why)
 
-## Setup
+v1 kept *everything* in one Supabase project — the places table and every
+user's data — and refused to start without it (`supabase.ts` threw at import
+time, and the app was gated on an anonymous sign-in). Losing the project
+meant a blank screen and losing all seeded places.
 
-1. Install dependencies:
+v2:
 
-   ```bash
-   npm install
-   ```
-
-2. Copy the env template and fill in your Supabase project values (Supabase
-   dashboard -> Project Settings -> API):
-
-   ```bash
-   cp .env.example .env.local
-   ```
-
-3. Run the dev server:
-
-   ```bash
-   npm run dev
-   ```
-
-## Database setup
-
-Run these in the Supabase SQL editor, in order:
-
-1. `supabase/migrations/0001_init.sql` — creates `places`, `user_favorites`,
-   `user_visited`, indexes, and RLS policies.
-2. `supabase/migrations/0002_add_image_url.sql` — adds the `image_url`
-   column places will use once you re-seed.
-
-Then enable **Authentication -> Sign In / Providers -> Anonymous Sign-Ins**
-— the app signs users in anonymously on first load so there's no login
-screen, and persists the session so favorites/visited survive a refresh.
-
-## Seeding places (manual, one-off)
-
-`scripts/seed-places.ts` pulls Bangalore places from SearchApi.io and upserts
-them into `places`. It's a manual script with a hard call budget you control
-(`MAX_QUERIES` in the file) — see `scripts/README.md` for the full strategy
-(area-targeted queries, why, and how to retarget) before running it:
-
-```bash
-npm run seed -- --test    # 1 call, no writes — sanity-check field mapping
-npm run seed               # MAX_QUERIES calls, upserts into `places`
-npm run backfill-area      # free (no API calls) — derives area from address for existing rows missing it
-```
-
-**Check your actual remaining SearchApi quota before running a full seed**
-— the script has no way to know your balance.
+- Places are a static, versioned JSON file built by `scripts/data/*`, from
+  free OpenStreetMap data plus optional cached Google enrichment.
+- User data is local-first (`src/lib/store.ts`), with record-level
+  last-write-wins merging so devices can sync in any order.
+- Sync is a single optional table (`supabase/schema.sql`). The app never
+  needs it to start.
 
 ## Features
 
-- **Explore**: card list of places with filters for location, place type,
-  cuisine, and vibe, plus a distance filter and a "Super Suggest" button
-  (places within 10km of your current location, 12km of Rajarajeshwari
-  Nagar, and 10km of HSR Layout — edit `SUPER_SUGGEST_RADII_KM` in
-  `src/lib/constants.ts` to change).
-- **Favorites / Visited**: heart and checkmark toggles on every card,
-  optimistic updates, a skippable rating/cost-for-two prompt the first time
-  you mark a place visited.
-- Tapping a card opens it in Google Maps.
-- Cost-for-two and photos are shown when available — mined from real data
-  (Google review text and photos the seed API already returns for free),
-  never estimated or hardcoded. Coverage is partial by nature.
+- **Discover**: search (name, area, cuisine, feature), quick chips (near me,
+  open now, type), a full filter sheet (type, distance, cost for two, rating,
+  features, cuisine, neighbourhood, near my spots, hide visited) and 7 sort
+  orders. "Recommended" balances rating confidence, distance and open-now.
+- **Surprise me**: a weighted random pick from whatever you're filtering, a
+  collection, your favorites or a list.
+- **Collections**: Bangalore's best, hidden gems, brewery hopping, rooftops,
+  date night, open late, live music, cafés to work from, alfresco, budget,
+  pure veg.
+- **Map**: clustered map of everything, filterable (saved / been there /
+  open now / type), with locate-me.
+- **Place page**: rating and rating count, approx cost for two, open/closed
+  with today's hours, directions / call / Uber / website / share, a mini map,
+  "also around here", a link to the place's full Google reviews, and "Book a
+  table" when the venue takes bookings.
+- **Your experience**: log visits (date, stars, actual cost for two, notes),
+  private notes per place, favorites and custom lists (shareable as a link).
+  Recipients can save shared lists with one tap.
+- **Me**: stats (places tried, neighbourhoods explored, average spend),
+  badges, "my spots" (home/work, used by the *Near my spots* filter), backup
+  export/import, and optional account sync.
+- Installable, works offline (catalogue, tiles and photos are cached).
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
+
+That's it — no env vars are required. Optional features are switched on in
+`.env.local` (see `.env.example`).
+
+## Place data
+
+The catalogue is built in two independent layers, both cached so you never
+pay twice:
+
+```bash
+npm run data:osm       # free: all named venues in Bangalore from OpenStreetMap
+npm run data:enrich    # paid: Google ratings/prices/photos via SearchApi (cached per query)
+npm run data:build     # free, offline: merges both into public/data/places.json
+```
+
+Then commit `public/data/places.json` (and `data/raw/searchapi/`, so the
+credits you spent are never lost).
+
+See `scripts/README.md` for the SearchApi budget plan (it's tuned for 100
+credits) and other free/cheap data options.
+
+## Optional: accounts & sync (new Supabase project)
+
+1. Create a free project at supabase.com.
+2. SQL editor → run `supabase/schema.sql`.
+3. Authentication → Sign In / Providers → make sure **Email** is enabled.
+   Optional: in Authentication → Emails → *Magic Link* template, add
+   `{{ .Token }}` so emails include a 6-digit code (handy when the app is
+   installed to the home screen and the link would open in a browser instead).
+4. Authentication → URL Configuration → set the Site URL to your deployed URL
+   and add it to the redirect allow list.
+5. Set `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` (Project Settings →
+   API) in `.env.local` and your hosting provider.
+
+Each user signs in with their email on the Me tab. Data already on the device
+is merged into their account. The `community_stats()` function exposes only
+aggregates (visit counts, average rating and spend per place). It never
+exposes who went where.
+
+## Optional: map style
+
+The default map uses keyless OpenStreetMap tiles, darkened in CSS. For a
+purpose-built dark style set `VITE_MAP_TILE_URL` (and
+`VITE_MAP_TILE_ATTRIBUTION`), e.g. Stadia Maps `alidade_smooth_dark` (free
+tier; register your domain). CARTO basemaps now require an API key.
 
 ## Deploying
 
-Static build, no server needed. Either platform's free tier works:
-
-**Vercel**: import the repo, framework preset "Vite", no config needed
-beyond the included `vercel.json` (handles SPA routing so refreshing
-`/favorites` etc. doesn't 404). Set the `VITE_SUPABASE_URL` and
-`VITE_SUPABASE_ANON_KEY` env vars in the project settings.
-
-**Netlify**: import the repo — `netlify.toml` already sets the build
-command (`npm run build`), publish directory (`dist`), and SPA redirect.
-Set the same two env vars in Site settings -> Environment variables.
-
-Either way: `npm run build` locally first to confirm it builds clean before
-pushing.
-
-## Project status
-
-- **Phase 1:** project scaffold, PWA config, Supabase client wiring, basic
-  routing shell.
-- **Phase 2:** Supabase schema + RLS migration, anonymous auth wiring
-  (`src/lib/AuthProvider.tsx`) with persisted sessions.
-- **Phase 3:** seed script (`scripts/seed-places.ts`), area-tagging via
-  address matching, area-targeted query strategy for API efficiency.
-- **Phase 4:** Explore UI — cards, filters (location/type/cuisine/vibe),
-  distance filter, Super Suggest, empty states.
-- **Phase 5:** Favorites/Visited — toggles, optimistic updates, visit
-  rating/cost prompt, shared state via `UserPlacesProvider`.
-- **Phase 6:** error boundary, responsive layout, deploy config
-  (`vercel.json` / `netlify.toml`).
-
-## Placeholder icons
-
-`public/pwa-192x192.png`, `public/pwa-512x512.png`, and
-`public/apple-touch-icon.png` are solid-color placeholders generated by
-`scripts/generate-placeholder-icons.cjs` (pure Node, no deps). Swap them for
-real branded icons before shipping.
+Static build, no server: `npm run build`, then deploy `dist/`.
+`vercel.json` / `netlify.toml` already handle SPA routing. Add any optional
+env vars in the host's settings.

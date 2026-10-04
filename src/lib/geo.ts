@@ -21,3 +21,8 @@ export function haversineKm(a: Coords, b: Coords): number {
 
   return EARTH_RADIUS_KM * 2 * Math.atan2(Math.sqrt(h), Math.sqrt(1 - h));
 }
+
+export function formatDistance(km: number): string {
+  if (km < 1) return `${Math.round(km * 1000 / 10) * 10} m`;
+  return `${km < 10 ? km.toFixed(1) : Math.round(km)} km`;
+}

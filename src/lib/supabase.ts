@@ -1,17 +1,24 @@
-import { createClient } from "@supabase/supabase-js";
+import type { SupabaseClient } from "@supabase/supabase-js";
 
-const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
-const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
+const url = import.meta.env.VITE_SUPABASE_URL as string | undefined;
+const anonKey = import.meta.env.VITE_SUPABASE_ANON_KEY as string | undefined;
 
-if (!supabaseUrl || !supabaseAnonKey) {
-  throw new Error(
-    "Missing VITE_SUPABASE_URL or VITE_SUPABASE_ANON_KEY. Copy .env.example to .env.local and fill in your Supabase project values.",
+/**
+ * Optional. The app is fully usable without a backend — Supabase only adds
+ * accounts (cross-device sync) and community stats. The client library is
+ * loaded lazily so people using a copy without sync don't download it, and a
+ * missing or dead backend can never take the app down.
+ */
+export const syncEnabled = !!(url && anonKey);
+
+let client: Promise<SupabaseClient> | null = null;
+
+export function getSupabase(): Promise<SupabaseClient> | null {
+  if (!syncEnabled) return null;
+  client ??= import("@supabase/supabase-js").then(({ createClient }) =>
+    createClient(url!, anonKey!, {
+      auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true },
+    }),
   );
+  return client;
 }
-
-export const supabase = createClient(supabaseUrl, supabaseAnonKey, {
-  auth: {
-    persistSession: true,
-    autoRefreshToken: true,
-  },
-});
