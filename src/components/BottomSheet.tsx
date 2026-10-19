@@ -37,14 +37,14 @@ export default function BottomSheet({ title, onClose, children, footer, tall }: 
 
   return createPortal(
     <div
-      className={`fixed inset-0 z-50 flex items-end justify-center bg-black/65 backdrop-blur-[2px] ${closing ? "animate-fade-out" : "animate-fade-in"}`}
+      className={`fixed inset-0 z-50 flex items-end justify-center bg-black/55 ${closing ? "animate-fade-out" : "animate-fade-in"}`}
       onClick={close}
       role="dialog"
       aria-modal="true"
       aria-label={title}
     >
       <div
-        className={`flex w-full max-w-lg ${closing ? "animate-sheet-down" : "animate-sheet-up"} flex-col rounded-t-[28px] border-t border-line bg-surface shadow-2xl ${
+        className={`flex w-full max-w-lg ${closing ? "animate-sheet-down" : "animate-sheet-up"} flex-col rounded-t-2xl border-t border-line bg-bg shadow-2xl ${
           tall ? "h-[88vh]" : "max-h-[85vh]"
         }`}
         style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
@@ -53,7 +53,7 @@ export default function BottomSheet({ title, onClose, children, footer, tall }: 
         <div className="mx-auto mt-2.5 h-1.5 w-10 shrink-0 rounded-full bg-surface-3" />
         {title && (
           <div className="flex shrink-0 items-center justify-between px-5 pt-3 pb-2">
-            <h2 className="text-lg font-bold">{title}</h2>
+            <h2 className="font-display text-[22px] font-semibold">{title}</h2>
             <button
               onClick={close}
               className="-mr-2 rounded-full p-2 text-muted active:bg-surface-2"

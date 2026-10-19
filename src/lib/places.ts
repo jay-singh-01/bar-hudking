@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { Place, PlacesFile } from "./types";
+import { setSearchCorpus } from "./discover";
 
 export interface PlacesIndex {
   places: Place[];
@@ -21,6 +22,7 @@ function countBy(values: Iterable<string>) {
 
 function buildIndex(file: PlacesFile): PlacesIndex {
   const places = file.places;
+  setSearchCorpus(places);
   return {
     places,
     byId: new Map(places.map((p) => [p.id, p])),

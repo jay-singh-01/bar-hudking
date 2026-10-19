@@ -6,16 +6,14 @@ export function formatCount(n: number) {
   return n < 1000 ? String(n) : compact.format(n);
 }
 
+/** "★ 4.6 · 2.3k" — quiet, typographic, no coloured badge. */
 export function RatingPill({ rating, count, className = "" }: { rating?: number; count?: number; className?: string }) {
   if (rating === undefined) return null;
-  const tone = rating >= 4.5 ? "bg-emerald-500" : rating >= 4.0 ? "bg-emerald-600/90" : rating >= 3.5 ? "bg-amber-600" : "bg-zinc-600";
   return (
-    <span className={`inline-flex items-center gap-1 ${className}`}>
-      <span className={`inline-flex items-center gap-0.5 rounded-md px-1.5 py-0.5 text-xs font-bold text-white ${tone}`}>
-        {rating.toFixed(1)}
-        <Icon name="star" filled className="h-3 w-3" />
-      </span>
-      {count !== undefined && <span className="text-xs text-muted">({formatCount(count)})</span>}
+    <span className={`tabular inline-flex items-center gap-1 text-[13px] ${className}`}>
+      <Icon name="star" filled className="h-3.5 w-3.5 text-star" />
+      <span className="font-semibold text-ink">{rating.toFixed(1)}</span>
+      {count !== undefined && <span className="text-muted">· {formatCount(count)}</span>}
     </span>
   );
 }

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
-import { useLocation as useRouterLocation } from "react-router-dom";
+import { Link, useLocation as useRouterLocation } from "react-router-dom";
 import PageHeader from "../components/PageHeader";
 import Icon from "../components/Icon";
 import CountUp from "../components/CountUp";
@@ -15,6 +15,7 @@ import {
   saveSpot,
   setProfileName,
   setSuperSuggestAnchors,
+  unhidePlace,
   useUserData,
   type SuperSuggestAnchor,
 } from "../lib/store";
@@ -28,13 +29,16 @@ import { sendSignInCode, signOut, syncNow, useSyncState, verifySignInCode } from
 import { promptInstall, useCanInstall, isStandalone } from "../lib/install";
 import { toast } from "../lib/toast";
 import { PLACE_TYPES } from "../lib/types";
+import { setThemePref, useThemePref, type ThemePref } from "../lib/theme";
+import Logo from "../components/Logo";
+import type { IconName } from "../components/Icon";
 
 function Section({ id, title, children, sub }: { id?: string; title: string; children: ReactNode; sub?: ReactNode }) {
   return (
     <section id={id} className="scroll-mt-20">
       <div className="mb-3 px-1">
-        <h2 className="text-lg font-bold">{title}</h2>
-        {sub && <p className="text-sm text-muted">{sub}</p>}
+        <h2 className="font-display text-[21px] font-semibold">{title}</h2>
+        {sub && <p className="mt-0.5 text-sm text-muted">{sub}</p>}
       </div>
       {children}
     </section>
@@ -43,9 +47,9 @@ function Section({ id, title, children, sub }: { id?: string; title: string; chi
 
 function Stat({ value, label }: { value: ReactNode; label: string }) {
   return (
-    <div className="rounded-2xl border border-line/70 bg-surface p-3.5">
-      <p className="text-2xl font-extrabold tracking-tight">{value}</p>
-      <p className="text-xs text-muted">{label}</p>
+    <div className="card p-3.5">
+      <p className="font-display tabular text-[28px] leading-none font-semibold">{value}</p>
+      <p className="mt-1.5 text-xs text-muted">{label}</p>
     </div>
   );
 }
@@ -85,12 +89,12 @@ export default function Me() {
             </div>
 
             {stats.uniquePlaces > 0 && (
-              <div className="mt-3 rounded-2xl border border-line/70 bg-surface p-4">
+              <div className="card mt-3 p-4">
                 <p className="mb-2 text-sm font-semibold">What you go for</p>
                 <div className="flex flex-wrap gap-2">
                   {PLACE_TYPES.filter((t) => stats.byType[t]).map((t) => (
-                    <span key={t} className="rounded-full bg-surface-3 px-3 py-1 text-sm">
-                      {TYPE_META[t].emoji} {stats.byType[t]} {stats.byType[t] === 1 ? TYPE_META[t].label.toLowerCase() : TYPE_META[t].plural.toLowerCase()}
+                    <span key={t} className="chip">
+                      <span className="h-1.5 w-1.5 rounded-full" style={{ background: TYPE_META[t].color }} /> {stats.byType[t]} {stats.byType[t] === 1 ? TYPE_META[t].label.toLowerCase() : TYPE_META[t].plural.toLowerCase()}
                     </span>
                   ))}
                 </div>
@@ -125,15 +129,13 @@ export default function Me() {
                 return (
                   <div
                     key={b.id}
-                    className={`w-32 shrink-0 rounded-3xl border p-3 text-center ${
-                      done ? "border-brand/50 bg-gradient-to-b from-brand/20 to-surface" : "border-line/70 bg-surface"
-                    }`}
+                    className={`w-32 shrink-0 rounded-xl border p-3 text-center ${done ? "border-brand/60 bg-brand/[0.06]" : "border-line bg-surface"}`}
                   >
-                    <div className={`text-4xl ${done ? "" : "opacity-30 grayscale"}`}>{b.emoji}</div>
-                    <p className="mt-1 text-sm leading-tight font-bold">{b.title}</p>
+                    <div className={`text-3xl ${done ? "" : "opacity-30 grayscale"}`}>{b.emoji}</div>
+                    <p className="mt-1.5 text-sm leading-tight font-semibold">{b.title}</p>
                     <p className="mt-0.5 text-[11px] leading-snug text-muted">{b.description}</p>
-                    <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-surface-3">
-                      <div className="h-full rounded-full bg-gradient-to-r from-brand to-brand-2" style={{ width: `${(b.progress / b.goal) * 100}%` }} />
+                    <div className="mt-2 h-1 overflow-hidden rounded-full bg-surface-3">
+                      <div className="h-full rounded-full bg-brand" style={{ width: `${(b.progress / b.goal) * 100}%` }} />
                     </div>
                     <p className="mt-1 text-[10px] text-faint">
                       {b.progress}/{b.goal}
@@ -147,6 +149,8 @@ export default function Me() {
 
         <SuperSuggestSettings />
         <Spots />
+        <Appearance />
+        <HiddenPlaces />
         <Account />
         <Backup />
         <About />
@@ -163,9 +167,9 @@ function ProfileCard() {
 
   return (
     <div className="flex flex-col gap-3">
-      <div className="flex items-center gap-4 rounded-3xl bg-gradient-to-br from-brand/25 via-surface to-surface p-4">
-        <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-brand to-brand-2 text-2xl font-extrabold text-white">
-          {name ? name[0].toUpperCase() : "🍻"}
+      <div className="card flex items-center gap-4 p-4">
+        <div className="font-display flex h-14 w-14 shrink-0 items-center justify-center rounded-full border border-brand/60 text-2xl font-semibold text-brand">
+          {name ? name[0].toUpperCase() : <Logo className="h-9 w-9" />}
         </div>
         <div className="min-w-0 flex-1">
           <label htmlFor="profile-name" className="text-xs text-muted">
@@ -179,7 +183,7 @@ function ProfileCard() {
             onKeyDown={(e) => e.key === "Enter" && (e.target as HTMLInputElement).blur()}
             placeholder="Your name"
             maxLength={40}
-            className="w-full bg-transparent text-xl font-bold outline-none placeholder:text-faint"
+            className="font-display w-full bg-transparent text-xl font-semibold outline-none placeholder:text-faint"
           />
         </div>
       </div>
@@ -189,6 +193,73 @@ function ProfileCard() {
         </button>
       )}
     </div>
+  );
+}
+
+const THEMES: { id: ThemePref; label: string; icon: IconName }[] = [
+  { id: "system", label: "System", icon: "monitor" },
+  { id: "light", label: "Light", icon: "sun" },
+  { id: "dark", label: "Dark", icon: "moon" },
+];
+
+function Appearance() {
+  const pref = useThemePref();
+  return (
+    <Section id="appearance" title="Appearance">
+      <div className="grid grid-cols-3 gap-2">
+        {THEMES.map((t) => (
+          <button
+            key={t.id}
+            onClick={() => setThemePref(t.id)}
+            className={`flex flex-col items-center gap-1.5 rounded-xl border py-3 text-sm font-medium transition ${
+              pref === t.id ? "border-ink bg-ink text-bg" : "border-line"
+            }`}
+          >
+            <Icon name={t.icon} className="h-5 w-5" />
+            {t.label}
+          </button>
+        ))}
+      </div>
+    </Section>
+  );
+}
+
+const HIDE_LABELS: Record<string, string> = {
+  closed: "Closed down",
+  "wrong-location": "Wrong location",
+  "wrong-info": "Wrong info",
+  "not-for-me": "Not for me",
+};
+
+function HiddenPlaces() {
+  const hiddenRec = useUserData((d) => d.hidden);
+  const { index } = usePlaces();
+  const hidden = useMemo(() => live(hiddenRec).sort((a, b) => b.updatedAt - a.updatedAt), [hiddenRec]);
+  if (!hidden.length) return null;
+  return (
+    <Section id="hidden" title="Hidden places" sub="Places you've hidden or reported. They don't show up in Discover, the map or suggestions.">
+      <ul className="card divide-y divide-line">
+        {hidden.map((h) => {
+          const p = index?.byId.get(h.placeId);
+          return (
+            <li key={h.placeId} className="flex items-center gap-3 px-4 py-3">
+              <div className="min-w-0 flex-1">
+                <Link to={`/place/${encodeURIComponent(h.placeId)}`} className="block truncate text-[15px] font-medium">
+                  {p?.name ?? "Unknown place"}
+                </Link>
+                <p className="truncate text-xs text-muted">
+                  {HIDE_LABELS[h.reason]}
+                  {h.note ? ` · ${h.note}` : ""}
+                </p>
+              </div>
+              <button className="text-[13px] font-medium underline underline-offset-4" onClick={() => unhidePlace(h.placeId)}>
+                Unhide
+              </button>
+            </li>
+          );
+        })}
+      </ul>
+    </Section>
   );
 }
 
@@ -222,12 +293,12 @@ function SuperSuggestSettings() {
   return (
     <Section
       id="super-suggest"
-      title="✨ Super Suggest"
+      title="Super Suggest"
       sub="Shows only places within range of all three points at once — the sweet spot between office, home and HSR."
     >
       <div className="flex flex-col gap-2">
         {anchors.map((a) => (
-          <div key={a.id} className="rounded-2xl border border-line/70 bg-surface p-3.5">
+          <div key={a.id} className="rounded-xl border border-line/70 bg-surface p-3.5">
             <div className="flex items-center gap-3">
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-brand/15 text-brand">
                 <Icon name="pin" />
@@ -315,7 +386,7 @@ function Spots() {
     <Section id="spots" title="My spots" sub="Home, office, a friend's place — use the “Near my spots” filter to only see places close to them.">
       <div className="flex flex-col gap-2">
         {spots.map((s) => (
-          <div key={s.id} className="flex items-center gap-3 rounded-2xl border border-line/70 bg-surface p-3">
+          <div key={s.id} className="flex items-center gap-3 rounded-xl border border-line/70 bg-surface p-3">
             <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-brand/15 text-brand">
               <Icon name={/home/i.test(s.label) ? "home" : "pin"} />
             </span>
@@ -328,7 +399,7 @@ function Spots() {
             </button>
           </div>
         ))}
-        <button onClick={() => setAdding(true)} className="flex items-center justify-center gap-2 rounded-2xl border border-dashed border-line p-3 text-sm font-semibold text-brand">
+        <button onClick={() => setAdding(true)} className="flex items-center justify-center gap-2 rounded-xl border border-dashed border-line p-3 text-sm font-semibold text-brand">
           <Icon name="plus" className="h-4 w-4" /> Add a spot
         </button>
       </div>
@@ -397,7 +468,7 @@ function Account() {
   if (sync.phase === "disabled") {
     return (
       <Section id="account" title="Your data" sub="Everything is saved privately on this device and works offline.">
-        <div className="rounded-2xl border border-line/70 bg-surface p-4 text-sm text-muted">
+        <div className="rounded-xl border border-line/70 bg-surface p-4 text-sm text-muted">
           <p>
             Accounts & cross-device sync aren't switched on for this copy of BarHudking. Use <strong className="text-ink">Backup</strong> below to move
             your data to another phone.
@@ -420,7 +491,7 @@ function Account() {
               : "Connected";
     return (
       <Section id="account" title="Account" sub="Your favorites, visits, notes and lists sync across every device you sign in on.">
-        <div className="rounded-2xl border border-line/70 bg-surface p-4">
+        <div className="rounded-xl border border-line/70 bg-surface p-4">
           <div className="flex items-center gap-3">
             <span className={`flex h-10 w-10 items-center justify-center rounded-full ${sync.phase === "error" ? "bg-rose-500/15 text-rose-400" : "bg-ok/15 text-ok"}`}>
               <Icon name="cloud" />
@@ -474,7 +545,7 @@ function Account() {
   return (
     <Section id="account" title="Sync across devices" sub="Sign in with your email to keep your favorites, visits and lists on all your devices. No password needed.">
       <form
-        className="rounded-2xl border border-line/70 bg-surface p-4"
+        className="rounded-xl border border-line/70 bg-surface p-4"
         onSubmit={(e) => {
           e.preventDefault();
           submit();
@@ -587,7 +658,7 @@ function About() {
   const { index } = usePlaces();
   return (
     <Section id="about" title="About the data">
-      <div className="rounded-2xl border border-line/70 bg-surface p-4 text-sm text-muted">
+      <div className="rounded-xl border border-line/70 bg-surface p-4 text-sm text-muted">
         {index && (
           <p className="mb-2">
             <strong className="text-ink">{index.places.length.toLocaleString("en-IN")}</strong> places across{" "}

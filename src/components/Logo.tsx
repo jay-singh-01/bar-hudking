@@ -9,8 +9,8 @@ export default function Logo({ className = "h-9 w-9" }: { className?: string }) 
           <stop offset="1" stopColor="#d99a3a" />
         </linearGradient>
         <linearGradient id="lg-drink" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0" stopColor="#ff9a3d" />
-          <stop offset="1" stopColor="#ff3d7f" />
+          <stop offset="0" stopColor="#e8b86a" />
+          <stop offset="1" stopColor="#c8553d" />
         </linearGradient>
       </defs>
       <circle cx="60" cy="60" r="54" fill="#0f0d0a" stroke="url(#lg-gold)" strokeWidth="3" />

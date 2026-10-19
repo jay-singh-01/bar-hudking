@@ -23,14 +23,14 @@ export default function SharedList() {
   );
 
   if (!shared) {
-    return <EmptyState emoji="🔗" title="Broken link" message="This shared list link is missing its places." action={{ label: "Go to Discover", onClick: () => navigate("/") }} />;
+    return <EmptyState icon="share" title="Broken link" message="This shared list link is missing its places." action={{ label: "Go to Discover", onClick: () => navigate("/") }} />;
   }
 
   return (
     <div className="pb-nav">
       <PageHeader title={`${shared.emoji} ${shared.name}`} subtitle={shared.from ? `Shared by ${shared.from}` : "Shared list"} back />
       <div className="px-4">
-        <div className="mb-4 rounded-3xl border border-brand/30 bg-brand/10 p-4">
+        <div className="card mt-4 mb-4 p-4">
           <p className="text-sm">
             {shared.from ? <strong>{shared.from}</strong> : "Someone"} shared {places.length} place{places.length === 1 ? "" : "s"} with you.
           </p>

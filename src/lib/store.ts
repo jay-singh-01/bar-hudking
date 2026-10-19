@@ -43,6 +43,21 @@ export interface Spot extends Synced {
 export interface Profile extends Synced {
   name: string;
 }
+export type HideReason = "closed" | "wrong-location" | "wrong-info" | "not-for-me";
+export interface Hidden extends Synced {
+  placeId: string;
+  reason: HideReason;
+  note: string;
+}
+/** A shortlist friends vote on via share links (no backend needed). */
+export interface Plan extends Synced {
+  id: string;
+  title: string;
+  placeIds: string[];
+  /** voter name -> chosen place id */
+  votes: Record<string, string>;
+  createdAt: number;
+}
 export interface SuperSuggestAnchor {
   id: string;
   label: string;
@@ -62,11 +77,13 @@ export interface UserData {
   notes: Record<string, Note>;
   lists: Record<string, PlaceList>;
   spots: Record<string, Spot>;
+  hidden: Record<string, Hidden>;
+  plans: Record<string, Plan>;
   profile: Profile;
   superSuggest?: SuperSuggestConfig;
 }
 
-const COLLECTIONS = ["favorites", "visits", "notes", "lists", "spots"] as const;
+const COLLECTIONS = ["favorites", "visits", "notes", "lists", "spots", "hidden", "plans"] as const;
 type CollectionKey = (typeof COLLECTIONS)[number];
 
 export function emptyUserData(): UserData {
@@ -77,6 +94,8 @@ export function emptyUserData(): UserData {
     notes: {},
     lists: {},
     spots: {},
+    hidden: {},
+    plans: {},
     profile: { name: "", updatedAt: 0 },
   };
 }
@@ -289,6 +308,34 @@ export function saveSpot(spot: Omit<Spot, "id" | "updatedAt"> & { id?: string })
 export function deleteSpot(id: string) {
   const s = state.spots[id];
   if (s) setIn("spots", id, { ...s, deleted: true, updatedAt: Date.now() });
+}
+
+export function hidePlace(placeId: string, reason: HideReason, note = "") {
+  setIn("hidden", placeId, { placeId, reason, note, updatedAt: Date.now() });
+}
+
+export function unhidePlace(placeId: string) {
+  const h = state.hidden[placeId];
+  if (h) setIn("hidden", placeId, { ...h, deleted: true, updatedAt: Date.now() });
+}
+
+export function createPlan(title: string, placeIds: string[], id = uid()): string {
+  const now = Date.now();
+  setIn("plans", id, { id, title: title.trim() || "Where should we go?", placeIds, votes: {}, createdAt: now, updatedAt: now });
+  return id;
+}
+
+/** Returns false when the plan doesn't exist or the place isn't on its shortlist. */
+export function recordVote(planId: string, voter: string, placeId: string): boolean {
+  const p = state.plans[planId];
+  if (!p || p.deleted || !p.placeIds.includes(placeId)) return false;
+  setIn("plans", planId, { ...p, votes: { ...p.votes, [voter.trim() || "Someone"]: placeId }, updatedAt: Date.now() });
+  return true;
+}
+
+export function deletePlan(id: string) {
+  const p = state.plans[id];
+  if (p) setIn("plans", id, { ...p, deleted: true, updatedAt: Date.now() });
 }
 
 /** Pass null to go back to the default points. */

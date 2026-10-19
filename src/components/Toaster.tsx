@@ -12,12 +12,12 @@ export default function Toaster() {
       {toasts.map((t) => (
         <div
           key={t.id}
-          className="pointer-events-auto flex w-full max-w-sm animate-fade-up items-center justify-between gap-3 rounded-2xl border border-line bg-surface-3/95 px-4 py-3 text-sm shadow-2xl backdrop-blur"
+          className="pointer-events-auto flex w-full max-w-sm animate-fade-up items-center justify-between gap-3 rounded-xl bg-ink px-4 py-3 text-bg text-sm shadow-2xl backdrop-blur"
         >
           <span>{t.message}</span>
           {t.action && (
             <button
-              className="font-semibold text-brand"
+              className="font-semibold text-brand underline-offset-4 hover:underline"
               onClick={() => {
                 t.action!.onClick();
                 dismissToast(t.id);

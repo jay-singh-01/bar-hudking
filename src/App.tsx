@@ -2,6 +2,7 @@ import { lazy, Suspense } from "react";
 import { Route, Routes, useLocation } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Toaster from "./components/Toaster";
+import OfflineBar from "./components/OfflineBar";
 import EmptyState from "./components/EmptyState";
 import Discover from "./pages/Discover";
 import PlaceDetail from "./pages/PlaceDetail";
@@ -10,6 +11,8 @@ import ListDetail from "./pages/ListDetail";
 import SharedList from "./pages/SharedList";
 import CollectionPage from "./pages/CollectionPage";
 import Me from "./pages/Me";
+import PlanPage from "./pages/PlanPage";
+import VotePage from "./pages/VotePage";
 
 // Leaflet is the heaviest dependency; only load it when the map is opened.
 const MapPage = lazy(() => import("./pages/MapPage"));
@@ -37,10 +40,13 @@ export default function App() {
         <Route path="/lists/:id" element={<ListDetail />} />
         <Route path="/shared" element={<SharedList />} />
         <Route path="/me" element={<Me />} />
-        <Route path="*" element={<EmptyState emoji="🧭" title="Page not found" message="That link doesn't go anywhere." />} />
+        <Route path="/plans/:id" element={<PlanPage />} />
+        <Route path="/vote" element={<VotePage />} />
+        <Route path="*" element={<EmptyState icon="compass" title="Page not found" message="That link doesn't go anywhere." />} />
       </Routes>
       </div>
       <NavBar />
+      <OfflineBar />
       <Toaster />
     </div>
   );

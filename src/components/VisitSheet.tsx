@@ -30,7 +30,7 @@ export default function VisitSheet({ place, visit, onClose }: VisitSheetProps) {
       note: note.trim(),
     });
     if (navigator.vibrate) navigator.vibrate([10, 40, 10]);
-    toast(visit ? "Visit updated" : `Logged your visit to ${place.name} 🎉`);
+    toast(visit ? "Visit updated" : `Visit to ${place.name} logged`);
     onClose();
   }
 

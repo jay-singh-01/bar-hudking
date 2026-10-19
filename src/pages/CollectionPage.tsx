@@ -6,6 +6,7 @@ import { PlaceCardSkeleton } from "../components/PlaceCard";
 import SurpriseSheet from "../components/SurpriseSheet";
 import EmptyState from "../components/EmptyState";
 import Icon from "../components/Icon";
+import PlacePhoto from "../components/PlacePhoto";
 import { collectionById, sortPlaces } from "../lib/discover";
 import { usePlaces } from "../lib/places";
 import { useFilterContext } from "../lib/useFilterContext";
@@ -22,22 +23,25 @@ export default function CollectionPage() {
 
   const places = useMemo(() => {
     if (!index || !collection) return [];
-    let list = index.places.filter(collection.test);
+    let list = index.places.filter((p) => collection.test(p) && !ctx.hiddenIds.has(p.id));
     if (nearOnly && ctx.coords) list = list.filter((p) => haversineKm(ctx.coords!, p) <= 5);
     return sortPlaces(list, collection.sort, ctx, "");
   }, [index, collection, ctx, nearOnly]);
 
   if (!collection) {
-    return <EmptyState emoji="🤷" title="Collection not found" message="It may have been renamed." />;
+    return <EmptyState icon="search" title="Collection not found" message="It may have been renamed." />;
   }
 
   return (
     <div className="pb-nav">
       <PageHeader title={collection.title} back />
-      <div className={`mx-4 mb-4 overflow-hidden rounded-3xl bg-gradient-to-br p-5 ${collection.gradient}`}>
-        <div className="text-5xl">{collection.emoji}</div>
-        <p className="mt-2 text-white/90">{collection.blurb}</p>
-        <p className="mt-1 text-sm font-semibold text-white">{places.length} places</p>
+      <div className="relative mx-4 mt-4 mb-4 h-40 overflow-hidden rounded-xl">
+        {places[0] && <PlacePhoto place={places[0]} src={undefined} className="absolute inset-0 h-full w-full animate-ken-burns" />}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/35 to-black/10" />
+        <div className="absolute inset-x-0 bottom-0 p-4">
+          <p className="font-display text-lg leading-snug text-white italic">{collection.blurb}</p>
+          <p className="tabular mt-1 text-xs text-white/70">{places.length} places</p>
+        </div>
       </div>
 
       <div className="no-scrollbar flex gap-2 overflow-x-auto px-4 pb-4">
@@ -48,10 +52,10 @@ export default function CollectionPage() {
             setNearOnly(!nearOnly);
           }}
         >
-          <Icon name="locate" className="h-4 w-4" /> Within 5 km
+          <Icon name="locate" className="h-3.5 w-3.5" /> Within 5 km
         </button>
         <button className="chip" onClick={() => setSurprise(true)}>
-          <Icon name="dice" className="h-4 w-4" /> Pick one for me
+          <Icon name="dice" className="h-3.5 w-3.5" /> Pick one for me
         </button>
       </div>
 
@@ -65,7 +69,7 @@ export default function CollectionPage() {
         ) : places.length ? (
           <PlaceList places={places} coords={ctx.coords} memoryKey={`collection:${id}:${nearOnly}`} />
         ) : (
-          <EmptyState emoji="🧭" title="Nothing nearby" message="None of these are within 5 km of you." />
+          <EmptyState icon="compass" title="Nothing nearby" message="None of these are within 5 km of you." />
         )}
       </div>
 

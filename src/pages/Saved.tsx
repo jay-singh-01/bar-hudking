@@ -9,16 +9,18 @@ import { NewListForm } from "../components/AddToListSheet";
 import PlacePhoto from "../components/PlacePhoto";
 import { MiniStars } from "../components/Rating";
 import Icon from "../components/Icon";
+import NewPlanSheet from "../components/NewPlanSheet";
 import { usePlaces } from "../lib/places";
 import { live, useUserData } from "../lib/store";
 import { useFilterContext } from "../lib/useFilterContext";
 import { formatINR, sortPlaces } from "../lib/discover";
 
-type Tab = "favorites" | "lists" | "journal";
+type Tab = "favorites" | "lists" | "plans" | "journal";
 
 const TABS: { id: Tab; label: string }[] = [
   { id: "favorites", label: "Favorites" },
   { id: "lists", label: "Lists" },
+  { id: "plans", label: "Plans" },
   { id: "journal", label: "Journal" },
 ];
 
@@ -30,14 +32,14 @@ export default function Saved() {
   return (
     <div className="pb-nav">
       <PageHeader title="Saved" />
-      <div className="glass sticky top-[60px] z-20 mb-1 px-4 pt-1 pb-3">
-        <div className="flex rounded-full border border-line bg-surface p-1">
+      <div className="glass sticky top-[61px] z-20 mb-4 border-b border-line px-4">
+        <div className="flex gap-6">
           {TABS.map((t) => (
             <button
               key={t.id}
               onClick={() => setTab(t.id)}
-              className={`flex-1 rounded-full py-2 text-sm font-semibold transition ${
-                tab === t.id ? "bg-gradient-to-r from-brand to-brand-2 text-white shadow" : "text-muted"
+              className={`-mb-px border-b-2 py-3 text-sm font-medium transition-colors ${
+                tab === t.id ? "border-ink text-ink" : "border-transparent text-muted"
               }`}
             >
               {t.label}
@@ -48,6 +50,7 @@ export default function Saved() {
       <div className="px-4">
         {tab === "favorites" && <Favorites />}
         {tab === "lists" && <Lists />}
+        {tab === "plans" && <Plans />}
         {tab === "journal" && <Journal />}
       </div>
     </div>
@@ -73,8 +76,7 @@ function Favorites() {
 
   if (index && !places.length) {
     return (
-      <EmptyState
-        emoji="💛"
+      <EmptyState icon="heart"
         title="No favorites yet"
         message="Tap the heart on any place to keep it here. Your favorites stay on this device — sign in on the Me tab to sync them."
         action={{ label: "Find somewhere", onClick: () => navigate("/") }}
@@ -86,7 +88,7 @@ function Favorites() {
     <>
       <div className="no-scrollbar mb-3 flex gap-2 overflow-x-auto">
         <button className="chip" onClick={() => setSurprise(true)}>
-          <Icon name="dice" className="h-4 w-4 text-brand" /> Pick one
+          <Icon name="dice" className="h-3.5 w-3.5" /> Pick one
         </button>
         {(["recent", "nearest", "rating"] as const).map((s) => (
           <button key={s} className={`chip ${sortBy === s ? "chip-on" : ""}`} onClick={() => setSortBy(s)}>
@@ -107,6 +109,53 @@ function Favorites() {
   );
 }
 
+function Plans() {
+  const plansRec = useUserData((d) => d.plans);
+  const { index } = usePlaces();
+  const plans = useMemo(() => live(plansRec).sort((a, b) => b.updatedAt - a.updatedAt), [plansRec]);
+  const [creating, setCreating] = useState(false);
+
+  return (
+    <>
+      <button onClick={() => setCreating(true)} className="btn-primary mb-5 w-full">
+        <Icon name="vote" className="h-4 w-4" /> New plan with friends
+      </button>
+      {plans.length === 0 ? (
+        <EmptyState
+          icon="users"
+          title="Decide together"
+          message="Shortlist a few places, send the link to your group, and see which one wins — no sign-ups needed."
+        />
+      ) : (
+        <ul className="card divide-y divide-line">
+          {plans.map((p) => {
+            const votes = Object.values(p.votes);
+            const tally = new Map<string, number>();
+            for (const v of votes) tally.set(v, (tally.get(v) ?? 0) + 1);
+            const leader = [...tally.entries()].sort((a, b) => b[1] - a[1])[0];
+            const leaderName = leader ? index?.byId.get(leader[0])?.name : null;
+            return (
+              <li key={p.id}>
+                <Link to={`/plans/${p.id}`} className="flex items-center gap-3 px-4 py-3.5">
+                  <div className="min-w-0 flex-1">
+                    <p className="font-display truncate text-[17px] font-semibold">{p.title}</p>
+                    <p className="truncate text-xs text-muted">
+                      {p.placeIds.length} places · {votes.length} vote{votes.length === 1 ? "" : "s"}
+                      {leaderName ? ` · ${leaderName} leads` : ""}
+                    </p>
+                  </div>
+                  <Icon name="chevronRight" className="h-4 w-4 text-faint" />
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      )}
+      {creating && <NewPlanSheet onClose={() => setCreating(false)} />}
+    </>
+  );
+}
+
 function Lists() {
   const listsRec = useUserData((d) => d.lists);
   const { index } = usePlaces();
@@ -119,10 +168,10 @@ function Lists() {
       <div className="grid grid-cols-2 gap-3">
         <button
           onClick={() => setCreating(true)}
-          className="flex aspect-square flex-col items-center justify-center gap-2 rounded-3xl border-2 border-dashed border-line text-brand active:scale-[0.98]"
+          className="flex aspect-square flex-col items-center justify-center gap-2 rounded-xl border border-dashed border-line text-muted active:bg-surface"
         >
-          <Icon name="plus" className="h-8 w-8" />
-          <span className="text-sm font-semibold">New list</span>
+          <Icon name="plus" className="h-6 w-6" />
+          <span className="text-sm font-medium">New list</span>
         </button>
         {lists.map((l) => {
           const covers = l.placeIds
@@ -133,19 +182,20 @@ function Lists() {
             <Link
               key={l.id}
               to={`/lists/${l.id}`}
-              className="relative flex aspect-square flex-col justify-end overflow-hidden rounded-3xl border border-line/70 bg-surface p-3 active:scale-[0.98]"
+              className="relative flex aspect-square flex-col justify-end overflow-hidden rounded-xl border border-line bg-surface p-3"
             >
               {covers.length > 0 && (
-                <div className="absolute inset-0 grid grid-cols-2 grid-rows-2 opacity-60">
+                <div className="absolute inset-0 grid grid-cols-2 grid-rows-2 gap-px opacity-70">
                   {covers.map((p) => (
                     <PlacePhoto key={p.id} place={p} className="h-full w-full" emojiSize="text-2xl" />
                   ))}
                 </div>
               )}
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
-              <span className="relative text-3xl">{l.emoji}</span>
-              <span className="relative mt-1 line-clamp-2 leading-tight font-bold">{l.name}</span>
-              <span className="relative text-xs text-white/70">{l.placeIds.length} places</span>
+              <span className="font-display relative line-clamp-2 text-lg leading-tight font-semibold text-white">
+                {l.emoji} {l.name}
+              </span>
+              <span className="tabular relative mt-0.5 text-xs text-white/70">{l.placeIds.length} places</span>
             </Link>
           );
         })}
@@ -190,8 +240,7 @@ function Journal() {
 
   if (!months.length) {
     return (
-      <EmptyState
-        emoji="📔"
+      <EmptyState icon="book"
         title="Your food & drinks diary"
         message="Every time you go out, tap “I've been here” on a place. Rate it, note what you spent and what you ordered — it all shows up here."
         action={{ label: "Explore places", onClick: () => navigate("/") }}
@@ -204,7 +253,7 @@ function Journal() {
       {months.map((m) => (
         <section key={m.label}>
           <div className="mb-2 flex items-baseline justify-between">
-            <h2 className="font-bold">{m.label}</h2>
+            <h2 className="font-semibold">{m.label}</h2>
             <span className="text-xs text-muted">
               {m.items.length} outing{m.items.length > 1 ? "s" : ""}
               {m.spend ? ` · ${formatINR(m.spend)} spent` : ""}
@@ -218,11 +267,11 @@ function Journal() {
                   <span className="absolute top-4 -left-[23px] h-3 w-3 rounded-full border-2 border-bg bg-brand" />
                   <Link
                     to={`/place/${encodeURIComponent(v.placeId)}`}
-                    className="flex gap-3 rounded-2xl border border-line/70 bg-surface p-2.5 active:scale-[0.99]"
+                    className="flex gap-3 rounded-xl border border-line/70 bg-surface p-2.5 active:scale-[0.99]"
                   >
                     {place && <PlacePhoto place={place} className="h-14 w-14 shrink-0 rounded-xl" emojiSize="text-2xl" />}
                     <div className="min-w-0 flex-1">
-                      <p className="truncate text-sm font-bold">{place?.name ?? "Unknown place"}</p>
+                      <p className="truncate text-sm font-semibold">{place?.name ?? "Unknown place"}</p>
                       <p className="text-xs text-muted">
                         {new Date(`${v.date}T00:00:00`).toLocaleDateString("en-IN", { weekday: "short", day: "numeric", month: "short" })}
                         {v.costForTwo ? ` · ${formatINR(v.costForTwo)}` : ""}

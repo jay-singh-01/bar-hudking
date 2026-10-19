@@ -7,9 +7,11 @@ interface FavoriteButtonProps {
   placeId: string;
   className?: string;
   iconClassName?: string;
+  /** Sits on top of a photo: draw the outline in white so it stays visible. */
+  onPhoto?: boolean;
 }
 
-export default function FavoriteButton({ placeId, className = "", iconClassName = "h-5 w-5" }: FavoriteButtonProps) {
+export default function FavoriteButton({ placeId, className = "", iconClassName = "h-5 w-5", onPhoto }: FavoriteButtonProps) {
   const fav = useUserData((d) => isFavorite(d, placeId));
   const [burst, setBurst] = useState(0);
 
@@ -35,7 +37,7 @@ export default function FavoriteButton({ placeId, className = "", iconClassName 
       <Icon
         name="heart"
         filled={fav}
-        className={`${iconClassName} ${fav ? "animate-pop text-brand-2" : "text-white"}`}
+        className={`${iconClassName} ${fav ? "animate-pop text-brand-2" : onPhoto ? "text-white" : "text-faint"}`}
       />
     </button>
   );

@@ -11,7 +11,7 @@ const links: { to: string; label: string; icon: IconName; end?: boolean }[] = [
 
 function activeIndex(pathname: string) {
   if (pathname.startsWith("/map")) return 1;
-  if (pathname.startsWith("/saved") || pathname.startsWith("/lists")) return 2;
+  if (pathname.startsWith("/saved") || pathname.startsWith("/lists") || pathname.startsWith("/plans")) return 2;
   if (pathname.startsWith("/me")) return 3;
   if (pathname === "/" || pathname.startsWith("/collection")) return 0;
   return -1;
@@ -22,38 +22,29 @@ export default function NavBar() {
   const active = activeIndex(useLocation().pathname);
 
   return (
-    <nav
-      className="glass fixed inset-x-0 bottom-0 z-40 border-t border-line/70"
-      style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
-    >
+    <nav className="glass fixed inset-x-0 bottom-0 z-40 border-t border-line" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
       <ul className="relative mx-auto flex max-w-lg">
-        {/* One pill that glides between tabs instead of each tab lighting up. */}
+        {/* A short accent rule that slides to the active tab. */}
         <span
           aria-hidden="true"
-          className="pointer-events-none absolute top-2.5 left-0 flex w-1/4 justify-center transition-[transform,opacity] duration-500 ease-[cubic-bezier(0.3,1.3,0.5,1)]"
+          className="pointer-events-none absolute top-0 left-0 flex w-1/4 justify-center transition-[transform,opacity] duration-500 ease-[cubic-bezier(0.3,1.2,0.5,1)]"
           style={{ transform: `translateX(${Math.max(active, 0) * 100}%)`, opacity: active < 0 ? 0 : 1 }}
         >
-          <span className="h-8 w-14 rounded-full bg-brand/15" />
+          <span className="h-0.5 w-8 rounded-full bg-brand" />
         </span>
         {links.map(({ to, label, icon, end }, i) => (
           <li key={to} className="flex-1">
             <NavLink
               to={to}
               end={end}
-              className={`relative flex flex-col items-center gap-1 pt-2.5 pb-2 text-[11px] font-semibold transition-colors duration-300 ${
-                active === i ? "text-brand" : "text-faint"
+              className={`relative flex flex-col items-center gap-1 pt-3 pb-2 text-[11px] font-medium transition-colors duration-300 ${
+                active === i ? "text-ink" : "text-faint"
               }`}
             >
-              <span className="flex h-8 items-center px-4">
-                <Icon
-                  name={icon}
-                  className={`h-[22px] w-[22px] transition-transform duration-300 ${active === i ? "scale-110" : ""}`}
-                  filled={active === i && icon === "heart"}
-                />
-              </span>
+              <Icon name={icon} className="h-[21px] w-[21px]" strokeWidth={active === i ? 2 : 1.6} filled={active === i && icon === "heart"} />
               {label}
               {to === "/saved" && favCount > 0 && active !== i && (
-                <span className="absolute top-1.5 left-1/2 ml-2.5 min-w-4 animate-pop rounded-full bg-brand-2 px-1 text-center text-[10px] leading-4 text-white">
+                <span className="tabular absolute top-1.5 left-1/2 ml-2 min-w-4 rounded-full bg-brand-2 px-1 text-center text-[10px] leading-4 text-white">
                   {favCount > 99 ? "99+" : favCount}
                 </span>
               )}

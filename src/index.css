@@ -1,34 +1,39 @@
 @import "tailwindcss";
 
-@theme {
-  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+/* Theme tokens point at plain CSS variables so light/dark can swap at runtime
+   (html.light / html.dark, set before first paint by index.html). */
+@custom-variant dark (&:where(.dark, .dark *));
 
-  --color-bg: #0a0a0f;
-  --color-surface: #13131b;
-  --color-surface-2: #1b1b26;
-  --color-surface-3: #242432;
-  --color-line: #2a2a38;
-  --color-ink: #f4f4f7;
-  --color-muted: #9d9db0;
-  --color-faint: #6b6b80;
-  --color-brand: #ff7a1a;
-  --color-brand-2: #ff3d7f;
-  --color-ok: #34d399;
-  --color-star: #fbbf24;
+@theme {
+  --font-sans: "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-brand: var(--brand);
+  --color-brand-2: var(--brand-2);
+  --color-on-brand: var(--on-brand);
+  --color-ok: var(--ok);
+  --color-star: var(--star);
 
   --animate-fade-up: fade-up 0.35s cubic-bezier(0.2, 0.8, 0.2, 1) both;
   --animate-sheet-up: sheet-up 0.32s cubic-bezier(0.2, 0.8, 0.2, 1) both;
   --animate-pop: pop 0.35s cubic-bezier(0.3, 1.6, 0.5, 1) both;
   --animate-shimmer: shimmer 1.4s linear infinite;
-  --animate-page-in: page-in 0.38s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  --animate-page-in: page-in 0.32s cubic-bezier(0.2, 0.8, 0.2, 1) both;
   --animate-sheet-down: sheet-down 0.24s cubic-bezier(0.4, 0, 1, 1) both;
   --animate-fade-in: fade-in 0.25s ease both;
   --animate-fade-out: fade-out 0.24s ease both;
   --animate-ken-burns: ken-burns 1.6s cubic-bezier(0.2, 0.8, 0.2, 1) both;
-  --animate-gradient: gradient-drift 12s ease-in-out infinite;
 
   @keyframes fade-up {
-    from { opacity: 0; transform: translateY(10px); }
+    from { opacity: 0; transform: translateY(8px); }
     to { opacity: 1; transform: none; }
   }
   @keyframes sheet-up {
@@ -37,11 +42,11 @@
   }
   @keyframes pop {
     0% { transform: scale(1); }
-    40% { transform: scale(1.3); }
+    40% { transform: scale(1.25); }
     100% { transform: scale(1); }
   }
   @keyframes page-in {
-    from { opacity: 0; transform: translateY(8px); }
+    from { opacity: 0; transform: translateY(6px); }
     to { opacity: 1; transform: none; }
   }
   @keyframes sheet-down {
@@ -57,12 +62,8 @@
     to { opacity: 0; }
   }
   @keyframes ken-burns {
-    from { transform: scale(1.08); }
+    from { transform: scale(1.06); }
     to { transform: scale(1); }
-  }
-  @keyframes gradient-drift {
-    0%, 100% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
   }
   @keyframes shimmer {
     from { background-position: -200% 0; }
@@ -70,8 +71,41 @@
   }
 }
 
-:root {
+/* Dark — warm near-black, like a bar after hours. Default. */
+:root,
+.dark {
   color-scheme: dark;
+  --bg: #100e0c;
+  --surface: #181512;
+  --surface-2: #211d19;
+  --surface-3: #2c2621;
+  --line: #2f2924;
+  --ink: #f2ebe1;
+  --muted: #a69c8f;
+  --faint: #756b60;
+  --brand: #d4a159;
+  --brand-2: #cf6a4f;
+  --on-brand: #1a140e;
+  --ok: #86bf94;
+  --star: #e3b35c;
+}
+
+/* Light — paper and ink, like a printed menu. */
+.light {
+  color-scheme: light;
+  --bg: #f6f1e8;
+  --surface: #fffcf7;
+  --surface-2: #efe8dc;
+  --surface-3: #e6ddce;
+  --line: #e0d6c6;
+  --ink: #1d1814;
+  --muted: #6c6256;
+  --faint: #9c9183;
+  --brand: #a26624;
+  --brand-2: #b4472f;
+  --on-brand: #fffaf2;
+  --ok: #3d8455;
+  --star: #b98327;
 }
 
 html,
@@ -83,35 +117,60 @@ body,
 body {
   background: var(--color-bg);
   color: var(--color-ink);
+  font-feature-settings: "ss01", "cv11";
   -webkit-font-smoothing: antialiased;
   -webkit-tap-highlight-color: transparent;
   overscroll-behavior-y: none;
 }
 
+::selection {
+  background: color-mix(in oklab, var(--color-brand) 35%, transparent);
+}
+
+@utility font-display {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  letter-spacing: -0.015em;
+}
+
+/* Small caps-style section label. */
+@utility eyebrow {
+  @apply text-[11px] font-semibold tracking-[0.14em] text-muted uppercase;
+}
+
+@utility tabular {
+  font-variant-numeric: tabular-nums;
+}
+
 @utility glass {
-  background: color-mix(in oklab, var(--color-bg) 92%, transparent);
-  @apply backdrop-blur-xl backdrop-saturate-150;
+  background: color-mix(in oklab, var(--color-bg) 94%, transparent);
+  @apply backdrop-blur-md;
 }
 
 @utility chip {
-  @apply inline-flex shrink-0 items-center gap-1.5 rounded-full border border-line bg-surface px-3.5 py-2 text-[13px] font-medium whitespace-nowrap text-ink/90 transition-colors active:scale-[0.97];
+  @apply inline-flex shrink-0 items-center gap-1.5 rounded-full border border-line px-3 py-1.5 text-[13px] font-medium whitespace-nowrap text-ink/85 transition-colors active:scale-[0.97];
 }
+/* Selected chips invert (ink on paper / paper on ink) rather than glowing. */
 @utility chip-on {
-  @apply border-brand/60 bg-brand/15 text-brand;
+  @apply border-ink bg-ink text-bg;
 }
 
 @utility btn {
-  @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition active:scale-[0.97] disabled:opacity-50;
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-3 text-sm font-semibold transition active:scale-[0.98] disabled:opacity-50;
 }
 @utility btn-primary {
-  @apply btn bg-gradient-to-r from-brand to-brand-2 text-white shadow-lg shadow-brand/20;
+  @apply btn bg-brand text-on-brand;
 }
 @utility btn-ghost {
-  @apply btn border border-line bg-surface-2 text-ink;
+  @apply btn border border-line text-ink active:bg-surface-2;
 }
 
 @utility input {
-  @apply w-full rounded-2xl border border-line bg-surface-2 px-4 py-3 text-[15px] text-ink outline-none placeholder:text-faint focus:border-brand/60;
+  @apply w-full rounded-xl border border-line bg-surface px-4 py-3 text-[15px] text-ink outline-none placeholder:text-faint focus:border-ink/40;
+}
+
+@utility card {
+  @apply rounded-2xl border border-line bg-surface;
 }
 
 @utility skeleton {
@@ -131,20 +190,21 @@ body {
   padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
 }
 
-/* Super Suggest chip: a slowly drifting gradient border; filled when on. */
+/* Super Suggest chip: a thin brass edge with a slow sheen; solid brass when on. */
 .super-chip {
   border-color: transparent;
   background:
-    linear-gradient(var(--color-surface), var(--color-surface)) padding-box,
-    linear-gradient(110deg, #ff7a1a, #ff3d7f, #a78bfa, #ff7a1a) border-box;
+    linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
+    linear-gradient(110deg, var(--brand), #f3d79c, var(--brand), var(--brand)) border-box;
   background-size: 100% 100%, 300% 100%;
-  animation: super-drift 8s linear infinite;
+  color: var(--ink);
+  animation: super-drift 7s linear infinite;
 }
 .super-chip.is-on {
-  color: white;
-  background: linear-gradient(110deg, #ff7a1a, #ff3d7f, #a78bfa, #ff7a1a) border-box;
+  color: var(--on-brand);
+  background: linear-gradient(110deg, var(--brand), #f0d29a, var(--brand), var(--brand)) border-box;
   background-size: 300% 100%;
-  animation: super-drift-on 8s linear infinite;
+  animation: super-drift-on 7s linear infinite;
 }
 @keyframes super-drift {
   to { background-position: 0 0, 300% 0; }
@@ -156,13 +216,13 @@ body {
   position: relative;
   transform: translate(-50%, calc(-100% - 10px));
   white-space: nowrap;
-  border-radius: 9999px;
-  background: rgb(255 122 26 / 0.92);
-  color: white;
+  border-radius: 6px;
+  background: var(--ink);
+  color: var(--bg);
   font-size: 11px;
-  font-weight: 700;
-  padding: 3px 8px;
-  box-shadow: 0 4px 14px rgb(0 0 0 / 0.4);
+  font-weight: 600;
+  padding: 3px 7px;
+  box-shadow: 0 4px 14px rgb(0 0 0 / 0.3);
   width: max-content;
 }
 .anchor-pin::after {
@@ -174,53 +234,52 @@ body {
   height: 9px;
   margin-left: -4.5px;
   border-radius: 9999px;
-  background: #ff7a1a;
-  border: 2px solid white;
+  background: var(--brand);
+  border: 2px solid var(--ink);
 }
 
-/* Light OSM tiles turned into a dark map. */
-.osm-dark {
-  filter: invert(1) hue-rotate(180deg) brightness(0.88) contrast(0.92) saturate(0.55);
+/* Light OSM tiles turned into a dark map, only in dark mode. */
+.dark .osm-dark {
+  filter: invert(1) hue-rotate(180deg) brightness(0.85) contrast(0.9) saturate(0.4) sepia(0.12);
+}
+.light .osm-dark {
+  filter: saturate(0.55) sepia(0.15) contrast(0.95);
 }
 
-/* Leaflet dark-theme touch-ups */
 .leaflet-container {
-  background: #0d0d14;
+  background: var(--color-bg);
   font-family: var(--font-sans);
 }
 .leaflet-control-attribution {
-  background: rgb(10 10 15 / 0.7) !important;
-  color: #8b8b9c !important;
+  background: color-mix(in oklab, var(--color-bg) 80%, transparent) !important;
+  color: var(--color-faint) !important;
   font-size: 10px !important;
 }
 .leaflet-control-attribution a {
-  color: #b5b5c5 !important;
+  color: var(--color-muted) !important;
 }
 .marker-cluster-custom {
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 9999px;
-  background: radial-gradient(circle at 30% 30%, #ff9a4d, #ff3d7f);
-  color: white;
-  font-weight: 700;
+  background: var(--ink);
+  color: var(--bg);
+  font-weight: 600;
   font-size: 12px;
-  border: 3px solid rgb(255 255 255 / 0.25);
-  box-shadow: 0 6px 20px rgb(255 61 127 / 0.35);
+  font-variant-numeric: tabular-nums;
+  border: 2px solid var(--brand);
+  box-shadow: 0 4px 14px rgb(0 0 0 / 0.35);
 }
 .place-pin {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   border-radius: 9999px;
-  border: 2px solid rgb(10 10 15 / 0.9);
-  font-size: 14px;
-  box-shadow: 0 4px 12px rgb(0 0 0 / 0.5);
+  border: 2px solid var(--bg);
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.4);
   transition: transform 0.15s;
 }
 .place-pin.is-active {
-  transform: scale(1.35);
-  border-color: white;
+  transform: scale(1.6);
+  border-color: var(--ink);
 }
 
 /* Photos ease in as they load instead of popping. */
@@ -248,10 +307,30 @@ body {
   to { transform: scale(1.9); opacity: 0; }
 }
 
-/* Cards lift a touch on hover (desktop) and settle on press. */
 @media (hover: hover) {
-  .lift { transition: transform 0.25s ease, border-color 0.25s ease; }
-  .lift:hover { transform: translateY(-2px); border-color: color-mix(in oklab, var(--color-brand) 30%, var(--color-line)); }
+  .lift { transition: border-color 0.2s ease, background-color 0.2s ease; }
+  .lift:hover { border-color: color-mix(in oklab, var(--color-ink) 22%, var(--color-line)); }
+}
+
+/* Swipe-to-save on place cards. */
+.swipe-track {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1rem;
+  touch-action: pan-y;
+}
+.swipe-reveal {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 1.5rem;
+  border-radius: 1rem;
+  background: var(--brand-2);
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -285,7 +364,7 @@ body {
   bottom: -20%;
   width: 40%;
   left: -50%;
-  background: linear-gradient(100deg, transparent, rgb(255 255 255 / 0.55), transparent);
+  background: linear-gradient(100deg, transparent, rgb(255 255 255 / 0.6), transparent);
   animation: ss-sweep 0.7s 0.05s cubic-bezier(0.4, 0, 0.2, 1) forwards;
 }
 @keyframes ss-sweep {
@@ -295,7 +374,7 @@ body {
   position: absolute;
   inset: -6px;
   border-radius: 9999px;
-  box-shadow: 0 0 0 0 rgb(255 61 127 / 0.55), 0 0 24px 4px rgb(255 122 26 / 0.45);
+  box-shadow: 0 0 22px 3px color-mix(in oklab, var(--brand) 55%, transparent);
   animation: ss-glow 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
 }
 @keyframes ss-glow {
@@ -306,12 +385,12 @@ body {
   position: absolute;
   top: 50%;
   left: 22px;
-  width: 6px;
-  height: 6px;
-  margin: -3px 0 0 -3px;
+  width: 5px;
+  height: 5px;
+  margin: -2.5px 0 0 -2.5px;
   border-radius: 9999px;
-  background: radial-gradient(circle, #fff 0%, #f7d58b 45%, #ff7a1a 100%);
-  box-shadow: 0 0 6px #f7d58b;
+  background: radial-gradient(circle, #fff 0%, #f3d79c 50%, var(--brand) 100%);
+  box-shadow: 0 0 6px #f3d79c;
   opacity: 0;
   animation: ss-spark 0.75s var(--delay) cubic-bezier(0.15, 0.7, 0.3, 1) forwards;
 }
@@ -328,27 +407,13 @@ body {
   to { transform: none; }
 }
 
-/* Banner that unfolds when Super Suggest turns on, with a shimmering edge. */
+/* Banner that unfolds when Super Suggest turns on. */
 .ss-banner {
   position: relative;
-  animation: ss-unfold 0.55s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  animation: ss-unfold 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
   transform-origin: top center;
 }
-.ss-banner::before {
-  content: "";
-  position: absolute;
-  inset: -1px;
-  border-radius: inherit;
-  padding: 1px;
-  background: linear-gradient(110deg, #ff7a1a, #ff3d7f, #a78bfa, #f7d58b, #ff7a1a);
-  background-size: 300% 100%;
-  animation: super-drift-on 6s linear infinite;
-  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-  mask-composite: exclude;
-  pointer-events: none;
-}
 @keyframes ss-unfold {
-  from { opacity: 0; transform: translateY(-8px) scaleY(0.85); filter: blur(4px); }
+  from { opacity: 0; transform: translateY(-6px) scaleY(0.9); filter: blur(3px); }
   to { opacity: 1; transform: none; filter: none; }
 }

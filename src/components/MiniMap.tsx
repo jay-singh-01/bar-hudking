@@ -14,7 +14,7 @@ function project(lat: number, lng: number) {
   return { x, y };
 }
 
-export default function MiniMap({ lat, lng, emoji, color }: { lat: number; lng: number; emoji: string; color: string }) {
+export default function MiniMap({ lat, lng, color }: { lat: number; lng: number; color: string }) {
   const { x, y } = project(lat, lng);
   const xi = Math.floor(x) - 1;
   const yi = Math.floor(y) - 1;
@@ -22,7 +22,7 @@ export default function MiniMap({ lat, lng, emoji, color }: { lat: number; lng: 
   const py = (y - yi) * TILE;
 
   return (
-    <div className="relative h-44 w-full overflow-hidden rounded-2xl bg-surface-2">
+    <div className="relative h-44 w-full overflow-hidden rounded-xl bg-surface-2">
       <div
         className={`absolute grid grid-cols-3 ${TILE_CLASS}`}
         style={{ width: TILE * 3, left: `calc(50% - ${px}px)`, top: `calc(50% - ${py}px)` }}
@@ -41,13 +41,9 @@ export default function MiniMap({ lat, lng, emoji, color }: { lat: number; lng: 
           )),
         )}
       </div>
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-[85%]">
-        <div
-          className="flex h-11 w-11 rotate-45 items-center justify-center rounded-full rounded-br-none border-2 border-white text-xl shadow-xl"
-          style={{ background: color }}
-        >
-          <span className="-rotate-45">{emoji}</span>
-        </div>
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+        <span className="absolute -inset-3 rounded-full opacity-25" style={{ background: color }} />
+        <span className="relative block h-4 w-4 rounded-full border-2 border-bg shadow-lg" style={{ background: color }} />
       </div>
       <span className="absolute right-2 bottom-1 text-[9px] text-white/50">© OpenStreetMap</span>
     </div>

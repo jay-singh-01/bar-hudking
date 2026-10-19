@@ -1,7 +1,7 @@
 import type { Place, PlaceType } from "./types";
 import type { Coords } from "./geo";
 import { haversineKm } from "./geo";
-import { openStatus } from "./hours";
+import { minutesUntilClose, openStatus } from "./hours";
 import type { Spot, SuperSuggestAnchor } from "./store";
 import { inSuperSuggest } from "./superSuggest";
 
@@ -11,12 +11,7 @@ import { inSuperSuggest } from "./superSuggest";
 
 export type PriceBand = "budget" | "mid" | "premium" | "luxury";
 
-export const PRICE_BANDS: { id: PriceBand; label: string; hint: string; max: number }[] = [
-  { id: "budget", label: "₹", hint: "under ₹800", max: 800 },
-  { id: "mid", label: "₹₹", hint: "₹800–1,600", max: 1600 },
-  { id: "premium", label: "₹₹₹", hint: "₹1,600–3,000", max: 3000 },
-  { id: "luxury", label: "₹₹₹₹", hint: "₹3,000+", max: Infinity },
-];
+const BAND_MAX: Record<PriceBand, number> = { budget: 800, mid: 1600, premium: 3000, luxury: Infinity };
 
 /** Typical Bangalore cost-for-two per Google price level — used only when no INR range exists. */
 const LEVEL_TO_TWO: Record<number, [number, number]> = {
@@ -32,11 +27,16 @@ export function approxPriceForTwo(p: Place): [number, number] | null {
   return null;
 }
 
+/** Middle of the cost-for-two range — what the budget filter compares against. */
+export function typicalPriceForTwo(p: Place): number | null {
+  const r = approxPriceForTwo(p);
+  return r ? (r[0] + r[1]) / 2 : null;
+}
+
 export function priceBand(p: Place): PriceBand | null {
-  const range = approxPriceForTwo(p);
-  if (!range) return null;
-  const mid = (range[0] + range[1]) / 2;
-  return PRICE_BANDS.find((b) => mid < b.max)!.id;
+  const mid = typicalPriceForTwo(p);
+  if (mid === null) return null;
+  return (Object.keys(BAND_MAX) as PriceBand[]).find((b) => mid < BAND_MAX[b])!;
 }
 
 const inr = new Intl.NumberFormat("en-IN");
@@ -56,13 +56,14 @@ export function formatINR(n: number) {
 // Types
 // ---------------------------------------------------------------------------
 
-export const TYPE_META: Record<PlaceType, { label: string; plural: string; emoji: string; color: string }> = {
-  restaurant: { label: "Restaurant", plural: "Restaurants", emoji: "🍽️", color: "#f59e0b" },
-  bar: { label: "Bar", plural: "Bars", emoji: "🍸", color: "#a78bfa" },
-  pub: { label: "Pub", plural: "Pubs", emoji: "🍺", color: "#facc15" },
-  brewery: { label: "Brewery", plural: "Breweries", emoji: "🍻", color: "#fb923c" },
-  cafe: { label: "Café", plural: "Cafés", emoji: "☕", color: "#34d399" },
-  nightclub: { label: "Club", plural: "Clubs", emoji: "🪩", color: "#f472b6" },
+/** Muted, warm palette for map dots and type accents. */
+export const TYPE_META: Record<PlaceType, { label: string; plural: string; color: string }> = {
+  restaurant: { label: "Restaurant", plural: "Restaurants", color: "#d79b4f" },
+  bar: { label: "Bar", plural: "Bars", color: "#9a8fd0" },
+  pub: { label: "Pub", plural: "Pubs", color: "#c9b35c" },
+  brewery: { label: "Brewery", plural: "Breweries", color: "#c9773f" },
+  cafe: { label: "Café", plural: "Cafés", color: "#7fae8c" },
+  nightclub: { label: "Club", plural: "Clubs", color: "#c7708e" },
 };
 
 // ---------------------------------------------------------------------------
@@ -98,6 +99,13 @@ export function recommendScore(p: Place, coords: Coords | null, now: Date): numb
   return s;
 }
 
+/** Open now and still open for at least `minutes` more. */
+export function openForAtLeast(p: Place, now: Date, minutes: number): boolean {
+  if (p.status) return false;
+  const left = minutesUntilClose(p.hours, now);
+  return left !== null && left >= minutes;
+}
+
 // ---------------------------------------------------------------------------
 // Filters
 // ---------------------------------------------------------------------------
@@ -108,9 +116,12 @@ export interface Filters {
   areas: string[];
   cuisines: string[];
   features: string[];
-  prices: PriceBand[];
+  /** Max typical cost for two, ₹. */
+  maxBudget: number | null;
   minRating: number | null;
   openNow: boolean;
+  /** Open now and for at least the next two hours. */
+  tonight: boolean;
   maxDistanceKm: number | null;
   nearMySpots: boolean;
   hideVisited: boolean;
@@ -123,9 +134,10 @@ export const EMPTY_FILTERS: Filters = {
   areas: [],
   cuisines: [],
   features: [],
-  prices: [],
+  maxBudget: null,
   minRating: null,
   openNow: false,
+  tonight: false,
   maxDistanceKm: null,
   nearMySpots: false,
   hideVisited: false,
@@ -148,15 +160,22 @@ export function activeFilterCount(f: Filters): number {
     f.areas.length +
     f.cuisines.length +
     f.features.length +
-    f.prices.length +
+    (f.maxBudget !== null ? 1 : 0) +
     (f.minRating !== null ? 1 : 0) +
     (f.openNow ? 1 : 0) +
+    (f.tonight ? 1 : 0) +
     (f.maxDistanceKm !== null ? 1 : 0) +
     (f.nearMySpots ? 1 : 0) +
     (f.hideVisited ? 1 : 0) +
     (f.superSuggest ? 1 : 0)
   );
 }
+
+// ---------------------------------------------------------------------------
+// Search — every query word must match somewhere (name, area, cuisine,
+// features, Google's description). Tolerates typos ("koramangla", "toitt")
+// and understands everyday words ("beer", "coffee", "veg").
+// ---------------------------------------------------------------------------
 
 export function normalizeText(s: string) {
   return s
@@ -168,33 +187,139 @@ export function normalizeText(s: string) {
     .trim();
 }
 
-const searchCache = new WeakMap<Place, string>();
-function haystack(p: Place) {
-  let h = searchCache.get(p);
-  if (!h) {
-    h = normalizeText(
-      [p.name, p.area, p.address, TYPE_META[p.type].label, TYPE_META[p.type].plural, ...(p.cuisine ?? []), ...(p.features ?? [])]
+const SYNONYMS: Record<string, string[]> = {
+  beer: ["brewery", "brewpub", "pub", "craft", "beer"],
+  beers: ["brewery", "brewpub", "pub", "craft", "beer"],
+  drinks: ["bar", "pub", "cocktails", "lounge", "brewery"],
+  drink: ["bar", "pub", "cocktails", "lounge", "brewery"],
+  booze: ["bar", "pub", "cocktails", "lounge", "brewery"],
+  cocktail: ["cocktails", "bar", "lounge"],
+  coffee: ["cafe", "coffee"],
+  chai: ["cafe", "tea"],
+  veg: ["veg", "vegetarian"],
+  vegetarian: ["veg", "vegetarian"],
+  club: ["club", "nightclub"],
+  clubbing: ["club", "nightclub"],
+  dance: ["club", "nightclub"],
+  dinner: ["restaurant", "dining"],
+  lunch: ["restaurant"],
+  terrace: ["rooftop", "terrace"],
+  music: ["music", "live"],
+  gig: ["music", "live"],
+  romantic: ["date", "romantic", "fine"],
+  date: ["date", "romantic"],
+  sports: ["sports"],
+  match: ["sports"],
+  ipl: ["sports"],
+  wifi: ["wi", "fi", "work"],
+  work: ["work", "wi"],
+  dosa: ["south", "dosa", "udupi"],
+  idli: ["south", "idli", "udupi"],
+  biriyani: ["biryani"],
+};
+
+interface Indexed {
+  text: string;
+  tokens: Set<string>;
+  name: string;
+}
+
+const searchCache = new WeakMap<Place, Indexed>();
+
+function indexed(p: Place): Indexed {
+  let x = searchCache.get(p);
+  if (!x) {
+    const text = normalizeText(
+      [p.name, p.area, p.address, TYPE_META[p.type].label, TYPE_META[p.type].plural, p.description, ...(p.cuisine ?? []), ...(p.features ?? [])]
         .filter(Boolean)
         .join(" "),
     );
-    searchCache.set(p, h);
+    x = { text, tokens: new Set(text.split(" ")), name: normalizeText(p.name) };
+    searchCache.set(p, x);
   }
-  return h;
+  return x;
 }
 
-/** Every query word must appear somewhere (name, area, cuisine, features...). Name matches rank higher. */
-export function searchScore(p: Place, query: string): number {
+/** Every distinct word across the catalogue, for typo correction. */
+let vocabulary: string[] = [];
+
+export function setSearchCorpus(places: Place[]) {
+  const words = new Set<string>();
+  for (const p of places) for (const t of indexed(p).tokens) if (t.length >= 3) words.add(t);
+  vocabulary = [...words];
+}
+
+/** Levenshtein distance, giving up early once it exceeds `max`. */
+export function editDistance(a: string, b: string, max: number): number {
+  if (Math.abs(a.length - b.length) > max) return max + 1;
+  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i];
+    let rowMin = i;
+    for (let j = 1; j <= b.length; j++) {
+      const v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      cur.push(v);
+      if (v < rowMin) rowMin = v;
+    }
+    if (rowMin > max) return max + 1;
+    prev = cur;
+  }
+  return prev[b.length];
+}
+
+interface QueryWord {
+  word: string;
+  /** Exact forms to look for (the word plus synonyms). */
+  exact: string[];
+  /** Catalogue words within a typo or two, used only if nothing exact matches. */
+  fuzzy: Set<string>;
+}
+
+let compiledFor = "";
+let compiled: QueryWord[] = [];
+
+function compile(query: string): QueryWord[] {
+  if (query === compiledFor) return compiled;
   const words = normalizeText(query).split(" ").filter(Boolean);
+  compiled = words.map((word) => {
+    const exact = [word, ...(SYNONYMS[word] ?? [])];
+    const fuzzy = new Set<string>();
+    if (word.length >= 4) {
+      const max = word.length >= 7 ? 2 : 1;
+      for (const v of vocabulary) {
+        if (v[0] !== word[0] && word.length < 7) continue;
+        if (editDistance(word, v, max) <= max) fuzzy.add(v);
+      }
+    }
+    return { word, exact, fuzzy };
+  });
+  compiledFor = query;
+  return compiled;
+}
+
+/** 0 = no match. Higher = better; name matches rank above description matches. */
+export function searchScore(p: Place, query: string): number {
+  const words = compile(query);
   if (!words.length) return 1;
-  const h = haystack(p);
-  const name = normalizeText(p.name);
+  const x = indexed(p);
   let score = 0;
-  for (const w of words) {
-    if (!h.includes(w)) return 0;
-    if (name.startsWith(w)) score += 3;
-    else if (name.includes(` ${w}`)) score += 2;
-    else if (name.includes(w)) score += 1.5;
-    else score += 1;
+  for (const { word, exact, fuzzy } of words) {
+    if (exact.some((e) => x.text.includes(e))) {
+      if (x.name.startsWith(word)) score += 3;
+      else if (x.name.includes(` ${word}`)) score += 2;
+      else if (x.name.includes(word)) score += 1.5;
+      else score += 1;
+      continue;
+    }
+    let hit = false;
+    for (const t of x.tokens) {
+      if (fuzzy.has(t)) {
+        hit = true;
+        break;
+      }
+    }
+    if (!hit) return 0;
+    score += 0.6;
   }
   return score;
 }
@@ -204,20 +329,25 @@ export interface FilterContext {
   spots: Spot[];
   anchors: SuperSuggestAnchor[];
   visitedIds: Set<string>;
+  hiddenIds: Set<string>;
   now: Date;
 }
 
+export const TONIGHT_MIN_MINUTES = 120;
+
 export function matchesFilters(p: Place, f: Filters, ctx: FilterContext): boolean {
+  if (ctx.hiddenIds.has(p.id)) return false;
   if (f.types.length && !f.types.includes(p.type)) return false;
   if (f.areas.length && (!p.area || !f.areas.includes(p.area))) return false;
   if (f.cuisines.length && !p.cuisine?.some((c) => f.cuisines.includes(c))) return false;
   if (f.features.length && !f.features.every((x) => p.features?.includes(x))) return false;
-  if (f.prices.length) {
-    const band = priceBand(p);
-    if (!band || !f.prices.includes(band)) return false;
+  if (f.maxBudget !== null) {
+    const typical = typicalPriceForTwo(p);
+    if (typical === null || typical > f.maxBudget) return false;
   }
   if (f.minRating !== null && (p.rating ?? 0) < f.minRating) return false;
   if (f.openNow && (p.status || !openStatus(p.hours, ctx.now)?.open)) return false;
+  if (f.tonight && !openForAtLeast(p, ctx.now, TONIGHT_MIN_MINUTES)) return false;
   if (f.maxDistanceKm !== null && ctx.coords && haversineKm(ctx.coords, p) > f.maxDistanceKm) return false;
   if (f.nearMySpots && ctx.spots.length && !ctx.spots.some((s) => haversineKm(s, p) <= s.radiusKm)) return false;
   if (f.hideVisited && ctx.visitedIds.has(p.id)) return false;
@@ -279,15 +409,13 @@ export function sortPlaces(places: Place[], sort: SortKey, ctx: FilterContext, q
 }
 
 // ---------------------------------------------------------------------------
-// Curated collections
+// Curated collections. Each one is shown with a photo from its best place.
 // ---------------------------------------------------------------------------
 
 export interface Collection {
   id: string;
   title: string;
-  emoji: string;
   blurb: string;
-  gradient: string;
   test: (p: Place) => boolean;
   sort: SortKey;
 }
@@ -299,45 +427,35 @@ const CURATED: Collection[] = [
   {
     id: "top-rated",
     title: "Bangalore's best",
-    emoji: "🏆",
-    blurb: "4.5★ and up, with thousands of reviews to back it",
-    gradient: "from-amber-500 to-orange-600",
+    blurb: "4.5★ and up, with thousands of reviews behind it",
     test: (p) => (p.rating ?? 0) >= 4.5 && (p.ratingCount ?? 0) >= 1000,
     sort: "rating",
   },
   {
     id: "hidden-gems",
     title: "Hidden gems",
-    emoji: "💎",
     blurb: "Loved by the few who know about them",
-    gradient: "from-cyan-500 to-blue-600",
     test: isHiddenGem,
     sort: "rating",
   },
   {
     id: "breweries",
     title: "Brewery hopping",
-    emoji: "🍻",
     blurb: "Fresh craft beer in the microbrewery capital",
-    gradient: "from-orange-500 to-red-600",
     test: (p) => p.type === "brewery" || has(p, "Craft beer"),
     sort: "recommended",
   },
   {
     id: "rooftops",
-    title: "Rooftops & skylines",
-    emoji: "🌆",
+    title: "Rooftops",
     blurb: "Drinks with a view",
-    gradient: "from-fuchsia-500 to-purple-700",
     test: (p) => has(p, "Rooftop"),
     sort: "recommended",
   },
   {
     id: "date-night",
     title: "Date night",
-    emoji: "🕯️",
-    blurb: "Romantic, a little fancy, worth dressing up for",
-    gradient: "from-rose-500 to-pink-700",
+    blurb: "A little fancy, worth dressing up for",
     test: (p) =>
       has(p, "Date night") ||
       has(p, "Fine dining") ||
@@ -347,60 +465,48 @@ const CURATED: Collection[] = [
   {
     id: "late-night",
     title: "Open late",
-    emoji: "🌙",
     blurb: "Still serving past 12:30 am",
-    gradient: "from-indigo-500 to-slate-800",
     test: closesLate,
     sort: "recommended",
   },
   {
     id: "live-music",
     title: "Live music",
-    emoji: "🎸",
     blurb: "Gigs, bands and DJ nights",
-    gradient: "from-violet-500 to-indigo-700",
     test: (p) => has(p, "Live music") || p.type === "nightclub",
     sort: "recommended",
   },
   {
     id: "work-cafes",
     title: "Cafés to work from",
-    emoji: "💻",
     blurb: "Wi-Fi, coffee and somewhere to plug in",
-    gradient: "from-emerald-500 to-teal-700",
     test: (p) => p.type === "cafe" && (has(p, "Wi-Fi") || has(p, "Work friendly")),
     sort: "recommended",
   },
   {
     id: "outdoor",
     title: "Alfresco",
-    emoji: "🌿",
     blurb: "Outdoor seating for Bangalore weather",
-    gradient: "from-lime-500 to-green-700",
     test: (p) => has(p, "Outdoor seating"),
     sort: "recommended",
   },
   {
     id: "budget",
-    title: "Big taste, small bill",
-    emoji: "🪙",
-    blurb: "Great food under ₹800 for two",
-    gradient: "from-yellow-500 to-amber-700",
+    title: "Under ₹800 for two",
+    blurb: "Big taste, small bill",
     test: (p) => priceBand(p) === "budget" && (p.rating ?? 4.2) >= 4.2,
     sort: "rating",
   },
   {
     id: "pure-veg",
-    title: "Pure veg",
-    emoji: "🥗",
-    blurb: "Vegetarian kitchens and veg-friendly menus",
-    gradient: "from-green-500 to-emerald-700",
+    title: "Vegetarian",
+    blurb: "Pure veg kitchens and veg-friendly menus",
     test: (p) => has(p, "Pure veg") || has(p, "Veg friendly"),
     sort: "recommended",
   },
 ];
 
-/** Temporarily closed places never appear in collections. */
+/** Temporarily closed or incomplete places never appear in collections. */
 export const COLLECTIONS: Collection[] = CURATED.map((c) => ({ ...c, test: (p: Place) => !p.status && isComplete(p) && c.test(p) }));
 
 export function collectionById(id: string) {

@@ -27,14 +27,13 @@ interface MapFilters {
 
 const DEFAULT: MapFilters = { query: "", types: [], openNow: false, mode: "all", superSuggest: false };
 
+/** A small dot in the type's colour; saved places use the accent red. */
 function pinIcon(place: Place, active: boolean, saved: boolean) {
-  const meta = TYPE_META[place.type];
-  const size = active ? 36 : 30;
+  const color = saved ? "var(--brand-2)" : TYPE_META[place.type].color;
+  const size = 14;
   return L.divIcon({
     className: "",
-    html: `<div class="place-pin${active ? " is-active" : ""}" style="width:${size}px;height:${size}px;background:${meta.color}">${
-      saved ? "❤️" : meta.emoji
-    }</div>`,
+    html: `<div class="place-pin${active ? " is-active" : ""}" style="width:${size}px;height:${size}px;background:${color}"></div>`,
     iconSize: [size, size],
     iconAnchor: [size / 2, size / 2],
   });
@@ -171,11 +170,11 @@ export default function MapPage() {
     for (const a of ctx.anchors) {
       const c = L.circle([a.lat, a.lng], {
         radius: a.radiusKm * 1000,
-        color: "#ff7a1a",
+        color: "#d4a159",
         weight: 1.5,
         opacity: 0.7,
         dashArray: "6 6",
-        fillColor: "#ff7a1a",
+        fillColor: "#d4a159",
         fillOpacity: 0.05,
         interactive: false,
       }).addTo(g);
@@ -215,7 +214,7 @@ export default function MapPage() {
         radius: 8,
         color: "#fff",
         weight: 3,
-        fillColor: "#3b82f6",
+        fillColor: "#d4a159",
         fillOpacity: 1,
       }).addTo(map.current);
   }, [geo.coords]);
@@ -245,13 +244,13 @@ export default function MapPage() {
       <div className="pointer-events-none absolute inset-x-0 top-0 z-[500]" style={{ paddingTop: "env(safe-area-inset-top)" }}>
         <div className="pointer-events-auto mx-auto max-w-lg px-3 pt-3">
           <label className="relative block">
-            <Icon name="search" className="pointer-events-none absolute top-1/2 left-4 z-10 h-5 w-5 -translate-y-1/2 text-faint" />
+            <Icon name="search" className="pointer-events-none absolute top-1/2 left-3.5 z-10 h-[18px] w-[18px] -translate-y-1/2 text-faint" />
             <input
               type="search"
               value={filters.query}
               onChange={(e) => set({ query: e.target.value })}
               placeholder={`Search ${visible.length.toLocaleString("en-IN")} places on the map`}
-              className="input rounded-full border-line/80 bg-surface/95 !pl-12 shadow-xl backdrop-blur"
+              className="input !bg-bg/95 !pl-11 shadow-lg backdrop-blur"
             />
           </label>
         </div>
@@ -260,14 +259,14 @@ export default function MapPage() {
           {(["all", "saved", "been"] as Mode[]).map((m) => (
             <button
               key={m}
-              className={`chip shadow-lg ${filters.mode === m ? "chip-on !bg-[#2a1a10]" : "!bg-surface/95"}`}
+              className={`chip shadow-lg ${filters.mode === m ? "chip-on" : "bg-bg/95"}`}
               onClick={() => set({ mode: m })}
             >
-              {m === "all" ? "Everything" : m === "saved" ? "❤️ Saved" : "✓ Been there"}
+              {m === "all" ? "Everything" : m === "saved" ? "Saved" : "Been there"}
             </button>
           ))}
           <button
-            className={`chip shadow-lg ${filters.openNow ? "chip-on !bg-[#2a1a10]" : "!bg-surface/95"}`}
+            className={`chip shadow-lg ${filters.openNow ? "chip-on" : "bg-bg/95"}`}
             onClick={() => set({ openNow: !filters.openNow })}
           >
             Open now
@@ -277,10 +276,11 @@ export default function MapPage() {
             return (
               <button
                 key={t}
-                className={`chip shadow-lg ${on ? "chip-on !bg-[#2a1a10]" : "!bg-surface/95"}`}
+                className={`chip shadow-lg ${on ? "chip-on" : "bg-bg/95"}`}
                 onClick={() => set({ types: on ? filters.types.filter((x) => x !== t) : [...filters.types, t] })}
               >
-                {TYPE_META[t].emoji} {TYPE_META[t].plural}
+                <span className="h-1.5 w-1.5 rounded-full" style={{ background: TYPE_META[t].color }} />
+                {TYPE_META[t].plural}
               </button>
             );
           })}
@@ -293,11 +293,11 @@ export default function MapPage() {
           pendingLocate.current = !geo.coords;
           locate();
         }}
-        className="absolute right-4 z-[500] flex h-12 w-12 items-center justify-center rounded-full border border-line bg-surface/95 shadow-xl backdrop-blur active:scale-95"
+        className="absolute right-4 z-[500] flex h-11 w-11 items-center justify-center rounded-full border border-line bg-bg/95 shadow-lg backdrop-blur active:scale-95"
         style={{ bottom: `calc(${selected ? "13.5rem" : "6.5rem"} + env(safe-area-inset-bottom))` }}
         aria-label="Show my location"
       >
-        <Icon name="locate" className={`h-5 w-5 ${geo.status === "loading" ? "animate-pulse text-brand" : geo.coords ? "text-sky-400" : ""}`} />
+        <Icon name="locate" className={`h-5 w-5 ${geo.status === "loading" ? "animate-pulse text-brand" : geo.coords ? "text-brand" : ""}`} />
       </button>
 
       {/* Selected place */}
@@ -306,7 +306,7 @@ export default function MapPage() {
           className="absolute inset-x-0 z-[500] mx-auto max-w-lg px-3"
           style={{ bottom: "calc(5.25rem + env(safe-area-inset-bottom))" }}
         >
-          <div className="relative rounded-[28px] shadow-2xl">
+          <div className="relative rounded-2xl shadow-2xl">
             <PlaceCard place={selected} coords={ctx.coords} />
             <button
               onClick={() => setSelectedId(null)}

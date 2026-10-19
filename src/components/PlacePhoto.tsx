@@ -3,24 +3,18 @@ import type { Place } from "../lib/types";
 import { TYPE_META } from "../lib/discover";
 import { sizedPhoto } from "../lib/photo";
 
-// Deterministic per-place gradient so photo-less places still look distinct.
-function hue(id: string) {
-  let h = 0;
-  for (let i = 0; i < id.length; i++) h = (h * 31 + id.charCodeAt(i)) >>> 0;
-  return h % 360;
-}
-
 interface PlacePhotoProps {
   place: Place;
   className?: string;
+  /** Text size for the initial shown when there's no photo. */
   emojiSize?: string;
   src?: string;
 }
 
-export default function PlacePhoto({ place, className = "", emojiSize = "text-4xl", src }: PlacePhotoProps) {
+export default function PlacePhoto({ place, className = "", emojiSize = "text-3xl", src }: PlacePhotoProps) {
   const [failed, setFailed] = useState(false);
   const [loaded, setLoaded] = useState(false);
-  // Cards are ~104px wide; 320px covers 3x screens without pulling full-size images.
+  // Cards are ~96px wide; 320px covers 3x screens without pulling full-size images.
   const url = src ?? sizedPhoto(place.photo, 320, 240);
 
   if (url && !failed) {
@@ -33,21 +27,22 @@ export default function PlacePhoto({ place, className = "", emojiSize = "text-4x
         referrerPolicy="no-referrer"
         onError={() => setFailed(true)}
         onLoad={() => setLoaded(true)}
-        className={`photo-fade object-cover ${loaded ? "is-loaded" : ""} ${className}`}
+        className={`photo-fade bg-surface-2 object-cover ${loaded ? "is-loaded" : ""} ${className}`}
       />
     );
   }
 
-  const h = hue(place.id);
+  // No photo: the place's initial set in the display serif on a tinted ground.
+  const color = TYPE_META[place.type].color;
   return (
     <div
-      className={`flex items-center justify-center ${className}`}
-      style={{
-        background: `radial-gradient(circle at 25% 20%, hsl(${h} 70% 38%), hsl(${(h + 40) % 360} 60% 16%) 70%)`,
-      }}
+      className={`flex items-center justify-center bg-surface-2 ${className}`}
+      style={{ backgroundColor: `color-mix(in oklab, ${color} 16%, var(--color-surface-2))` }}
       aria-hidden="true"
     >
-      <span className={`${emojiSize} drop-shadow-lg`}>{TYPE_META[place.type].emoji}</span>
+      <span className={`font-display font-semibold ${emojiSize}`} style={{ color }}>
+        {place.name.replace(/^the\s+/i, "").charAt(0).toUpperCase()}
+      </span>
     </div>
   );
 }

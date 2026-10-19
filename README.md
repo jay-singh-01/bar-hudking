@@ -28,34 +28,32 @@ v2:
 
 ## Features
 
-- **Discover**: search (name, area, cuisine, feature), quick chips (near me,
-  open now, type), a full filter sheet (type, distance, cost for two, rating,
-  features, cuisine, neighbourhood, near my spots, hide visited) and 7 sort
-  orders. "Recommended" balances rating confidence, distance and open-now.
-- **Surprise me**: a weighted random pick from whatever you're filtering, a
-  collection, your favorites or a list.
-- **Collections**: Bangalore's best, hidden gems, brewery hopping, rooftops,
-  date night, open late, live music, cafés to work from, alfresco, budget,
-  pure veg.
-- **Map**: clustered map of everything, filterable (saved / been there /
-  open now / type), with locate-me.
-- **Place page**: rating and rating count, approx cost for two, open/closed
-  with today's hours, directions / call / Uber / website / share, a mini map,
-  "also around here", a link to the place's full Google reviews, and "Book a
-  table" when the venue takes bookings.
-- **Your experience**: log visits (date, stars, actual cost for two, notes),
-  private notes per place, favorites and custom lists (shareable as a link).
-  Recipients can save shared lists with one tap.
-- **Me**: stats (places tried, neighbourhoods explored, average spend),
-  badges, "my spots" (home/work, used by the *Near my spots* filter), backup
-  export/import, and optional account sync.
-- Installable, works offline (catalogue, tiles and photos are cached).
+- **Discover**: search that tolerates typos and everyday words ("koramangla",
+  "beer", "coffee"), Super Suggest, Tonight (open now and for at least two more
+  hours), a filter sheet with a ₹ budget slider, and seven sort orders.
+- **For you**: suggestions based on what you save and rate highly, each with
+  the place it resembles ("Like Toit").
+- **Collections** with photo covers, **Surprise me**, and a clustered **map**.
+- **Place page**: rating, cost for two, hours, book a table, directions,
+  call, ride, a link to the full Google reviews, and a **share card** image.
+- **Your data**: favourites (swipe a card left to save), lists, visit
+  journal with ratings and spend, private notes, stats and badges.
+- **Plans**: shortlist 2–5 places, send the link, friends vote and send a
+  reply link back — the tally updates on your phone, no backend needed.
+- **Something wrong?** hides a place for you (closed, wrong info, not for
+  me); undo from Me → Hidden places.
+- **Search suggestions** (recent searches and quick ideas), a **Recently
+  viewed** row, and tap a place's area to explore that neighbourhood.
+- **Light and dark** themes (follows the phone by default), and an offline
+  notice when the connection drops.
+- Installable, works offline.
 
 ## Setup
 
 ```bash
 npm install
-npm run dev
+npm run dev      # http://localhost:5173
+npm test         # unit tests
 ```
 
 That's it — no env vars are required. Optional features are switched on in

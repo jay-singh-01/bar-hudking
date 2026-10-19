@@ -79,29 +79,31 @@ export default function SurpriseSheet({ candidates, coords, onClose, title = "To
     <BottomSheet title={title} onClose={onClose}>
       {spinning || !pick ? (
         <div className="flex h-[340px] flex-col items-center justify-center gap-4">
-          <div className="animate-spin text-5xl [animation-duration:0.6s]">🎲</div>
-          <p className="h-7 max-w-full truncate px-4 text-lg font-bold text-muted">{flicker}</p>
+          <Icon name="dice" className="h-10 w-10 animate-spin text-brand [animation-duration:0.7s]" strokeWidth={1.5} />
+          <p className="font-display h-8 max-w-full truncate px-4 text-xl font-semibold text-muted">{flicker}</p>
         </div>
       ) : (
         <div className="animate-fade-up">
-          <div className="relative overflow-hidden rounded-3xl">
-            <PlacePhoto place={pick} className="h-52 w-full" emojiSize="text-7xl" />
+          <div className="relative overflow-hidden rounded-xl">
+            <PlacePhoto place={pick} className="h-52 w-full" emojiSize="text-6xl" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent" />
             <div className="absolute inset-x-0 bottom-0 p-4">
-              <p className="text-xs font-semibold tracking-wider text-white/70 uppercase">
-                {TYPE_META[pick.type].emoji} {TYPE_META[pick.type].label}
+              <p className="text-[11px] font-semibold tracking-[0.14em] text-white/70 uppercase">
+                {TYPE_META[pick.type].label}
                 {pick.area ? ` · ${pick.area}` : ""}
               </p>
-              <h3 className="text-2xl leading-tight font-extrabold">{pick.name}</h3>
+              <h3 className="font-display text-[26px] leading-tight font-semibold text-white">{pick.name}</h3>
             </div>
           </div>
           <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm">
             <RatingPill rating={pick.rating} count={pick.ratingCount} />
-            {formatPriceForTwo(pick) && <span className="text-muted">≈ {formatPriceForTwo(pick)}</span>}
+            {formatPriceForTwo(pick) && <span className="tabular text-muted">{formatPriceForTwo(pick)}</span>}
             {coords && <span className="text-muted">{formatDistance(haversineKm(coords, pick))} away</span>}
             <OpenBadge place={pick} />
           </div>
-          {pick.review && <p className="mt-3 line-clamp-3 text-sm text-ink/80 italic">“{pick.review.text}”</p>}
+          {(pick.description || pick.review) && (
+            <p className="font-display mt-3 line-clamp-3 text-[15px] leading-relaxed text-ink/80 italic">{pick.description ?? `“${pick.review!.text}”`}</p>
+          )}
 
           <div className="mt-5 grid grid-cols-2 gap-3">
             <button className="btn-ghost" onClick={spin}>

@@ -6,6 +6,7 @@ import ErrorBoundary from "./components/ErrorBoundary.tsx";
 import { loadPlaces } from "./lib/places.ts";
 import { initSync } from "./lib/sync.ts";
 import { initInstallPrompt } from "./lib/install.ts";
+import { initTheme } from "./lib/theme.ts";
 import "./index.css";
 
 // Splash (in index.html) stays until the catalogue is ready and its
@@ -36,6 +37,7 @@ loadPlaces().then(hideSplash, hideSplash);
 setTimeout(hideSplash, 6000);
 initSync();
 initInstallPrompt();
+initTheme();
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>

@@ -11,7 +11,9 @@
     "data:osm": "tsx scripts/data/fetch-osm.ts",
     "data:enrich": "tsx scripts/data/fetch-searchapi.ts",
     "data:build": "tsx scripts/data/build-places.ts",
-    "data:credits": "tsx scripts/data/credits.ts"
+    "data:credits": "tsx scripts/data/credits.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -b"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.47.10",
@@ -40,6 +42,7 @@
     "typescript-eslint": "^8.19.0",
     "undici": "^7.2.0",
     "vite": "^6.0.7",
-    "vite-plugin-pwa": "^0.21.1"
+    "vite-plugin-pwa": "^0.21.1",
+    "vitest": "^5.0.5"
   }
 }

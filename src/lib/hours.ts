@@ -203,6 +203,22 @@ export function openStatus(hours: WeeklyHours | undefined, now = new Date()): Op
   return { open: false, label: "Closed", closingSoon: false };
 }
 
+/** Minutes until the current opening closes; null when closed now or hours unknown. 24h places count as 24h. */
+export function minutesUntilClose(hours: WeeklyHours | undefined, now = new Date()): number | null {
+  if (!hours || hours.length !== 7) return null;
+  const day = mondayIndex(now);
+  const mins = now.getHours() * 60 + now.getMinutes();
+  const yesterday = hours[(day + 6) % 7].map(([o, c]) => [o - 1440, c - 1440] as TimeRange);
+  for (const [o, c] of [...yesterday, ...hours[day]]) {
+    if (mins >= o && mins < c) {
+      // Open all day and the next day starts at midnight too: effectively open through the night.
+      if (c >= 1440 && c - o >= 1440) return 24 * 60;
+      return c - mins;
+    }
+  }
+  return null;
+}
+
 /** Is the place open at `minutes` (since midnight) on the current weekday? Used by "open late" filters. */
 export function isOpenAt(hours: WeeklyHours | undefined, at: Date): boolean {
   return openStatus(hours, at)?.open ?? false;

@@ -6,6 +6,7 @@ import EmptyState from "../components/EmptyState";
 import BottomSheet from "../components/BottomSheet";
 import SurpriseSheet from "../components/SurpriseSheet";
 import { LIST_EMOJIS } from "../components/AddToListSheet";
+import NewPlanSheet from "../components/NewPlanSheet";
 import Icon from "../components/Icon";
 import { usePlaces } from "../lib/places";
 import { deleteList, toggleInList, updateList, useUserData } from "../lib/store";
@@ -23,6 +24,7 @@ export default function ListDetail() {
   const ctx = useFilterContext();
   const [editing, setEditing] = useState(false);
   const [surprise, setSurprise] = useState(false);
+  const [planning, setPlanning] = useState(false);
   const [name, setName] = useState(list?.name ?? "");
   const [emoji, setEmoji] = useState(list?.emoji ?? "📍");
 
@@ -32,7 +34,7 @@ export default function ListDetail() {
   );
 
   if (!list) {
-    return <EmptyState emoji="🗂️" title="List not found" message="It may have been deleted." action={{ label: "Back", onClick: () => navigate("/saved?tab=lists") }} />;
+    return <EmptyState icon="list" title="List not found" message="It may have been deleted." action={{ label: "Back", onClick: () => navigate("/saved?tab=lists") }} />;
   }
 
   return (
@@ -67,7 +69,10 @@ export default function ListDetail() {
         {places.length > 1 && (
           <div className="mb-3 flex gap-2">
             <button className="chip" onClick={() => setSurprise(true)}>
-              <Icon name="dice" className="h-4 w-4 text-brand" /> Pick one from this list
+              <Icon name="dice" className="h-3.5 w-3.5" /> Pick one
+            </button>
+            <button className="chip" onClick={() => setPlanning(true)}>
+              <Icon name="vote" className="h-3.5 w-3.5" /> Vote with friends
             </button>
           </div>
         )}
@@ -92,8 +97,7 @@ export default function ListDetail() {
             )}
           />
         ) : (
-          <EmptyState
-            emoji={list.emoji}
+          <EmptyState icon="list"
             title="Empty list"
             message="Open any place and tap “Add to list” to drop it in here."
             action={{ label: "Find places", onClick: () => navigate("/") }}
@@ -135,8 +139,8 @@ export default function ListDetail() {
               <button
                 key={e}
                 onClick={() => setEmoji(e)}
-                className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl text-xl ${
-                  emoji === e ? "bg-brand/20 ring-2 ring-brand" : "bg-surface-2"
+                className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-xl text-xl ${
+                  emoji === e ? "bg-surface-2 ring-1 ring-ink" : "bg-surface-2"
                 }`}
               >
                 {e}
@@ -147,6 +151,7 @@ export default function ListDetail() {
         </BottomSheet>
       )}
 
+      {planning && <NewPlanSheet preselect={list.placeIds.slice(0, 5)} onClose={() => setPlanning(false)} />}
       {surprise && (
         <SurpriseSheet
           title={`From ${list.name}…`}

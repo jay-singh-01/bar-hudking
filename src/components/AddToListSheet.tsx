@@ -26,8 +26,8 @@ export function NewListForm({ onCreate, initialPlaceIds = [] }: { onCreate: (id:
             key={e}
             type="button"
             onClick={() => setEmoji(e)}
-            className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl text-xl transition ${
-              emoji === e ? "bg-brand/20 ring-2 ring-brand" : "bg-surface-2"
+            className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-xl text-xl transition ${
+              emoji === e ? "bg-surface-2 ring-1 ring-ink" : "bg-surface-2"
             }`}
           >
             {e}
@@ -68,7 +68,7 @@ export default function AddToListSheet({ placeId, onClose }: { placeId: string; 
                 toggleInList(l.id, placeId);
                 toast(on ? `Removed from ${l.name}` : `Added to ${l.name}`);
               }}
-              className="flex items-center gap-3 rounded-2xl bg-surface-2 p-3 text-left transition active:scale-[0.99]"
+              className="flex items-center gap-3 rounded-xl bg-surface-2 p-3 text-left transition active:scale-[0.99]"
             >
               <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-surface-3 text-xl">{l.emoji}</span>
               <span className="flex-1">
@@ -77,7 +77,7 @@ export default function AddToListSheet({ placeId, onClose }: { placeId: string; 
               </span>
               <span
                 className={`flex h-7 w-7 items-center justify-center rounded-full border-2 ${
-                  on ? "border-brand bg-brand text-white" : "border-line"
+                  on ? "border-ink bg-ink text-bg" : "border-line"
                 }`}
               >
                 {on && <Icon name="check" className="h-4 w-4" strokeWidth={3} />}
@@ -87,7 +87,7 @@ export default function AddToListSheet({ placeId, onClose }: { placeId: string; 
         })}
 
         {creating ? (
-          <div className="mt-2 rounded-2xl border border-dashed border-line p-3">
+          <div className="mt-2 rounded-xl border border-dashed border-line p-3">
             <NewListForm
               initialPlaceIds={[placeId]}
               onCreate={() => {
@@ -97,7 +97,7 @@ export default function AddToListSheet({ placeId, onClose }: { placeId: string; 
             />
           </div>
         ) : (
-          <button onClick={() => setCreating(true)} className="flex items-center gap-3 rounded-2xl border border-dashed border-line p-3 text-brand">
+          <button onClick={() => setCreating(true)} className="flex items-center gap-3 rounded-xl border border-dashed border-line p-3 text-brand">
             <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-brand/10">
               <Icon name="plus" />
             </span>

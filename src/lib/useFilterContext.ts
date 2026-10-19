@@ -18,9 +18,14 @@ export function useFilterContext(): FilterContext {
   const { coords } = useLocation();
   const spotsRec = useUserData((d) => d.spots);
   const visitsRec = useUserData((d) => d.visits);
+  const hiddenRec = useUserData((d) => d.hidden);
   const now = useNow();
   const anchors = useAnchors();
   const spots = useMemo(() => live(spotsRec), [spotsRec]);
   const visitedIds = useMemo(() => new Set(live(visitsRec).map((v) => v.placeId)), [visitsRec]);
-  return useMemo(() => ({ coords, spots, anchors, visitedIds, now }), [coords, spots, anchors, visitedIds, now]);
+  const hiddenIds = useMemo(() => new Set(live(hiddenRec).map((h) => h.placeId)), [hiddenRec]);
+  return useMemo(
+    () => ({ coords, spots, anchors, visitedIds, hiddenIds, now }),
+    [coords, spots, anchors, visitedIds, hiddenIds, now],
+  );
 }
